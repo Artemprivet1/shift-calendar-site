@@ -1,0 +1,10 @@
+[
+  { "date": "2030-02-18", "name": "First Day of Ramadan / Начало месяца Рамадан", "isReligious": true },
+  { "date": "2030-03-16", "name": "Laylat al-Qadr / Ночь Предопределения", "isReligious": true },
+  { "date": "2030-03-20", "name": "Eid al-Fitr / Ураза-байрам", "isReligious": true },
+  { "date": "2030-05-27", "name": "Day of Arafah / День Арафа", "isReligious": true },
+  { "date": "2030-05-28", "name": "Eid al-Adha / Курбан-байрам", "isReligious": true },
+  { "date": "2030-06-16", "name": "Islamic New Year / Мусульманский Новый год (1448 AH)", "isReligious": true },
+  { "date": "2030-06-25", "name": "Day of Ashura / День Ашура", "isReligious": true },
+  { "date": "2030-08-25", "name": "Mawlid an-Nabi / Мавлид (День рождения Пророка)", "isReligious": true }
+]

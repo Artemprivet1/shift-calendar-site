@@ -1,0 +1,9 @@
+[
+  { "date": "2029-03-03", "name": "Purim / Пурим", "isReligious": true },
+  { "date": "2029-04-02", "name": "Passover / Песах (First Day)", "isReligious": true },
+  { "date": "2029-05-22", "name": "Shavuot / Шавуот", "isReligious": true },
+  { "date": "2029-09-12", "name": "Rosh Hashanah / Рош ха-Шана (Еврейский Новый год)", "isReligious": true },
+  { "date": "2029-09-21", "name": "Yom Kippur / Йом-Кипур (Судный день)", "isReligious": true },
+  { "date": "2029-09-26", "name": "Sukkot / Суккот", "isReligious": true },
+  { "date": "2029-12-05", "name": "Hanukkah / Ханука (First Candle)", "isReligious": true }
+]
