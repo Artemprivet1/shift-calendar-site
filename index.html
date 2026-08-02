@@ -1,20 +1,79 @@
 ﻿<!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Политика конфиденциальности — Календарь смен</title>
+    <title>Privacy Policy — Shift Calendar</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding: 30px; line-height: 1.6; max-width: 800px; margin: 0 auto; color: #333; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding: 25px; line-height: 1.6; max-width: 850px; margin: 0 auto; color: #222; background: #fff; }
         h1, h2 { color: #0056b3; }
         a { color: #0056b3; text-decoration: underline; }
-        .box { background: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; borderRadius: 4px; }
+        .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #eee; padding-bottom: 15px; margin-bottom: 20px; flex-wrap: wrap; gap: 10px; }
+        .lang-select { padding: 8px 12px; font-size: 15px; border-radius: 6px; border: 1px solid #ccc; background: #f8f9fa; cursor: pointer; }
+        .box { background: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px; }
+        .lang-section { display: none; }
     </style>
 </head>
 <body>
+
+<div class="header">
+    <strong style="font-size: 18px; color: #0056b3;">Shift Calendar: My Work Schedule</strong>
+    <div>
+        <label for="lang-select">🌐 Language / Язык: </label>
+        <select id="lang-select" class="lang-select" onchange="switchLanguage(this.value)">
+            <option value="en">English</option>
+            <option value="ru">Русский</option>
+            <option value="es">Español</option>
+            <option value="de">Deutsch</option>
+            <option value="fr">Français</option>
+            <option value="pt">Português (Brasil)</option>
+            <option value="it">Italiano</option>
+            <option value="pl">Polski</option>
+            <option value="nl">Nederlands</option>
+            <option value="id">Bahasa Indonesia</option>
+            <option value="tr">Türkçe</option>
+            <option value="ja">日本語</option>
+            <option value="ko">한국어</option>
+            <option value="zh">繁體中文</option>
+            <option value="ar">العربية</option>
+        </select>
+    </div>
+</div>
+
+<!-- ENGLISH PRIVACY POLICY (DEFAULT GLOBAL) -->
+<div id="lang-en" class="lang-section">
+    <h1>Privacy Policy</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> August 2026<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+
+    <h2>1. General Provisions</h2>
+    <p>This Privacy Policy describes how the "Shift Calendar" application handles your information. We respect your privacy: the application does not require account registration and does not collect personally identifiable information (PII) such as your full name, phone number, or personal contacts.</p>
+
+    <h2>2. Local Data Storage</h2>
+    <p>All your work shift schedules, custom patterns, notes, and personal calendar events are stored <strong>100% locally</strong> on your device using Jetpack DataStore. The developer has no access to your schedule or personal calendar entries.</p>
+
+    <h2>3. Advertising and Identifiers</h2>
+    <p>To display advertisements and support app monetization, the application integrates the <strong>Appodeal</strong> mediation platform (Appodeal Inc., BidMachine). The ad SDK may collect anonymous technical data, including:</p>
+    <ul>
+        <li>Mobile Advertising Identifier (Google Advertising ID / Huawei OAID);</li>
+        <li>Device IP address (used for approximate coarse geo-targeting to display relevant local ads);</li>
+        <li>Device specifications, operating system version, and ad view/click performance metrics.</li>
+    </ul>
+    <div class="box">
+        For more information regarding third-party ad data processing, please review: 
+        <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+    </div>
+
+    <h2>4. Contact Us</h2>
+    <p>If you have any questions regarding this Privacy Policy, please contact the developer at: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<!-- RUSSIAN PRIVACY POLICY -->
+<div id="lang-ru" class="lang-section">
     <h1>Политика конфиденциальности</h1>
     <p><strong>Приложение:</strong> «Календарь смен: мой график работы»<br>
-    <strong>Дата обновления:</strong> 27 июля 2026 г.<br>
+    <strong>Дата обновления:</strong> Август 2026 г.<br>
     <strong>Разработчик:</strong> Кудрин Артём (dastlap@gmail.com)</p>
 
     <h2>1. Общие положения</h2>
@@ -24,19 +83,213 @@
     <p>Все графики рабочих смен, заметки и личные события хранятся <strong>исключительно локально</strong> на вашем устройстве в хранилище Jetpack DataStore. Разработчик не имеет доступа к вашему расписанию.</p>
 
     <h2>3. Монетизация и рекламные идентификаторы</h2>
-    <p>Для показа объявлений и монетизации приложение использует рекламную платформу <strong>Appodeal</strong> (Appodeal Inc., BidMachine). В процессе работы рекламный SDK может автоматически собирать анонимные технические данные:</p>
+    <p>Для показа объявлений приложение использует платформу медиации <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Рекламный SDK может собирать анонимные технические данные:</p>
     <ul>
         <li>Рекламный идентификатор устройства (Google Advertising ID / Huawei OAID);</li>
-        <li>IP-адрес устройства для определения страны и отображения актуальной рекламы;</li>
-        <li>Технические характеристики устройства и операционной системы;</li>
-        <li>Статистику показов баннеров и кликов.</li>
+        <li>IP-адрес устройства для определения региона и отображения актуальной рекламы;</li>
+        <li>Параметры устройства и статистику показов рекламы.</li>
     </ul>
     <div class="box">
-        Подробнее с политикой обработки данных рекламных партнеров вы можете ознакомиться на странице: 
+        Подробнее с политикой обработки данных рекламного партнера вы можете ознакомиться на странице: 
         <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
     </div>
 
     <h2>4. Обратная связь</h2>
-    <p>По любым вопросам вы можете связаться с автором приложения по электронной почте: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <p>По любым вопросам пишите автору: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<!-- SPANISH PRIVACY POLICY -->
+<div id="lang-es" class="lang-section">
+    <h1>Política de Privacidad</h1>
+    <p><strong>Aplicación:</strong> Calendario de Turnos: Mi Horario de Trabajo<br>
+    <strong>Actualizado:</strong> Agosto de 2026<br>
+    <strong>Desarrollador:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+
+    <h2>1. Disposiciones Generales</h2>
+    <p>Esta Política de Privacidad describe cómo la aplicación maneja su información. Respetamos su privacidad: la aplicación no requiere registro de cuenta y no recopila información de identificación personal (PII).</p>
+
+    <h2>2. Almacenamiento Local de Datos</h2>
+    <p>Todos sus horarios de trabajo, notas y eventos del calendario se almacenan <strong>100% localmente</strong> en su dispositivo mediante Jetpack DataStore. El desarrollador no tiene acceso a sus datos.</p>
+
+    <h2>3. Publicidad e Identificadores</h2>
+    <p>Para mostrar anuncios, la aplicación integra la plataforma de mediación <strong>Appodeal</strong> (Appodeal Inc., BidMachine). El SDK puede recopilar datos técnicos anónimos como el Identificador de Publicidad Móvil (GAID/OAID) y la dirección IP.</p>
+    <div class="box">
+        Más información en la política oficial: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+    </div>
+
+    <h2>4. Contacto</h2>
+    <p>Escriba al desarrollador: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<!-- GERMAN PRIVACY POLICY -->
+<div id="lang-de" class="lang-section">
+    <h1>Datenschutzrichtlinie</h1>
+    <p><strong>Anwendung:</strong> Schichtkalender: Mein Arbeitsplan<br>
+    <strong>Aktualisiert:</strong> August 2026<br>
+    <strong>Entwickler:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+
+    <h2>1. Allgemeine Bestimmungen</h2>
+    <p>Diese Datenschutzrichtlinie beschreibt den Umgang der App mit Ihren Daten. Wir respektieren Ihre Privatsphäre: Die App erfordert keine Registrierung und erfasst keine personenbezogenen Daten.</p>
+
+    <h2>2. Lokale Datenspeicherung</h2>
+    <p>Alle Ihre Schichtpläne, Notizen und Kalendereinträge werden zu <strong>100% lokal</strong> auf Ihrem Gerät über Jetpack DataStore gespeichert. Der Entwickler hat keinen Zugriff darauf.</p>
+
+    <h2>3. Werbung und Identifikatoren</h2>
+    <p>Zur Anzeige von Werbeanzeigen nutzt die App die Vermittlungsplattform <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Das SDK kann anonyme technische Daten wie Werbe-IDs und IP-Adressen erfassen.</p>
+    <div class="box">
+        Weitere Informationen: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+    </div>
+
+    <h2>4. Kontakt</h2>
+    <p>E-Mail an den Entwickler: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<!-- FRENCH PRIVACY POLICY -->
+<div id="lang-fr" class="lang-section">
+    <h1>Politique de Confidentialité</h1>
+    <p><strong>Application:</strong> Calendrier de Roulement: Mon Horaire de Travail<br>
+    <strong>Mis à jour:</strong> Août 2026<br>
+    <strong>Développeur:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+
+    <h2>1. Dispositions Générales</h2>
+    <p>Cette politique décrit le traitement des données. L'application ne nécessite aucune inscription и ne collecte aucune donnée personnelle.</p>
+
+    <h2>2. Stockage Local des Données</h2>
+    <p>Toutes vos données de roulement sont stockées à <strong>100% localement</strong> sur votre appareil via Jetpack DataStore.</p>
+
+    <h2>3. Publicité et Identifiants</h2>
+    <p>L'application intègre la plateforme <strong>Appodeal</strong> (Appodeal Inc., BidMachine) pour afficher des publicités. Le SDK collecte des données techniques anonymes (ID publicitaire, adresse IP).</p>
+    <div class="box">
+        En savoir plus: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+    </div>
+
+    <h2>4. Contact</h2>
+    <p>Contactez le développeur: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<!-- PORTUGUESE PRIVACY POLICY -->
+<div id="lang-pt" class="lang-section">
+    <h1>Política de Privacidade</h1>
+    <p><strong>Aplicativo:</strong> Calendário de Turnos: Meu Horário de Trabalho<br>
+    <strong>Atualizado:</strong> Agosto de 2026<br>
+    <strong>Desenvolvedor:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+
+    <h2>1. Disposições Gerais</h2>
+    <p>Esta Política descreve o tratamento de dados. O aplicativo não requer cadastro e não coleta dados pessoais identificáveis.</p>
+
+    <h2>2. Armazenamento Local de Dados</h2>
+    <p>Todos os seus turnos e anotações são armazenados <strong>100% localmente</strong> no seu dispositivo via Jetpack DataStore.</p>
+
+    <h2>3. Publicidade e Identificadores</h2>
+    <p>O aplicativo utiliza a plataforma <strong>Appodeal</strong> (Appodeal Inc., BidMachine). O SDK pode coletar dados técnicos anônimos como ID de publicidade e endereço IP.</p>
+    <div class="box">
+        Saiba mais: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+    </div>
+
+    <h2>4. Contato</h2>
+    <p>E-mail do desenvolvedor: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<!-- ITALIAN PRIVACY POLICY -->
+<div id="lang-it" class="lang-section">
+    <h1>Informativa sulla Privacy</h1>
+    <p><strong>Applicazione:</strong> Calendario Turni: Il Mio Orario di Lavoro<br>
+    <strong>Sviluppatore:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <p>Tutti i dati sui turni sono salvati al <strong>100% localmente</strong> sul dispositivo. L'app utilizza <strong>Appodeal</strong> per la pubblicità anonima. <a href="https://appodeal.com/privacy-policy/">Appodeal Privacy Policy</a>.</p>
+</div>
+
+<!-- POLISH PRIVACY POLICY -->
+<div id="lang-pl" class="lang-section">
+    <h1>Polityka Prywatności</h1>
+    <p><strong>Aplikacja:</strong> Grafik Pracy - Kalendarz Turnusowy<br>
+    <strong>Deweloper:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <p>Wszystkie dane grafiku są przechowywane w <strong>100% lokalnie</strong> na urządzeniu. Aplikacja użyва <strong>Appodeal</strong> do wyświetlania reklam. <a href="https://appodeal.com/privacy-policy/">Appodeal Privacy Policy</a>.</p>
+</div>
+
+<!-- DUTCH PRIVACY POLICY -->
+<div id="lang-nl" class="lang-section">
+    <h1>Privacybeleid</h1>
+    <p><strong>Applicatie:</strong> Rooster & Schichten Kalender<br>
+    <strong>Ontwikkelaar:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <p>Alle roostergegevens worden <strong>100% lokaal</strong> opgeslagen via Jetpack DataStore. Advertenties worden verzorgd door <strong>Appodeal</strong>. <a href="https://appodeal.com/privacy-policy/">Appodeal Privacy Policy</a>.</p>
+</div>
+
+<!-- INDONESIAN PRIVACY POLICY -->
+<div id="lang-id" class="lang-section">
+    <h1>Kebijakan Privasi</h1>
+    <p><strong>Aplikasi:</strong> Kalender Shift Kerja Saya<br>
+    <strong>Pengembang:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <p>Semua data jadwal disimpan <strong>100% lokal</strong> di perangkat Anda. Iklan dikelola oleh <strong>Appodeal</strong>. <a href="https://appodeal.com/privacy-policy/">Appodeal Privacy Policy</a>.</p>
+</div>
+
+<!-- TURKISH PRIVACY POLICY -->
+<div id="lang-tr" class="lang-section">
+    <h1>Gizlilik Politikası</h1>
+    <p><strong>Uygulama:</strong> Vardiya Takvimi: Çalışma Programım<br>
+    <strong>Geliştirici:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <p>Tüm vardiya verileri cihazınızda <strong>%100 yerel</strong> olarak saklanır. Reklamlar <strong>Appodeal</strong> tarafından sağlanır. <a href="https://appodeal.com/privacy-policy/">Appodeal Privacy Policy</a>.</p>
+</div>
+
+<!-- JAPANESE PRIVACY POLICY -->
+<div id="lang-ja" class="lang-section">
+    <h1>プライバシーポリシー</h1>
+    <p><strong>アプリ:</strong> シフトカレンダー：私の勤務スケジュール<br>
+    <strong>開発者:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <p>すべてのシフトデータは端末に<strong>100%ローカル保存</strong>されます。広告配信には <strong>Appodeal</strong> を使用しています。<a href="https://appodeal.com/privacy-policy/">Appodeal Privacy Policy</a>.</p>
+</div>
+
+<!-- KOREAN PRIVACY POLICY -->
+<div id="lang-ko" class="lang-section">
+    <h1>개인정보 처리방침</h1>
+    <p><strong>앱:</strong> 교대근무 달력: 나의 근무 일정<br>
+    <strong>개발자:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <p>모든 근무 일정 데이터는 기기에 <strong>100% 로컬 저장</strong>됩니다. 광고는 <strong>Appodeal</strong>을 통해 제공됩니다. <a href="https://appodeal.com/privacy-policy/">Appodeal Privacy Policy</a>.</p>
+</div>
+
+<!-- TRADITIONAL CHINESE PRIVACY POLICY -->
+<div id="lang-zh" class="lang-section">
+    <h1>隱私權政策</h1>
+    <p><strong>應用程式:</strong> 輪班日曆：我的工作班表<br>
+    <strong>開發者:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <p>所有輪班資料均 <strong>100% 本地儲存</strong> 於您的裝置上。廣告由 <strong>Appodeal</strong> 提供。<a href="https://appodeal.com/privacy-policy/">Appodeal Privacy Policy</a>.</p>
+</div>
+
+<!-- ARABIC PRIVACY POLICY -->
+<div id="lang-ar" class="lang-section" dir="rtl">
+    <h1>سياسة الخصوصية</h1>
+    <p><strong>التطبيق:</strong> تقويم المناوبات: جدول عملي<br>
+    <strong>المطور:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <p>يتم حفظ جميع بيانات المناوبات بنسبة <strong>100% محلياً</strong> على جهازك. يتم عرض الإعلانات بواسطة <strong>Appodeal</strong>. <a href="https://appodeal.com/privacy-policy/">Appodeal Privacy Policy</a>.</p>
+</div>
+
+<script>
+    function switchLanguage(lang) {
+        var sections = document.querySelectorAll('.lang-section');
+        sections.forEach(function(sec) {
+            sec.style.display = 'none';
+        });
+        
+        var target = document.getElementById('lang-' + lang);
+        if (target) {
+            target.style.display = 'block';
+        } else {
+            document.getElementById('lang-en').style.display = 'block';
+        }
+        document.getElementById('lang-select').value = lang;
+    }
+
+    // Auto-detect user browser language on load
+    window.onload = function() {
+        var userLang = (navigator.language || navigator.userLanguage || 'en').substring(0, 2).toLowerCase();
+        var supportedLangs = ['en', 'ru', 'es', 'de', 'fr', 'pt', 'it', 'pl', 'nl', 'id', 'tr', 'ja', 'ko', 'zh', 'ar'];
+        
+        if (supportedLangs.indexOf(userLang) !== -1) {
+            switchLanguage(userLang);
+        } else {
+            switchLanguage('en');
+        }
+    };
+</script>
+
 </body>
 </html>
