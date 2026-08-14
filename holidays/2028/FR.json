@@ -5,9 +5,34 @@
     "isPublic": true
   },
   {
+    "date": "2028-02-14",
+    "name": "Saint-Valentin",
+    "isPublic": false
+  },
+  {
+    "date": "2028-03-08",
+    "name": "Journée internationale des droits des femmes",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-01",
+    "name": "Poisson d'avril",
+    "isPublic": false
+  },
+  {
     "date": "2028-04-17",
     "name": "Lundi de Pâques",
     "isPublic": true
+  },
+  {
+    "date": "2028-04-22",
+    "name": "Jour de la Terre",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-23",
+    "name": "Journée mondiale du livre",
+    "isPublic": false
   },
   {
     "date": "2028-05-01",
@@ -20,14 +45,29 @@
     "isPublic": true
   },
   {
+    "date": "2028-05-12",
+    "name": "Journée internationale des infirmières",
+    "isPublic": false
+  },
+  {
     "date": "2028-05-25",
     "name": "Ascension",
     "isPublic": true
   },
   {
+    "date": "2028-06-01",
+    "name": "Journée internationale des enfants",
+    "isPublic": false
+  },
+  {
     "date": "2028-06-05",
     "name": "Lundi de Pentecôte",
     "isPublic": true
+  },
+  {
+    "date": "2028-06-21",
+    "name": "Fête de la Musique",
+    "isPublic": false
   },
   {
     "date": "2028-07-14",
@@ -40,9 +80,29 @@
     "isPublic": true
   },
   {
+    "date": "2028-09-13",
+    "name": "Journée des programmeurs",
+    "isPublic": false
+  },
+  {
+    "date": "2028-10-05",
+    "name": "Journée mondiale des enseignants",
+    "isPublic": false
+  },
+  {
+    "date": "2028-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2028-11-01",
     "name": "Toussaint",
     "isPublic": true
+  },
+  {
+    "date": "2028-11-10",
+    "name": "Journée mondiale de la science",
+    "isPublic": false
   },
   {
     "date": "2028-11-11",
@@ -53,5 +113,10 @@
     "date": "2028-12-25",
     "name": "Noël",
     "isPublic": true
+  },
+  {
+    "date": "2028-12-31",
+    "name": "Réveillon de la Saint-Sylvestre",
+    "isPublic": false
   }
 ]

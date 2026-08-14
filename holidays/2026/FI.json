@@ -10,6 +10,21 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-04-03",
     "name": "Pitkäperjantai",
     "isPublic": true
@@ -25,9 +40,24 @@
     "isPublic": true
   },
   {
+    "date": "2026-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-01",
     "name": "Vappu",
     "isPublic": true
+  },
+  {
+    "date": "2026-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2026-05-14",
@@ -40,6 +70,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-06-19",
     "name": "Juhannusaatto",
     "isPublic": true
@@ -50,9 +85,29 @@
     "isPublic": true
   },
   {
+    "date": "2026-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-10-31",
     "name": "Pyhäinpäivä",
     "isPublic": true
+  },
+  {
+    "date": "2026-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2026-12-06",
@@ -73,5 +128,10 @@
     "date": "2026-12-26",
     "name": "Tapaninpäivä",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

@@ -35,9 +35,24 @@
     "isPublic": true
   },
   {
+    "date": "2031-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-02-28",
     "name": "和平紀念日",
     "isPublic": true
+  },
+  {
+    "date": "2031-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2031-04-03",
@@ -55,14 +70,44 @@
     "isPublic": true
   },
   {
+    "date": "2031-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-05-01",
     "name": "勞動節",
     "isPublic": true
   },
   {
+    "date": "2031-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-06-24",
     "name": "端午節",
     "isPublic": true
+  },
+  {
+    "date": "2031-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
   },
   {
     "date": "2031-09-28",
@@ -80,6 +125,11 @@
     "isPublic": true
   },
   {
+    "date": "2031-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-10-10",
     "name": "國慶日",
     "isPublic": true
@@ -95,8 +145,23 @@
     "isPublic": true
   },
   {
+    "date": "2031-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2031-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-12-25",
     "name": "行憲紀念日",
     "isPublic": true
+  },
+  {
+    "date": "2031-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

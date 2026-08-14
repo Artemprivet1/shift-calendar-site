@@ -10,9 +10,19 @@
     "isPublic": true
   },
   {
+    "date": "2031-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-03-08",
     "name": "ទិវាអន្តរជាតិនារី",
     "isPublic": true
+  },
+  {
+    "date": "2031-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2031-04-14",
@@ -30,6 +40,16 @@
     "isPublic": true
   },
   {
+    "date": "2031-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-05-01",
     "name": "ទិវាពលកម្មអន្តរជាតិ",
     "isPublic": true
@@ -45,9 +65,19 @@
     "isPublic": true
   },
   {
+    "date": "2031-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-05-14",
     "name": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម ព្រះករុណា ព្រះបាទសម្តេចព្រះបរមនាថ នរោត្តម សីហមុនី",
     "isPublic": true
+  },
+  {
+    "date": "2031-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
   },
   {
     "date": "2031-06-18",
@@ -55,9 +85,24 @@
     "isPublic": true
   },
   {
+    "date": "2031-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-09-24",
     "name": "ទិវាប្រកាសរដ្ឋធម្មនុញ្ញ",
     "isPublic": true
+  },
+  {
+    "date": "2031-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2031-10-14",
@@ -80,9 +125,19 @@
     "isPublic": true
   },
   {
+    "date": "2031-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2031-11-09",
     "name": "ពិធីបុណ្យឯករាជ្យជាតិ",
     "isPublic": true
+  },
+  {
+    "date": "2031-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2031-11-27",
@@ -103,5 +158,10 @@
     "date": "2031-12-29",
     "name": "ទិវាសន្តិភាពនៅកម្ពុជា",
     "isPublic": true
+  },
+  {
+    "date": "2031-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

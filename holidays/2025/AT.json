@@ -10,9 +10,34 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Valentinstag",
+    "isPublic": false
+  },
+  {
+    "date": "2025-03-08",
+    "name": "Internationaler Frauentag",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-01",
+    "name": "Erster April",
+    "isPublic": false
+  },
+  {
     "date": "2025-04-21",
     "name": "Ostermontag",
     "isPublic": true
+  },
+  {
+    "date": "2025-04-22",
+    "name": "Tag der Erde",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "Welttag des Buches",
+    "isPublic": false
   },
   {
     "date": "2025-05-01",
@@ -20,9 +45,19 @@
     "isPublic": true
   },
   {
+    "date": "2025-05-12",
+    "name": "Internationaler Tag der Pflege",
+    "isPublic": false
+  },
+  {
     "date": "2025-05-29",
     "name": "Christi Himmelfahrt",
     "isPublic": true
+  },
+  {
+    "date": "2025-06-01",
+    "name": "Internationaler Kindertag",
+    "isPublic": false
   },
   {
     "date": "2025-06-09",
@@ -35,9 +70,24 @@
     "isPublic": true
   },
   {
+    "date": "2025-06-21",
+    "name": "Fête de la Musique (Tag der Musik)",
+    "isPublic": false
+  },
+  {
     "date": "2025-08-15",
     "name": "Mariä Himmelfahrt",
     "isPublic": true
+  },
+  {
+    "date": "2025-09-13",
+    "name": "Tag der Programmierer",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "Weltlehrertag",
+    "isPublic": false
   },
   {
     "date": "2025-10-26",
@@ -45,9 +95,19 @@
     "isPublic": true
   },
   {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2025-11-01",
     "name": "Allerheiligen",
     "isPublic": true
+  },
+  {
+    "date": "2025-11-10",
+    "name": "Welttag der Wissenschaft",
+    "isPublic": false
   },
   {
     "date": "2025-12-08",
@@ -63,5 +123,10 @@
     "date": "2025-12-26",
     "name": "Stephanstag",
     "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "Silvester",
+    "isPublic": false
   }
 ]

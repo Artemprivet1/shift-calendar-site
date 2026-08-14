@@ -5,9 +5,19 @@
     "isPublic": true
   },
   {
+    "date": "2029-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-02-26",
     "name": "Grand Chief Sir Michael Somare Remembrance Day",
     "isPublic": true
+  },
+  {
+    "date": "2029-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
   },
   {
     "date": "2029-03-30",
@@ -25,9 +35,34 @@
     "isPublic": true
   },
   {
+    "date": "2029-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-06-17",
     "name": "King's Birthday",
     "isPublic": true
+  },
+  {
+    "date": "2029-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2029-07-23",
@@ -45,6 +80,11 @@
     "isPublic": true
   },
   {
+    "date": "2029-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-09-16",
     "name": "Independence Day",
     "isPublic": true
@@ -55,6 +95,21 @@
     "isPublic": true
   },
   {
+    "date": "2029-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2029-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-12-25",
     "name": "Christmas Day",
     "isPublic": true
@@ -63,5 +118,10 @@
     "date": "2029-12-26",
     "name": "Boxing Day",
     "isPublic": true
+  },
+  {
+    "date": "2029-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

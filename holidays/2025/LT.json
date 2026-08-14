@@ -5,14 +5,29 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-02-16",
     "name": "Lietuvos valstybės atkūrimo diena",
     "isPublic": true
   },
   {
+    "date": "2025-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-03-11",
     "name": "Lietuvos nepriklausomybės atkūrimo diena",
     "isPublic": true
+  },
+  {
+    "date": "2025-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2025-04-20",
@@ -25,6 +40,16 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-05-01",
     "name": "Tarptautinė darbo diena",
     "isPublic": true
@@ -35,9 +60,19 @@
     "isPublic": true
   },
   {
+    "date": "2025-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-06-01",
     "name": "Tėvo diena",
     "isPublic": true
+  },
+  {
+    "date": "2025-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2025-06-24",
@@ -55,6 +90,21 @@
     "isPublic": true
   },
   {
+    "date": "2025-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2025-11-01",
     "name": "Visų Šventųjų diena",
     "isPublic": true
@@ -63,6 +113,11 @@
     "date": "2025-11-02",
     "name": "Mirusiųjų atminimo (Vėlinių) diena",
     "isPublic": true
+  },
+  {
+    "date": "2025-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2025-12-24",
@@ -78,5 +133,10 @@
     "date": "2025-12-26",
     "name": "Šv. Kalėdų antra diena",
     "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

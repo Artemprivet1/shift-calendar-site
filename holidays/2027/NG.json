@@ -5,6 +5,16 @@
     "isPublic": true
   },
   {
+    "date": "2027-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-03-10",
     "name": "Id el Fitr (estimated)",
     "isPublic": true
@@ -25,6 +35,21 @@
     "isPublic": true
   },
   {
+    "date": "2027-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-01",
     "name": "Workers' Day",
     "isPublic": true
@@ -33,6 +58,11 @@
     "date": "2027-05-03",
     "name": "Workers' Day (observed)",
     "isPublic": true
+  },
+  {
+    "date": "2027-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2027-05-17",
@@ -50,6 +80,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-06-12",
     "name": "Democracy Day",
     "isPublic": true
@@ -58,6 +93,11 @@
     "date": "2027-06-14",
     "name": "Democracy Day (observed)",
     "isPublic": true
+  },
+  {
+    "date": "2027-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2027-08-15",
@@ -70,9 +110,29 @@
     "isPublic": true
   },
   {
+    "date": "2027-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-10-01",
     "name": "National Day",
     "isPublic": true
+  },
+  {
+    "date": "2027-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2027-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2027-12-25",
@@ -93,5 +153,10 @@
     "date": "2027-12-28",
     "name": "Boxing Day (observed)",
     "isPublic": true
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

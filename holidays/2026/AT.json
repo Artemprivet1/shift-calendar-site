@@ -10,14 +10,44 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-14",
+    "name": "Valentinstag",
+    "isPublic": false
+  },
+  {
+    "date": "2026-03-08",
+    "name": "Internationaler Frauentag",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-01",
+    "name": "Erster April",
+    "isPublic": false
+  },
+  {
     "date": "2026-04-06",
     "name": "Ostermontag",
     "isPublic": true
   },
   {
+    "date": "2026-04-22",
+    "name": "Tag der Erde",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-23",
+    "name": "Welttag des Buches",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-01",
     "name": "Staatsfeiertag",
     "isPublic": true
+  },
+  {
+    "date": "2026-05-12",
+    "name": "Internationaler Tag der Pflege",
+    "isPublic": false
   },
   {
     "date": "2026-05-14",
@@ -30,9 +60,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-06-01",
+    "name": "Internationaler Kindertag",
+    "isPublic": false
+  },
+  {
     "date": "2026-06-04",
     "name": "Fronleichnam",
     "isPublic": true
+  },
+  {
+    "date": "2026-06-21",
+    "name": "Fête de la Musique (Tag der Musik)",
+    "isPublic": false
   },
   {
     "date": "2026-08-15",
@@ -40,14 +80,34 @@
     "isPublic": true
   },
   {
+    "date": "2026-09-13",
+    "name": "Tag der Programmierer",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-05",
+    "name": "Weltlehrertag",
+    "isPublic": false
+  },
+  {
     "date": "2026-10-26",
     "name": "Nationalfeiertag",
     "isPublic": true
   },
   {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2026-11-01",
     "name": "Allerheiligen",
     "isPublic": true
+  },
+  {
+    "date": "2026-11-10",
+    "name": "Welttag der Wissenschaft",
+    "isPublic": false
   },
   {
     "date": "2026-12-08",
@@ -63,5 +123,10 @@
     "date": "2026-12-26",
     "name": "Stephanstag",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-31",
+    "name": "Silvester",
+    "isPublic": false
   }
 ]

@@ -15,6 +15,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-03-08",
     "name": "Qadınlar günü",
     "isPublic": true
@@ -70,6 +75,21 @@
     "isPublic": true
   },
   {
+    "date": "2026-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-09",
     "name": "Faşizm üzərində qələbə günü",
     "isPublic": true
@@ -78,6 +98,11 @@
     "date": "2026-05-11",
     "name": "Faşizm üzərində qələbə günü (müşahidə olunur)",
     "isPublic": true
+  },
+  {
+    "date": "2026-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2026-05-27",
@@ -95,14 +120,39 @@
     "isPublic": true
   },
   {
+    "date": "2026-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-06-15",
     "name": "Azərbaycan xalqının milli qurtuluş günü",
     "isPublic": true
   },
   {
+    "date": "2026-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-06-26",
     "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü",
     "isPublic": true
+  },
+  {
+    "date": "2026-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "isPublic": false
   },
   {
     "date": "2026-11-08",

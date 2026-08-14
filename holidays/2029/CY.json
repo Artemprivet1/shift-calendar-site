@@ -10,9 +10,19 @@
     "isPublic": true
   },
   {
+    "date": "2029-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-02-19",
     "name": "Καθαρά Δευτέρα",
     "isPublic": true
+  },
+  {
+    "date": "2029-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
   },
   {
     "date": "2029-03-25",
@@ -40,9 +50,24 @@
     "isPublic": true
   },
   {
+    "date": "2029-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-05-01",
     "name": "Πρωτομαγιά",
     "isPublic": true
+  },
+  {
+    "date": "2029-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2029-05-28",
@@ -50,9 +75,24 @@
     "isPublic": true
   },
   {
+    "date": "2029-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-08-15",
     "name": "Κοίμηση της Θεοτόκου",
     "isPublic": true
+  },
+  {
+    "date": "2029-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
   },
   {
     "date": "2029-10-01",
@@ -60,9 +100,24 @@
     "isPublic": true
   },
   {
+    "date": "2029-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-10-28",
     "name": "Ημέρα του Όχι",
     "isPublic": true
+  },
+  {
+    "date": "2029-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2029-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2029-12-25",
@@ -73,5 +128,10 @@
     "date": "2029-12-26",
     "name": "Επομένη Χριστουγέννων",
     "isPublic": true
+  },
+  {
+    "date": "2029-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

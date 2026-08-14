@@ -10,9 +10,24 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Día de San Valentín",
+    "isPublic": false
+  },
+  {
     "date": "2025-03-04",
     "name": "Martes de Carnaval",
     "isPublic": true
+  },
+  {
+    "date": "2025-03-08",
+    "name": "Día Internacional de la Mujer",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-01",
+    "name": "Día de las Bromas",
+    "isPublic": false
   },
   {
     "date": "2025-04-18",
@@ -20,9 +35,49 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-22",
+    "name": "Día de la Tierra",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "Día Mundial del Libro",
+    "isPublic": false
+  },
+  {
     "date": "2025-05-01",
     "name": "Día del Trabajo",
     "isPublic": true
+  },
+  {
+    "date": "2025-05-12",
+    "name": "Día Internacional de la Enfermería",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-01",
+    "name": "Día del Niño",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-21",
+    "name": "Día de la Música",
+    "isPublic": false
+  },
+  {
+    "date": "2025-09-13",
+    "name": "Día del Programador",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "Día Mundial de los Docentes",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
   },
   {
     "date": "2025-11-03",
@@ -58,5 +113,10 @@
     "date": "2025-12-25",
     "name": "Navidad",
     "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "Nochevieja",
+    "isPublic": false
   }
 ]

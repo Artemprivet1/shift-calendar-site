@@ -10,6 +10,11 @@
     "isPublic": true
   },
   {
+    "date": "2031-02-14",
+    "name": "День всех влюблённых",
+    "isPublic": false
+  },
+  {
     "date": "2031-03-08",
     "name": "Xotin-qizlar kuni",
     "isPublic": true
@@ -25,9 +30,29 @@
     "isPublic": true
   },
   {
+    "date": "2031-04-01",
+    "name": "День смеха",
+    "isPublic": false
+  },
+  {
     "date": "2031-04-02",
     "name": "Qurbon hayit (taxminiy)",
     "isPublic": true
+  },
+  {
+    "date": "2031-04-12",
+    "name": "День космонавтики",
+    "isPublic": false
+  },
+  {
+    "date": "2031-04-22",
+    "name": "День Земли",
+    "isPublic": false
+  },
+  {
+    "date": "2031-04-23",
+    "name": "Всемирный день книги",
+    "isPublic": false
   },
   {
     "date": "2031-05-09",
@@ -35,9 +60,29 @@
     "isPublic": true
   },
   {
+    "date": "2031-05-12",
+    "name": "Международный день медицинской сестры",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-21",
+    "name": "Международный день музыки",
+    "isPublic": false
+  },
+  {
     "date": "2031-09-01",
     "name": "Mustaqillik kuni",
     "isPublic": true
+  },
+  {
+    "date": "2031-09-13",
+    "name": "День программиста",
+    "isPublic": false
   },
   {
     "date": "2031-10-01",
@@ -45,8 +90,28 @@
     "isPublic": true
   },
   {
+    "date": "2031-10-05",
+    "name": "Всемирный день учителя",
+    "isPublic": false
+  },
+  {
+    "date": "2031-10-31",
+    "name": "Хэллоуин",
+    "isPublic": false
+  },
+  {
+    "date": "2031-11-10",
+    "name": "Всемирный день науки",
+    "isPublic": false
+  },
+  {
     "date": "2031-12-08",
     "name": "Oʻzbekiston Respublikasi Konstitutsiyasi kuni",
     "isPublic": true
+  },
+  {
+    "date": "2031-12-31",
+    "name": "Новогодний вечер",
+    "isPublic": false
   }
 ]

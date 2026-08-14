@@ -20,6 +20,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-02-15",
     "name": "महाशिवरात्रि",
     "isPublic": true
@@ -60,14 +65,34 @@
     "isPublic": true
   },
   {
+    "date": "2026-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-04-14",
     "name": "नेपाली नयाँ वर्ष",
     "isPublic": true
   },
   {
+    "date": "2026-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-01",
     "name": "अन्तर्राष्ट्रिय श्रम दिवस; बुद्ध जयन्ती",
     "isPublic": true
+  },
+  {
+    "date": "2026-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2026-05-28",
@@ -80,6 +105,16 @@
     "isPublic": true
   },
   {
+    "date": "2026-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-08-28",
     "name": "जनै पूर्णिमा",
     "isPublic": true
@@ -90,9 +125,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-09-19",
     "name": "संविधान दिवस",
     "isPublic": true
+  },
+  {
+    "date": "2026-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2026-10-11",
@@ -123,6 +168,11 @@
     "date": "2026-10-22",
     "name": "दुवादशी (दशैं)",
     "isPublic": true
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "isPublic": false
   },
   {
     "date": "2026-11-08",
@@ -158,5 +208,10 @@
     "date": "2026-12-30",
     "name": "तमु ल्हाेसार",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

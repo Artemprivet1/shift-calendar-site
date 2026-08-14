@@ -5,6 +5,11 @@
     "isPublic": true
   },
   {
+    "date": "2028-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-02-23",
     "name": "Maha Shivaratri",
     "isPublic": true
@@ -15,9 +20,19 @@
     "isPublic": true
   },
   {
+    "date": "2028-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-03-11",
     "name": "Holi",
     "isPublic": true
+  },
+  {
+    "date": "2028-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2028-04-03",
@@ -35,6 +50,16 @@
     "isPublic": true
   },
   {
+    "date": "2028-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-05-06",
     "name": "Id-ul-Zuha (Bakrid) (estimated)",
     "isPublic": true
@@ -45,9 +70,24 @@
     "isPublic": true
   },
   {
+    "date": "2028-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-06-04",
     "name": "Muharram (estimated)",
     "isPublic": true
+  },
+  {
+    "date": "2028-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2028-08-04",
@@ -65,6 +105,11 @@
     "isPublic": true
   },
   {
+    "date": "2028-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-09-27",
     "name": "Dussehra",
     "isPublic": true
@@ -75,9 +120,19 @@
     "isPublic": true
   },
   {
+    "date": "2028-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-10-17",
     "name": "Diwali (Deepavali)",
     "isPublic": true
+  },
+  {
+    "date": "2028-10-31",
+    "name": "Halloween",
+    "isPublic": false
   },
   {
     "date": "2028-11-02",
@@ -85,8 +140,18 @@
     "isPublic": true
   },
   {
+    "date": "2028-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-12-25",
     "name": "Christmas",
     "isPublic": true
+  },
+  {
+    "date": "2028-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

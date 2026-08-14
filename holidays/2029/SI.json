@@ -15,6 +15,16 @@
     "isPublic": true
   },
   {
+    "date": "2029-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-04-01",
     "name": "velikonočna nedelja",
     "isPublic": true
@@ -23,6 +33,16 @@
     "date": "2029-04-02",
     "name": "velikonočni ponedeljek",
     "isPublic": true
+  },
+  {
+    "date": "2029-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-04-23",
+    "name": "World Book Day",
+    "isPublic": false
   },
   {
     "date": "2029-04-27",
@@ -40,9 +60,24 @@
     "isPublic": true
   },
   {
+    "date": "2029-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-05-20",
     "name": "binkoštna nedelja",
     "isPublic": true
+  },
+  {
+    "date": "2029-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2029-06-25",
@@ -55,6 +90,16 @@
     "isPublic": true
   },
   {
+    "date": "2029-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-10-31",
     "name": "dan reformacije",
     "isPublic": true
@@ -65,6 +110,11 @@
     "isPublic": true
   },
   {
+    "date": "2029-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-12-25",
     "name": "božič",
     "isPublic": true
@@ -73,5 +123,10 @@
     "date": "2029-12-26",
     "name": "dan samostojnosti in enotnosti",
     "isPublic": true
+  },
+  {
+    "date": "2029-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

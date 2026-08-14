@@ -40,9 +40,24 @@
     "isPublic": true
   },
   {
+    "date": "2030-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-02-28",
     "name": "和平紀念日",
     "isPublic": true
+  },
+  {
+    "date": "2030-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2030-04-04",
@@ -55,9 +70,29 @@
     "isPublic": true
   },
   {
+    "date": "2030-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-01",
     "name": "勞動節",
     "isPublic": true
+  },
+  {
+    "date": "2030-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
   },
   {
     "date": "2030-06-05",
@@ -65,9 +100,19 @@
     "isPublic": true
   },
   {
+    "date": "2030-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-09-12",
     "name": "中秋節",
     "isPublic": true
+  },
+  {
+    "date": "2030-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
   },
   {
     "date": "2030-09-27",
@@ -80,6 +125,11 @@
     "isPublic": true
   },
   {
+    "date": "2030-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-10-10",
     "name": "國慶日",
     "isPublic": true
@@ -90,8 +140,23 @@
     "isPublic": true
   },
   {
+    "date": "2030-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2030-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-12-25",
     "name": "行憲紀念日",
     "isPublic": true
+  },
+  {
+    "date": "2030-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

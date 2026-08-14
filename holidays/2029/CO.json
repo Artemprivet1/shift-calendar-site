@@ -10,6 +10,16 @@
     "isPublic": true
   },
   {
+    "date": "2029-02-14",
+    "name": "Día de San Valentín",
+    "isPublic": false
+  },
+  {
+    "date": "2029-03-08",
+    "name": "Día Internacional de la Mujer",
+    "isPublic": false
+  },
+  {
     "date": "2029-03-19",
     "name": "Día de San José",
     "isPublic": true
@@ -25,14 +35,39 @@
     "isPublic": true
   },
   {
+    "date": "2029-04-01",
+    "name": "Día de las Bromas",
+    "isPublic": false
+  },
+  {
+    "date": "2029-04-22",
+    "name": "Día de la Tierra",
+    "isPublic": false
+  },
+  {
+    "date": "2029-04-23",
+    "name": "Día Mundial del Libro",
+    "isPublic": false
+  },
+  {
     "date": "2029-05-01",
     "name": "Día del Trabajo",
     "isPublic": true
   },
   {
+    "date": "2029-05-12",
+    "name": "Día Internacional de la Enfermería",
+    "isPublic": false
+  },
+  {
     "date": "2029-05-14",
     "name": "Ascensión del señor (observado)",
     "isPublic": true
+  },
+  {
+    "date": "2029-06-01",
+    "name": "Día del Niño",
+    "isPublic": false
   },
   {
     "date": "2029-06-04",
@@ -43,6 +78,11 @@
     "date": "2029-06-11",
     "name": "Sagrado Corazón (observado)",
     "isPublic": true
+  },
+  {
+    "date": "2029-06-21",
+    "name": "Día de la Música",
+    "isPublic": false
   },
   {
     "date": "2029-07-02",
@@ -70,14 +110,34 @@
     "isPublic": true
   },
   {
+    "date": "2029-09-13",
+    "name": "Día del Programador",
+    "isPublic": false
+  },
+  {
+    "date": "2029-10-05",
+    "name": "Día Mundial de los Docentes",
+    "isPublic": false
+  },
+  {
     "date": "2029-10-15",
     "name": "Día de la Raza (observado)",
     "isPublic": true
   },
   {
+    "date": "2029-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2029-11-05",
     "name": "Día de Todos los Santos (observado)",
     "isPublic": true
+  },
+  {
+    "date": "2029-11-10",
+    "name": "Día Mundial de la Ciencia",
+    "isPublic": false
   },
   {
     "date": "2029-11-12",
@@ -93,5 +153,10 @@
     "date": "2029-12-25",
     "name": "Navidad",
     "isPublic": true
+  },
+  {
+    "date": "2029-12-31",
+    "name": "Nochevieja",
+    "isPublic": false
   }
 ]

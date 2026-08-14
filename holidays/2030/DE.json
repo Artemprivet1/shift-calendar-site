@@ -5,6 +5,21 @@
     "isPublic": true
   },
   {
+    "date": "2030-02-14",
+    "name": "Valentinstag",
+    "isPublic": false
+  },
+  {
+    "date": "2030-03-08",
+    "name": "Internationaler Frauentag",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-01",
+    "name": "Erster April",
+    "isPublic": false
+  },
+  {
     "date": "2030-04-19",
     "name": "Karfreitag",
     "isPublic": true
@@ -15,9 +30,19 @@
     "isPublic": true
   },
   {
+    "date": "2030-04-23",
+    "name": "Welttag des Buches",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-01",
     "name": "Erster Mai",
     "isPublic": true
+  },
+  {
+    "date": "2030-05-12",
+    "name": "Internationaler Tag der Pflege",
+    "isPublic": false
   },
   {
     "date": "2030-05-30",
@@ -25,14 +50,44 @@
     "isPublic": true
   },
   {
+    "date": "2030-06-01",
+    "name": "Internationaler Kindertag",
+    "isPublic": false
+  },
+  {
     "date": "2030-06-10",
     "name": "Pfingstmontag",
     "isPublic": true
   },
   {
+    "date": "2030-06-21",
+    "name": "Fête de la Musique (Tag der Musik)",
+    "isPublic": false
+  },
+  {
+    "date": "2030-09-13",
+    "name": "Tag der Programmierer",
+    "isPublic": false
+  },
+  {
     "date": "2030-10-03",
     "name": "Tag der Deutschen Einheit",
     "isPublic": true
+  },
+  {
+    "date": "2030-10-05",
+    "name": "Weltlehrertag",
+    "isPublic": false
+  },
+  {
+    "date": "2030-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2030-11-10",
+    "name": "Welttag der Wissenschaft",
+    "isPublic": false
   },
   {
     "date": "2030-12-25",
@@ -43,5 +98,10 @@
     "date": "2030-12-26",
     "name": "Zweiter Weihnachtstag",
     "isPublic": true
+  },
+  {
+    "date": "2030-12-31",
+    "name": "Silvester",
+    "isPublic": false
   }
 ]

@@ -10,14 +10,29 @@
     "isPublic": true
   },
   {
+    "date": "2030-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-03-02",
     "name": "Maha Shivaratri",
     "isPublic": true
   },
   {
+    "date": "2030-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-03-20",
     "name": "Holi",
     "isPublic": true
+  },
+  {
+    "date": "2030-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2030-04-12",
@@ -40,6 +55,21 @@
     "isPublic": true
   },
   {
+    "date": "2030-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-13",
     "name": "Muharram (estimated)",
     "isPublic": true
@@ -48,6 +78,16 @@
     "date": "2030-05-17",
     "name": "Buddha Purnima",
     "isPublic": true
+  },
+  {
+    "date": "2030-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2030-07-14",
@@ -65,9 +105,19 @@
     "isPublic": true
   },
   {
+    "date": "2030-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-10-02",
     "name": "Mahatma Gandhi's Jayanti",
     "isPublic": true
+  },
+  {
+    "date": "2030-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2030-10-06",
@@ -80,6 +130,11 @@
     "isPublic": true
   },
   {
+    "date": "2030-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2030-11-10",
     "name": "Guru Nanak's Jayanti",
     "isPublic": true
@@ -88,5 +143,10 @@
     "date": "2030-12-25",
     "name": "Christmas",
     "isPublic": true
+  },
+  {
+    "date": "2030-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

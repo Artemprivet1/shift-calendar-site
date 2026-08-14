@@ -5,6 +5,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-03-01",
     "name": "Цагаан сар",
     "isPublic": true
@@ -25,6 +30,26 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-06-01",
     "name": "Хүүхдийн баяр",
     "isPublic": true
@@ -33,6 +58,11 @@
     "date": "2025-06-11",
     "name": "Бурхан багшийн Их дүйчин өдөр",
     "isPublic": true
+  },
+  {
+    "date": "2025-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2025-07-10",
@@ -65,6 +95,26 @@
     "isPublic": true
   },
   {
+    "date": "2025-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2025-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-11-21",
     "name": "Их Эзэн Чингис хааны өдөр",
     "isPublic": true
@@ -78,5 +128,10 @@
     "date": "2025-12-29",
     "name": "Үндэсний эрх чөлөө, тусгаар тогтнолоо сэргээсний баярын өдөр",
     "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

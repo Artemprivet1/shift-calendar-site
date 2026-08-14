@@ -20,9 +20,24 @@
     "isPublic": true
   },
   {
+    "date": "2027-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-03-29",
     "name": "復活節星期一",
     "isPublic": true
+  },
+  {
+    "date": "2027-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2027-04-05",
@@ -30,9 +45,24 @@
     "isPublic": true
   },
   {
+    "date": "2027-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-01",
     "name": "勞動節",
     "isPublic": true
+  },
+  {
+    "date": "2027-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2027-05-13",
@@ -40,14 +70,29 @@
     "isPublic": true
   },
   {
+    "date": "2027-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-06-09",
     "name": "端午節",
     "isPublic": true
   },
   {
+    "date": "2027-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-07-01",
     "name": "香港特別行政區成立紀念日",
     "isPublic": true
+  },
+  {
+    "date": "2027-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
   },
   {
     "date": "2027-09-16",
@@ -60,9 +105,24 @@
     "isPublic": true
   },
   {
+    "date": "2027-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-10-08",
     "name": "重陽節",
     "isPublic": true
+  },
+  {
+    "date": "2027-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2027-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2027-12-25",
@@ -78,5 +138,10 @@
     "date": "2027-12-27",
     "name": "聖誕節後第一個周日（補假）",
     "isPublic": true
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

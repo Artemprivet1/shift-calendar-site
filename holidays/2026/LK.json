@@ -20,6 +20,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-02-15",
     "name": "මහ සිවරාත්රි දිනය",
     "isPublic": true
@@ -28,6 +33,11 @@
     "date": "2026-03-02",
     "name": "මැදින් පුර පසළොස්වක පෝය දිනය",
     "isPublic": true
+  },
+  {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
   },
   {
     "date": "2026-03-21",
@@ -55,6 +65,16 @@
     "isPublic": true
   },
   {
+    "date": "2026-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-01",
     "name": "ලොක කම්කරු දිනය; වෙසක් පුර පසළොස්වක පෝය දිනය",
     "isPublic": true
@@ -65,6 +85,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-28",
     "name": "ඊදුල් අල්හා",
     "isPublic": true
@@ -73,6 +98,16 @@
     "date": "2026-05-30",
     "name": "අධි පොසොන් පුර පසළොස්වක පෝය දිනය",
     "isPublic": true
+  },
+  {
+    "date": "2026-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2026-06-29",
@@ -95,9 +130,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-09-26",
     "name": "බිනර පුර පසළොස්වක පෝය දිනය",
     "isPublic": true
+  },
+  {
+    "date": "2026-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2026-10-25",
@@ -105,9 +150,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2026-11-08",
     "name": "දීපවාලි උත්සව දිනය",
     "isPublic": true
+  },
+  {
+    "date": "2026-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2026-11-24",
@@ -123,5 +178,10 @@
     "date": "2026-12-25",
     "name": "නත්තල් උත්සව දිනය",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

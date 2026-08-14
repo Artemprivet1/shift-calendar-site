@@ -5,6 +5,21 @@
     "isPublic": true
   },
   {
+    "date": "2028-02-14",
+    "name": "Día de San Valentín",
+    "isPublic": false
+  },
+  {
+    "date": "2028-03-08",
+    "name": "Día Internacional de la Mujer",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-01",
+    "name": "Día de las Bromas",
+    "isPublic": false
+  },
+  {
     "date": "2028-04-11",
     "name": "Día de Juan Santamaría",
     "isPublic": true
@@ -20,9 +35,34 @@
     "isPublic": true
   },
   {
+    "date": "2028-04-22",
+    "name": "Día de la Tierra",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-23",
+    "name": "Día Mundial del Libro",
+    "isPublic": false
+  },
+  {
     "date": "2028-05-01",
     "name": "Día Internacional del Trabajo",
     "isPublic": true
+  },
+  {
+    "date": "2028-05-12",
+    "name": "Día Internacional de la Enfermería",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-01",
+    "name": "Día del Niño",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-21",
+    "name": "Día de la Música",
+    "isPublic": false
   },
   {
     "date": "2028-07-25",
@@ -35,13 +75,38 @@
     "isPublic": true
   },
   {
+    "date": "2028-09-13",
+    "name": "Día del Programador",
+    "isPublic": false
+  },
+  {
     "date": "2028-09-15",
     "name": "Día de la Independencia",
     "isPublic": true
   },
   {
+    "date": "2028-10-05",
+    "name": "Día Mundial de los Docentes",
+    "isPublic": false
+  },
+  {
+    "date": "2028-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2028-11-10",
+    "name": "Día Mundial de la Ciencia",
+    "isPublic": false
+  },
+  {
     "date": "2028-12-25",
     "name": "Navidad",
     "isPublic": true
+  },
+  {
+    "date": "2028-12-31",
+    "name": "Nochevieja",
+    "isPublic": false
   }
 ]

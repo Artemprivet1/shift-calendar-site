@@ -5,6 +5,16 @@
     "isPublic": true
   },
   {
+    "date": "2027-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-03-09",
     "name": "Idd-ul-Fitr (estimated)",
     "isPublic": true
@@ -20,14 +30,49 @@
     "isPublic": true
   },
   {
+    "date": "2027-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-01",
     "name": "Labour Day",
     "isPublic": true
   },
   {
+    "date": "2027-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-06-01",
     "name": "Madaraka Day",
     "isPublic": true
+  },
+  {
+    "date": "2027-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2027-10-10",
@@ -43,6 +88,16 @@
     "date": "2027-10-20",
     "name": "Mashujaa Day",
     "isPublic": true
+  },
+  {
+    "date": "2027-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2027-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2027-12-12",
@@ -68,5 +123,10 @@
     "date": "2027-12-27",
     "name": "Boxing Day (observed)",
     "isPublic": true
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

@@ -15,6 +15,11 @@
     "isPublic": true
   },
   {
+    "date": "2028-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-02-19",
     "name": "राष्ट्रिय प्रजातन्त्र दिवस",
     "isPublic": true
@@ -50,6 +55,11 @@
     "isPublic": true
   },
   {
+    "date": "2028-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-04-03",
     "name": "राम नवमी",
     "isPublic": true
@@ -58,6 +68,16 @@
     "date": "2028-04-13",
     "name": "नेपाली नयाँ वर्ष",
     "isPublic": true
+  },
+  {
+    "date": "2028-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-23",
+    "name": "World Book Day",
+    "isPublic": false
   },
   {
     "date": "2028-05-01",
@@ -75,9 +95,24 @@
     "isPublic": true
   },
   {
+    "date": "2028-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-05-28",
     "name": "गणतन्त्र दिवस",
     "isPublic": true
+  },
+  {
+    "date": "2028-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2028-08-05",
@@ -88,6 +123,11 @@
     "date": "2028-08-13",
     "name": "श्रीकृष्ण जन्माष्टमी",
     "isPublic": true
+  },
+  {
+    "date": "2028-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
   },
   {
     "date": "2028-09-18",
@@ -125,6 +165,11 @@
     "isPublic": true
   },
   {
+    "date": "2028-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-10-17",
     "name": "गाई तिहार; लक्ष्मीपूजा",
     "isPublic": true
@@ -145,6 +190,16 @@
     "isPublic": true
   },
   {
+    "date": "2028-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2028-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-12-25",
     "name": "क्रिसमसको दिन",
     "isPublic": true
@@ -153,5 +208,10 @@
     "date": "2028-12-30",
     "name": "तमु ल्हाेसार",
     "isPublic": true
+  },
+  {
+    "date": "2028-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

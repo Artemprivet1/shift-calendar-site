@@ -20,9 +20,19 @@
     "isPublic": true
   },
   {
+    "date": "2030-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-03-02",
     "name": "တောင်သူလယ်သမားနေ့",
     "isPublic": true
+  },
+  {
+    "date": "2030-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
   },
   {
     "date": "2030-03-18",
@@ -33,6 +43,11 @@
     "date": "2030-03-27",
     "name": "တပ်မတော်နေ့",
     "isPublic": true
+  },
+  {
+    "date": "2030-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2030-04-13",
@@ -80,14 +95,39 @@
     "isPublic": true
   },
   {
+    "date": "2030-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-01",
     "name": "မေဒေးနေ့",
     "isPublic": true
   },
   {
+    "date": "2030-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-16",
     "name": "ကဆုန်လပြည့်နေ့",
     "isPublic": true
+  },
+  {
+    "date": "2030-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2030-07-14",
@@ -98,6 +138,16 @@
     "date": "2030-07-19",
     "name": "အာဇာနည်နေ့",
     "isPublic": true
+  },
+  {
+    "date": "2030-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2030-10-10",
@@ -120,9 +170,19 @@
     "isPublic": true
   },
   {
+    "date": "2030-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2030-11-09",
     "name": "တန်ဆောင်တိုင်လပြည့်နေ့",
     "isPublic": true
+  },
+  {
+    "date": "2030-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2030-11-19",
@@ -138,5 +198,10 @@
     "date": "2030-12-25",
     "name": "ခရစ္စမတ်နေ့",
     "isPublic": true
+  },
+  {
+    "date": "2030-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

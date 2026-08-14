@@ -5,6 +5,21 @@
     "isPublic": true
   },
   {
+    "date": "2030-02-14",
+    "name": "Día de San Valentín",
+    "isPublic": false
+  },
+  {
+    "date": "2030-03-08",
+    "name": "Día Internacional de la Mujer",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-01",
+    "name": "Día de las Bromas",
+    "isPublic": false
+  },
+  {
     "date": "2030-04-19",
     "name": "Viernes Santo",
     "isPublic": true
@@ -15,14 +30,34 @@
     "isPublic": true
   },
   {
+    "date": "2030-04-22",
+    "name": "Día de la Tierra",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-23",
+    "name": "Día Mundial del Libro",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-01",
     "name": "Día Nacional del Trabajo",
     "isPublic": true
   },
   {
+    "date": "2030-05-12",
+    "name": "Día Internacional de la Enfermería",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-21",
     "name": "Día de las Glorias Navales",
     "isPublic": true
+  },
+  {
+    "date": "2030-06-01",
+    "name": "Día del Niño",
+    "isPublic": false
   },
   {
     "date": "2030-06-21",
@@ -45,6 +80,11 @@
     "isPublic": true
   },
   {
+    "date": "2030-09-13",
+    "name": "Día del Programador",
+    "isPublic": false
+  },
+  {
     "date": "2030-09-18",
     "name": "Día de la Independencia",
     "isPublic": true
@@ -58,6 +98,11 @@
     "date": "2030-09-20",
     "name": "Fiestas Patrias",
     "isPublic": true
+  },
+  {
+    "date": "2030-10-05",
+    "name": "Día Mundial de los Docentes",
+    "isPublic": false
   },
   {
     "date": "2030-10-12",
@@ -75,6 +120,11 @@
     "isPublic": true
   },
   {
+    "date": "2030-11-10",
+    "name": "Día Mundial de la Ciencia",
+    "isPublic": false
+  },
+  {
     "date": "2030-12-08",
     "name": "La Inmaculada Concepción",
     "isPublic": true
@@ -83,5 +133,10 @@
     "date": "2030-12-25",
     "name": "Navidad",
     "isPublic": true
+  },
+  {
+    "date": "2030-12-31",
+    "name": "Nochevieja",
+    "isPublic": false
   }
 ]

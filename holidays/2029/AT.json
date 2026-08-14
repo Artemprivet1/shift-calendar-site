@@ -10,9 +10,34 @@
     "isPublic": true
   },
   {
+    "date": "2029-02-14",
+    "name": "Valentinstag",
+    "isPublic": false
+  },
+  {
+    "date": "2029-03-08",
+    "name": "Internationaler Frauentag",
+    "isPublic": false
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Erster April",
+    "isPublic": false
+  },
+  {
     "date": "2029-04-02",
     "name": "Ostermontag",
     "isPublic": true
+  },
+  {
+    "date": "2029-04-22",
+    "name": "Tag der Erde",
+    "isPublic": false
+  },
+  {
+    "date": "2029-04-23",
+    "name": "Welttag des Buches",
+    "isPublic": false
   },
   {
     "date": "2029-05-01",
@@ -25,6 +50,11 @@
     "isPublic": true
   },
   {
+    "date": "2029-05-12",
+    "name": "Internationaler Tag der Pflege",
+    "isPublic": false
+  },
+  {
     "date": "2029-05-21",
     "name": "Pfingstmontag",
     "isPublic": true
@@ -35,9 +65,29 @@
     "isPublic": true
   },
   {
+    "date": "2029-06-01",
+    "name": "Internationaler Kindertag",
+    "isPublic": false
+  },
+  {
+    "date": "2029-06-21",
+    "name": "Fête de la Musique (Tag der Musik)",
+    "isPublic": false
+  },
+  {
     "date": "2029-08-15",
     "name": "Mariä Himmelfahrt",
     "isPublic": true
+  },
+  {
+    "date": "2029-09-13",
+    "name": "Tag der Programmierer",
+    "isPublic": false
+  },
+  {
+    "date": "2029-10-05",
+    "name": "Weltlehrertag",
+    "isPublic": false
   },
   {
     "date": "2029-10-26",
@@ -45,9 +95,19 @@
     "isPublic": true
   },
   {
+    "date": "2029-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2029-11-01",
     "name": "Allerheiligen",
     "isPublic": true
+  },
+  {
+    "date": "2029-11-10",
+    "name": "Welttag der Wissenschaft",
+    "isPublic": false
   },
   {
     "date": "2029-12-08",
@@ -63,5 +123,10 @@
     "date": "2029-12-26",
     "name": "Stephanstag",
     "isPublic": true
+  },
+  {
+    "date": "2029-12-31",
+    "name": "Silvester",
+    "isPublic": false
   }
 ]

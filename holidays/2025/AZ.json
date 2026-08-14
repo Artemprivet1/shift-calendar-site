@@ -25,6 +25,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-03-08",
     "name": "Qadınlar günü",
     "isPublic": true
@@ -85,14 +90,39 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-05-09",
     "name": "Faşizm üzərində qələbə günü",
     "isPublic": true
   },
   {
+    "date": "2025-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-05-28",
     "name": "Müstəqillik Günü",
     "isPublic": true
+  },
+  {
+    "date": "2025-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
   },
   {
     "date": "2025-06-06",
@@ -120,6 +150,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-06-26",
     "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü",
     "isPublic": true
@@ -128,6 +163,21 @@
     "date": "2025-06-27",
     "name": "İstirahət günü (21.06.2025 ilə əvəz edilmişdir)",
     "isPublic": true
+  },
+  {
+    "date": "2025-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
   },
   {
     "date": "2025-11-08",

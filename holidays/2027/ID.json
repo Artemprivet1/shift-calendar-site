@@ -15,6 +15,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-03-08",
     "name": "Hari Suci Nyepi",
     "isPublic": true
@@ -40,6 +45,21 @@
     "isPublic": true
   },
   {
+    "date": "2027-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-01",
     "name": "Hari Buruh Internasional",
     "isPublic": true
@@ -48,6 +68,11 @@
     "date": "2027-05-06",
     "name": "Kenaikan Yesus Kristus",
     "isPublic": true
+  },
+  {
+    "date": "2027-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2027-05-16",
@@ -70,6 +95,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-08-14",
     "name": "Maulid Nabi Muhammad (perkiraan)",
     "isPublic": true
@@ -80,8 +110,33 @@
     "isPublic": true
   },
   {
+    "date": "2027-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2027-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-12-25",
     "name": "Hari Raya Natal; Isra Mikraj Nabi Muhammad (perkiraan)",
     "isPublic": true
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

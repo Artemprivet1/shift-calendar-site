@@ -10,9 +10,19 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-03-08",
     "name": "ទិវាអន្តរជាតិនារី",
     "isPublic": true
+  },
+  {
+    "date": "2025-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2025-04-14",
@@ -30,6 +40,16 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-05-01",
     "name": "ទិវាពលកម្មអន្តរជាតិ",
     "isPublic": true
@@ -38,6 +58,11 @@
     "date": "2025-05-11",
     "name": "ពិធីបុណ្យវិសាខបូជា",
     "isPublic": true
+  },
+  {
+    "date": "2025-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2025-05-14",
@@ -50,9 +75,24 @@
     "isPublic": true
   },
   {
+    "date": "2025-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-06-18",
     "name": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម សម្តេចព្រះមហាក្សត្រី ព្រះវររាជមាតា នរោត្តម មុនិនាថ សីហនុ",
     "isPublic": true
+  },
+  {
+    "date": "2025-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
   },
   {
     "date": "2025-09-21",
@@ -75,6 +115,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-10-15",
     "name": "ទិវាប្រារព្ឋពិធីគោរពព្រះវិញ្ញាណក្ខន្ឋ ព្រះករុណា ព្រះបាទសម្តេចព្រះ នរោត្តម សីហនុ ព្រះមហាវីរក្សត្រ ព្រះវររាជបិតាឯករាជ្យ បូរណភាពទឹកដី និងឯកភាពជាតិខ្មែរ ព្រះបរមរតនកោដ្ឋ",
     "isPublic": true
@@ -83,6 +128,11 @@
     "date": "2025-10-29",
     "name": "ព្រះរាជពិធីគ្រងព្រះបរមរាជសម្បត្តិ របស់ ព្រះករុណា ព្រះបាទសម្តេចព្រះបរមនាថ នរោត្តម សីហមុនី ព្រះមហាក្សត្រនៃព្រះរាជាណាចក្រកម្ពុជា",
     "isPublic": true
+  },
+  {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
   },
   {
     "date": "2025-11-04",
@@ -105,8 +155,18 @@
     "isPublic": true
   },
   {
+    "date": "2025-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-12-29",
     "name": "ទិវាសន្តិភាពនៅកម្ពុជា",
     "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

@@ -20,6 +20,11 @@
     "isPublic": true
   },
   {
+    "date": "2030-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-03-03",
     "name": "დედის დღე",
     "isPublic": true
@@ -30,9 +35,24 @@
     "isPublic": true
   },
   {
+    "date": "2030-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-04-09",
     "name": "ეროვნული ერთიანობის დღე",
     "isPublic": true
+  },
+  {
+    "date": "2030-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-23",
+    "name": "World Book Day",
+    "isPublic": false
   },
   {
     "date": "2030-04-26",
@@ -75,9 +95,29 @@
     "isPublic": true
   },
   {
+    "date": "2030-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-08-28",
     "name": "მარიამობა",
     "isPublic": true
+  },
+  {
+    "date": "2030-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2030-10-14",
@@ -85,8 +125,23 @@
     "isPublic": true
   },
   {
+    "date": "2030-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2030-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-11-23",
     "name": "გიორგობა",
     "isPublic": true
+  },
+  {
+    "date": "2030-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

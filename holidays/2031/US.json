@@ -5,19 +5,9 @@
     "isPublic": true
   },
   {
-    "date": "2031-01-09",
-    "name": "National Law Enforcement Appreciation Day",
-    "isPublic": false
-  },
-  {
     "date": "2031-01-20",
     "name": "Martin Luther King Jr. Day",
     "isPublic": true
-  },
-  {
-    "date": "2031-02-02",
-    "name": "Groundhog Day",
-    "isPublic": false
   },
   {
     "date": "2031-02-14",
@@ -30,28 +20,13 @@
     "isPublic": true
   },
   {
-    "date": "2031-03-02",
-    "name": "Texas Independence Day",
+    "date": "2031-03-08",
+    "name": "International Women's Day",
     "isPublic": false
   },
   {
-    "date": "2031-03-17",
-    "name": "St. Patrick's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2031-03-30",
-    "name": "National Doctors' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2031-03-31",
-    "name": "César Chávez Day",
-    "isPublic": false
-  },
-  {
-    "date": "2031-04-15",
-    "name": "Tax Day",
+    "date": "2031-04-01",
+    "name": "April Fools' Day",
     "isPublic": false
   },
   {
@@ -60,23 +35,13 @@
     "isPublic": false
   },
   {
-    "date": "2031-05-04",
-    "name": "International Firefighters' Day",
+    "date": "2031-04-23",
+    "name": "World Book Day",
     "isPublic": false
   },
   {
-    "date": "2031-05-05",
-    "name": "Cinco de Mayo",
-    "isPublic": false
-  },
-  {
-    "date": "2031-05-06",
-    "name": "National Nurses Day",
-    "isPublic": false
-  },
-  {
-    "date": "2031-05-15",
-    "name": "Peace Officers Memorial Day",
+    "date": "2031-05-12",
+    "name": "International Nurses Day",
     "isPublic": false
   },
   {
@@ -85,8 +50,8 @@
     "isPublic": true
   },
   {
-    "date": "2031-06-14",
-    "name": "Flag Day & US Army Birthday",
+    "date": "2031-06-01",
+    "name": "International Children's Day",
     "isPublic": false
   },
   {
@@ -95,19 +60,14 @@
     "isPublic": true
   },
   {
+    "date": "2031-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-07-04",
     "name": "Independence Day",
     "isPublic": true
-  },
-  {
-    "date": "2031-07-24",
-    "name": "Pioneer Day (Utah)",
-    "isPublic": false
-  },
-  {
-    "date": "2031-08-04",
-    "name": "US Coast Guard Day",
-    "isPublic": false
   },
   {
     "date": "2031-09-01",
@@ -115,23 +75,13 @@
     "isPublic": true
   },
   {
-    "date": "2031-09-09",
-    "name": "California Admission Day",
+    "date": "2031-09-13",
+    "name": "International Programmers' Day",
     "isPublic": false
   },
   {
-    "date": "2031-09-11",
-    "name": "Patriot Day (9/11 Remembrance)",
-    "isPublic": false
-  },
-  {
-    "date": "2031-09-15",
-    "name": "Beginning of National Hispanic Heritage Month",
-    "isPublic": false
-  },
-  {
-    "date": "2031-09-18",
-    "name": "US Air Force Birthday & Tradesmen Day",
+    "date": "2031-10-05",
+    "name": "World Teachers' Day",
     "isPublic": false
   },
   {
@@ -140,33 +90,13 @@
     "isPublic": true
   },
   {
-    "date": "2031-10-13",
-    "name": "US Navy Birthday",
-    "isPublic": false
-  },
-  {
-    "date": "2031-10-16",
-    "name": "Boss's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2031-10-28",
-    "name": "National First Responders Day",
-    "isPublic": false
-  },
-  {
     "date": "2031-10-31",
     "name": "Halloween",
     "isPublic": false
   },
   {
-    "date": "2031-11-01",
-    "name": "Day of the Dead (Día de los Muertos)",
-    "isPublic": false
-  },
-  {
     "date": "2031-11-10",
-    "name": "US Marine Corps Birthday",
+    "name": "World Science Day",
     "isPublic": false
   },
   {
@@ -178,16 +108,6 @@
     "date": "2031-11-27",
     "name": "Thanksgiving Day",
     "isPublic": true
-  },
-  {
-    "date": "2031-12-07",
-    "name": "Pearl Harbor Remembrance Day",
-    "isPublic": false
-  },
-  {
-    "date": "2031-12-12",
-    "name": "Day of the Virgin of Guadalupe",
-    "isPublic": false
   },
   {
     "date": "2031-12-25",

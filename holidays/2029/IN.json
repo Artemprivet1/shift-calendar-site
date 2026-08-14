@@ -10,6 +10,11 @@
     "isPublic": true
   },
   {
+    "date": "2029-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-02-15",
     "name": "Id-ul-Fitr (estimated)",
     "isPublic": true
@@ -20,14 +25,34 @@
     "isPublic": true
   },
   {
+    "date": "2029-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-03-30",
     "name": "Good Friday",
     "isPublic": true
   },
   {
+    "date": "2029-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-04-14",
     "name": "Dr. B. R. Ambedkar's Jayanti",
     "isPublic": true
+  },
+  {
+    "date": "2029-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-04-23",
+    "name": "World Book Day",
+    "isPublic": false
   },
   {
     "date": "2029-04-25",
@@ -40,6 +65,11 @@
     "isPublic": true
   },
   {
+    "date": "2029-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-05-24",
     "name": "Muharram (estimated)",
     "isPublic": true
@@ -48,6 +78,16 @@
     "date": "2029-05-27",
     "name": "Buddha Purnima",
     "isPublic": true
+  },
+  {
+    "date": "2029-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2029-07-25",
@@ -65,9 +105,19 @@
     "isPublic": true
   },
   {
+    "date": "2029-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-10-02",
     "name": "Mahatma Gandhi's Jayanti",
     "isPublic": true
+  },
+  {
+    "date": "2029-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2029-10-16",
@@ -75,9 +125,19 @@
     "isPublic": true
   },
   {
+    "date": "2029-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2029-11-05",
     "name": "Diwali (Deepavali)",
     "isPublic": true
+  },
+  {
+    "date": "2029-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2029-11-21",
@@ -88,5 +148,10 @@
     "date": "2029-12-25",
     "name": "Christmas",
     "isPublic": true
+  },
+  {
+    "date": "2029-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

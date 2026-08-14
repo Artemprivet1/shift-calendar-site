@@ -5,6 +5,21 @@
     "isPublic": true
   },
   {
+    "date": "2028-02-14",
+    "name": "Dia de São Valentim",
+    "isPublic": false
+  },
+  {
+    "date": "2028-03-08",
+    "name": "Dia Internacional da Mulher",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-01",
+    "name": "Dia da Mentira",
+    "isPublic": false
+  },
+  {
     "date": "2028-04-14",
     "name": "Sexta-feira Santa",
     "isPublic": true
@@ -13,6 +28,16 @@
     "date": "2028-04-16",
     "name": "Páscoa",
     "isPublic": true
+  },
+  {
+    "date": "2028-04-22",
+    "name": "Dia da Terra",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-23",
+    "name": "Dia Mundial do Livro",
+    "isPublic": false
   },
   {
     "date": "2028-04-25",
@@ -25,6 +50,16 @@
     "isPublic": true
   },
   {
+    "date": "2028-05-12",
+    "name": "Dia Internacional da Enfermagem",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-01",
+    "name": "Dia Mundial da Criança",
+    "isPublic": false
+  },
+  {
     "date": "2028-06-10",
     "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
     "isPublic": true
@@ -35,9 +70,19 @@
     "isPublic": true
   },
   {
+    "date": "2028-06-21",
+    "name": "Dia da Música",
+    "isPublic": false
+  },
+  {
     "date": "2028-08-15",
     "name": "Assunção de Nossa Senhora",
     "isPublic": true
+  },
+  {
+    "date": "2028-09-13",
+    "name": "Dia do Programador",
+    "isPublic": false
   },
   {
     "date": "2028-10-05",
@@ -45,9 +90,19 @@
     "isPublic": true
   },
   {
+    "date": "2028-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2028-11-01",
     "name": "Dia de Todos os Santos",
     "isPublic": true
+  },
+  {
+    "date": "2028-11-10",
+    "name": "Dia Mundial da Ciência",
+    "isPublic": false
   },
   {
     "date": "2028-12-01",
@@ -63,5 +118,10 @@
     "date": "2028-12-25",
     "name": "Dia de Natal",
     "isPublic": true
+  },
+  {
+    "date": "2028-12-31",
+    "name": "Véspera de Ano Novo",
+    "isPublic": false
   }
 ]

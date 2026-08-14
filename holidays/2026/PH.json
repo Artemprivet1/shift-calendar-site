@@ -5,14 +5,29 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-02-17",
     "name": "Chinese New Year",
     "isPublic": true
   },
   {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-03-20",
     "name": "Eid'l Fitr",
     "isPublic": true
+  },
+  {
+    "date": "2026-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2026-04-02",
@@ -35,9 +50,24 @@
     "isPublic": true
   },
   {
+    "date": "2026-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-01",
     "name": "Labor Day",
     "isPublic": true
+  },
+  {
+    "date": "2026-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2026-05-27",
@@ -45,9 +75,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-06-12",
     "name": "Independence Day",
     "isPublic": true
+  },
+  {
+    "date": "2026-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2026-08-21",
@@ -60,6 +100,21 @@
     "isPublic": true
   },
   {
+    "date": "2026-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2026-11-01",
     "name": "All Saints' Day",
     "isPublic": true
@@ -68,6 +123,11 @@
     "date": "2026-11-02",
     "name": "All Souls' Day",
     "isPublic": true
+  },
+  {
+    "date": "2026-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2026-11-30",

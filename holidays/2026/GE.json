@@ -20,6 +20,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-03-03",
     "name": "დედის დღე",
     "isPublic": true
@@ -28,6 +33,11 @@
     "date": "2026-03-08",
     "name": "ქალთა საერთაშორისო დღე",
     "isPublic": true
+  },
+  {
+    "date": "2026-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2026-04-09",
@@ -55,6 +65,16 @@
     "isPublic": true
   },
   {
+    "date": "2026-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-09",
     "name": "ფაშიზმზე გამარჯვების დღე",
     "isPublic": true
@@ -75,9 +95,29 @@
     "isPublic": true
   },
   {
+    "date": "2026-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-08-28",
     "name": "მარიამობა",
     "isPublic": true
+  },
+  {
+    "date": "2026-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2026-10-14",
@@ -85,8 +125,23 @@
     "isPublic": true
   },
   {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2026-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-11-23",
     "name": "გიორგობა",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

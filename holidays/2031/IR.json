@@ -20,9 +20,19 @@
     "isPublic": true
   },
   {
+    "date": "2031-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-02-18",
     "name": "شهادت امام جعفر صادق علیه السلام (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2031-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
   },
   {
     "date": "2031-03-20",
@@ -70,6 +80,16 @@
     "isPublic": true
   },
   {
+    "date": "2031-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-05-02",
     "name": "تاسوعای حسینی (تخمینی)",
     "isPublic": true
@@ -78,6 +98,16 @@
     "date": "2031-05-03",
     "name": "عاشورای حسینی (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2031-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
   },
   {
     "date": "2031-06-04",
@@ -115,14 +145,34 @@
     "isPublic": true
   },
   {
+    "date": "2031-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-09-21",
     "name": "شهادت حضرت فاطمه زهرا سلام الله علیها (تخمینی)",
     "isPublic": true
   },
   {
+    "date": "2031-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-10-30",
     "name": "ولادت امام علی علیه السلام و روز پدر (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2031-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2031-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2031-11-13",
@@ -133,5 +183,10 @@
     "date": "2031-12-01",
     "name": "ولادت حضرت قائم عجل الله تعالی فرجه و جشن نیمه شعبان (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2031-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

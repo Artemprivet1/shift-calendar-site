@@ -20,6 +20,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-02-19",
     "name": "राष्ट्रिय प्रजातन्त्र दिवस",
     "isPublic": true
@@ -55,6 +60,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-04-06",
     "name": "राम नवमी",
     "isPublic": true
@@ -63,6 +73,16 @@
     "date": "2025-04-14",
     "name": "नेपाली नयाँ वर्ष",
     "isPublic": true
+  },
+  {
+    "date": "2025-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "World Book Day",
+    "isPublic": false
   },
   {
     "date": "2025-05-01",
@@ -80,9 +100,19 @@
     "isPublic": true
   },
   {
+    "date": "2025-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-06-07",
     "name": "बकर ईद (ईद उल अजहा)",
     "isPublic": true
+  },
+  {
+    "date": "2025-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2025-08-09",
@@ -93,6 +123,11 @@
     "date": "2025-08-16",
     "name": "श्रीकृष्ण जन्माष्टमी",
     "isPublic": true
+  },
+  {
+    "date": "2025-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
   },
   {
     "date": "2025-09-19",
@@ -135,6 +170,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-10-20",
     "name": "लक्ष्मीपूजा",
     "isPublic": true
@@ -165,6 +205,16 @@
     "isPublic": true
   },
   {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2025-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-12-25",
     "name": "क्रिसमसको दिन",
     "isPublic": true
@@ -173,5 +223,10 @@
     "date": "2025-12-30",
     "name": "तमु ल्हाेसार",
     "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

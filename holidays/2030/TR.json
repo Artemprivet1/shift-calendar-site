@@ -20,6 +20,21 @@
     "isPublic": true
   },
   {
+    "date": "2030-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-04-13",
     "name": "Kurban Bayramı",
     "isPublic": true
@@ -40,6 +55,11 @@
     "isPublic": true
   },
   {
+    "date": "2030-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-04-23",
     "name": "Ulusal Egemenlik ve Çocuk Bayramı",
     "isPublic": true
@@ -50,9 +70,24 @@
     "isPublic": true
   },
   {
+    "date": "2030-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-19",
     "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
     "isPublic": true
+  },
+  {
+    "date": "2030-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2030-07-15",
@@ -65,8 +100,33 @@
     "isPublic": true
   },
   {
+    "date": "2030-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2030-10-29",
     "name": "Cumhuriyet Bayramı",
     "isPublic": true
+  },
+  {
+    "date": "2030-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2030-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
+    "date": "2030-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

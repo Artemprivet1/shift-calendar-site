@@ -20,6 +20,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-03-08",
     "name": "Qadınlar günü",
     "isPublic": true
@@ -70,6 +75,21 @@
     "isPublic": true
   },
   {
+    "date": "2027-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-09",
     "name": "Faşizm üzərində qələbə günü",
     "isPublic": true
@@ -78,6 +98,11 @@
     "date": "2027-05-10",
     "name": "Faşizm üzərində qələbə günü (müşahidə olunur)",
     "isPublic": true
+  },
+  {
+    "date": "2027-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2027-05-16",
@@ -100,9 +125,19 @@
     "isPublic": true
   },
   {
+    "date": "2027-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-06-15",
     "name": "Azərbaycan xalqının milli qurtuluş günü",
     "isPublic": true
+  },
+  {
+    "date": "2027-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2027-06-26",
@@ -115,6 +150,21 @@
     "isPublic": true
   },
   {
+    "date": "2027-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2027-11-08",
     "name": "Zəfər Günü",
     "isPublic": true
@@ -123,6 +173,11 @@
     "date": "2027-11-09",
     "name": "Azərbaycan Respublikasının Dövlət bayrağı günü",
     "isPublic": true
+  },
+  {
+    "date": "2027-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2027-12-31",

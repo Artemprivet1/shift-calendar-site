@@ -5,6 +5,16 @@
     "isPublic": true
   },
   {
+    "date": "2027-02-14",
+    "name": "Dia de São Valentim",
+    "isPublic": false
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Dia Internacional da Mulher",
+    "isPublic": false
+  },
+  {
     "date": "2027-03-26",
     "name": "Sexta-feira Santa",
     "isPublic": true
@@ -13,6 +23,21 @@
     "date": "2027-03-28",
     "name": "Páscoa",
     "isPublic": true
+  },
+  {
+    "date": "2027-04-01",
+    "name": "Dia da Mentira",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-22",
+    "name": "Dia da Terra",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-23",
+    "name": "Dia Mundial do Livro",
+    "isPublic": false
   },
   {
     "date": "2027-04-25",
@@ -25,9 +50,19 @@
     "isPublic": true
   },
   {
+    "date": "2027-05-12",
+    "name": "Dia Internacional da Enfermagem",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-27",
     "name": "Corpo de Deus",
     "isPublic": true
+  },
+  {
+    "date": "2027-06-01",
+    "name": "Dia Mundial da Criança",
+    "isPublic": false
   },
   {
     "date": "2027-06-10",
@@ -35,9 +70,19 @@
     "isPublic": true
   },
   {
+    "date": "2027-06-21",
+    "name": "Dia da Música",
+    "isPublic": false
+  },
+  {
     "date": "2027-08-15",
     "name": "Assunção de Nossa Senhora",
     "isPublic": true
+  },
+  {
+    "date": "2027-09-13",
+    "name": "Dia do Programador",
+    "isPublic": false
   },
   {
     "date": "2027-10-05",
@@ -45,9 +90,19 @@
     "isPublic": true
   },
   {
+    "date": "2027-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2027-11-01",
     "name": "Dia de Todos os Santos",
     "isPublic": true
+  },
+  {
+    "date": "2027-11-10",
+    "name": "Dia Mundial da Ciência",
+    "isPublic": false
   },
   {
     "date": "2027-12-01",
@@ -63,5 +118,10 @@
     "date": "2027-12-25",
     "name": "Dia de Natal",
     "isPublic": true
+  },
+  {
+    "date": "2027-12-31",
+    "name": "Véspera de Ano Novo",
+    "isPublic": false
   }
 ]

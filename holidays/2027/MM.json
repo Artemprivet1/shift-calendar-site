@@ -25,9 +25,19 @@
     "isPublic": true
   },
   {
+    "date": "2027-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-03-02",
     "name": "တောင်သူလယ်သမားနေ့",
     "isPublic": true
+  },
+  {
+    "date": "2027-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
   },
   {
     "date": "2027-03-22",
@@ -38,6 +48,11 @@
     "date": "2027-03-27",
     "name": "တပ်မတော်နေ့",
     "isPublic": true
+  },
+  {
+    "date": "2027-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2027-04-13",
@@ -85,9 +100,24 @@
     "isPublic": true
   },
   {
+    "date": "2027-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-01",
     "name": "မေဒေးနေ့",
     "isPublic": true
+  },
+  {
+    "date": "2027-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2027-05-17",
@@ -100,6 +130,16 @@
     "isPublic": true
   },
   {
+    "date": "2027-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-07-18",
     "name": "ဝါဆိုလပြည့်နေ့",
     "isPublic": true
@@ -108,6 +148,16 @@
     "date": "2027-07-19",
     "name": "အာဇာနည်နေ့",
     "isPublic": true
+  },
+  {
+    "date": "2027-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2027-10-14",
@@ -130,6 +180,16 @@
     "isPublic": true
   },
   {
+    "date": "2027-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2027-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-11-13",
     "name": "တန်ဆောင်တိုင်လပြည့်နေ့",
     "isPublic": true
@@ -148,5 +208,10 @@
     "date": "2027-12-28",
     "name": "ကရင်နှစ်သစ်ကူးနေ့",
     "isPublic": true
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

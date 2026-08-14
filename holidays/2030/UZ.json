@@ -10,6 +10,11 @@
     "isPublic": true
   },
   {
+    "date": "2030-02-14",
+    "name": "День всех влюблённых",
+    "isPublic": false
+  },
+  {
     "date": "2030-03-08",
     "name": "Xotin-qizlar kuni",
     "isPublic": true
@@ -18,6 +23,16 @@
     "date": "2030-03-21",
     "name": "Navroʻz bayrami",
     "isPublic": true
+  },
+  {
+    "date": "2030-04-01",
+    "name": "День смеха",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-12",
+    "name": "День космонавтики",
+    "isPublic": false
   },
   {
     "date": "2030-04-13",
@@ -30,9 +45,34 @@
     "isPublic": true
   },
   {
+    "date": "2030-04-22",
+    "name": "День Земли",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-23",
+    "name": "Всемирный день книги",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-09",
     "name": "Xotira va qadrlash kuni",
     "isPublic": true
+  },
+  {
+    "date": "2030-05-12",
+    "name": "Международный день медицинской сестры",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-21",
+    "name": "Международный день музыки",
+    "isPublic": false
   },
   {
     "date": "2030-09-01",
@@ -45,9 +85,29 @@
     "isPublic": true
   },
   {
+    "date": "2030-09-13",
+    "name": "День программиста",
+    "isPublic": false
+  },
+  {
     "date": "2030-10-01",
     "name": "Oʻqituvchi va murabbiylar kuni",
     "isPublic": true
+  },
+  {
+    "date": "2030-10-05",
+    "name": "Всемирный день учителя",
+    "isPublic": false
+  },
+  {
+    "date": "2030-10-31",
+    "name": "Хэллоуин",
+    "isPublic": false
+  },
+  {
+    "date": "2030-11-10",
+    "name": "Всемирный день науки",
+    "isPublic": false
   },
   {
     "date": "2030-12-08",
@@ -58,5 +118,10 @@
     "date": "2030-12-09",
     "name": "Oʻzbekiston Respublikasi Konstitutsiyasi kuni (koʻchirilgan)",
     "isPublic": true
+  },
+  {
+    "date": "2030-12-31",
+    "name": "Новогодний вечер",
+    "isPublic": false
   }
 ]

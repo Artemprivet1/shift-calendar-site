@@ -55,6 +55,11 @@
     "isPublic": true
   },
   {
+    "date": "2029-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-04-14",
     "name": "नेपाली नयाँ वर्ष",
     "isPublic": true
@@ -63,6 +68,11 @@
     "date": "2029-04-22",
     "name": "राम नवमी",
     "isPublic": true
+  },
+  {
+    "date": "2029-04-23",
+    "name": "World Book Day",
+    "isPublic": false
   },
   {
     "date": "2029-04-25",
@@ -75,6 +85,11 @@
     "isPublic": true
   },
   {
+    "date": "2029-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-05-27",
     "name": "बुद्ध जयन्ती",
     "isPublic": true
@@ -83,6 +98,16 @@
     "date": "2029-05-28",
     "name": "गणतन्त्र दिवस",
     "isPublic": true
+  },
+  {
+    "date": "2029-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2029-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2029-08-23",
@@ -95,9 +120,19 @@
     "isPublic": true
   },
   {
+    "date": "2029-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-09-19",
     "name": "संविधान दिवस",
     "isPublic": true
+  },
+  {
+    "date": "2029-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2029-10-08",
@@ -135,6 +170,11 @@
     "isPublic": true
   },
   {
+    "date": "2029-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
     "date": "2029-11-05",
     "name": "गाई तिहार; लक्ष्मीपूजा",
     "isPublic": true
@@ -150,6 +190,11 @@
     "isPublic": true
   },
   {
+    "date": "2029-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2029-11-11",
     "name": "छठ पर्व",
     "isPublic": true
@@ -163,5 +208,10 @@
     "date": "2029-12-30",
     "name": "तमु ल्हाेसार",
     "isPublic": true
+  },
+  {
+    "date": "2029-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

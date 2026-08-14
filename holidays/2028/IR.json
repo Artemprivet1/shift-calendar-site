@@ -10,6 +10,11 @@
     "isPublic": true
   },
   {
+    "date": "2028-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-02-18",
     "name": "شهادت حضرت علی علیه السلام (تخمینی)",
     "isPublic": true
@@ -23,6 +28,11 @@
     "date": "2028-02-28",
     "name": "تعطیل به مناسبت عید سعید فطر (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2028-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
   },
   {
     "date": "2028-03-19",
@@ -60,14 +70,34 @@
     "isPublic": true
   },
   {
+    "date": "2028-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-05-06",
     "name": "عید سعید قربان (تخمینی)",
     "isPublic": true
   },
   {
+    "date": "2028-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-05-14",
     "name": "عید سعید غدیر خم (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2028-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
   },
   {
     "date": "2028-06-03",
@@ -78,6 +108,11 @@
     "date": "2028-06-04",
     "name": "عاشورای حسینی (تخمینی); قیام 15 خرداد",
     "isPublic": true
+  },
+  {
+    "date": "2028-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2028-07-14",
@@ -105,9 +140,29 @@
     "isPublic": true
   },
   {
+    "date": "2028-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-10-22",
     "name": "شهادت حضرت فاطمه زهرا سلام الله علیها (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2028-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2028-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2028-12-01",
@@ -118,5 +173,10 @@
     "date": "2028-12-15",
     "name": "مبعث رسول اکرم (ص) (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2028-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

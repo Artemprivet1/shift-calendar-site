@@ -10,6 +10,11 @@
     "isPublic": true
   },
   {
+    "date": "2028-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-02-26",
     "name": "عيد الفطر (تقديري)",
     "isPublic": true
@@ -25,6 +30,11 @@
     "isPublic": true
   },
   {
+    "date": "2028-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-03-16",
     "name": "ذكرى جرائم البعث والأنفال والهجوم على حلبجة",
     "isPublic": true
@@ -33,6 +43,21 @@
     "date": "2028-03-21",
     "name": "عيد نوروز",
     "isPublic": true
+  },
+  {
+    "date": "2028-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-23",
+    "name": "World Book Day",
+    "isPublic": false
   },
   {
     "date": "2028-05-01",
@@ -60,6 +85,11 @@
     "isPublic": true
   },
   {
+    "date": "2028-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-05-13",
     "name": "عيد الغدير (تقديري)",
     "isPublic": true
@@ -70,13 +100,48 @@
     "isPublic": true
   },
   {
+    "date": "2028-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-06-03",
     "name": "عاشوراء (تقديري)",
     "isPublic": true
   },
   {
+    "date": "2028-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2028-08-03",
     "name": "المولد النبوي الشريف (تقديري)",
     "isPublic": true
+  },
+  {
+    "date": "2028-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2028-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

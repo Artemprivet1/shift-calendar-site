@@ -10,6 +10,16 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-03-18",
     "name": "عيد الفطر (تقديري)",
     "isPublic": true
@@ -35,6 +45,26 @@
     "isPublic": true
   },
   {
+    "date": "2026-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-26",
     "name": "عيد الأضحى (تقديري)",
     "isPublic": true
@@ -55,14 +85,44 @@
     "isPublic": true
   },
   {
+    "date": "2026-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-06-16",
     "name": "رأس السنة الهجرية (تقديري)",
     "isPublic": true
   },
   {
+    "date": "2026-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-08-25",
     "name": "مولد النبي (تقديري)",
     "isPublic": true
+  },
+  {
+    "date": "2026-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2026-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2026-11-20",
@@ -73,5 +133,10 @@
     "date": "2026-11-21",
     "name": "يوم وطني",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

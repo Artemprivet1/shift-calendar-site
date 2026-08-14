@@ -15,6 +15,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-02-15",
     "name": "Дан државности Србије",
     "isPublic": true
@@ -28,6 +33,16 @@
     "date": "2025-02-17",
     "name": "Дан државности Србије (слободан дан)",
     "isPublic": true
+  },
+  {
+    "date": "2025-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2025-04-18",
@@ -50,6 +65,16 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-05-01",
     "name": "Празник рада",
     "isPublic": true
@@ -60,8 +85,48 @@
     "isPublic": true
   },
   {
+    "date": "2025-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2025-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-11-11",
     "name": "Дан примирја у Првом светском рату",
     "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

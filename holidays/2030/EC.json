@@ -5,6 +5,11 @@
     "isPublic": true
   },
   {
+    "date": "2030-02-14",
+    "name": "Día de San Valentín",
+    "isPublic": false
+  },
+  {
     "date": "2030-03-04",
     "name": "Carnaval",
     "isPublic": true
@@ -15,9 +20,29 @@
     "isPublic": true
   },
   {
+    "date": "2030-03-08",
+    "name": "Día Internacional de la Mujer",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-01",
+    "name": "Día de las Bromas",
+    "isPublic": false
+  },
+  {
     "date": "2030-04-19",
     "name": "Viernes Santo",
     "isPublic": true
+  },
+  {
+    "date": "2030-04-22",
+    "name": "Día de la Tierra",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-23",
+    "name": "Día Mundial del Libro",
+    "isPublic": false
   },
   {
     "date": "2030-05-01",
@@ -30,9 +55,24 @@
     "isPublic": true
   },
   {
+    "date": "2030-05-12",
+    "name": "Día Internacional de la Enfermería",
+    "isPublic": false
+  },
+  {
     "date": "2030-05-24",
     "name": "Batalla de Pichincha",
     "isPublic": true
+  },
+  {
+    "date": "2030-06-01",
+    "name": "Día del Niño",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-21",
+    "name": "Día de la Música",
+    "isPublic": false
   },
   {
     "date": "2030-08-09",
@@ -45,6 +85,16 @@
     "isPublic": true
   },
   {
+    "date": "2030-09-13",
+    "name": "Día del Programador",
+    "isPublic": false
+  },
+  {
+    "date": "2030-10-05",
+    "name": "Día Mundial de los Docentes",
+    "isPublic": false
+  },
+  {
     "date": "2030-10-09",
     "name": "Independencia de Guayaquil",
     "isPublic": true
@@ -53,6 +103,11 @@
     "date": "2030-10-11",
     "name": "Independencia de Guayaquil (observado)",
     "isPublic": true
+  },
+  {
+    "date": "2030-10-31",
+    "name": "Halloween",
+    "isPublic": false
   },
   {
     "date": "2030-11-01",
@@ -75,8 +130,18 @@
     "isPublic": true
   },
   {
+    "date": "2030-11-10",
+    "name": "Día Mundial de la Ciencia",
+    "isPublic": false
+  },
+  {
     "date": "2030-12-25",
     "name": "Navidad",
     "isPublic": true
+  },
+  {
+    "date": "2030-12-31",
+    "name": "Nochevieja",
+    "isPublic": false
   }
 ]

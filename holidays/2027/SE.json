@@ -60,6 +60,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-03-14",
     "name": "Söndag",
     "isPublic": true
@@ -85,6 +90,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-04-04",
     "name": "Söndag",
     "isPublic": true
@@ -98,6 +108,16 @@
     "date": "2027-04-18",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2027-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-23",
+    "name": "World Book Day",
+    "isPublic": false
   },
   {
     "date": "2027-04-25",
@@ -125,6 +145,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-16",
     "name": "Pingstdagen; Söndag",
     "isPublic": true
@@ -140,6 +165,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-06-06",
     "name": "Nationaldagen; Söndag",
     "isPublic": true
@@ -153,6 +183,11 @@
     "date": "2027-06-20",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2027-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2027-06-26",
@@ -220,6 +255,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-09-19",
     "name": "Söndag",
     "isPublic": true
@@ -233,6 +273,11 @@
     "date": "2027-10-03",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2027-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2027-10-10",
@@ -263,6 +308,11 @@
     "date": "2027-11-07",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2027-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2027-11-14",
@@ -303,5 +353,10 @@
     "date": "2027-12-26",
     "name": "Annandag jul; Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

@@ -20,6 +20,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-03-19",
     "name": "روز ملی شدن صنعت نفت ایران",
     "isPublic": true
@@ -65,9 +70,29 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-04-24",
     "name": "شهادت امام جعفر صادق علیه السلام",
     "isPublic": true
+  },
+  {
+    "date": "2025-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
   },
   {
     "date": "2025-06-04",
@@ -88,6 +113,11 @@
     "date": "2025-06-14",
     "name": "عید سعید غدیر خم",
     "isPublic": true
+  },
+  {
+    "date": "2025-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2025-07-05",
@@ -125,8 +155,33 @@
     "isPublic": true
   },
   {
+    "date": "2025-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2025-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-11-24",
     "name": "شهادت حضرت فاطمه زهرا سلام الله علیها",
     "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

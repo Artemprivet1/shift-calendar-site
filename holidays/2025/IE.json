@@ -10,9 +10,24 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-03-17",
     "name": "Saint Patrick's Day",
     "isPublic": true
+  },
+  {
+    "date": "2025-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
   },
   {
     "date": "2025-04-21",
@@ -20,9 +35,29 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-05-05",
     "name": "May Day",
     "isPublic": true
+  },
+  {
+    "date": "2025-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
   },
   {
     "date": "2025-06-02",
@@ -30,14 +65,39 @@
     "isPublic": true
   },
   {
+    "date": "2025-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-08-04",
     "name": "August Bank Holiday",
     "isPublic": true
   },
   {
+    "date": "2025-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-10-27",
     "name": "October Bank Holiday",
     "isPublic": true
+  },
+  {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2025-11-10",
+    "name": "World Science Day",
+    "isPublic": false
   },
   {
     "date": "2025-12-25",
@@ -48,5 +108,10 @@
     "date": "2025-12-26",
     "name": "Saint Stephen's Day",
     "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

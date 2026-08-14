@@ -20,6 +20,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-03-01",
     "name": "تعطیلی عمومی",
     "isPublic": true
@@ -53,6 +58,11 @@
     "date": "2026-03-07",
     "name": "تعطیلی عمومی",
     "isPublic": true
+  },
+  {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
   },
   {
     "date": "2026-03-11",
@@ -100,9 +110,29 @@
     "isPublic": true
   },
   {
+    "date": "2026-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-28",
     "name": "عید سعید قربان (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2026-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
   },
   {
     "date": "2026-06-04",
@@ -113,6 +143,11 @@
     "date": "2026-06-05",
     "name": "عید سعید غدیر خم (تخمینی); قیام 15 خرداد",
     "isPublic": true
+  },
+  {
+    "date": "2026-06-21",
+    "name": "World Music Day",
+    "isPublic": false
   },
   {
     "date": "2026-06-25",
@@ -150,6 +185,26 @@
     "isPublic": true
   },
   {
+    "date": "2026-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2026-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-11-14",
     "name": "شهادت حضرت فاطمه زهرا سلام الله علیها (تخمینی)",
     "isPublic": true
@@ -158,5 +213,10 @@
     "date": "2026-12-23",
     "name": "ولادت امام علی علیه السلام و روز پدر (تخمینی)",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

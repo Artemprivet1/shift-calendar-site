@@ -20,6 +20,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-02-19",
     "name": "राष्ट्रिय प्रजातन्त्र दिवस",
     "isPublic": true
@@ -50,6 +55,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-04-01",
+    "name": "April Fools' Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-04-14",
     "name": "नेपाली नयाँ वर्ष",
     "isPublic": true
@@ -60,9 +70,24 @@
     "isPublic": true
   },
   {
+    "date": "2027-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-23",
+    "name": "World Book Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-01",
     "name": "अन्तर्राष्ट्रिय श्रम दिवस",
     "isPublic": true
+  },
+  {
+    "date": "2027-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
   },
   {
     "date": "2027-05-17",
@@ -80,6 +105,16 @@
     "isPublic": true
   },
   {
+    "date": "2027-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-08-17",
     "name": "जनै पूर्णिमा",
     "isPublic": true
@@ -90,6 +125,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-09-19",
     "name": "संविधान दिवस",
     "isPublic": true
@@ -98,6 +138,11 @@
     "date": "2027-09-30",
     "name": "घटस्थापना",
     "isPublic": true
+  },
+  {
+    "date": "2027-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
   },
   {
     "date": "2027-10-06",
@@ -150,6 +195,11 @@
     "isPublic": true
   },
   {
+    "date": "2027-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
     "date": "2027-12-25",
     "name": "क्रिसमसको दिन",
     "isPublic": true
@@ -158,5 +208,10 @@
     "date": "2027-12-30",
     "name": "तमु ल्हाेसार",
     "isPublic": true
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]

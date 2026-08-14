@@ -5,6 +5,16 @@
     "isPublic": true
   },
   {
+    "date": "2025-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-03-08",
+    "name": "International Women's Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-03-30",
     "name": "Ramazan Bayramı",
     "isPublic": true
@@ -20,6 +30,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-04-22",
+    "name": "Earth Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-04-23",
     "name": "Ulusal Egemenlik ve Çocuk Bayramı",
     "isPublic": true
@@ -30,9 +45,19 @@
     "isPublic": true
   },
   {
+    "date": "2025-05-12",
+    "name": "International Nurses Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-05-19",
     "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
     "isPublic": true
+  },
+  {
+    "date": "2025-06-01",
+    "name": "International Children's Day",
+    "isPublic": false
   },
   {
     "date": "2025-06-06",
@@ -55,6 +80,11 @@
     "isPublic": true
   },
   {
+    "date": "2025-06-21",
+    "name": "World Music Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-07-15",
     "name": "Demokrasi ve Millî Birlik Günü",
     "isPublic": true
@@ -65,8 +95,33 @@
     "isPublic": true
   },
   {
+    "date": "2025-09-13",
+    "name": "International Programmers' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "World Teachers' Day",
+    "isPublic": false
+  },
+  {
     "date": "2025-10-29",
     "name": "Cumhuriyet Bayramı",
     "isPublic": true
+  },
+  {
+    "date": "2025-10-31",
+    "name": "Halloween",
+    "isPublic": false
+  },
+  {
+    "date": "2025-11-10",
+    "name": "World Science Day",
+    "isPublic": false
+  },
+  {
+    "date": "2025-12-31",
+    "name": "New Year's Eve",
+    "isPublic": false
   }
 ]
