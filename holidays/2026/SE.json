@@ -25,6 +25,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-01-24",
+    "name": "International Day of Education",
+    "isPublic": false
+  },
+  {
     "date": "2026-01-25",
     "name": "Söndag",
     "isPublic": true
@@ -38,6 +43,11 @@
     "date": "2026-02-08",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-02-11",
+    "name": "International Day of Women and Girls in Science",
+    "isPublic": false
   },
   {
     "date": "2026-02-14",
@@ -70,6 +80,16 @@
     "isPublic": true
   },
   {
+    "date": "2026-03-20",
+    "name": "International Day of Happiness / Spring Equinox",
+    "isPublic": false
+  },
+  {
+    "date": "2026-03-21",
+    "name": "World Poetry Day / Forest Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-03-22",
     "name": "Söndag",
     "isPublic": true
@@ -78,11 +98,6 @@
     "date": "2026-03-29",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2026-04-01",
-    "name": "April Fools' Day",
-    "isPublic": false
   },
   {
     "date": "2026-04-03",
@@ -98,6 +113,11 @@
     "date": "2026-04-06",
     "name": "Annandag påsk",
     "isPublic": true
+  },
+  {
+    "date": "2026-04-07",
+    "name": "World Health Day",
+    "isPublic": false
   },
   {
     "date": "2026-04-12",
@@ -116,13 +136,18 @@
   },
   {
     "date": "2026-04-23",
-    "name": "World Book Day",
+    "name": "World Book and Copyright Day",
     "isPublic": false
   },
   {
     "date": "2026-04-26",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-04-28",
+    "name": "World Day for Safety and Health at Work",
+    "isPublic": false
   },
   {
     "date": "2026-05-01",
@@ -133,6 +158,11 @@
     "date": "2026-05-03",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-05-08",
+    "name": "Time of Remembrance and Reconciliation (WWII)",
+    "isPublic": false
   },
   {
     "date": "2026-05-10",
@@ -150,9 +180,24 @@
     "isPublic": true
   },
   {
+    "date": "2026-05-15",
+    "name": "International Day of Families",
+    "isPublic": false
+  },
+  {
     "date": "2026-05-17",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-05-21",
+    "name": "World Day for Cultural Diversity",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-22",
+    "name": "International Day for Biological Diversity",
+    "isPublic": false
   },
   {
     "date": "2026-05-24",
@@ -166,7 +211,12 @@
   },
   {
     "date": "2026-06-01",
-    "name": "International Children's Day",
+    "name": "Global Day of Parents & Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-06-05",
+    "name": "World Environment Day",
     "isPublic": false
   },
   {
@@ -178,6 +228,11 @@
     "date": "2026-06-07",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-06-08",
+    "name": "World Oceans Day",
+    "isPublic": false
   },
   {
     "date": "2026-06-14",
@@ -195,6 +250,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-06-23",
+    "name": "United Nations Public Service Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-06-28",
     "name": "Söndag",
     "isPublic": true
@@ -205,9 +265,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-07-11",
+    "name": "World Population Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-07-12",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-07-15",
+    "name": "World Youth Skills Day",
+    "isPublic": false
   },
   {
     "date": "2026-07-19",
@@ -220,6 +290,11 @@
     "isPublic": true
   },
   {
+    "date": "2026-07-30",
+    "name": "International Day of Friendship",
+    "isPublic": false
+  },
+  {
     "date": "2026-08-02",
     "name": "Söndag",
     "isPublic": true
@@ -230,9 +305,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-08-12",
+    "name": "International Youth Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-08-16",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-08-19",
+    "name": "World Humanitarian Day & Photography Day",
+    "isPublic": false
   },
   {
     "date": "2026-08-23",
@@ -250,9 +335,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-09-08",
+    "name": "International Literacy Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-09-13",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-09-15",
+    "name": "International Day of Democracy",
+    "isPublic": false
   },
   {
     "date": "2026-09-20",
@@ -260,9 +355,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-09-21",
+    "name": "International Day of Peace",
+    "isPublic": false
+  },
+  {
     "date": "2026-09-27",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-10-01",
+    "name": "International Day of Older Persons",
+    "isPublic": false
   },
   {
     "date": "2026-10-04",
@@ -275,9 +380,19 @@
     "isPublic": false
   },
   {
+    "date": "2026-10-10",
+    "name": "World Mental Health Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-10-11",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-10-16",
+    "name": "World Food Day",
+    "isPublic": false
   },
   {
     "date": "2026-10-18",
@@ -285,9 +400,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-10-24",
+    "name": "United Nations Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-10-25",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-10-28",
+    "name": "International Animation Day",
+    "isPublic": false
   },
   {
     "date": "2026-10-31",
@@ -306,13 +431,23 @@
   },
   {
     "date": "2026-11-10",
-    "name": "World Science Day",
+    "name": "World Science Day for Peace and Development",
     "isPublic": false
   },
   {
     "date": "2026-11-15",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-11-20",
+    "name": "World Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-11-21",
+    "name": "World Television Day & Philosophy Day",
+    "isPublic": false
   },
   {
     "date": "2026-11-22",
@@ -325,9 +460,29 @@
     "isPublic": true
   },
   {
+    "date": "2026-12-03",
+    "name": "International Day of Persons with Disabilities",
+    "isPublic": false
+  },
+  {
+    "date": "2026-12-05",
+    "name": "International Volunteer Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-12-06",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-07",
+    "name": "International Civil Aviation Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-12-10",
+    "name": "Human Rights Day",
+    "isPublic": false
   },
   {
     "date": "2026-12-13",
@@ -338,6 +493,11 @@
     "date": "2026-12-20",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "isPublic": false
   },
   {
     "date": "2026-12-25",

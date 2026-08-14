@@ -13,145 +13,63 @@ COUNTRIES = [
     "ZA", "NG", "KE", "GH", "ET"
 ]
 
-# Карта языков для каждой группы стран
-def get_country_lang_group(country):
-    if country in ["RU", "BY", "KZ", "KG", "UZ"]: return "ru"
-    if country in ["ES", "MX", "AR", "CL", "CO", "PE", "EC", "UY", "PY", "BO", "CR", "PA", "DO", "GT"]: return "es"
-    if country in ["DE", "AT", "CH"]: return "de"
-    if country in ["FR"]: return "fr"
-    if country in ["IT"]: return "it"
-    if country in ["BR", "PT"]: return "pt"
-    if country in ["PL"]: return "pl"
-    if country in ["TR"]: return "tr"
-    return "en"
+# Универсальный международный пакет дат для ВСЕХ 100 стран
+GLOBAL_OBSERVANCES = [
+    ("01-01", "New Year's Day"),
+    ("01-24", "International Day of Education"),
+    ("02-11", "International Day of Women and Girls in Science"),
+    ("02-14", "Valentine's Day"),
+    ("03-08", "International Women's Day"),
+    ("03-20", "International Day of Happiness / Spring Equinox"),
+    ("03-21", "World Poetry Day / Forest Day"),
+    ("03-22", "World Water Day"),
+    ("04-07", "World Health Day"),
+    ("04-12", "International Day of Human Space Flight"),
+    ("04-22", "Earth Day"),
+    ("04-23", "World Book and Copyright Day"),
+    ("04-28", "World Day for Safety and Health at Work"),
+    ("05-01", "International Workers' Day"),
+    ("05-03", "World Press Freedom Day"),
+    ("05-08", "Time of Remembrance and Reconciliation (WWII)"),
+    ("05-12", "International Nurses Day"),
+    ("05-15", "International Day of Families"),
+    ("05-21", "World Day for Cultural Diversity"),
+    ("05-22", "International Day for Biological Diversity"),
+    ("06-01", "Global Day of Parents & Children's Day"),
+    ("06-05", "World Environment Day"),
+    ("06-08", "World Oceans Day"),
+    ("06-21", "World Music Day (Fête de la Musique)"),
+    ("06-23", "United Nations Public Service Day"),
+    ("07-11", "World Population Day"),
+    ("07-15", "World Youth Skills Day"),
+    ("07-30", "International Day of Friendship"),
+    ("08-12", "International Youth Day"),
+    ("08-19", "World Humanitarian Day & Photography Day"),
+    ("09-08", "International Literacy Day"),
+    ("09-13", "International Programmers' Day"),
+    ("09-15", "International Day of Democracy"),
+    ("09-21", "International Day of Peace"),
+    ("09-27", "World Tourism Day"),
+    ("10-01", "International Day of Older Persons"),
+    ("10-05", "World Teachers' Day"),
+    ("10-10", "World Mental Health Day"),
+    ("10-16", "World Food Day"),
+    ("10-24", "United Nations Day"),
+    ("10-28", "International Animation Day"),
+    ("10-31", "Halloween / World Cities Day"),
+    ("11-10", "World Science Day for Peace and Development"),
+    ("11-20", "World Children's Day"),
+    ("11-21", "World Television Day & Philosophy Day"),
+    ("12-03", "International Day of Persons with Disabilities"),
+    ("12-05", "International Volunteer Day"),
+    ("12-07", "International Civil Aviation Day"),
+    ("12-10", "Human Rights Day"),
+    ("12-24", "Christmas Eve"),
+    ("12-25", "Christmas Day"),
+    ("12-31", "New Year's Eve")
+]
 
-# Международный пакет дат на разных языках
-GLOBAL_PACK = {
-    "ru": [
-        ("02-14", "День всех влюблённых"),
-        ("03-08", "Международный женский день"),
-        ("04-01", "День смеха"),
-        ("04-12", "День космонавтики"),
-        ("04-22", "День Земли"),
-        ("04-23", "Всемирный день книги"),
-        ("05-12", "Международный день медицинской сестры"),
-        ("06-01", "Международный день защиты детей"),
-        ("06-21", "Международный день музыки"),
-        ("09-01", "День знаний"),
-        ("09-13", "День программиста"),
-        ("10-05", "Всемирный день учителя"),
-        ("10-31", "Хэллоуин"),
-        ("11-10", "Всемирный день науки"),
-        ("12-31", "Новогодний вечер")
-    ],
-    "es": [
-        ("02-14", "Día de San Valentín"),
-        ("03-08", "Día Internacional de la Mujer"),
-        ("04-01", "Día de las Bromas"),
-        ("04-22", "Día de la Tierra"),
-        ("04-23", "Día Mundial del Libro"),
-        ("05-12", "Día Internacional de la Enfermería"),
-        ("06-01", "Día del Niño"),
-        ("06-21", "Día de la Música"),
-        ("09-13", "Día del Programador"),
-        ("10-05", "Día Mundial de los Docentes"),
-        ("10-31", "Halloween"),
-        ("11-10", "Día Mundial de la Ciencia"),
-        ("12-31", "Nochevieja")
-    ],
-    "de": [
-        ("02-14", "Valentinstag"),
-        ("03-08", "Internationaler Frauentag"),
-        ("04-01", "Erster April"),
-        ("04-22", "Tag der Erde"),
-        ("04-23", "Welttag des Buches"),
-        ("05-12", "Internationaler Tag der Pflege"),
-        ("06-01", "Internationaler Kindertag"),
-        ("06-21", "Fête de la Musique (Tag der Musik)"),
-        ("09-13", "Tag der Programmierer"),
-        ("10-05", "Weltlehrertag"),
-        ("10-31", "Halloween"),
-        ("11-10", "Welttag der Wissenschaft"),
-        ("12-31", "Silvester")
-    ],
-    "fr": [
-        ("02-14", "Saint-Valentin"),
-        ("03-08", "Journée internationale des droits des femmes"),
-        ("04-01", "Poisson d'avril"),
-        ("04-22", "Jour de la Terre"),
-        ("04-23", "Journée mondiale du livre"),
-        ("05-12", "Journée internationale des infirmières"),
-        ("06-01", "Journée internationale des enfants"),
-        ("06-21", "Fête de la Musique"),
-        ("09-13", "Journée des programmeurs"),
-        ("10-05", "Journée mondiale des enseignants"),
-        ("10-31", "Halloween"),
-        ("11-10", "Journée mondiale de la science"),
-        ("12-31", "Réveillon de la Saint-Sylvestre")
-    ],
-    "pt": [
-        ("02-14", "Dia de São Valentim"),
-        ("03-08", "Dia Internacional da Mulher"),
-        ("04-01", "Dia da Mentira"),
-        ("04-22", "Dia da Terra"),
-        ("04-23", "Dia Mundial do Livro"),
-        ("05-12", "Dia Internacional da Enfermagem"),
-        ("06-01", "Dia Mundial da Criança"),
-        ("06-21", "Dia da Música"),
-        ("09-13", "Dia do Programador"),
-        ("10-05", "Dia Mundial dos Professores"),
-        ("10-31", "Halloween"),
-        ("11-10", "Dia Mundial da Ciência"),
-        ("12-31", "Véspera de Ano Novo")
-    ],
-    "it": [
-        ("02-14", "Festa di San Valentino"),
-        ("03-08", "Giornata internazionale della donna"),
-        ("04-01", "Pesce d'aprile"),
-        ("04-22", "Giornata della Terra"),
-        ("04-23", "Giornata mondiale del libro"),
-        ("05-12", "Giornata internazionale dell'infermiere"),
-        ("06-01", "Giornata internazionale dei bambini"),
-        ("06-21", "Festa della Musica"),
-        ("09-13", "Giornata dei programmatori"),
-        ("10-05", "Giornata mondiale degli insegnanti"),
-        ("10-31", "Halloween"),
-        ("11-10", "Giornata mondiale della scienza"),
-        ("12-31", "Notte di San Silvestro")
-    ],
-    "pl": [
-        ("02-14", "Walentynki"),
-        ("03-08", "Dzień Kobiet"),
-        ("04-01", "Prima aprilis"),
-        ("04-22", "Dzień Ziemi"),
-        ("04-23", "Światowy Dzień Książki"),
-        ("05-12", "Międzynarodowy Dzień Pielęgniarek"),
-        ("06-01", "Dzień Dziecka"),
-        ("06-21", "Święto Muzyki"),
-        ("09-01", "Dzień Wiedzy"),
-        ("09-13", "Dzień Programisty"),
-        ("10-05", "Światowy Dzień Nauczyciela"),
-        ("10-31", "Halloween"),
-        ("11-10", "Światowy Dzień Nauki"),
-        ("12-31", "Sylwester")
-    ],
-    "en": [
-        ("02-14", "Valentine's Day"),
-        ("03-08", "International Women's Day"),
-        ("04-01", "April Fools' Day"),
-        ("04-22", "Earth Day"),
-        ("04-23", "World Book Day"),
-        ("05-12", "International Nurses Day"),
-        ("06-01", "International Children's Day"),
-        ("06-21", "World Music Day"),
-        ("09-13", "International Programmers' Day"),
-        ("10-05", "World Teachers' Day"),
-        ("10-31", "Halloween"),
-        ("11-10", "World Science Day"),
-        ("12-31", "New Year's Eve")
-    ]
-}
-
+# Кастомные даты для России
 RU_CUSTOM_DAYS = [
     ("01-12", "День работника прокуратуры"),
     ("01-13", "День российской печати"),
@@ -208,9 +126,8 @@ def generate():
         
         for country in COUNTRIES:
             holiday_dict = {}
-            lang_group = get_country_lang_group(country)
             
-            # 1. Запрашиваем праздники на родном языке страны
+            # 1. Запрашиваем ВСЕ категории из библиотеки Python Holidays (не только public!)
             try:
                 all_cats = getattr(holidays, 'ALL_CATEGORIES', None)
                 if all_cats is not None:
@@ -228,9 +145,8 @@ def generate():
             except Exception:
                 pass
 
-            # 2. Добавляем международный пакет на языке страны
-            obs_list = GLOBAL_PACK.get(lang_group, GLOBAL_PACK["en"])
-            for md, name in obs_list:
+            # 2. Добавляем универсальный международный пакет (ООН, экология, культура, профессии)
+            for md, name in GLOBAL_OBSERVANCES:
                 date_str = f"{year}-{md}"
                 if date_str not in holiday_dict:
                     holiday_dict[date_str] = {
@@ -239,7 +155,7 @@ def generate():
                         "isPublic": False
                     }
 
-            # 3. Добавляем профессиональные дни для РФ
+            # 3. Добавляем специфические профессиональные дни для РФ
             if country == "RU":
                 for md, name in RU_CUSTOM_DAYS:
                     date_str = f"{year}-{md}"
@@ -249,15 +165,17 @@ def generate():
                         "isPublic": (md in ["01-01","01-02","01-03","01-04","01-05","01-06","01-07","01-08","02-23","03-08","05-01","05-09","06-12","11-04"])
                     }
 
+            # Превращаем в отсортированный список
             holiday_list = list(holiday_dict.values())
             holiday_list.sort(key=lambda x: x["date"])
 
+            # Записываем чистый JSON без BOM
             file_path = os.path.join(year_dir, f"{country}.json")
             with open(file_path, "w", encoding="utf-8") as f:
                 json.dump(holiday_list, f, ensure_ascii=False, indent=2)
             total_files += 1
 
-    print(f"Готово! Все 100 стран переведены на их родные языки (всего {total_files} файлов)!")
+    print(f"Успех! Сгенерировано {total_files} насыщенных файлов (в среднем по 40–60 дат на страну)!")
 
 if __name__ == "__main__":
     generate()

@@ -25,6 +25,11 @@
     "isPublic": true
   },
   {
+    "date": "2031-01-24",
+    "name": "International Day of Education",
+    "isPublic": false
+  },
+  {
     "date": "2031-01-26",
     "name": "Söndag",
     "isPublic": true
@@ -38,6 +43,11 @@
     "date": "2031-02-09",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-02-11",
+    "name": "International Day of Women and Girls in Science",
+    "isPublic": false
   },
   {
     "date": "2031-02-14",
@@ -75,6 +85,21 @@
     "isPublic": true
   },
   {
+    "date": "2031-03-20",
+    "name": "International Day of Happiness / Spring Equinox",
+    "isPublic": false
+  },
+  {
+    "date": "2031-03-21",
+    "name": "World Poetry Day / Forest Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-03-22",
+    "name": "World Water Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-03-23",
     "name": "Söndag",
     "isPublic": true
@@ -85,19 +110,24 @@
     "isPublic": true
   },
   {
-    "date": "2031-04-01",
-    "name": "April Fools' Day",
-    "isPublic": false
-  },
-  {
     "date": "2031-04-06",
     "name": "Söndag",
     "isPublic": true
   },
   {
+    "date": "2031-04-07",
+    "name": "World Health Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-04-11",
     "name": "Långfredagen",
     "isPublic": true
+  },
+  {
+    "date": "2031-04-12",
+    "name": "International Day of Human Space Flight",
+    "isPublic": false
   },
   {
     "date": "2031-04-13",
@@ -121,7 +151,7 @@
   },
   {
     "date": "2031-04-23",
-    "name": "World Book Day",
+    "name": "World Book and Copyright Day",
     "isPublic": false
   },
   {
@@ -130,14 +160,29 @@
     "isPublic": true
   },
   {
+    "date": "2031-04-28",
+    "name": "World Day for Safety and Health at Work",
+    "isPublic": false
+  },
+  {
     "date": "2031-05-01",
     "name": "Första maj",
     "isPublic": true
   },
   {
+    "date": "2031-05-03",
+    "name": "World Press Freedom Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-05-04",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-05-08",
+    "name": "Time of Remembrance and Reconciliation (WWII)",
+    "isPublic": false
   },
   {
     "date": "2031-05-11",
@@ -150,9 +195,19 @@
     "isPublic": false
   },
   {
+    "date": "2031-05-15",
+    "name": "International Day of Families",
+    "isPublic": false
+  },
+  {
     "date": "2031-05-18",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-05-21",
+    "name": "World Day for Cultural Diversity",
+    "isPublic": false
   },
   {
     "date": "2031-05-22",
@@ -168,6 +223,11 @@
     "date": "2031-06-01",
     "name": "Pingstdagen; Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-06-05",
+    "name": "World Environment Day",
+    "isPublic": false
   },
   {
     "date": "2031-06-06",
@@ -195,6 +255,11 @@
     "isPublic": true
   },
   {
+    "date": "2031-06-23",
+    "name": "United Nations Public Service Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-06-29",
     "name": "Söndag",
     "isPublic": true
@@ -205,9 +270,19 @@
     "isPublic": true
   },
   {
+    "date": "2031-07-11",
+    "name": "World Population Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-07-13",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-07-15",
+    "name": "World Youth Skills Day",
+    "isPublic": false
   },
   {
     "date": "2031-07-20",
@@ -220,6 +295,11 @@
     "isPublic": true
   },
   {
+    "date": "2031-07-30",
+    "name": "International Day of Friendship",
+    "isPublic": false
+  },
+  {
     "date": "2031-08-03",
     "name": "Söndag",
     "isPublic": true
@@ -230,9 +310,19 @@
     "isPublic": true
   },
   {
+    "date": "2031-08-12",
+    "name": "International Youth Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-08-17",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-08-19",
+    "name": "World Humanitarian Day & Photography Day",
+    "isPublic": false
   },
   {
     "date": "2031-08-24",
@@ -250,6 +340,11 @@
     "isPublic": true
   },
   {
+    "date": "2031-09-08",
+    "name": "International Literacy Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-09-13",
     "name": "International Programmers' Day",
     "isPublic": false
@@ -260,9 +355,19 @@
     "isPublic": true
   },
   {
+    "date": "2031-09-15",
+    "name": "International Day of Democracy",
+    "isPublic": false
+  },
+  {
     "date": "2031-09-21",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-09-27",
+    "name": "World Tourism Day",
+    "isPublic": false
   },
   {
     "date": "2031-09-28",
@@ -270,9 +375,19 @@
     "isPublic": true
   },
   {
+    "date": "2031-10-01",
+    "name": "International Day of Older Persons",
+    "isPublic": false
+  },
+  {
     "date": "2031-10-05",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-10-10",
+    "name": "World Mental Health Day",
+    "isPublic": false
   },
   {
     "date": "2031-10-12",
@@ -280,9 +395,19 @@
     "isPublic": true
   },
   {
+    "date": "2031-10-16",
+    "name": "World Food Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-10-19",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-10-24",
+    "name": "United Nations Day",
+    "isPublic": false
   },
   {
     "date": "2031-10-26",
@@ -290,8 +415,13 @@
     "isPublic": true
   },
   {
+    "date": "2031-10-28",
+    "name": "International Animation Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-10-31",
-    "name": "Halloween",
+    "name": "Halloween / World Cities Day",
     "isPublic": false
   },
   {
@@ -311,13 +441,23 @@
   },
   {
     "date": "2031-11-10",
-    "name": "World Science Day",
+    "name": "World Science Day for Peace and Development",
     "isPublic": false
   },
   {
     "date": "2031-11-16",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-11-20",
+    "name": "World Children's Day",
+    "isPublic": false
+  },
+  {
+    "date": "2031-11-21",
+    "name": "World Television Day & Philosophy Day",
+    "isPublic": false
   },
   {
     "date": "2031-11-23",
@@ -330,9 +470,24 @@
     "isPublic": true
   },
   {
+    "date": "2031-12-03",
+    "name": "International Day of Persons with Disabilities",
+    "isPublic": false
+  },
+  {
+    "date": "2031-12-05",
+    "name": "International Volunteer Day",
+    "isPublic": false
+  },
+  {
     "date": "2031-12-07",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-12-10",
+    "name": "Human Rights Day",
+    "isPublic": false
   },
   {
     "date": "2031-12-14",
@@ -343,6 +498,11 @@
     "date": "2031-12-21",
     "name": "Söndag",
     "isPublic": true
+  },
+  {
+    "date": "2031-12-24",
+    "name": "Christmas Eve",
+    "isPublic": false
   },
   {
     "date": "2031-12-25",
