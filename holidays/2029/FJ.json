@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2029-01-01",
+    "name": "New Year's Day",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Good Friday",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-31",
+    "name": "Easter Saturday",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-02",
+    "name": "Easter Monday",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-14",
+    "name": "Girmit Day",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-25",
+    "name": "Ratu Sir Lala Sukuna Day",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-24",
+    "name": "Prophet Mohammed's Birthday (estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-10",
+    "name": "Fiji Day",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-05",
+    "name": "Diwali (estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Christmas Day",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-26",
+    "name": "Boxing Day",
+    "isPublic": true
+  }
+]

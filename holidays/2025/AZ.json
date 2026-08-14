@@ -1,29 +1,157 @@
 [
-  { "date": "2025-01-01", "name": "Yeni il (New Year's Day)", "isPublic": true },
-  { "date": "2025-01-02", "name": "Yeni il (Day 2)", "isPublic": true },
-  { "date": "2025-01-20", "name": "Ümumxalq Hüzn Günü (Black January Mourning)", "isPublic": true },
-  { "date": "2025-02-02", "name": "Gənclər Günü (Youth Day)", "isPublic": false },
-  { "date": "2025-02-14", "name": "Sevgililər Günü (Valentine's Day)", "isPublic": false },
-  { "date": "2025-02-26", "name": "Xocalı soyqırımı qurbanlarının anım günü", "isPublic": false },
-  { "date": "2025-03-08", "name": "Beynəlxalq Qadınlar Günü (Women's Day)", "isPublic": true },
-  { "date": "2025-03-20", "name": "Novruz Bayramı", "isPublic": true },
-  { "date": "2025-03-21", "name": "Novruz Bayramı (Day 2)", "isPublic": true },
-  { "date": "2025-03-22", "name": "Novruz Bayramı (Day 3)", "isPublic": true },
-  { "date": "2025-04-22", "name": "Yer Günü (Earth Day)", "isPublic": false },
-  { "date": "2025-05-09", "name": "Faşizm üzərində Qələbə Günü (Victory Day)", "isPublic": true },
-  { "date": "2025-05-10", "name": "Gül Bayramı (Flower Festival)", "isPublic": false },
-  { "date": "2025-05-12", "name": "Tibb Bacıları Günü (Nurses Day)", "isPublic": false },
-  { "date": "2025-05-28", "name": "Müstəqillik Günü (Independence Day)", "isPublic": true },
-  { "date": "2025-06-01", "name": "Uşaqların Beynəlxalq Müdafiəsi Günü", "isPublic": false },
-  { "date": "2025-06-15", "name": "Milli Qurtuluş Günü (National Salvation Day)", "isPublic": true },
-  { "date": "2025-06-26", "name": "Azərbaycan Respublikasının Silahlı Qüvvələri Günü", "isPublic": true },
-  { "date": "2025-09-01", "name": "Bilik Günü (First School Day)", "isPublic": false },
-  { "date": "2025-09-13", "name": "Proqramçılar Günü (Programmers' Day)", "isPublic": false },
-  { "date": "2025-09-18", "name": "Milli Musiqi Günü (National Music Day)", "isPublic": false },
-  { "date": "2025-10-05", "name": "Beynəlxalq Müəllimlər Günü (Teachers' Day)", "isPublic": false },
-  { "date": "2025-10-18", "name": "Müstəqilliyin Bərpası Günü", "isPublic": false },
-  { "date": "2025-10-31", "name": "Hellouin (Halloween)", "isPublic": false },
-  { "date": "2025-11-08", "name": "Zəfər Günü (Victory Day)", "isPublic": true },
-  { "date": "2025-11-09", "name": "Dövlət Bayrağı Günü (Flag Day)", "isPublic": true },
-  { "date": "2025-12-31", "name": "Dünya Azərbaycanlılarının Həmrəyliyi Günü", "isPublic": true }
+  {
+    "date": "2025-01-01",
+    "name": "Yeni il bayramı",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-02",
+    "name": "Yeni il bayramı",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-03",
+    "name": "İstirahət günü (29.12.2024 ilə əvəz edilmişdir)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-20",
+    "name": "Ümumxalq hüzn günü",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-29",
+    "name": "Bələdiyyə seçkiləri",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-08",
+    "name": "Qadınlar günü",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-20",
+    "name": "Novruz bayramı",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-21",
+    "name": "Novruz bayramı",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-22",
+    "name": "Novruz bayramı",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-23",
+    "name": "Novruz bayramı",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-24",
+    "name": "Novruz bayramı",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-25",
+    "name": "Novruz bayramı (müşahidə olunur)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-26",
+    "name": "Novruz bayramı (müşahidə olunur)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-27",
+    "name": "İstirahət günü (10.03.2025 ilə əvəz edilmişdir)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-28",
+    "name": "İstirahət günü (01.04.2025 ilə əvəz edilmişdir)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-30",
+    "name": "Ramazan bayrami",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-31",
+    "name": "Ramazan bayrami",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-09",
+    "name": "Faşizm üzərində qələbə günü",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-28",
+    "name": "Müstəqillik Günü",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-06",
+    "name": "Qurban bayrami",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-07",
+    "name": "Qurban bayrami",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Qurban bayrami (müşahidə olunur)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-15",
+    "name": "Azərbaycan xalqının milli qurtuluş günü",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-16",
+    "name": "Azərbaycan xalqının milli qurtuluş günü (müşahidə olunur)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-26",
+    "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-27",
+    "name": "İstirahət günü (21.06.2025 ilə əvəz edilmişdir)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-08",
+    "name": "Zəfər Günü",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-09",
+    "name": "Azərbaycan Respublikasının Dövlət bayrağı günü",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-10",
+    "name": "Zəfər Günü (müşahidə olunur)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-11",
+    "name": "Azərbaycan Respublikasının Dövlət bayrağı günü (müşahidə olunur)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-31",
+    "name": "Dünya azərbaycanlılarının həmrəyliyi günü",
+    "isPublic": true
+  }
 ]

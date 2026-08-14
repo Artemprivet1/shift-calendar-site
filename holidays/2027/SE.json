@@ -1,32 +1,307 @@
 [
-  { "date": "2027-01-01", "name": "Nyårsdagen (New Year's Day)", "isPublic": true },
-  { "date": "2027-01-06", "name": "Trettondedag jul (Epiphany)", "isPublic": true },
-  { "date": "2027-01-13", "name": "Tjugondag Knut", "isPublic": false },
-  { "date": "2027-02-14", "name": "Alla hjärtans dag (Valentine's Day)", "isPublic": false },
-  { "date": "2027-02-17", "name": "Fettisdagen (Semla Day)", "isPublic": false },
-  { "date": "2027-03-08", "name": "Internationella kvinnodagen", "isPublic": false },
-  { "date": "2027-03-25", "name": "Våffeldagen (Waffle Day)", "isPublic": false },
-  { "date": "2027-04-03", "name": "Långfredagen", "isPublic": true },
-  { "date": "2027-04-05", "name": "Påskdagen", "isPublic": true },
-  { "date": "2027-04-06", "name": "Annandag påsk", "isPublic": true },
-  { "date": "2027-04-22", "name": "Jordens dag (Earth Day)", "isPublic": false },
-  { "date": "2027-04-30", "name": "Valborgsmässoafton (Walpurgis Night)", "isPublic": false },
-  { "date": "2027-05-01", "name": "Första maj (Labor Day)", "isPublic": true },
-  { "date": "2027-05-12", "name": "Internationella sjuksköterskedagen (Nurses Day)", "isPublic": false },
-  { "date": "2027-05-14", "name": "Kristi himmelsfärdsdag", "isPublic": true },
-  { "date": "2027-05-24", "name": "Pingstdagen", "isPublic": true },
-  { "date": "2027-05-31", "name": "Mors dag", "isPublic": false },
-  { "date": "2027-06-06", "name": "Sveriges nationaldag (National Day)", "isPublic": true },
-  { "date": "2027-06-19", "name": "Midsommarafton (Midsummer Eve)", "isPublic": false },
-  { "date": "2027-06-20", "name": "Midsommardagen (Midsummer Day)", "isPublic": true },
-  { "date": "2027-09-13", "name": "Programmerarens dag", "isPublic": false },
-  { "date": "2027-10-04", "name": "Kanelbullens dag (Cinnamon Bun Day)", "isPublic": false },
-  { "date": "2027-10-05", "name": "Världslärardagen (Teachers' Day)", "isPublic": false },
-  { "date": "2027-10-31", "name": "Alla helgons dag & Halloween", "isPublic": true },
-  { "date": "2027-11-08", "name": "Fars dag", "isPublic": false },
-  { "date": "2027-12-13", "name": "Luciadagen (Saint Lucy's Day)", "isPublic": false },
-  { "date": "2027-12-24", "name": "Julafton (Christmas Eve)", "isPublic": false },
-  { "date": "2027-12-25", "name": "Juldagen", "isPublic": true },
-  { "date": "2027-12-26", "name": "Annandag jul", "isPublic": true },
-  { "date": "2027-12-31", "name": "Nyårsafton", "isPublic": false }
+  {
+    "date": "2027-01-01",
+    "name": "Nyårsdagen",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-03",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Trettondedag jul",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-10",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-17",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-24",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-31",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-07",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-14",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-21",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-28",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-07",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-14",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-21",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Långfredagen",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Påskdagen; Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Annandag påsk",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-04",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-11",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-18",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-25",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Första maj",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Kristi himmelsfärdsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-09",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pingstdagen; Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-23",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-30",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-06",
+    "name": "Nationaldagen; Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-13",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-20",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-26",
+    "name": "Midsommardagen",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-27",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-04",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-11",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-18",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-25",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-01",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-08",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-22",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-29",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-09-05",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-09-12",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-09-19",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-09-26",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-03",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-10",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-17",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-24",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-31",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-06",
+    "name": "Alla helgons dag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-07",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-14",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-21",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-28",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-05",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-12",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-19",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Juldagen",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Annandag jul; Söndag",
+    "isPublic": true
+  }
 ]

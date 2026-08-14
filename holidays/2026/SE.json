@@ -1,32 +1,317 @@
 [
-  { "date": "2026-01-01", "name": "Nyårsdagen (New Year's Day)", "isPublic": true },
-  { "date": "2026-01-06", "name": "Trettondedag jul (Epiphany)", "isPublic": true },
-  { "date": "2026-01-13", "name": "Tjugondag Knut", "isPublic": false },
-  { "date": "2026-02-14", "name": "Alla hjärtans dag (Valentine's Day)", "isPublic": false },
-  { "date": "2026-02-17", "name": "Fettisdagen (Semla Day)", "isPublic": false },
-  { "date": "2026-03-08", "name": "Internationella kvinnodagen", "isPublic": false },
-  { "date": "2026-03-25", "name": "Våffeldagen (Waffle Day)", "isPublic": false },
-  { "date": "2026-04-03", "name": "Långfredagen", "isPublic": true },
-  { "date": "2026-04-05", "name": "Påskdagen", "isPublic": true },
-  { "date": "2026-04-06", "name": "Annandag påsk", "isPublic": true },
-  { "date": "2026-04-22", "name": "Jordens dag (Earth Day)", "isPublic": false },
-  { "date": "2026-04-30", "name": "Valborgsmässoafton (Walpurgis Night)", "isPublic": false },
-  { "date": "2026-05-01", "name": "Första maj (Labor Day)", "isPublic": true },
-  { "date": "2026-05-12", "name": "Internationella sjuksköterskedagen (Nurses Day)", "isPublic": false },
-  { "date": "2026-05-14", "name": "Kristi himmelsfärdsdag", "isPublic": true },
-  { "date": "2026-05-24", "name": "Pingstdagen", "isPublic": true },
-  { "date": "2026-05-31", "name": "Mors dag", "isPublic": false },
-  { "date": "2026-06-06", "name": "Sveriges nationaldag (National Day)", "isPublic": true },
-  { "date": "2026-06-19", "name": "Midsommarafton (Midsummer Eve)", "isPublic": false },
-  { "date": "2026-06-20", "name": "Midsommardagen (Midsummer Day)", "isPublic": true },
-  { "date": "2026-09-13", "name": "Programmerarens dag", "isPublic": false },
-  { "date": "2026-10-04", "name": "Kanelbullens dag (Cinnamon Bun Day)", "isPublic": false },
-  { "date": "2026-10-05", "name": "Världslärardagen (Teachers' Day)", "isPublic": false },
-  { "date": "2026-10-31", "name": "Alla helgons dag & Halloween", "isPublic": true },
-  { "date": "2026-11-08", "name": "Fars dag", "isPublic": false },
-  { "date": "2026-12-13", "name": "Luciadagen (Saint Lucy's Day)", "isPublic": false },
-  { "date": "2026-12-24", "name": "Julafton (Christmas Eve)", "isPublic": false },
-  { "date": "2026-12-25", "name": "Juldagen", "isPublic": true },
-  { "date": "2026-12-26", "name": "Annandag jul", "isPublic": true },
-  { "date": "2026-12-31", "name": "Nyårsafton", "isPublic": false }
+  {
+    "date": "2026-01-01",
+    "name": "Nyårsdagen",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-04",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Trettondedag jul",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-11",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-18",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-25",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-01",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-08",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-15",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-22",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-01",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-08",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-15",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-22",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-29",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Långfredagen",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Påskdagen; Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Annandag påsk",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-19",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-26",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Första maj",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Kristi himmelsfärdsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-17",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pingstdagen; Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-06",
+    "name": "Nationaldagen",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-07",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-14",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-20",
+    "name": "Midsommardagen",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-21",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-28",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-05",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-12",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-19",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-26",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-02",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-09",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-16",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-23",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-30",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-06",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-13",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-20",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-27",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-04",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-11",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-18",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Alla helgons dag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-15",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-22",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-29",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-06",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-13",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-20",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Juldagen",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Annandag jul",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-27",
+    "name": "Söndag",
+    "isPublic": true
+  }
 ]

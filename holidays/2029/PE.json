@@ -1,0 +1,87 @@
+[
+  {
+    "date": "2029-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-29",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Domingo de Resurrección",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-07",
+    "name": "Batalla de Arica y Día de la Bandera",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-29",
+    "name": "San Pedro y San Pablo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-23",
+    "name": "Día de la Fuerza Aérea del Perú",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-28",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-29",
+    "name": "Día de la Gran Parada Militar",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-06",
+    "name": "Batalla de Junín",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-30",
+    "name": "Santa Rosa de Lima",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-08",
+    "name": "Combate de Angamos",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-01",
+    "name": "Todos Los Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-08",
+    "name": "Inmaculada Concepción",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-09",
+    "name": "Batalla de Ayacucho",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Navidad del Señor",
+    "isPublic": true
+  }
+]

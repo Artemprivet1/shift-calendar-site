@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2025-01-07",
+    "name": "የገና ወይም የልደት በዓል",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-19",
+    "name": "የጥምቀት በዓል",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-02",
+    "name": "የአድዋ ድል በዓል",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-30",
+    "name": "የኢድ አልፈጥር",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "የስቅለት በዓል",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "የትንሳኤ(ፋሲካ) በዓል",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "የዓለም የሠራተኞች (የላብአደሮች) ቀን",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-05",
+    "name": "የአርበኞች (የድል) ቀን በዓል",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-28",
+    "name": "ደርግ የወደቀበት ቀን",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-06",
+    "name": "የኢድ አልአድሃ (አረፋ)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-05",
+    "name": "የመውሊድ በዓል",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-11",
+    "name": "የዘመን መለወጫ (እንቁጣጣሽ) በዓል",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-27",
+    "name": "የመስቀል በዓል",
+    "isPublic": true
+  }
+]

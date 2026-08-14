@@ -1,31 +1,82 @@
 [
-  { "date": "2027-01-01", "name": "New Year's Day", "isPublic": true },
-  { "date": "2027-01-07", "name": "Coptic Christmas Day", "isPublic": true },
-  { "date": "2027-01-25", "name": "Revolution Day 2011 & National Police Day", "isPublic": true },
-  { "date": "2027-02-08", "name": "First Day of Ramadan", "isPublic": false },
-  { "date": "2027-02-14", "name": "Valentine's Day", "isPublic": false },
-  { "date": "2027-03-08", "name": "International Women's Day", "isPublic": false },
-  { "date": "2027-03-09", "name": "Eid al-Fitr – Day 1", "isPublic": true },
-  { "date": "2027-03-10", "name": "Eid al-Fitr – Day 2", "isPublic": true },
-  { "date": "2027-03-11", "name": "Eid al-Fitr – Day 3", "isPublic": true },
-  { "date": "2027-03-21", "name": "Mother's Day", "isPublic": false },
-  { "date": "2027-04-22", "name": "Earth Day", "isPublic": false },
-  { "date": "2027-04-25", "name": "Sinai Liberation Day", "isPublic": true },
-  { "date": "2027-05-01", "name": "Labor Day", "isPublic": true },
-  { "date": "2027-05-03", "name": "Sham El Nessim (Spring Festival)", "isPublic": true },
-  { "date": "2027-05-12", "name": "International Nurses Day", "isPublic": false },
-  { "date": "2027-05-16", "name": "Arafat Day", "isPublic": true },
-  { "date": "2027-05-17", "name": "Eid al-Adha – Day 1", "isPublic": true },
-  { "date": "2027-05-18", "name": "Eid al-Adha – Day 2", "isPublic": true },
-  { "date": "2027-05-19", "name": "Eid al-Adha – Day 3", "isPublic": true },
-  { "date": "2027-06-06", "name": "Hijri New Year", "isPublic": true },
-  { "date": "2027-06-18", "name": "Evacuation Day", "isPublic": false },
-  { "date": "2027-06-21", "name": "Father's Day", "isPublic": false },
-  { "date": "2027-06-30", "name": "June 30 Revolution Day", "isPublic": true },
-  { "date": "2027-07-23", "name": "Revolution Day 1952 (National Day)", "isPublic": true },
-  { "date": "2027-08-15", "name": "Mawlid al-Nabi (Prophet's Birthday)", "isPublic": true },
-  { "date": "2027-09-13", "name": "Programmers' Day", "isPublic": false },
-  { "date": "2027-10-05", "name": "World Teachers' Day", "isPublic": false },
-  { "date": "2027-10-06", "name": "Armed Forces Day (6th of October Victory)", "isPublic": true },
-  { "date": "2027-12-31", "name": "New Year's Eve", "isPublic": false }
+  {
+    "date": "2027-01-07",
+    "name": "عيد الميلاد المجيد",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-28",
+    "name": "ثورة ٢٥ يناير وعيد الشرطة (يوم تعويضي)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-09",
+    "name": "عيد الفطر المبارك (تقديري)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-10",
+    "name": "عيد الفطر المبارك (تقديري)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-29",
+    "name": "عيد تحرير سيناء (يوم تعويضي)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "عيد العمال",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-03",
+    "name": "عيد شم النسيم",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-15",
+    "name": "وقفة عيد الأضحى المبارك (تقديري)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-16",
+    "name": "عيد الأضحى المبارك (تقديري)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-17",
+    "name": "عيد الأضحى المبارك (تقديري)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-18",
+    "name": "عيد الأضحى المبارك (تقديري)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-10",
+    "name": "رأس السنة الهجرية (يوم تعويضي تقديري)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-01",
+    "name": "عيد ثورة ٣٠ يونيو (يوم تعويضي)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-23",
+    "name": "عيد ثورة ٢٣ يوليو",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-14",
+    "name": "المولد النبوي الشريف (تقديري)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-07",
+    "name": "عيد القوات المسلحة (يوم تعويضي)",
+    "isPublic": true
+  }
 ]

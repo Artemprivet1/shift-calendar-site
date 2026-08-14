@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2028-01-01",
+    "name": "Yangi yil",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-03",
+    "name": "Yangi yil (koʻchirilgan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-26",
+    "name": "Roʻza hayit (taxminiy)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-28",
+    "name": "Roʻza hayit (koʻchirilgan, taxminiy)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-03-08",
+    "name": "Xotin-qizlar kuni",
+    "isPublic": true
+  },
+  {
+    "date": "2028-03-21",
+    "name": "Navroʻz bayrami",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-05",
+    "name": "Qurbon hayit (taxminiy)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-09",
+    "name": "Xotira va qadrlash kuni",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-01",
+    "name": "Mustaqillik kuni",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-01",
+    "name": "Oʻqituvchi va murabbiylar kuni",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-02",
+    "name": "Oʻqituvchi va murabbiylar kuni (koʻchirilgan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-08",
+    "name": "Oʻzbekiston Respublikasi Konstitutsiyasi kuni",
+    "isPublic": true
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "date": "2030-01-01",
+    "name": "一月一日",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-04",
+    "name": "農曆年初二",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-05",
+    "name": "農曆年初三",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-06",
+    "name": "農曆年初四",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-05",
+    "name": "清明節",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "耶穌受難節",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-20",
+    "name": "耶穌受難節翌日",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-22",
+    "name": "復活節星期一",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "勞動節",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-09",
+    "name": "佛誕",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-05",
+    "name": "端午節",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-01",
+    "name": "香港特別行政區成立紀念日",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-13",
+    "name": "中秋節翌日",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-01",
+    "name": "國慶日",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-05",
+    "name": "重陽節",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "聖誕節",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-26",
+    "name": "聖誕節後第一個周日",
+    "isPublic": true
+  }
+]

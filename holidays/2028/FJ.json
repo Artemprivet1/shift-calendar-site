@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2028-01-01",
+    "name": "New Year's Day",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-03",
+    "name": "New Year's Day (observed)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Good Friday",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-15",
+    "name": "Easter Saturday",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "Easter Monday",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-15",
+    "name": "Girmit Day",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-26",
+    "name": "Ratu Sir Lala Sukuna Day",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-03",
+    "name": "Prophet Mohammed's Birthday (estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-10",
+    "name": "Fiji Day",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-17",
+    "name": "Diwali (estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Christmas Day",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "Boxing Day",
+    "isPublic": true
+  }
+]

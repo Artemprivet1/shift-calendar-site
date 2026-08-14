@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-09",
+    "name": "Día de los Mártires",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Martes de Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-03",
+    "name": "Separación de Panamá de Colombia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-05",
+    "name": "Día de Colón",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-10",
+    "name": "Primer Grito de Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-28",
+    "name": "Independencia de Panamá de España",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Día de la Madre",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-20",
+    "name": "Día de Duelo Nacional",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-21",
+    "name": "Día de Duelo Nacional (puente)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  }
+]

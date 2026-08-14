@@ -1,32 +1,317 @@
 [
-  { "date": "2029-01-01", "name": "Nyårsdagen (New Year's Day)", "isPublic": true },
-  { "date": "2029-01-06", "name": "Trettondedag jul (Epiphany)", "isPublic": true },
-  { "date": "2029-01-13", "name": "Tjugondag Knut", "isPublic": false },
-  { "date": "2029-02-14", "name": "Alla hjärtans dag (Valentine's Day)", "isPublic": false },
-  { "date": "2029-02-17", "name": "Fettisdagen (Semla Day)", "isPublic": false },
-  { "date": "2029-03-08", "name": "Internationella kvinnodagen", "isPublic": false },
-  { "date": "2029-03-25", "name": "Våffeldagen (Waffle Day)", "isPublic": false },
-  { "date": "2029-04-03", "name": "Långfredagen", "isPublic": true },
-  { "date": "2029-04-05", "name": "Påskdagen", "isPublic": true },
-  { "date": "2029-04-06", "name": "Annandag påsk", "isPublic": true },
-  { "date": "2029-04-22", "name": "Jordens dag (Earth Day)", "isPublic": false },
-  { "date": "2029-04-30", "name": "Valborgsmässoafton (Walpurgis Night)", "isPublic": false },
-  { "date": "2029-05-01", "name": "Första maj (Labor Day)", "isPublic": true },
-  { "date": "2029-05-12", "name": "Internationella sjuksköterskedagen (Nurses Day)", "isPublic": false },
-  { "date": "2029-05-14", "name": "Kristi himmelsfärdsdag", "isPublic": true },
-  { "date": "2029-05-24", "name": "Pingstdagen", "isPublic": true },
-  { "date": "2029-05-31", "name": "Mors dag", "isPublic": false },
-  { "date": "2029-06-06", "name": "Sveriges nationaldag (National Day)", "isPublic": true },
-  { "date": "2029-06-19", "name": "Midsommarafton (Midsummer Eve)", "isPublic": false },
-  { "date": "2029-06-20", "name": "Midsommardagen (Midsummer Day)", "isPublic": true },
-  { "date": "2029-09-13", "name": "Programmerarens dag", "isPublic": false },
-  { "date": "2029-10-04", "name": "Kanelbullens dag (Cinnamon Bun Day)", "isPublic": false },
-  { "date": "2029-10-05", "name": "Världslärardagen (Teachers' Day)", "isPublic": false },
-  { "date": "2029-10-31", "name": "Alla helgons dag & Halloween", "isPublic": true },
-  { "date": "2029-11-08", "name": "Fars dag", "isPublic": false },
-  { "date": "2029-12-13", "name": "Luciadagen (Saint Lucy's Day)", "isPublic": false },
-  { "date": "2029-12-24", "name": "Julafton (Christmas Eve)", "isPublic": false },
-  { "date": "2029-12-25", "name": "Juldagen", "isPublic": true },
-  { "date": "2029-12-26", "name": "Annandag jul", "isPublic": true },
-  { "date": "2029-12-31", "name": "Nyårsafton", "isPublic": false }
+  {
+    "date": "2029-01-01",
+    "name": "Nyårsdagen",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-06",
+    "name": "Trettondedag jul",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-07",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-14",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-21",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-28",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-04",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-11",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-18",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-25",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-04",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-11",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-18",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-25",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Långfredagen",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Påskdagen; Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-02",
+    "name": "Annandag påsk",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-08",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-15",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-22",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-29",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Första maj",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-06",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-10",
+    "name": "Kristi himmelsfärdsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-13",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-20",
+    "name": "Pingstdagen; Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-27",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-03",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-06",
+    "name": "Nationaldagen",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-10",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-17",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-23",
+    "name": "Midsommardagen",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-24",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-01",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-08",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-15",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-22",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-29",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-05",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-12",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-19",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-26",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-02",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-09",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-16",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-23",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-30",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-07",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-14",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-21",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-28",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-03",
+    "name": "Alla helgons dag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-04",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-11",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-18",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-25",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-02",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-09",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-16",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-23",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Juldagen",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-26",
+    "name": "Annandag jul",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-30",
+    "name": "Söndag",
+    "isPublic": true
+  }
 ]

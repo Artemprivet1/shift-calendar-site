@@ -1,0 +1,87 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-17",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Domingo de Resurrección",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-07",
+    "name": "Batalla de Arica y Día de la Bandera",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-29",
+    "name": "San Pedro y San Pablo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-23",
+    "name": "Día de la Fuerza Aérea del Perú",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-28",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-29",
+    "name": "Día de la Gran Parada Militar",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-06",
+    "name": "Batalla de Junín",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-30",
+    "name": "Santa Rosa de Lima",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-08",
+    "name": "Combate de Angamos",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-01",
+    "name": "Todos Los Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-08",
+    "name": "Inmaculada Concepción",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-09",
+    "name": "Batalla de Ayacucho",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Navidad del Señor",
+    "isPublic": true
+  }
+]

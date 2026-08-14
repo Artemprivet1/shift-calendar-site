@@ -1,0 +1,97 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-10",
+    "name": "Id el Fitr (estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-11",
+    "name": "Id el Fitr Holiday (estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Workers' Day",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Workers' Day (observed)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Id el Kabir (estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-18",
+    "name": "Id el Kabir Holiday (estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-29",
+    "name": "Presidential Inauguration Day",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-12",
+    "name": "Democracy Day",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-14",
+    "name": "Democracy Day (observed)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Id el Maulud (estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-16",
+    "name": "Id el Maulud (observed, estimated)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-01",
+    "name": "National Day",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Boxing Day",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Christmas Day (observed)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-28",
+    "name": "Boxing Day (observed)",
+    "isPublic": true
+  }
+]

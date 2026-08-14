@@ -1,32 +1,317 @@
 [
-  { "date": "2025-01-01", "name": "Nyårsdagen (New Year's Day)", "isPublic": true },
-  { "date": "2025-01-06", "name": "Trettondedag jul (Epiphany)", "isPublic": true },
-  { "date": "2025-01-13", "name": "Tjugondag Knut", "isPublic": false },
-  { "date": "2025-02-14", "name": "Alla hjärtans dag (Valentine's Day)", "isPublic": false },
-  { "date": "2025-02-17", "name": "Fettisdagen (Semla Day)", "isPublic": false },
-  { "date": "2025-03-08", "name": "Internationella kvinnodagen", "isPublic": false },
-  { "date": "2025-03-25", "name": "Våffeldagen (Waffle Day)", "isPublic": false },
-  { "date": "2025-04-03", "name": "Långfredagen", "isPublic": true },
-  { "date": "2025-04-05", "name": "Påskdagen", "isPublic": true },
-  { "date": "2025-04-06", "name": "Annandag påsk", "isPublic": true },
-  { "date": "2025-04-22", "name": "Jordens dag (Earth Day)", "isPublic": false },
-  { "date": "2025-04-30", "name": "Valborgsmässoafton (Walpurgis Night)", "isPublic": false },
-  { "date": "2025-05-01", "name": "Första maj (Labor Day)", "isPublic": true },
-  { "date": "2025-05-12", "name": "Internationella sjuksköterskedagen (Nurses Day)", "isPublic": false },
-  { "date": "2025-05-14", "name": "Kristi himmelsfärdsdag", "isPublic": true },
-  { "date": "2025-05-24", "name": "Pingstdagen", "isPublic": true },
-  { "date": "2025-05-31", "name": "Mors dag", "isPublic": false },
-  { "date": "2025-06-06", "name": "Sveriges nationaldag (National Day)", "isPublic": true },
-  { "date": "2025-06-19", "name": "Midsommarafton (Midsummer Eve)", "isPublic": false },
-  { "date": "2025-06-20", "name": "Midsommardagen (Midsummer Day)", "isPublic": true },
-  { "date": "2025-09-13", "name": "Programmerarens dag", "isPublic": false },
-  { "date": "2025-10-04", "name": "Kanelbullens dag (Cinnamon Bun Day)", "isPublic": false },
-  { "date": "2025-10-05", "name": "Världslärardagen (Teachers' Day)", "isPublic": false },
-  { "date": "2025-10-31", "name": "Alla helgons dag & Halloween", "isPublic": true },
-  { "date": "2025-11-08", "name": "Fars dag", "isPublic": false },
-  { "date": "2025-12-13", "name": "Luciadagen (Saint Lucy's Day)", "isPublic": false },
-  { "date": "2025-12-24", "name": "Julafton (Christmas Eve)", "isPublic": false },
-  { "date": "2025-12-25", "name": "Juldagen", "isPublic": true },
-  { "date": "2025-12-26", "name": "Annandag jul", "isPublic": true },
-  { "date": "2025-12-31", "name": "Nyårsafton", "isPublic": false }
+  {
+    "date": "2025-01-01",
+    "name": "Nyårsdagen",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-05",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-06",
+    "name": "Trettondedag jul",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-12",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-19",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-26",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-02",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-09",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-16",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-23",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-02",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-09",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-16",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-23",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-30",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-06",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-13",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Långfredagen",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Påskdagen; Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Annandag påsk",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-27",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Första maj",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-04",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-11",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-18",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-25",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-29",
+    "name": "Kristi himmelsfärdsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-01",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-06",
+    "name": "Nationaldagen",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-08",
+    "name": "Pingstdagen; Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-15",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-21",
+    "name": "Midsommardagen",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-22",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-29",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-06",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-13",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-20",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-27",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-03",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-10",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-17",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-24",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-31",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-07",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-14",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-21",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-28",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-05",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-12",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-19",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-26",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-01",
+    "name": "Alla helgons dag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-02",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-09",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-16",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-23",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-30",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-07",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-14",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-21",
+    "name": "Söndag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Juldagen",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Annandag jul",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-28",
+    "name": "Söndag",
+    "isPublic": true
+  }
 ]

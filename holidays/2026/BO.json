@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-22",
+    "name": "Día de la Creación del Estado Plurinacional de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-04",
+    "name": "Corpus Christi",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-21",
+    "name": "Año Nuevo Aymara Amazónico",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-22",
+    "name": "Año Nuevo Aymara Amazónico (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-06",
+    "name": "Día de la Independencia de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-17",
+    "name": "Día de la Dignidad Nacional",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Día de Todos los Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  }
+]

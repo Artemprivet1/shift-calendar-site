@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2028-01-01",
+    "name": "Nýársdagur",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-13",
+    "name": "Skírdagur",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Föstudagurinn langi",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Páskadagur",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "Annar í páskum",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-20",
+    "name": "Sumardagurinn fyrsti",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Verkalýðsdagurinn",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-25",
+    "name": "Uppstigningardagur",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-04",
+    "name": "Hvítasunnudagur",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-05",
+    "name": "Annar í hvítasunnu",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-17",
+    "name": "Þjóðhátíðardagurinn",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-07",
+    "name": "Frídagur verslunarmanna",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Jóladagur",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "Annar í jólum",
+    "isPublic": true
+  }
+]

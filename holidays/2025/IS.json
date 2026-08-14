@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Nýársdagur",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-17",
+    "name": "Skírdagur",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Föstudagurinn langi",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Páskadagur",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Annar í páskum",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-24",
+    "name": "Sumardagurinn fyrsti",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Verkalýðsdagurinn",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-29",
+    "name": "Uppstigningardagur",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-08",
+    "name": "Hvítasunnudagur",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Annar í hvítasunnu",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-17",
+    "name": "Þjóðhátíðardagurinn",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-04",
+    "name": "Frídagur verslunarmanna",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Jóladagur",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Annar í jólum",
+    "isPublic": true
+  }
+]

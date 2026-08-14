@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2030-01-01",
+    "name": "Yangi yil",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-04",
+    "name": "Roʻza hayit (taxminiy)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-08",
+    "name": "Xotin-qizlar kuni",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-21",
+    "name": "Navroʻz bayrami",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-13",
+    "name": "Qurbon hayit (taxminiy)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-15",
+    "name": "Qurbon hayit (koʻchirilgan, taxminiy)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-09",
+    "name": "Xotira va qadrlash kuni",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-01",
+    "name": "Mustaqillik kuni",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-02",
+    "name": "Mustaqillik kuni (koʻchirilgan)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-01",
+    "name": "Oʻqituvchi va murabbiylar kuni",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-08",
+    "name": "Oʻzbekiston Respublikasi Konstitutsiyasi kuni",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-09",
+    "name": "Oʻzbekiston Respublikasi Konstitutsiyasi kuni (koʻchirilgan)",
+    "isPublic": true
+  }
+]

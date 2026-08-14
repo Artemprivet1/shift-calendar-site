@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2030-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-11",
+    "name": "Día de Juan Santamaría",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-18",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Día Internacional del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-25",
+    "name": "Anexión del Partido de Nicoya a Costa Rica",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-15",
+    "name": "Día de la Madre",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-15",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  }
+]
