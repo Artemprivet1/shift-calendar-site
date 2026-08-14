@@ -5,38 +5,8 @@
     "isPublic": true
   },
   {
-    "date": "2026-01-24",
-    "name": "International Day of Education",
-    "isPublic": false
-  },
-  {
-    "date": "2026-02-11",
-    "name": "International Day of Women and Girls in Science",
-    "isPublic": false
-  },
-  {
-    "date": "2026-02-14",
-    "name": "Valentine's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-03-08",
-    "name": "International Women's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-03-20",
-    "name": "International Day of Happiness / Spring Equinox",
-    "isPublic": false
-  },
-  {
-    "date": "2026-03-21",
-    "name": "World Poetry Day / Forest Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-03-22",
-    "name": "World Water Day",
+    "date": "2026-03-19",
+    "name": "Dia de São José",
     "isPublic": false
   },
   {
@@ -50,23 +20,8 @@
     "isPublic": true
   },
   {
-    "date": "2026-04-07",
-    "name": "World Health Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-04-12",
-    "name": "International Day of Human Space Flight",
-    "isPublic": false
-  },
-  {
-    "date": "2026-04-22",
-    "name": "Earth Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-04-23",
-    "name": "World Book and Copyright Day",
+    "date": "2026-04-21",
+    "name": "Dia de Nossa Senhora de Mércoles",
     "isPublic": false
   },
   {
@@ -75,48 +30,33 @@
     "isPublic": true
   },
   {
-    "date": "2026-04-28",
-    "name": "World Day for Safety and Health at Work",
-    "isPublic": false
-  },
-  {
     "date": "2026-05-01",
     "name": "Dia do Trabalhador",
     "isPublic": true
   },
   {
-    "date": "2026-05-03",
-    "name": "World Press Freedom Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-08",
-    "name": "Time of Remembrance and Reconciliation (WWII)",
-    "isPublic": false
-  },
-  {
     "date": "2026-05-12",
-    "name": "International Nurses Day",
+    "name": "Dia de Santa Joana",
     "isPublic": false
   },
   {
-    "date": "2026-05-15",
-    "name": "International Day of Families",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-21",
-    "name": "World Day for Cultural Diversity",
+    "date": "2026-05-14",
+    "name": "Quinta-feira da Ascensão",
     "isPublic": false
   },
   {
     "date": "2026-05-22",
-    "name": "International Day for Biological Diversity",
+    "name": "Dia do Município de Leiria",
     "isPublic": false
   },
   {
-    "date": "2026-06-01",
-    "name": "Global Day of Parents & Children's Day",
+    "date": "2026-05-23",
+    "name": "Dia do Município de Portalegre",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Dia da Região Autónoma dos Açores",
     "isPublic": false
   },
   {
@@ -125,48 +65,33 @@
     "isPublic": true
   },
   {
-    "date": "2026-06-05",
-    "name": "World Environment Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-06-08",
-    "name": "World Oceans Day",
-    "isPublic": false
-  },
-  {
     "date": "2026-06-10",
     "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
     "isPublic": true
   },
   {
-    "date": "2026-06-21",
-    "name": "World Music Day (Fête de la Musique)",
+    "date": "2026-06-13",
+    "name": "Dia de Santo António",
     "isPublic": false
   },
   {
-    "date": "2026-06-23",
-    "name": "United Nations Public Service Day",
+    "date": "2026-06-24",
+    "name": "Dia de São João",
     "isPublic": false
   },
   {
-    "date": "2026-07-11",
-    "name": "World Population Day",
+    "date": "2026-06-29",
+    "name": "Dia de São Pedro",
     "isPublic": false
   },
   {
-    "date": "2026-07-15",
-    "name": "World Youth Skills Day",
+    "date": "2026-07-01",
+    "name": "Dia da Região Autónoma da Madeira e das Comunidades Madeirenses",
     "isPublic": false
   },
   {
-    "date": "2026-07-30",
-    "name": "International Day of Friendship",
-    "isPublic": false
-  },
-  {
-    "date": "2026-08-12",
-    "name": "International Youth Day",
+    "date": "2026-07-04",
+    "name": "Dia de Santa Isabel",
     "isPublic": false
   },
   {
@@ -175,38 +100,28 @@
     "isPublic": true
   },
   {
-    "date": "2026-08-19",
-    "name": "World Humanitarian Day & Photography Day",
+    "date": "2026-08-20",
+    "name": "Dia de Nossa Senhora da Agonia",
     "isPublic": false
   },
   {
-    "date": "2026-09-08",
-    "name": "International Literacy Day",
+    "date": "2026-08-22",
+    "name": "Dia de Nossa Senhora das Graças",
     "isPublic": false
   },
   {
-    "date": "2026-09-13",
-    "name": "International Programmers' Day",
+    "date": "2026-09-07",
+    "name": "Dia do Município de Faro",
     "isPublic": false
   },
   {
     "date": "2026-09-15",
-    "name": "International Day of Democracy",
+    "name": "Dia de Bocage",
     "isPublic": false
   },
   {
     "date": "2026-09-21",
-    "name": "International Day of Peace",
-    "isPublic": false
-  },
-  {
-    "date": "2026-09-27",
-    "name": "World Tourism Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-10-01",
-    "name": "International Day of Older Persons",
+    "name": "Dia de São Mateus",
     "isPublic": false
   },
   {
@@ -215,48 +130,13 @@
     "isPublic": true
   },
   {
-    "date": "2026-10-10",
-    "name": "World Mental Health Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-10-16",
-    "name": "World Food Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-10-24",
-    "name": "United Nations Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-10-28",
-    "name": "International Animation Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-10-31",
-    "name": "Halloween / World Cities Day",
-    "isPublic": false
-  },
-  {
     "date": "2026-11-01",
     "name": "Dia de Todos os Santos",
     "isPublic": true
   },
   {
-    "date": "2026-11-10",
-    "name": "World Science Day for Peace and Development",
-    "isPublic": false
-  },
-  {
-    "date": "2026-11-20",
-    "name": "World Children's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-11-21",
-    "name": "World Television Day & Philosophy Day",
+    "date": "2026-11-27",
+    "name": "Dia do Município da Guarda",
     "isPublic": false
   },
   {
@@ -265,34 +145,9 @@
     "isPublic": true
   },
   {
-    "date": "2026-12-03",
-    "name": "International Day of Persons with Disabilities",
-    "isPublic": false
-  },
-  {
-    "date": "2026-12-05",
-    "name": "International Volunteer Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-12-07",
-    "name": "International Civil Aviation Day",
-    "isPublic": false
-  },
-  {
     "date": "2026-12-08",
     "name": "Imaculada Conceição",
     "isPublic": true
-  },
-  {
-    "date": "2026-12-10",
-    "name": "Human Rights Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-12-24",
-    "name": "Christmas Eve",
-    "isPublic": false
   },
   {
     "date": "2026-12-25",
@@ -300,8 +155,8 @@
     "isPublic": true
   },
   {
-    "date": "2026-12-31",
-    "name": "New Year's Eve",
+    "date": "2026-12-26",
+    "name": "Primeira Oitava",
     "isPublic": false
   }
 ]

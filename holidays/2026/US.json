@@ -5,23 +5,23 @@
     "isPublic": true
   },
   {
+    "date": "2026-01-06",
+    "name": "Epiphany",
+    "isPublic": false
+  },
+  {
     "date": "2026-01-19",
     "name": "Martin Luther King Jr. Day",
     "isPublic": true
   },
   {
-    "date": "2026-01-24",
-    "name": "International Day of Education",
+    "date": "2026-02-12",
+    "name": "Lincoln's Birthday",
     "isPublic": false
   },
   {
-    "date": "2026-02-11",
-    "name": "International Day of Women and Girls in Science",
-    "isPublic": false
-  },
-  {
-    "date": "2026-02-14",
-    "name": "Valentine's Day",
+    "date": "2026-02-15",
+    "name": "Susan B. Anthony Day",
     "isPublic": false
   },
   {
@@ -30,83 +30,103 @@
     "isPublic": true
   },
   {
-    "date": "2026-03-08",
-    "name": "International Women's Day",
+    "date": "2026-02-17",
+    "name": "Mardi Gras",
     "isPublic": false
   },
   {
-    "date": "2026-03-20",
-    "name": "International Day of Happiness / Spring Equinox",
+    "date": "2026-03-02",
+    "name": "Guam Discovery Day",
     "isPublic": false
   },
   {
-    "date": "2026-03-21",
-    "name": "World Poetry Day / Forest Day",
+    "date": "2026-03-03",
+    "name": "Town Meeting Day",
     "isPublic": false
   },
   {
     "date": "2026-03-22",
-    "name": "World Water Day",
+    "name": "Emancipation Day",
     "isPublic": false
   },
   {
-    "date": "2026-04-07",
-    "name": "World Health Day",
+    "date": "2026-03-23",
+    "name": "Emancipation Day (observed)",
     "isPublic": false
   },
   {
-    "date": "2026-04-12",
-    "name": "International Day of Human Space Flight",
+    "date": "2026-03-24",
+    "name": "Commonwealth Covenant Day",
     "isPublic": false
   },
   {
-    "date": "2026-04-22",
-    "name": "Earth Day",
+    "date": "2026-03-26",
+    "name": "Prince Jonah Kuhio Kalanianaole Day",
     "isPublic": false
   },
   {
-    "date": "2026-04-23",
-    "name": "World Book and Copyright Day",
+    "date": "2026-03-30",
+    "name": "Seward's Day",
     "isPublic": false
   },
   {
-    "date": "2026-04-28",
-    "name": "World Day for Safety and Health at Work",
+    "date": "2026-03-31",
+    "name": "Cesar Chavez Day",
     "isPublic": false
   },
   {
-    "date": "2026-05-01",
-    "name": "International Workers' Day",
+    "date": "2026-04-02",
+    "name": "Holy Thursday",
     "isPublic": false
   },
   {
-    "date": "2026-05-03",
-    "name": "World Press Freedom Day",
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-16",
+    "name": "Emancipation Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-17",
+    "name": "American Samoa Flag Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-20",
+    "name": "Patriots' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-21",
+    "name": "San Jacinto Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-24",
+    "name": "Arbor Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-27",
+    "name": "Confederate Memorial Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-05",
+    "name": "Primary Election Day",
     "isPublic": false
   },
   {
     "date": "2026-05-08",
-    "name": "Time of Remembrance and Reconciliation (WWII)",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-12",
-    "name": "International Nurses Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-15",
-    "name": "International Day of Families",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-21",
-    "name": "World Day for Cultural Diversity",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-22",
-    "name": "International Day for Biological Diversity",
+    "name": "Truman Day",
     "isPublic": false
   },
   {
@@ -116,17 +136,12 @@
   },
   {
     "date": "2026-06-01",
-    "name": "Global Day of Parents & Children's Day",
+    "name": "Jefferson Davis Birthday",
     "isPublic": false
   },
   {
-    "date": "2026-06-05",
-    "name": "World Environment Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-06-08",
-    "name": "World Oceans Day",
+    "date": "2026-06-11",
+    "name": "Kamehameha Day",
     "isPublic": false
   },
   {
@@ -135,13 +150,8 @@
     "isPublic": true
   },
   {
-    "date": "2026-06-21",
-    "name": "World Music Day (Fête de la Musique)",
-    "isPublic": false
-  },
-  {
-    "date": "2026-06-23",
-    "name": "United Nations Public Service Day",
+    "date": "2026-06-20",
+    "name": "West Virginia Day",
     "isPublic": false
   },
   {
@@ -155,28 +165,48 @@
     "isPublic": true
   },
   {
-    "date": "2026-07-11",
-    "name": "World Population Day",
+    "date": "2026-07-16",
+    "name": "Manu'a Islands Cession Day",
     "isPublic": false
   },
   {
-    "date": "2026-07-15",
-    "name": "World Youth Skills Day",
+    "date": "2026-07-21",
+    "name": "Liberation Day (Guam)",
     "isPublic": false
   },
   {
-    "date": "2026-07-30",
-    "name": "International Day of Friendship",
+    "date": "2026-07-24",
+    "name": "Pioneer Day",
     "isPublic": false
   },
   {
-    "date": "2026-08-12",
-    "name": "International Youth Day",
+    "date": "2026-07-25",
+    "name": "Puerto Rico Constitution Day",
     "isPublic": false
   },
   {
-    "date": "2026-08-19",
-    "name": "World Humanitarian Day & Photography Day",
+    "date": "2026-08-10",
+    "name": "Victory Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-08-16",
+    "name": "Bennington Battle Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-08-17",
+    "name": "Bennington Battle Day (observed)",
+    "isPublic": false
+  },
+  {
+    "date": "2026-08-21",
+    "name": "Statehood Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-08-27",
+    "name": "Lyndon Baines Johnson Day",
     "isPublic": false
   },
   {
@@ -185,43 +215,13 @@
     "isPublic": true
   },
   {
-    "date": "2026-09-08",
-    "name": "International Literacy Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-09-13",
-    "name": "International Programmers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-09-15",
-    "name": "International Day of Democracy",
-    "isPublic": false
-  },
-  {
-    "date": "2026-09-21",
-    "name": "International Day of Peace",
-    "isPublic": false
-  },
-  {
-    "date": "2026-09-27",
-    "name": "World Tourism Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-10-01",
-    "name": "International Day of Older Persons",
-    "isPublic": false
-  },
-  {
     "date": "2026-10-05",
-    "name": "World Teachers' Day",
+    "name": "Frances Xavier Cabrini Day",
     "isPublic": false
   },
   {
-    "date": "2026-10-10",
-    "name": "World Mental Health Day",
+    "date": "2026-10-11",
+    "name": "White Sunday",
     "isPublic": false
   },
   {
@@ -230,28 +230,43 @@
     "isPublic": true
   },
   {
-    "date": "2026-10-16",
-    "name": "World Food Day",
+    "date": "2026-10-18",
+    "name": "Alaska Day",
     "isPublic": false
   },
   {
-    "date": "2026-10-24",
-    "name": "United Nations Day",
+    "date": "2026-10-19",
+    "name": "Alaska Day (observed)",
     "isPublic": false
   },
   {
-    "date": "2026-10-28",
-    "name": "International Animation Day",
+    "date": "2026-10-30",
+    "name": "Nevada Day",
     "isPublic": false
   },
   {
-    "date": "2026-10-31",
-    "name": "Halloween / World Cities Day",
+    "date": "2026-11-01",
+    "name": "Liberty Day",
     "isPublic": false
   },
   {
-    "date": "2026-11-10",
-    "name": "World Science Day for Peace and Development",
+    "date": "2026-11-02",
+    "name": "All Souls' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-11-03",
+    "name": "Election Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-11-04",
+    "name": "Citizenship Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Diwali",
     "isPublic": false
   },
   {
@@ -260,13 +275,8 @@
     "isPublic": true
   },
   {
-    "date": "2026-11-20",
-    "name": "World Children's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-11-21",
-    "name": "World Television Day & Philosophy Day",
+    "date": "2026-11-19",
+    "name": "Puerto Rican Identity Day",
     "isPublic": false
   },
   {
@@ -275,34 +285,34 @@
     "isPublic": true
   },
   {
-    "date": "2026-12-03",
-    "name": "International Day of Persons with Disabilities",
+    "date": "2026-11-27",
+    "name": "Day After Thanksgiving",
     "isPublic": false
   },
   {
-    "date": "2026-12-05",
-    "name": "International Volunteer Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-12-07",
-    "name": "International Civil Aviation Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-12-10",
-    "name": "Human Rights Day",
+    "date": "2026-12-08",
+    "name": "Lady of Camarin Day",
     "isPublic": false
   },
   {
     "date": "2026-12-24",
-    "name": "Christmas Eve",
+    "name": "Washington's Birthday",
     "isPublic": false
   },
   {
     "date": "2026-12-25",
     "name": "Christmas Day",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Day After Christmas",
+    "isPublic": false
+  },
+  {
+    "date": "2026-12-28",
+    "name": "Day After Christmas (observed)",
+    "isPublic": false
   },
   {
     "date": "2026-12-31",

@@ -30,11 +30,6 @@
     "isPublic": true
   },
   {
-    "date": "2028-01-24",
-    "name": "International Day of Education",
-    "isPublic": false
-  },
-  {
     "date": "2028-01-30",
     "name": "Söndag",
     "isPublic": true
@@ -45,19 +40,9 @@
     "isPublic": true
   },
   {
-    "date": "2028-02-11",
-    "name": "International Day of Women and Girls in Science",
-    "isPublic": false
-  },
-  {
     "date": "2028-02-13",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-02-14",
-    "name": "Valentine's Day",
-    "isPublic": false
   },
   {
     "date": "2028-02-20",
@@ -75,11 +60,6 @@
     "isPublic": true
   },
   {
-    "date": "2028-03-08",
-    "name": "International Women's Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-03-12",
     "name": "Söndag",
     "isPublic": true
@@ -88,21 +68,6 @@
     "date": "2028-03-19",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-03-20",
-    "name": "International Day of Happiness / Spring Equinox",
-    "isPublic": false
-  },
-  {
-    "date": "2028-03-21",
-    "name": "World Poetry Day / Forest Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-03-22",
-    "name": "World Water Day",
-    "isPublic": false
   },
   {
     "date": "2028-03-26",
@@ -115,19 +80,9 @@
     "isPublic": true
   },
   {
-    "date": "2028-04-07",
-    "name": "World Health Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-04-09",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-04-12",
-    "name": "International Day of Human Space Flight",
-    "isPublic": false
   },
   {
     "date": "2028-04-14",
@@ -145,19 +100,9 @@
     "isPublic": true
   },
   {
-    "date": "2028-04-22",
-    "name": "Earth Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-04-23",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-04-28",
-    "name": "World Day for Safety and Health at Work",
-    "isPublic": false
   },
   {
     "date": "2028-04-30",
@@ -170,24 +115,9 @@
     "isPublic": true
   },
   {
-    "date": "2028-05-03",
-    "name": "World Press Freedom Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-05-07",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-05-08",
-    "name": "Time of Remembrance and Reconciliation (WWII)",
-    "isPublic": false
-  },
-  {
-    "date": "2028-05-12",
-    "name": "International Nurses Day",
-    "isPublic": false
   },
   {
     "date": "2028-05-14",
@@ -195,19 +125,9 @@
     "isPublic": true
   },
   {
-    "date": "2028-05-15",
-    "name": "International Day of Families",
-    "isPublic": false
-  },
-  {
     "date": "2028-05-21",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-05-22",
-    "name": "International Day for Biological Diversity",
-    "isPublic": false
   },
   {
     "date": "2028-05-25",
@@ -220,29 +140,14 @@
     "isPublic": true
   },
   {
-    "date": "2028-06-01",
-    "name": "Global Day of Parents & Children's Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-06-04",
     "name": "Pingstdagen; Söndag",
     "isPublic": true
   },
   {
-    "date": "2028-06-05",
-    "name": "World Environment Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-06-06",
     "name": "Nationaldagen",
     "isPublic": true
-  },
-  {
-    "date": "2028-06-08",
-    "name": "World Oceans Day",
-    "isPublic": false
   },
   {
     "date": "2028-06-11",
@@ -253,16 +158,6 @@
     "date": "2028-06-18",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-06-21",
-    "name": "World Music Day (Fête de la Musique)",
-    "isPublic": false
-  },
-  {
-    "date": "2028-06-23",
-    "name": "United Nations Public Service Day",
-    "isPublic": false
   },
   {
     "date": "2028-06-24",
@@ -285,16 +180,6 @@
     "isPublic": true
   },
   {
-    "date": "2028-07-11",
-    "name": "World Population Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-07-15",
-    "name": "World Youth Skills Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-07-16",
     "name": "Söndag",
     "isPublic": true
@@ -315,19 +200,9 @@
     "isPublic": true
   },
   {
-    "date": "2028-08-12",
-    "name": "International Youth Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-08-13",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-08-19",
-    "name": "World Humanitarian Day & Photography Day",
-    "isPublic": false
   },
   {
     "date": "2028-08-20",
@@ -345,24 +220,9 @@
     "isPublic": true
   },
   {
-    "date": "2028-09-08",
-    "name": "International Literacy Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-09-10",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-09-13",
-    "name": "International Programmers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-09-15",
-    "name": "International Day of Democracy",
-    "isPublic": false
   },
   {
     "date": "2028-09-17",
@@ -370,19 +230,9 @@
     "isPublic": true
   },
   {
-    "date": "2028-09-21",
-    "name": "International Day of Peace",
-    "isPublic": false
-  },
-  {
     "date": "2028-09-24",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-09-27",
-    "name": "World Tourism Day",
-    "isPublic": false
   },
   {
     "date": "2028-10-01",
@@ -390,19 +240,9 @@
     "isPublic": true
   },
   {
-    "date": "2028-10-05",
-    "name": "World Teachers' Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-10-08",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-10-10",
-    "name": "World Mental Health Day",
-    "isPublic": false
   },
   {
     "date": "2028-10-15",
@@ -410,34 +250,14 @@
     "isPublic": true
   },
   {
-    "date": "2028-10-16",
-    "name": "World Food Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-10-22",
     "name": "Söndag",
     "isPublic": true
   },
   {
-    "date": "2028-10-24",
-    "name": "United Nations Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-10-28",
-    "name": "International Animation Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-10-29",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-10-31",
-    "name": "Halloween / World Cities Day",
-    "isPublic": false
   },
   {
     "date": "2028-11-04",
@@ -450,11 +270,6 @@
     "isPublic": true
   },
   {
-    "date": "2028-11-10",
-    "name": "World Science Day for Peace and Development",
-    "isPublic": false
-  },
-  {
     "date": "2028-11-12",
     "name": "Söndag",
     "isPublic": true
@@ -465,16 +280,6 @@
     "isPublic": true
   },
   {
-    "date": "2028-11-20",
-    "name": "World Children's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-11-21",
-    "name": "World Television Day & Philosophy Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-11-26",
     "name": "Söndag",
     "isPublic": true
@@ -483,16 +288,6 @@
     "date": "2028-12-03",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2028-12-05",
-    "name": "International Volunteer Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-12-07",
-    "name": "International Civil Aviation Day",
-    "isPublic": false
   },
   {
     "date": "2028-12-10",

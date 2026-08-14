@@ -5,23 +5,33 @@
     "isPublic": true
   },
   {
+    "date": "2028-01-06",
+    "name": "Epiphany",
+    "isPublic": false
+  },
+  {
     "date": "2028-01-17",
     "name": "Martin Luther King Jr. Day",
     "isPublic": true
   },
   {
-    "date": "2028-01-24",
-    "name": "International Day of Education",
+    "date": "2028-01-19",
+    "name": "Confederate Memorial Day",
     "isPublic": false
   },
   {
     "date": "2028-02-11",
-    "name": "International Day of Women and Girls in Science",
+    "name": "Lincoln's Birthday (observed)",
     "isPublic": false
   },
   {
-    "date": "2028-02-14",
-    "name": "Valentine's Day",
+    "date": "2028-02-12",
+    "name": "Lincoln's Birthday",
+    "isPublic": false
+  },
+  {
+    "date": "2028-02-15",
+    "name": "Susan B. Anthony Day",
     "isPublic": false
   },
   {
@@ -30,83 +40,93 @@
     "isPublic": true
   },
   {
-    "date": "2028-03-08",
-    "name": "International Women's Day",
+    "date": "2028-02-29",
+    "name": "Mardi Gras",
     "isPublic": false
   },
   {
-    "date": "2028-03-20",
-    "name": "International Day of Happiness / Spring Equinox",
+    "date": "2028-03-02",
+    "name": "Texas Independence Day",
     "isPublic": false
   },
   {
-    "date": "2028-03-21",
-    "name": "World Poetry Day / Forest Day",
+    "date": "2028-03-06",
+    "name": "Guam Discovery Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-03-07",
+    "name": "Town Meeting Day",
     "isPublic": false
   },
   {
     "date": "2028-03-22",
-    "name": "World Water Day",
+    "name": "Emancipation Day",
     "isPublic": false
   },
   {
-    "date": "2028-04-07",
-    "name": "World Health Day",
+    "date": "2028-03-24",
+    "name": "Commonwealth Covenant Day",
     "isPublic": false
   },
   {
-    "date": "2028-04-12",
-    "name": "International Day of Human Space Flight",
+    "date": "2028-03-26",
+    "name": "Prince Jonah Kuhio Kalanianaole Day",
     "isPublic": false
   },
   {
-    "date": "2028-04-22",
-    "name": "Earth Day",
+    "date": "2028-03-27",
+    "name": "Seward's Day",
     "isPublic": false
   },
   {
-    "date": "2028-04-23",
-    "name": "World Book and Copyright Day",
+    "date": "2028-03-31",
+    "name": "Cesar Chavez Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-13",
+    "name": "Holy Thursday",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Good Friday",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Emancipation Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-17",
+    "name": "American Samoa Flag Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-21",
+    "name": "San Jacinto Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-24",
+    "name": "Confederate Memorial Day",
     "isPublic": false
   },
   {
     "date": "2028-04-28",
-    "name": "World Day for Safety and Health at Work",
+    "name": "Arbor Day",
     "isPublic": false
   },
   {
-    "date": "2028-05-01",
-    "name": "International Workers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-05-03",
-    "name": "World Press Freedom Day",
+    "date": "2028-05-02",
+    "name": "Primary Election Day",
     "isPublic": false
   },
   {
     "date": "2028-05-08",
-    "name": "Time of Remembrance and Reconciliation (WWII)",
-    "isPublic": false
-  },
-  {
-    "date": "2028-05-12",
-    "name": "International Nurses Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-05-15",
-    "name": "International Day of Families",
-    "isPublic": false
-  },
-  {
-    "date": "2028-05-21",
-    "name": "World Day for Cultural Diversity",
-    "isPublic": false
-  },
-  {
-    "date": "2028-05-22",
-    "name": "International Day for Biological Diversity",
+    "name": "Truman Day",
     "isPublic": false
   },
   {
@@ -115,18 +135,18 @@
     "isPublic": true
   },
   {
-    "date": "2028-06-01",
-    "name": "Global Day of Parents & Children's Day",
-    "isPublic": false
-  },
-  {
     "date": "2028-06-05",
-    "name": "World Environment Day",
+    "name": "Jefferson Davis Birthday",
     "isPublic": false
   },
   {
-    "date": "2028-06-08",
-    "name": "World Oceans Day",
+    "date": "2028-06-11",
+    "name": "Kamehameha Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-12",
+    "name": "Kamehameha Day (observed)",
     "isPublic": false
   },
   {
@@ -135,13 +155,13 @@
     "isPublic": true
   },
   {
-    "date": "2028-06-21",
-    "name": "World Music Day (Fête de la Musique)",
+    "date": "2028-06-20",
+    "name": "West Virginia Day",
     "isPublic": false
   },
   {
-    "date": "2028-06-23",
-    "name": "United Nations Public Service Day",
+    "date": "2028-07-03",
+    "name": "Emancipation Day",
     "isPublic": false
   },
   {
@@ -150,28 +170,48 @@
     "isPublic": true
   },
   {
-    "date": "2028-07-11",
-    "name": "World Population Day",
+    "date": "2028-07-16",
+    "name": "Manu'a Islands Cession Day",
     "isPublic": false
   },
   {
-    "date": "2028-07-15",
-    "name": "World Youth Skills Day",
+    "date": "2028-07-17",
+    "name": "Manu'a Islands Cession Day (observed)",
     "isPublic": false
   },
   {
-    "date": "2028-07-30",
-    "name": "International Day of Friendship",
+    "date": "2028-07-21",
+    "name": "Liberation Day (Guam)",
     "isPublic": false
   },
   {
-    "date": "2028-08-12",
-    "name": "International Youth Day",
+    "date": "2028-07-24",
+    "name": "Pioneer Day",
     "isPublic": false
   },
   {
-    "date": "2028-08-19",
-    "name": "World Humanitarian Day & Photography Day",
+    "date": "2028-07-25",
+    "name": "Puerto Rico Constitution Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-08-14",
+    "name": "Victory Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-08-16",
+    "name": "Bennington Battle Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-08-18",
+    "name": "Statehood Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-08-27",
+    "name": "Lyndon Baines Johnson Day",
     "isPublic": false
   },
   {
@@ -180,38 +220,13 @@
     "isPublic": true
   },
   {
-    "date": "2028-09-08",
-    "name": "International Literacy Day",
+    "date": "2028-10-02",
+    "name": "Frances Xavier Cabrini Day",
     "isPublic": false
   },
   {
-    "date": "2028-09-13",
-    "name": "International Programmers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-09-15",
-    "name": "International Day of Democracy",
-    "isPublic": false
-  },
-  {
-    "date": "2028-09-21",
-    "name": "International Day of Peace",
-    "isPublic": false
-  },
-  {
-    "date": "2028-09-27",
-    "name": "World Tourism Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-10-01",
-    "name": "International Day of Older Persons",
-    "isPublic": false
-  },
-  {
-    "date": "2028-10-05",
-    "name": "World Teachers' Day",
+    "date": "2028-10-08",
+    "name": "White Sunday",
     "isPublic": false
   },
   {
@@ -220,28 +235,43 @@
     "isPublic": true
   },
   {
-    "date": "2028-10-10",
-    "name": "World Mental Health Day",
+    "date": "2028-10-17",
+    "name": "Diwali",
     "isPublic": false
   },
   {
-    "date": "2028-10-16",
-    "name": "World Food Day",
+    "date": "2028-10-18",
+    "name": "Alaska Day",
     "isPublic": false
   },
   {
-    "date": "2028-10-24",
-    "name": "United Nations Day",
+    "date": "2028-10-27",
+    "name": "Nevada Day",
     "isPublic": false
   },
   {
-    "date": "2028-10-28",
-    "name": "International Animation Day",
+    "date": "2028-11-01",
+    "name": "Liberty Day",
     "isPublic": false
   },
   {
-    "date": "2028-10-31",
-    "name": "Halloween / World Cities Day",
+    "date": "2028-11-02",
+    "name": "All Souls' Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-11-03",
+    "name": "Citizenship Day (observed)",
+    "isPublic": false
+  },
+  {
+    "date": "2028-11-04",
+    "name": "Citizenship Day",
+    "isPublic": false
+  },
+  {
+    "date": "2028-11-07",
+    "name": "Election Day",
     "isPublic": false
   },
   {
@@ -255,13 +285,13 @@
     "isPublic": true
   },
   {
-    "date": "2028-11-20",
-    "name": "World Children's Day",
+    "date": "2028-11-19",
+    "name": "Puerto Rican Identity Day",
     "isPublic": false
   },
   {
-    "date": "2028-11-21",
-    "name": "World Television Day & Philosophy Day",
+    "date": "2028-11-20",
+    "name": "Puerto Rican Identity Day (observed)",
     "isPublic": false
   },
   {
@@ -270,23 +300,18 @@
     "isPublic": true
   },
   {
-    "date": "2028-12-03",
-    "name": "International Day of Persons with Disabilities",
+    "date": "2028-11-24",
+    "name": "Day After Thanksgiving",
     "isPublic": false
   },
   {
-    "date": "2028-12-05",
-    "name": "International Volunteer Day",
+    "date": "2028-12-08",
+    "name": "Lady of Camarin Day",
     "isPublic": false
   },
   {
-    "date": "2028-12-07",
-    "name": "International Civil Aviation Day",
-    "isPublic": false
-  },
-  {
-    "date": "2028-12-10",
-    "name": "Human Rights Day",
+    "date": "2028-12-22",
+    "name": "Christmas Eve (observed)",
     "isPublic": false
   },
   {
@@ -298,6 +323,11 @@
     "date": "2028-12-25",
     "name": "Christmas Day",
     "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "Washington's Birthday",
+    "isPublic": false
   },
   {
     "date": "2028-12-31",

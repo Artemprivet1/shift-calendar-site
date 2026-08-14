@@ -1,12 +1,32 @@
 [
   {
     "date": "2027-01-01",
-    "name": "New Year's Day",
+    "name": "Tahun Baharu",
+    "isPublic": false
+  },
+  {
+    "date": "2027-01-05",
+    "name": "Israk dan Mikraj (anggaran)",
+    "isPublic": false
+  },
+  {
+    "date": "2027-01-14",
+    "name": "Hari Keputeraan Yang di-Pertuan Besar Negeri Sembilan",
+    "isPublic": false
+  },
+  {
+    "date": "2027-01-22",
+    "name": "Hari Thaipusam",
     "isPublic": false
   },
   {
     "date": "2027-01-24",
-    "name": "International Day of Education",
+    "name": "Cuti Hari Thaipusam",
+    "isPublic": false
+  },
+  {
+    "date": "2027-02-01",
+    "name": "Hari Wilayah Persekutuan",
     "isPublic": false
   },
   {
@@ -25,18 +45,23 @@
     "isPublic": true
   },
   {
-    "date": "2027-02-11",
-    "name": "International Day of Women and Girls in Science",
+    "date": "2027-02-09",
+    "name": "Cuti Tahun Baharu Cina (Hari Kedua) (anggaran)",
     "isPublic": false
   },
   {
-    "date": "2027-02-14",
-    "name": "Valentine's Day",
+    "date": "2027-02-20",
+    "name": "Hari Pengisytiharan Tarikh Kemerdekaan",
     "isPublic": false
   },
   {
-    "date": "2027-03-08",
-    "name": "International Women's Day",
+    "date": "2027-02-24",
+    "name": "Hari Nuzul Al-Quran (anggaran)",
+    "isPublic": false
+  },
+  {
+    "date": "2027-03-04",
+    "name": "Hari Ulang Tahun Pertabalan Sultan Terengganu",
     "isPublic": false
   },
   {
@@ -50,43 +75,28 @@
     "isPublic": true
   },
   {
-    "date": "2027-03-20",
-    "name": "International Day of Happiness / Spring Equinox",
+    "date": "2027-03-11",
+    "name": "Hari Raya Puasa (Hari Ketiga) (anggaran)",
     "isPublic": false
   },
   {
-    "date": "2027-03-21",
-    "name": "World Poetry Day / Forest Day",
+    "date": "2027-03-23",
+    "name": "Hari Keputeraan Sultan Johor",
     "isPublic": false
   },
   {
-    "date": "2027-03-22",
-    "name": "World Water Day",
+    "date": "2027-03-26",
+    "name": "Good Friday",
     "isPublic": false
   },
   {
-    "date": "2027-04-07",
-    "name": "World Health Day",
+    "date": "2027-03-30",
+    "name": "Hari Jadi Yang di-Pertua Negeri Sabah",
     "isPublic": false
   },
   {
-    "date": "2027-04-12",
-    "name": "International Day of Human Space Flight",
-    "isPublic": false
-  },
-  {
-    "date": "2027-04-22",
-    "name": "Earth Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-04-23",
-    "name": "World Book and Copyright Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-04-28",
-    "name": "World Day for Safety and Health at Work",
+    "date": "2027-04-26",
+    "name": "Hari Keputeraan Sultan Terengganu",
     "isPublic": false
   },
   {
@@ -95,23 +105,13 @@
     "isPublic": true
   },
   {
-    "date": "2027-05-03",
-    "name": "World Press Freedom Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-05-08",
-    "name": "Time of Remembrance and Reconciliation (WWII)",
-    "isPublic": false
-  },
-  {
-    "date": "2027-05-12",
-    "name": "International Nurses Day",
+    "date": "2027-05-02",
+    "name": "Cuti Hari Pekerja",
     "isPublic": false
   },
   {
     "date": "2027-05-15",
-    "name": "International Day of Families",
+    "name": "Hari Arafah (anggaran)",
     "isPublic": false
   },
   {
@@ -125,28 +125,38 @@
     "isPublic": true
   },
   {
+    "date": "2027-05-18",
+    "name": "Cuti Hari Arafah (anggaran)",
+    "isPublic": false
+  },
+  {
     "date": "2027-05-20",
     "name": "Hari Wesak (anggaran)",
     "isPublic": true
   },
   {
-    "date": "2027-05-21",
-    "name": "World Day for Cultural Diversity",
+    "date": "2027-05-22",
+    "name": "Hari Hol Sultan Pahang",
     "isPublic": false
   },
   {
-    "date": "2027-05-22",
-    "name": "International Day for Biological Diversity",
+    "date": "2027-05-30",
+    "name": "Pesta Kaamatan",
+    "isPublic": false
+  },
+  {
+    "date": "2027-05-31",
+    "name": "Pesta Kaamatan",
     "isPublic": false
   },
   {
     "date": "2027-06-01",
-    "name": "Global Day of Parents & Children's Day",
+    "name": "Perayaan Hari Gawai Dayak",
     "isPublic": false
   },
   {
-    "date": "2027-06-05",
-    "name": "World Environment Day",
+    "date": "2027-06-02",
+    "name": "Perayaan Hari Gawai Dayak",
     "isPublic": false
   },
   {
@@ -160,38 +170,28 @@
     "isPublic": true
   },
   {
-    "date": "2027-06-08",
-    "name": "World Oceans Day",
+    "date": "2027-06-20",
+    "name": "Hari Keputeraan Sultan Kedah",
     "isPublic": false
   },
   {
-    "date": "2027-06-21",
-    "name": "World Music Day (Fête de la Musique)",
+    "date": "2027-07-07",
+    "name": "Hari Ulang Tahun Perisytiharan Tapak Warisan Dunia",
     "isPublic": false
   },
   {
-    "date": "2027-06-23",
-    "name": "United Nations Public Service Day",
+    "date": "2027-07-10",
+    "name": "Hari Hol Almarhum Sultan Iskandar (anggaran)",
     "isPublic": false
   },
   {
-    "date": "2027-07-11",
-    "name": "World Population Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-07-15",
-    "name": "World Youth Skills Day",
+    "date": "2027-07-22",
+    "name": "Hari Kemerdekaan Sarawak",
     "isPublic": false
   },
   {
     "date": "2027-07-30",
-    "name": "International Day of Friendship",
-    "isPublic": false
-  },
-  {
-    "date": "2027-08-12",
-    "name": "International Youth Day",
+    "name": "Hari Keputeraan Sultan Pahang",
     "isPublic": false
   },
   {
@@ -200,8 +200,13 @@
     "isPublic": true
   },
   {
-    "date": "2027-08-19",
-    "name": "World Humanitarian Day & Photography Day",
+    "date": "2027-08-15",
+    "name": "Cuti Hari Keputeraan Nabi Muhammad S.A.W. (anggaran)",
+    "isPublic": false
+  },
+  {
+    "date": "2027-08-24",
+    "name": "Hari Jadi Yang di-Pertua Negeri Melaka",
     "isPublic": false
   },
   {
@@ -210,108 +215,43 @@
     "isPublic": true
   },
   {
-    "date": "2027-09-08",
-    "name": "International Literacy Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-09-13",
-    "name": "International Programmers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-09-15",
-    "name": "International Day of Democracy",
-    "isPublic": false
-  },
-  {
     "date": "2027-09-16",
     "name": "Hari Malaysia",
     "isPublic": true
   },
   {
-    "date": "2027-09-21",
-    "name": "International Day of Peace",
+    "date": "2027-09-29",
+    "name": "Hari Keputeraan Sultan Kelantan",
     "isPublic": false
   },
   {
-    "date": "2027-09-27",
-    "name": "World Tourism Day",
+    "date": "2027-09-30",
+    "name": "Hari Keputeraan Sultan Kelantan",
     "isPublic": false
   },
   {
-    "date": "2027-10-01",
-    "name": "International Day of Older Persons",
-    "isPublic": false
-  },
-  {
-    "date": "2027-10-05",
-    "name": "World Teachers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-10-10",
-    "name": "World Mental Health Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-10-16",
-    "name": "World Food Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-10-24",
-    "name": "United Nations Day",
+    "date": "2027-10-09",
+    "name": "Hari Jadi Yang di-Pertua Negeri Sarawak",
     "isPublic": false
   },
   {
     "date": "2027-10-28",
-    "name": "International Animation Day",
+    "name": "Hari Deepavali",
     "isPublic": false
   },
   {
-    "date": "2027-10-31",
-    "name": "Halloween / World Cities Day",
+    "date": "2027-11-05",
+    "name": "Hari Keputeraan Sultan Perak",
     "isPublic": false
   },
   {
-    "date": "2027-11-10",
-    "name": "World Science Day for Peace and Development",
-    "isPublic": false
-  },
-  {
-    "date": "2027-11-20",
-    "name": "World Children's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-11-21",
-    "name": "World Television Day & Philosophy Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-12-03",
-    "name": "International Day of Persons with Disabilities",
-    "isPublic": false
-  },
-  {
-    "date": "2027-12-05",
-    "name": "International Volunteer Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-12-07",
-    "name": "International Civil Aviation Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-12-10",
-    "name": "Human Rights Day",
+    "date": "2027-12-11",
+    "name": "Hari Keputeraan Sultan Selangor",
     "isPublic": false
   },
   {
     "date": "2027-12-24",
-    "name": "Christmas Eve",
+    "name": "Krismas (Eve)",
     "isPublic": false
   },
   {
@@ -320,8 +260,8 @@
     "isPublic": true
   },
   {
-    "date": "2027-12-31",
-    "name": "New Year's Eve",
+    "date": "2027-12-26",
+    "name": "Cuti Hari Krismas",
     "isPublic": false
   }
 ]

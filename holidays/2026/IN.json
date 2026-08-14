@@ -1,12 +1,37 @@
 [
   {
-    "date": "2026-01-01",
-    "name": "New Year's Day",
+    "date": "2026-01-14",
+    "name": "Magh Bihu",
+    "isPublic": false
+  },
+  {
+    "date": "2026-01-15",
+    "name": "Thiruvalluvar Day / Mattu Pongal",
+    "isPublic": false
+  },
+  {
+    "date": "2026-01-16",
+    "name": "Uzhavar Thirunal",
+    "isPublic": false
+  },
+  {
+    "date": "2026-01-17",
+    "name": "Shab-I-Miraj (estimated)",
+    "isPublic": false
+  },
+  {
+    "date": "2026-01-23",
+    "name": "Sir Chottu Ram's Jayanti",
     "isPublic": false
   },
   {
     "date": "2026-01-24",
-    "name": "International Day of Education",
+    "name": "UP Formation Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-01-25",
+    "name": "Statehood Day",
     "isPublic": false
   },
   {
@@ -15,13 +40,23 @@
     "isPublic": true
   },
   {
-    "date": "2026-02-11",
-    "name": "International Day of Women and Girls in Science",
+    "date": "2026-02-01",
+    "name": "Guru Ravi Das's Jayanti",
     "isPublic": false
   },
   {
-    "date": "2026-02-14",
-    "name": "Valentine's Day",
+    "date": "2026-02-19",
+    "name": "Chhatrapati Shivaji Maharaj Jayanti",
+    "isPublic": false
+  },
+  {
+    "date": "2026-02-20",
+    "name": "Mizoram State Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-03-03",
+    "name": "Holi",
     "isPublic": false
   },
   {
@@ -30,13 +65,13 @@
     "isPublic": true
   },
   {
-    "date": "2026-03-08",
-    "name": "International Women's Day",
+    "date": "2026-03-19",
+    "name": "Ugadi",
     "isPublic": false
   },
   {
     "date": "2026-03-20",
-    "name": "International Day of Happiness / Spring Equinox",
+    "name": "1st Navratra",
     "isPublic": false
   },
   {
@@ -46,7 +81,12 @@
   },
   {
     "date": "2026-03-22",
-    "name": "World Water Day",
+    "name": "Bihar Day",
+    "isPublic": false
+  },
+  {
+    "date": "2026-03-23",
+    "name": "Shaheed-e-Azam Bhagat Singh, Sukhdev and Rajguru's Shaheedi Diwas",
     "isPublic": false
   },
   {
@@ -55,9 +95,19 @@
     "isPublic": true
   },
   {
+    "date": "2026-03-30",
+    "name": "Rajasthan Day",
+    "isPublic": false
+  },
+  {
     "date": "2026-03-31",
     "name": "Mahavir Jayanti",
     "isPublic": true
+  },
+  {
+    "date": "2026-04-01",
+    "name": "Odisha Day (Utkala Dibasa)",
+    "isPublic": false
   },
   {
     "date": "2026-04-03",
@@ -65,13 +115,8 @@
     "isPublic": true
   },
   {
-    "date": "2026-04-07",
-    "name": "World Health Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-04-12",
-    "name": "International Day of Human Space Flight",
+    "date": "2026-04-08",
+    "name": "Guru Nabha Dass's Jayanti",
     "isPublic": false
   },
   {
@@ -80,18 +125,13 @@
     "isPublic": true
   },
   {
-    "date": "2026-04-22",
-    "name": "Earth Day",
+    "date": "2026-04-15",
+    "name": "Himachal Day",
     "isPublic": false
   },
   {
-    "date": "2026-04-23",
-    "name": "World Book and Copyright Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-04-28",
-    "name": "World Day for Safety and Health at Work",
+    "date": "2026-04-19",
+    "name": "Bhagvan Shri Parshuram's Jayanti",
     "isPublic": false
   },
   {
@@ -100,33 +140,13 @@
     "isPublic": true
   },
   {
-    "date": "2026-05-03",
-    "name": "World Press Freedom Day",
+    "date": "2026-05-09",
+    "name": "Rabindra Jayanti",
     "isPublic": false
   },
   {
-    "date": "2026-05-08",
-    "name": "Time of Remembrance and Reconciliation (WWII)",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-12",
-    "name": "International Nurses Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-15",
-    "name": "International Day of Families",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-21",
-    "name": "World Day for Cultural Diversity",
-    "isPublic": false
-  },
-  {
-    "date": "2026-05-22",
-    "name": "International Day for Biological Diversity",
+    "date": "2026-05-16",
+    "name": "Sikkim State Day",
     "isPublic": false
   },
   {
@@ -135,28 +155,18 @@
     "isPublic": true
   },
   {
-    "date": "2026-06-01",
-    "name": "Global Day of Parents & Children's Day",
+    "date": "2026-06-02",
+    "name": "Telangana Formation Day",
     "isPublic": false
   },
   {
-    "date": "2026-06-05",
-    "name": "World Environment Day",
+    "date": "2026-06-17",
+    "name": "Maharana Pratap's Jayanti",
     "isPublic": false
   },
   {
-    "date": "2026-06-08",
-    "name": "World Oceans Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-06-21",
-    "name": "World Music Day (Fête de la Musique)",
-    "isPublic": false
-  },
-  {
-    "date": "2026-06-23",
-    "name": "United Nations Public Service Day",
+    "date": "2026-06-18",
+    "name": "Guru Arjun Dev's Shaheedi Diwas",
     "isPublic": false
   },
   {
@@ -165,23 +175,28 @@
     "isPublic": true
   },
   {
-    "date": "2026-07-11",
-    "name": "World Population Day",
+    "date": "2026-06-29",
+    "name": "Sant Kabir's Jayanti",
     "isPublic": false
   },
   {
-    "date": "2026-07-15",
-    "name": "World Youth Skills Day",
+    "date": "2026-06-30",
+    "name": "Remna Ni",
     "isPublic": false
   },
   {
-    "date": "2026-07-30",
-    "name": "International Day of Friendship",
+    "date": "2026-07-16",
+    "name": "Harela",
     "isPublic": false
   },
   {
-    "date": "2026-08-12",
-    "name": "International Youth Day",
+    "date": "2026-07-31",
+    "name": "Shaheed Udham Singh's Shaheedi Diwas",
+    "isPublic": false
+  },
+  {
+    "date": "2026-08-10",
+    "name": "Bonalu",
     "isPublic": false
   },
   {
@@ -190,8 +205,8 @@
     "isPublic": true
   },
   {
-    "date": "2026-08-19",
-    "name": "World Humanitarian Day & Photography Day",
+    "date": "2026-08-16",
+    "name": "Puducherry De Jure Transfer Day",
     "isPublic": false
   },
   {
@@ -200,38 +215,23 @@
     "isPublic": true
   },
   {
+    "date": "2026-08-28",
+    "name": "Raksha Bandhan",
+    "isPublic": false
+  },
+  {
     "date": "2026-09-04",
     "name": "Janmashtami (Vaishnava)",
     "isPublic": true
   },
   {
-    "date": "2026-09-08",
-    "name": "International Literacy Day",
+    "date": "2026-09-17",
+    "name": "Vishwakarma Puja",
     "isPublic": false
   },
   {
-    "date": "2026-09-13",
-    "name": "International Programmers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-09-15",
-    "name": "International Day of Democracy",
-    "isPublic": false
-  },
-  {
-    "date": "2026-09-21",
-    "name": "International Day of Peace",
-    "isPublic": false
-  },
-  {
-    "date": "2026-09-27",
-    "name": "World Tourism Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-10-01",
-    "name": "International Day of Older Persons",
+    "date": "2026-09-23",
+    "name": "Haryana War Heroes' Shaheedi Diwas",
     "isPublic": false
   },
   {
@@ -240,18 +240,18 @@
     "isPublic": true
   },
   {
-    "date": "2026-10-05",
-    "name": "World Teachers' Day",
-    "isPublic": false
-  },
-  {
     "date": "2026-10-10",
-    "name": "World Mental Health Day",
+    "name": "Bathukamma Festival",
     "isPublic": false
   },
   {
-    "date": "2026-10-16",
-    "name": "World Food Day",
+    "date": "2026-10-11",
+    "name": "Maharaj Agrasen's Jayanti",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-19",
+    "name": "Mahanavami",
     "isPublic": false
   },
   {
@@ -260,18 +260,18 @@
     "isPublic": true
   },
   {
-    "date": "2026-10-24",
-    "name": "United Nations Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-10-28",
-    "name": "International Animation Day",
+    "date": "2026-10-26",
+    "name": "Maharshi Valmiki's Jayanti",
     "isPublic": false
   },
   {
     "date": "2026-10-31",
-    "name": "Halloween / World Cities Day",
+    "name": "Sardar Vallabhbhai Patel Jayanti",
+    "isPublic": false
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Andhra Pradesh Foundation Day",
     "isPublic": false
   },
   {
@@ -281,17 +281,17 @@
   },
   {
     "date": "2026-11-10",
-    "name": "World Science Day for Peace and Development",
+    "name": "Vishwakarma Day",
     "isPublic": false
   },
   {
-    "date": "2026-11-20",
-    "name": "World Children's Day",
+    "date": "2026-11-15",
+    "name": "Chhath Puja",
     "isPublic": false
   },
   {
-    "date": "2026-11-21",
-    "name": "World Television Day & Philosophy Day",
+    "date": "2026-11-16",
+    "name": "Kartar Singh Sarabha's Shaheedi Diwas",
     "isPublic": false
   },
   {
@@ -300,28 +300,18 @@
     "isPublic": true
   },
   {
-    "date": "2026-12-03",
-    "name": "International Day of Persons with Disabilities",
+    "date": "2026-12-01",
+    "name": "Nagaland State Inauguration Day",
     "isPublic": false
   },
   {
-    "date": "2026-12-05",
-    "name": "International Volunteer Day",
+    "date": "2026-12-02",
+    "name": "Assam Day",
     "isPublic": false
   },
   {
-    "date": "2026-12-07",
-    "name": "International Civil Aviation Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-12-10",
-    "name": "Human Rights Day",
-    "isPublic": false
-  },
-  {
-    "date": "2026-12-24",
-    "name": "Christmas Eve",
+    "date": "2026-12-19",
+    "name": "Goa Liberation Day",
     "isPublic": false
   },
   {
@@ -330,8 +320,8 @@
     "isPublic": true
   },
   {
-    "date": "2026-12-31",
-    "name": "New Year's Eve",
+    "date": "2026-12-28",
+    "name": "Jor Mela Fatehgarh Sahib",
     "isPublic": false
   }
 ]

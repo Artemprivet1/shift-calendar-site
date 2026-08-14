@@ -15,39 +15,9 @@
     "isPublic": true
   },
   {
-    "date": "2029-01-24",
-    "name": "International Day of Education",
-    "isPublic": false
-  },
-  {
-    "date": "2029-02-11",
-    "name": "International Day of Women and Girls in Science",
-    "isPublic": false
-  },
-  {
-    "date": "2029-02-14",
-    "name": "Valentine's Day",
-    "isPublic": false
-  },
-  {
     "date": "2029-03-08",
     "name": "Дзень жанчын",
     "isPublic": true
-  },
-  {
-    "date": "2029-03-20",
-    "name": "International Day of Happiness / Spring Equinox",
-    "isPublic": false
-  },
-  {
-    "date": "2029-03-21",
-    "name": "World Poetry Day / Forest Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-03-22",
-    "name": "World Water Day",
-    "isPublic": false
   },
   {
     "date": "2029-04-01",
@@ -55,19 +25,9 @@
     "isPublic": true
   },
   {
-    "date": "2029-04-07",
-    "name": "World Health Day",
-    "isPublic": false
-  },
-  {
     "date": "2029-04-08",
     "name": "Праваслаўны Вялiкдзень",
     "isPublic": true
-  },
-  {
-    "date": "2029-04-12",
-    "name": "International Day of Human Space Flight",
-    "isPublic": false
   },
   {
     "date": "2029-04-17",
@@ -75,34 +35,9 @@
     "isPublic": true
   },
   {
-    "date": "2029-04-22",
-    "name": "Earth Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-04-23",
-    "name": "World Book and Copyright Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-04-28",
-    "name": "World Day for Safety and Health at Work",
-    "isPublic": false
-  },
-  {
     "date": "2029-05-01",
     "name": "Свята працы",
     "isPublic": true
-  },
-  {
-    "date": "2029-05-03",
-    "name": "World Press Freedom Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-05-08",
-    "name": "Time of Remembrance and Reconciliation (WWII)",
-    "isPublic": false
   },
   {
     "date": "2029-05-09",
@@ -110,139 +45,9 @@
     "isPublic": true
   },
   {
-    "date": "2029-05-12",
-    "name": "International Nurses Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-05-15",
-    "name": "International Day of Families",
-    "isPublic": false
-  },
-  {
-    "date": "2029-05-21",
-    "name": "World Day for Cultural Diversity",
-    "isPublic": false
-  },
-  {
-    "date": "2029-05-22",
-    "name": "International Day for Biological Diversity",
-    "isPublic": false
-  },
-  {
-    "date": "2029-06-01",
-    "name": "Global Day of Parents & Children's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-06-05",
-    "name": "World Environment Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-06-08",
-    "name": "World Oceans Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-06-21",
-    "name": "World Music Day (Fête de la Musique)",
-    "isPublic": false
-  },
-  {
-    "date": "2029-06-23",
-    "name": "United Nations Public Service Day",
-    "isPublic": false
-  },
-  {
     "date": "2029-07-03",
     "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
     "isPublic": true
-  },
-  {
-    "date": "2029-07-11",
-    "name": "World Population Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-07-15",
-    "name": "World Youth Skills Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-07-30",
-    "name": "International Day of Friendship",
-    "isPublic": false
-  },
-  {
-    "date": "2029-08-12",
-    "name": "International Youth Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-08-19",
-    "name": "World Humanitarian Day & Photography Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-09-08",
-    "name": "International Literacy Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-09-13",
-    "name": "International Programmers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-09-15",
-    "name": "International Day of Democracy",
-    "isPublic": false
-  },
-  {
-    "date": "2029-09-21",
-    "name": "International Day of Peace",
-    "isPublic": false
-  },
-  {
-    "date": "2029-09-27",
-    "name": "World Tourism Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-10-01",
-    "name": "International Day of Older Persons",
-    "isPublic": false
-  },
-  {
-    "date": "2029-10-05",
-    "name": "World Teachers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-10-10",
-    "name": "World Mental Health Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-10-16",
-    "name": "World Food Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-10-24",
-    "name": "United Nations Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-10-28",
-    "name": "International Animation Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-10-31",
-    "name": "Halloween / World Cities Day",
-    "isPublic": false
   },
   {
     "date": "2029-11-07",
@@ -250,53 +55,8 @@
     "isPublic": true
   },
   {
-    "date": "2029-11-10",
-    "name": "World Science Day for Peace and Development",
-    "isPublic": false
-  },
-  {
-    "date": "2029-11-20",
-    "name": "World Children's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-11-21",
-    "name": "World Television Day & Philosophy Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-12-03",
-    "name": "International Day of Persons with Disabilities",
-    "isPublic": false
-  },
-  {
-    "date": "2029-12-05",
-    "name": "International Volunteer Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-12-07",
-    "name": "International Civil Aviation Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-12-10",
-    "name": "Human Rights Day",
-    "isPublic": false
-  },
-  {
-    "date": "2029-12-24",
-    "name": "Christmas Eve",
-    "isPublic": false
-  },
-  {
     "date": "2029-12-25",
     "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
     "isPublic": true
-  },
-  {
-    "date": "2029-12-31",
-    "name": "New Year's Eve",
-    "isPublic": false
   }
 ]

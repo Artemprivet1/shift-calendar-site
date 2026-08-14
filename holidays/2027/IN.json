@@ -1,12 +1,32 @@
 [
   {
-    "date": "2027-01-01",
-    "name": "New Year's Day",
+    "date": "2027-01-06",
+    "name": "Shab-I-Miraj (estimated)",
+    "isPublic": false
+  },
+  {
+    "date": "2027-01-15",
+    "name": "Magh Bihu",
+    "isPublic": false
+  },
+  {
+    "date": "2027-01-16",
+    "name": "Thiruvalluvar Day / Mattu Pongal",
+    "isPublic": false
+  },
+  {
+    "date": "2027-01-17",
+    "name": "Uzhavar Thirunal",
     "isPublic": false
   },
   {
     "date": "2027-01-24",
-    "name": "International Day of Education",
+    "name": "UP Formation Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-01-25",
+    "name": "Statehood Day",
     "isPublic": false
   },
   {
@@ -16,12 +36,17 @@
   },
   {
     "date": "2027-02-11",
-    "name": "International Day of Women and Girls in Science",
+    "name": "Sir Chottu Ram's Jayanti",
     "isPublic": false
   },
   {
-    "date": "2027-02-14",
-    "name": "Valentine's Day",
+    "date": "2027-02-19",
+    "name": "Chhatrapati Shivaji Maharaj Jayanti",
+    "isPublic": false
+  },
+  {
+    "date": "2027-02-20",
+    "name": "Guru Ravi Das's Jayanti",
     "isPublic": false
   },
   {
@@ -30,23 +55,13 @@
     "isPublic": true
   },
   {
-    "date": "2027-03-08",
-    "name": "International Women's Day",
-    "isPublic": false
-  },
-  {
     "date": "2027-03-10",
     "name": "Id-ul-Fitr (estimated)",
     "isPublic": true
   },
   {
-    "date": "2027-03-20",
-    "name": "International Day of Happiness / Spring Equinox",
-    "isPublic": false
-  },
-  {
     "date": "2027-03-21",
-    "name": "World Poetry Day / Forest Day",
+    "name": "Nauroz",
     "isPublic": false
   },
   {
@@ -55,18 +70,33 @@
     "isPublic": true
   },
   {
+    "date": "2027-03-23",
+    "name": "Shaheed-e-Azam Bhagat Singh, Sukhdev and Rajguru's Shaheedi Diwas",
+    "isPublic": false
+  },
+  {
     "date": "2027-03-26",
     "name": "Good Friday",
     "isPublic": true
   },
   {
-    "date": "2027-04-07",
-    "name": "World Health Day",
+    "date": "2027-03-30",
+    "name": "Rajasthan Day",
     "isPublic": false
   },
   {
-    "date": "2027-04-12",
-    "name": "International Day of Human Space Flight",
+    "date": "2027-04-01",
+    "name": "Odisha Day (Utkala Dibasa)",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-07",
+    "name": "Ugadi",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-08",
+    "name": "1st Navratra",
     "isPublic": false
   },
   {
@@ -85,43 +115,23 @@
     "isPublic": true
   },
   {
-    "date": "2027-04-22",
-    "name": "Earth Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-04-23",
-    "name": "World Book and Copyright Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-04-28",
-    "name": "World Day for Safety and Health at Work",
-    "isPublic": false
-  },
-  {
     "date": "2027-05-01",
-    "name": "International Workers' Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-05-03",
-    "name": "World Press Freedom Day",
+    "name": "Gujarat Day",
     "isPublic": false
   },
   {
     "date": "2027-05-08",
-    "name": "Time of Remembrance and Reconciliation (WWII)",
+    "name": "Bhagvan Shri Parshuram's Jayanti",
     "isPublic": false
   },
   {
-    "date": "2027-05-12",
-    "name": "International Nurses Day",
+    "date": "2027-05-09",
+    "name": "Rabindra Jayanti",
     "isPublic": false
   },
   {
-    "date": "2027-05-15",
-    "name": "International Day of Families",
+    "date": "2027-05-16",
+    "name": "Sikkim State Day",
     "isPublic": false
   },
   {
@@ -135,28 +145,18 @@
     "isPublic": true
   },
   {
-    "date": "2027-05-21",
-    "name": "World Day for Cultural Diversity",
+    "date": "2027-06-02",
+    "name": "Telangana Formation Day",
     "isPublic": false
   },
   {
-    "date": "2027-05-22",
-    "name": "International Day for Biological Diversity",
-    "isPublic": false
-  },
-  {
-    "date": "2027-06-01",
-    "name": "Global Day of Parents & Children's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-06-05",
-    "name": "World Environment Day",
+    "date": "2027-06-07",
+    "name": "Maharana Pratap's Jayanti",
     "isPublic": false
   },
   {
     "date": "2027-06-08",
-    "name": "World Oceans Day",
+    "name": "Guru Arjun Dev's Shaheedi Diwas",
     "isPublic": false
   },
   {
@@ -165,33 +165,28 @@
     "isPublic": true
   },
   {
-    "date": "2027-06-21",
-    "name": "World Music Day (Fête de la Musique)",
+    "date": "2027-06-18",
+    "name": "Sant Kabir's Jayanti",
     "isPublic": false
   },
   {
-    "date": "2027-06-23",
-    "name": "United Nations Public Service Day",
+    "date": "2027-06-30",
+    "name": "Remna Ni",
     "isPublic": false
   },
   {
-    "date": "2027-07-11",
-    "name": "World Population Day",
+    "date": "2027-07-16",
+    "name": "Harela",
     "isPublic": false
   },
   {
-    "date": "2027-07-15",
-    "name": "World Youth Skills Day",
+    "date": "2027-07-31",
+    "name": "Shaheed Udham Singh's Shaheedi Diwas",
     "isPublic": false
   },
   {
-    "date": "2027-07-30",
-    "name": "International Day of Friendship",
-    "isPublic": false
-  },
-  {
-    "date": "2027-08-12",
-    "name": "International Youth Day",
+    "date": "2027-08-02",
+    "name": "Bonalu",
     "isPublic": false
   },
   {
@@ -200,8 +195,13 @@
     "isPublic": true
   },
   {
-    "date": "2027-08-19",
-    "name": "World Humanitarian Day & Photography Day",
+    "date": "2027-08-16",
+    "name": "Puducherry De Jure Transfer Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-08-17",
+    "name": "Raksha Bandhan",
     "isPublic": false
   },
   {
@@ -210,33 +210,28 @@
     "isPublic": true
   },
   {
-    "date": "2027-09-08",
-    "name": "International Literacy Day",
+    "date": "2027-09-12",
+    "name": "Onam",
     "isPublic": false
   },
   {
-    "date": "2027-09-13",
-    "name": "International Programmers' Day",
+    "date": "2027-09-17",
+    "name": "Vishwakarma Puja",
     "isPublic": false
   },
   {
-    "date": "2027-09-15",
-    "name": "International Day of Democracy",
+    "date": "2027-09-23",
+    "name": "Haryana War Heroes' Shaheedi Diwas",
     "isPublic": false
   },
   {
-    "date": "2027-09-21",
-    "name": "International Day of Peace",
+    "date": "2027-09-29",
+    "name": "Bathukamma Festival",
     "isPublic": false
   },
   {
-    "date": "2027-09-27",
-    "name": "World Tourism Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-10-01",
-    "name": "International Day of Older Persons",
+    "date": "2027-09-30",
+    "name": "Maharaj Agrasen's Jayanti",
     "isPublic": false
   },
   {
@@ -245,8 +240,8 @@
     "isPublic": true
   },
   {
-    "date": "2027-10-05",
-    "name": "World Teachers' Day",
+    "date": "2027-10-08",
+    "name": "Mahanavami",
     "isPublic": false
   },
   {
@@ -255,23 +250,13 @@
     "isPublic": true
   },
   {
-    "date": "2027-10-10",
-    "name": "World Mental Health Day",
+    "date": "2027-10-15",
+    "name": "Maharshi Valmiki's Jayanti",
     "isPublic": false
   },
   {
-    "date": "2027-10-16",
-    "name": "World Food Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-10-24",
-    "name": "United Nations Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-10-28",
-    "name": "International Animation Day",
+    "date": "2027-10-26",
+    "name": "Accession Day",
     "isPublic": false
   },
   {
@@ -280,13 +265,23 @@
     "isPublic": true
   },
   {
-    "date": "2027-10-31",
-    "name": "Halloween / World Cities Day",
+    "date": "2027-10-30",
+    "name": "Vishwakarma Day",
     "isPublic": false
   },
   {
-    "date": "2027-11-10",
-    "name": "World Science Day for Peace and Development",
+    "date": "2027-10-31",
+    "name": "Sardar Vallabhbhai Patel Jayanti",
+    "isPublic": false
+  },
+  {
+    "date": "2027-11-01",
+    "name": "Andhra Pradesh Foundation Day",
+    "isPublic": false
+  },
+  {
+    "date": "2027-11-04",
+    "name": "Chhath Puja",
     "isPublic": false
   },
   {
@@ -295,38 +290,33 @@
     "isPublic": true
   },
   {
-    "date": "2027-11-20",
-    "name": "World Children's Day",
+    "date": "2027-11-15",
+    "name": "Jharkhand Formation Day",
     "isPublic": false
   },
   {
-    "date": "2027-11-21",
-    "name": "World Television Day & Philosophy Day",
+    "date": "2027-11-16",
+    "name": "Kartar Singh Sarabha's Shaheedi Diwas",
     "isPublic": false
   },
   {
-    "date": "2027-12-03",
-    "name": "International Day of Persons with Disabilities",
+    "date": "2027-11-24",
+    "name": "Guru Tegh Bahadur's Shaheedi Diwas",
     "isPublic": false
   },
   {
-    "date": "2027-12-05",
-    "name": "International Volunteer Day",
+    "date": "2027-12-01",
+    "name": "Nagaland State Inauguration Day",
     "isPublic": false
   },
   {
-    "date": "2027-12-07",
-    "name": "International Civil Aviation Day",
+    "date": "2027-12-02",
+    "name": "Assam Day",
     "isPublic": false
   },
   {
-    "date": "2027-12-10",
-    "name": "Human Rights Day",
-    "isPublic": false
-  },
-  {
-    "date": "2027-12-24",
-    "name": "Christmas Eve",
+    "date": "2027-12-19",
+    "name": "Goa Liberation Day",
     "isPublic": false
   },
   {
@@ -335,8 +325,13 @@
     "isPublic": true
   },
   {
-    "date": "2027-12-31",
-    "name": "New Year's Eve",
+    "date": "2027-12-26",
+    "name": "Shab-I-Miraj (estimated)",
+    "isPublic": false
+  },
+  {
+    "date": "2027-12-28",
+    "name": "Jor Mela Fatehgarh Sahib",
     "isPublic": false
   }
 ]

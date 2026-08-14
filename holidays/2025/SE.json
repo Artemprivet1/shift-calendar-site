@@ -25,11 +25,6 @@
     "isPublic": true
   },
   {
-    "date": "2025-01-24",
-    "name": "International Day of Education",
-    "isPublic": false
-  },
-  {
     "date": "2025-01-26",
     "name": "Söndag",
     "isPublic": true
@@ -43,16 +38,6 @@
     "date": "2025-02-09",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-02-11",
-    "name": "International Day of Women and Girls in Science",
-    "isPublic": false
-  },
-  {
-    "date": "2025-02-14",
-    "name": "Valentine's Day",
-    "isPublic": false
   },
   {
     "date": "2025-02-16",
@@ -70,11 +55,6 @@
     "isPublic": true
   },
   {
-    "date": "2025-03-08",
-    "name": "International Women's Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-03-09",
     "name": "Söndag",
     "isPublic": true
@@ -83,21 +63,6 @@
     "date": "2025-03-16",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-03-20",
-    "name": "International Day of Happiness / Spring Equinox",
-    "isPublic": false
-  },
-  {
-    "date": "2025-03-21",
-    "name": "World Poetry Day / Forest Day",
-    "isPublic": false
-  },
-  {
-    "date": "2025-03-22",
-    "name": "World Water Day",
-    "isPublic": false
   },
   {
     "date": "2025-03-23",
@@ -113,16 +78,6 @@
     "date": "2025-04-06",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-04-07",
-    "name": "World Health Day",
-    "isPublic": false
-  },
-  {
-    "date": "2025-04-12",
-    "name": "International Day of Human Space Flight",
-    "isPublic": false
   },
   {
     "date": "2025-04-13",
@@ -145,24 +100,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-04-22",
-    "name": "Earth Day",
-    "isPublic": false
-  },
-  {
-    "date": "2025-04-23",
-    "name": "World Book and Copyright Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-04-27",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-04-28",
-    "name": "World Day for Safety and Health at Work",
-    "isPublic": false
   },
   {
     "date": "2025-05-01",
@@ -170,19 +110,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-05-03",
-    "name": "World Press Freedom Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-05-04",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-05-08",
-    "name": "Time of Remembrance and Reconciliation (WWII)",
-    "isPublic": false
   },
   {
     "date": "2025-05-11",
@@ -190,29 +120,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-05-12",
-    "name": "International Nurses Day",
-    "isPublic": false
-  },
-  {
-    "date": "2025-05-15",
-    "name": "International Day of Families",
-    "isPublic": false
-  },
-  {
     "date": "2025-05-18",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-05-21",
-    "name": "World Day for Cultural Diversity",
-    "isPublic": false
-  },
-  {
-    "date": "2025-05-22",
-    "name": "International Day for Biological Diversity",
-    "isPublic": false
   },
   {
     "date": "2025-05-25",
@@ -228,11 +138,6 @@
     "date": "2025-06-01",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-06-05",
-    "name": "World Environment Day",
-    "isPublic": false
   },
   {
     "date": "2025-06-06",
@@ -260,11 +165,6 @@
     "isPublic": true
   },
   {
-    "date": "2025-06-23",
-    "name": "United Nations Public Service Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-06-29",
     "name": "Söndag",
     "isPublic": true
@@ -275,19 +175,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-07-11",
-    "name": "World Population Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-07-13",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-07-15",
-    "name": "World Youth Skills Day",
-    "isPublic": false
   },
   {
     "date": "2025-07-20",
@@ -300,11 +190,6 @@
     "isPublic": true
   },
   {
-    "date": "2025-07-30",
-    "name": "International Day of Friendship",
-    "isPublic": false
-  },
-  {
     "date": "2025-08-03",
     "name": "Söndag",
     "isPublic": true
@@ -315,19 +200,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-08-12",
-    "name": "International Youth Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-08-17",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-08-19",
-    "name": "World Humanitarian Day & Photography Day",
-    "isPublic": false
   },
   {
     "date": "2025-08-24",
@@ -345,24 +220,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-09-08",
-    "name": "International Literacy Day",
-    "isPublic": false
-  },
-  {
-    "date": "2025-09-13",
-    "name": "International Programmers' Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-09-14",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-09-15",
-    "name": "International Day of Democracy",
-    "isPublic": false
   },
   {
     "date": "2025-09-21",
@@ -370,19 +230,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-09-27",
-    "name": "World Tourism Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-09-28",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-10-01",
-    "name": "International Day of Older Persons",
-    "isPublic": false
   },
   {
     "date": "2025-10-05",
@@ -390,19 +240,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-10-10",
-    "name": "World Mental Health Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-10-12",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-10-16",
-    "name": "World Food Day",
-    "isPublic": false
   },
   {
     "date": "2025-10-19",
@@ -410,24 +250,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-10-24",
-    "name": "United Nations Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-10-26",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-10-28",
-    "name": "International Animation Day",
-    "isPublic": false
-  },
-  {
-    "date": "2025-10-31",
-    "name": "Halloween / World Cities Day",
-    "isPublic": false
   },
   {
     "date": "2025-11-01",
@@ -445,24 +270,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-11-10",
-    "name": "World Science Day for Peace and Development",
-    "isPublic": false
-  },
-  {
     "date": "2025-11-16",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-11-20",
-    "name": "World Children's Day",
-    "isPublic": false
-  },
-  {
-    "date": "2025-11-21",
-    "name": "World Television Day & Philosophy Day",
-    "isPublic": false
   },
   {
     "date": "2025-11-23",
@@ -475,24 +285,9 @@
     "isPublic": true
   },
   {
-    "date": "2025-12-03",
-    "name": "International Day of Persons with Disabilities",
-    "isPublic": false
-  },
-  {
-    "date": "2025-12-05",
-    "name": "International Volunteer Day",
-    "isPublic": false
-  },
-  {
     "date": "2025-12-07",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-12-10",
-    "name": "Human Rights Day",
-    "isPublic": false
   },
   {
     "date": "2025-12-14",
@@ -503,11 +298,6 @@
     "date": "2025-12-21",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-12-24",
-    "name": "Christmas Eve",
-    "isPublic": false
   },
   {
     "date": "2025-12-25",
@@ -523,10 +313,5 @@
     "date": "2025-12-28",
     "name": "Söndag",
     "isPublic": true
-  },
-  {
-    "date": "2025-12-31",
-    "name": "New Year's Eve",
-    "isPublic": false
   }
 ]
