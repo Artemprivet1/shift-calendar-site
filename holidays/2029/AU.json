@@ -16,7 +16,7 @@
   },
   {
     "date": "2029-03-12",
-    "name": "Canberra Day",
+    "name": "Canberra Day / Adelaide Cup Day / Eight Hours Day / Labour Day",
     "isPublic": false
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "date": "2029-05-07",
-    "name": "May Day",
+    "name": "May Day / Labour Day",
     "isPublic": false
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "date": "2029-10-01",
-    "name": "Labour Day",
+    "name": "Labour Day / King's Birthday",
     "isPublic": false
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "date": "2029-12-26",
-    "name": "Boxing Day",
+    "name": "Boxing Day / Proclamation Day",
     "isPublic": true
   }
 ]

@@ -6,12 +6,12 @@
   },
   {
     "date": "2027-01-06",
-    "name": "Epiphany",
+    "name": "Epiphany / Three Kings Day",
     "isPublic": false
   },
   {
     "date": "2027-01-18",
-    "name": "Martin Luther King Jr. Day",
+    "name": "Martin Luther King Jr. Day / Martin Luther King Jr.'s Birthday / Martin Luther King, Jr & Robert E. Lee's Birthday / Dr. Martin Luther King Jr. / Civil Rights Day / Martin Luther King Jr. / Idaho Human Rights Day / Dr. Martin Luther King Jr. and Robert E. Lee's Birthdays",
     "isPublic": true
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "date": "2027-02-15",
-    "name": "Washington's Birthday",
+    "name": "Washington's Birthday / Presidents' Day / George Washington & Thomas Jefferson's Birthday / George Washington's Birthday and Daisy Gatson Bates Day / Lincoln/Washington Presidents' Day / Presidents' Day; Susan B. Anthony Day / Washington-Lincoln Day / Susan B. Anthony Day / Washington's and Lincoln's Birthday / Lincoln's and Washington's Birthdays / Presidents Day / Susan B. Anthony Day; Washington's Birthday / George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico / President's Day / Washington and Lincoln Day / George Washington Day",
     "isPublic": true
   },
   {
     "date": "2027-03-01",
-    "name": "Guam Discovery Day",
+    "name": "Guam Discovery Day / Casimir Pulaski Day",
     "isPublic": false
   },
   {
     "date": "2027-03-02",
-    "name": "Texas Independence Day",
+    "name": "Texas Independence Day / Town Meeting Day",
     "isPublic": false
   },
   {
@@ -61,22 +61,22 @@
   },
   {
     "date": "2027-03-26",
-    "name": "Good Friday",
+    "name": "Good Friday / State Holiday / Prince Jonah Kuhio Kalanianaole Day",
     "isPublic": false
   },
   {
     "date": "2027-03-29",
-    "name": "Seward's Day",
+    "name": "Seward's Day / Easter Monday",
     "isPublic": false
   },
   {
     "date": "2027-03-31",
-    "name": "Cesar Chavez Day",
+    "name": "Cesar Chavez Day / Transfer Day",
     "isPublic": false
   },
   {
     "date": "2027-04-16",
-    "name": "American Samoa Flag Day (observed)",
+    "name": "American Samoa Flag Day (observed) / Emancipation Day",
     "isPublic": false
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "date": "2027-06-19",
-    "name": "Juneteenth National Independence Day",
+    "name": "Juneteenth National Independence Day / Emancipation Day In Texas; Juneteenth National Independence Day",
     "isPublic": true
   },
   {
@@ -236,7 +236,7 @@
   },
   {
     "date": "2027-10-11",
-    "name": "Columbus Day",
+    "name": "Columbus Day / Indigenous Peoples' Day / Columbus Day / American Indian Heritage Day / Fraternal Day / Commonwealth Cultural Day / Indigenous Peoples' Day / Columbus Day / Native Americans' Day / Columbus Day and Puerto Rico Friendship Day",
     "isPublic": true
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "date": "2027-10-29",
-    "name": "Diwali",
+    "name": "Diwali / Nevada Day",
     "isPublic": false
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "date": "2027-11-02",
-    "name": "All Souls' Day",
+    "name": "All Souls' Day / Election Day",
     "isPublic": false
   },
   {
@@ -281,22 +281,22 @@
   },
   {
     "date": "2027-11-26",
-    "name": "Day After Thanksgiving",
+    "name": "Day After Thanksgiving / Friday After Thanksgiving / State Holiday / Lincoln's Birthday / American Indian Heritage Day / Presidents' Day / Family Day / Native American Heritage Day",
     "isPublic": false
   },
   {
     "date": "2027-12-08",
-    "name": "Lady of Camarin Day",
+    "name": "Lady of Camarin Day / Constitution Day",
     "isPublic": false
   },
   {
     "date": "2027-12-23",
-    "name": "Washington's Birthday",
+    "name": "Washington's Birthday / Christmas Eve (observed)",
     "isPublic": false
   },
   {
     "date": "2027-12-24",
-    "name": "Christmas Day (observed)",
+    "name": "Christmas Day (observed) / Christmas Day (observed); Christmas Eve",
     "isPublic": true
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "date": "2027-12-26",
-    "name": "Day After Christmas",
+    "name": "Day After Christmas / Christmas Second Day",
     "isPublic": false
   },
   {
@@ -316,7 +316,7 @@
   },
   {
     "date": "2027-12-31",
-    "name": "New Year's Day (observed)",
+    "name": "New Year's Day (observed) / New Year's Day (observed); New Year's Eve",
     "isPublic": true
   }
 ]

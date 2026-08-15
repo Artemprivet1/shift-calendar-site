@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-01-14",
-    "name": "Magh Bihu",
+    "name": "Magh Bihu / Uttarayan / Pongal",
     "isPublic": false
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "date": "2026-03-03",
-    "name": "Holi",
+    "name": "Holi / Holika Dahan",
     "isPublic": false
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "date": "2026-03-19",
-    "name": "Ugadi",
+    "name": "Ugadi / Gudi Padwa / Cheti Chand",
     "isPublic": false
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "date": "2026-03-21",
-    "name": "Id-ul-Fitr",
+    "name": "Id-ul-Fitr / Id-ul-Fitr; Nauroz",
     "isPublic": true
   },
   {
@@ -121,22 +121,22 @@
   },
   {
     "date": "2026-04-14",
-    "name": "Dr. B. R. Ambedkar's Jayanti",
+    "name": "Dr. B. R. Ambedkar's Jayanti / Dr. B. R. Ambedkar's Jayanti; Vaisakhi / Baisakhi; Dr. B. R. Ambedkar's Jayanti / Dr. B. R. Ambedkar's Jayanti; Puthandu (Tamil New Year)",
     "isPublic": true
   },
   {
     "date": "2026-04-15",
-    "name": "Himachal Day",
+    "name": "Himachal Day / Maha Vishuva Sankranti / Pana Sankranti / Pohela Boishakh",
     "isPublic": false
   },
   {
     "date": "2026-04-19",
-    "name": "Bhagvan Shri Parshuram's Jayanti",
+    "name": "Bhagvan Shri Parshuram's Jayanti / Akshay Tritiya; Bhagvan Shri Parshuram's Jayanti",
     "isPublic": false
   },
   {
     "date": "2026-05-01",
-    "name": "Buddha Purnima",
+    "name": "Buddha Purnima / Buddha Purnima; Gujarat Day / Buddha Purnima; Maharashtra Day",
     "isPublic": true
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "date": "2026-08-15",
-    "name": "Independence Day",
+    "name": "Independence Day / Independence Day; Parsi New Year (Shahenshahi)",
     "isPublic": true
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "date": "2026-08-26",
-    "name": "Milad-un-Nabi",
+    "name": "Milad-un-Nabi / Milad-un-Nabi; Onam",
     "isPublic": true
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "date": "2026-09-23",
-    "name": "Haryana War Heroes' Shaheedi Diwas",
+    "name": "Haryana War Heroes' Shaheedi Diwas / Maharaja Hari Singh's Jayanti",
     "isPublic": false
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "date": "2026-10-26",
-    "name": "Maharshi Valmiki's Jayanti",
+    "name": "Maharshi Valmiki's Jayanti / Accession Day",
     "isPublic": false
   },
   {
@@ -271,7 +271,7 @@
   },
   {
     "date": "2026-11-01",
-    "name": "Andhra Pradesh Foundation Day",
+    "name": "Andhra Pradesh Foundation Day / Chhattisgarh Foundation Day / Haryana Day / Karnataka Rajyotsava / Kerala Foundation Day / Madhya Pradesh Foundation Day / Puducherry Liberation Day",
     "isPublic": false
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "date": "2026-11-15",
-    "name": "Chhath Puja",
+    "name": "Chhath Puja / Chhath Puja; Jharkhand Formation Day",
     "isPublic": false
   },
   {
@@ -296,7 +296,7 @@
   },
   {
     "date": "2026-11-24",
-    "name": "Guru Nanak's Jayanti",
+    "name": "Guru Nanak's Jayanti / Guru Nanak's Jayanti; Guru Tegh Bahadur's Shaheedi Diwas",
     "isPublic": true
   },
   {

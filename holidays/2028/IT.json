@@ -56,7 +56,7 @@
   },
   {
     "date": "2028-02-14",
-    "name": "San Modestino",
+    "name": "San Modestino / San Valentino",
     "isPublic": false
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "date": "2028-03-18",
-    "name": "Sant'Anselmo da Baggio",
+    "name": "Sant'Anselmo da Baggio / Nostra Signora della Misericordia",
     "isPublic": false
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "date": "2028-04-23",
-    "name": "San Giorgio",
+    "name": "San Giorgio / San Giorgio Martire",
     "isPublic": false
   },
   {
     "date": "2028-04-25",
-    "name": "Anniversario della Liberazione",
+    "name": "Anniversario della Liberazione / Anniversario della Liberazione; San Marco Evangelista",
     "isPublic": true
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "date": "2028-07-02",
-    "name": "Madonna della Visitazione",
+    "name": "Madonna della Visitazione / Madonna della Bruna",
     "isPublic": false
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "date": "2028-07-12",
-    "name": "San Paolino di Lucca",
+    "name": "San Paolino di Lucca / Santi Ermacora e Fortunato",
     "isPublic": false
   },
   {
@@ -286,12 +286,12 @@
   },
   {
     "date": "2028-08-05",
-    "name": "Sant'Emidio",
+    "name": "Sant'Emidio / Nostra Signora della Neve",
     "isPublic": false
   },
   {
     "date": "2028-08-07",
-    "name": "San Donato d'Arezzo",
+    "name": "San Donato d'Arezzo / Sant'Alberto degli Abati",
     "isPublic": false
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "date": "2028-08-15",
-    "name": "Assunzione della Beata Vergine Maria",
+    "name": "Assunzione della Beata Vergine Maria / Assunzione della Beata Vergine Maria; Maria Santissima Assunta",
     "isPublic": true
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "date": "2028-08-26",
-    "name": "Sant'Alessandro di Bergamo",
+    "name": "Sant'Alessandro di Bergamo / Sant'Oronzo",
     "isPublic": false
   },
   {
@@ -331,7 +331,7 @@
   },
   {
     "date": "2028-08-31",
-    "name": "Sant'Abbondio",
+    "name": "Sant'Abbondio / San Giuliano l'ospitaliere",
     "isPublic": false
   },
   {
@@ -351,7 +351,7 @@
   },
   {
     "date": "2028-09-08",
-    "name": "Madonna delle Grazie",
+    "name": "Madonna delle Grazie / Madonna di Monte Berico",
     "isPublic": false
   },
   {
@@ -381,7 +381,7 @@
   },
   {
     "date": "2028-10-04",
-    "name": "Festa nazionale di San Francesco d'Assisi, patrono d'Italia",
+    "name": "Festa nazionale di San Francesco d'Assisi, patrono d'Italia / Festa nazionale di San Francesco d'Assisi, patrono d'Italia; San Petronio / Festa nazionale di San Francesco d'Assisi, patrono d'Italia; San Francesco d'Assisi",
     "isPublic": true
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "date": "2028-11-26",
-    "name": "San Leonardo da Porto Maurizio",
+    "name": "San Leonardo da Porto Maurizio / San Bellino",
     "isPublic": false
   },
   {

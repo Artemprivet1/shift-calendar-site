@@ -1,12 +1,12 @@
 [
   {
     "date": "2029-01-14",
-    "name": "Magh Bihu",
+    "name": "Magh Bihu / Uttarayan / Pongal",
     "isPublic": false
   },
   {
     "date": "2029-01-15",
-    "name": "Guru Gobind Singh's Jayanti",
+    "name": "Guru Gobind Singh's Jayanti / Thiruvalluvar Day / Mattu Pongal",
     "isPublic": false
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "date": "2029-03-30",
-    "name": "Good Friday",
+    "name": "Good Friday / Good Friday; Rajasthan Day",
     "isPublic": true
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "date": "2029-04-14",
-    "name": "Dr. B. R. Ambedkar's Jayanti",
+    "name": "Dr. B. R. Ambedkar's Jayanti / Dr. B. R. Ambedkar's Jayanti; Ugadi / Dr. B. R. Ambedkar's Jayanti; Vaisakhi / Baisakhi; Dr. B. R. Ambedkar's Jayanti / Dr. B. R. Ambedkar's Jayanti; Gudi Padwa / Dr. B. R. Ambedkar's Jayanti; Puthandu (Tamil New Year) / Cheti Chand; Dr. B. R. Ambedkar's Jayanti",
     "isPublic": true
   },
   {
     "date": "2029-04-15",
-    "name": "Himachal Day",
+    "name": "Himachal Day / 1st Navratra / Maha Vishuva Sankranti / Pana Sankranti / Pohela Boishakh",
     "isPublic": false
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "date": "2029-05-01",
-    "name": "Gujarat Day",
+    "name": "Gujarat Day / Maharashtra Day",
     "isPublic": false
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "date": "2029-05-16",
-    "name": "Bhagvan Shri Parshuram's Jayanti",
+    "name": "Bhagvan Shri Parshuram's Jayanti / Akshay Tritiya; Bhagvan Shri Parshuram's Jayanti / Sikkim State Day",
     "isPublic": false
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "date": "2029-09-23",
-    "name": "Haryana War Heroes' Shaheedi Diwas",
+    "name": "Haryana War Heroes' Shaheedi Diwas / Maharaja Hari Singh's Jayanti",
     "isPublic": false
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "date": "2029-11-01",
-    "name": "Andhra Pradesh Foundation Day",
+    "name": "Andhra Pradesh Foundation Day / Chhattisgarh Foundation Day / Haryana Day / Karnataka Rajyotsava / Kerala Foundation Day / Madhya Pradesh Foundation Day / Puducherry Liberation Day",
     "isPublic": false
   },
   {

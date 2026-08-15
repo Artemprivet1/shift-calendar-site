@@ -11,7 +11,7 @@
   },
   {
     "date": "2028-02-21",
-    "name": "Family Day",
+    "name": "Family Day / Louis Riel Day / Heritage Day / Islander Day",
     "isPublic": false
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "date": "2028-05-22",
-    "name": "Victoria Day",
+    "name": "Victoria Day / National Patriots' Day",
     "isPublic": false
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "date": "2028-07-01",
-    "name": "Canada Day",
+    "name": "Canada Day / Canada Day; Memorial Day",
     "isPublic": true
   },
   {
     "date": "2028-07-03",
-    "name": "Canada Day (observed); Memorial Day (observed)",
+    "name": "Canada Day (observed); Memorial Day (observed) / Canada Day (observed)",
     "isPublic": false
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "date": "2028-08-07",
-    "name": "British Columbia Day",
+    "name": "British Columbia Day / New Brunswick Day / Civic Holiday / Saskatchewan Day",
     "isPublic": false
   },
   {

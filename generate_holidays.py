@@ -13,6 +13,25 @@ COUNTRIES = [
     "ZA", "NG", "KE", "GH", "ET"
 ]
 
+def add_holiday(holiday_map, d_str, name, is_public):
+    if not name:
+        return
+    clean_name = str(name).strip()
+    
+    if d_str not in holiday_map:
+        holiday_map[d_str] = {
+            "date": d_str,
+            "names": [clean_name],
+            "isPublic": is_public
+        }
+    else:
+        # Объединяем названия без дубликатов
+        if clean_name not in holiday_map[d_str]["names"]:
+            holiday_map[d_str]["names"].append(clean_name)
+        # Если хотя бы один праздник на эту дату официальный — статус True сохраняется
+        if is_public:
+            holiday_map[d_str]["isPublic"] = True
+
 def generate():
     total_files = 0
     all_cats = getattr(holidays, 'ALL_CATEGORIES', None)
@@ -22,26 +41,28 @@ def generate():
         os.makedirs(year_dir, exist_ok=True)
         
         for country in COUNTRIES:
-            holiday_dict = {}
+            holiday_map = {}
             
-            # 1. Запрашиваем общегосударственные праздники со всеми категориями
+            # 1. Сначала извлекаем официальные государственные праздники (isPublic = True)
+            try:
+                base_public = holidays.country_holidays(country, years=year, observed=True)
+                for h_date, h_name in base_public.items():
+                    d_str = h_date.isoformat()
+                    add_holiday(holiday_map, d_str, h_name, is_public=True)
+            except Exception:
+                pass
+
+            # 2. Извлекаем ВСЕ категории (памятные даты, обычаи, банк. дни)
             try:
                 if all_cats is not None:
-                    base_hols = holidays.country_holidays(country, years=year, observed=True, categories=all_cats)
-                else:
-                    base_hols = holidays.country_holidays(country, years=year, observed=True)
-                
-                for h_date, h_name in base_hols.items():
-                    d_str = h_date.isoformat()
-                    holiday_dict[d_str] = {
-                        "date": d_str,
-                        "name": str(h_name),
-                        "isPublic": True
-                    }
+                    base_all = holidays.country_holidays(country, years=year, observed=True, categories=all_cats)
+                    for h_date, h_name in base_all.items():
+                        d_str = h_date.isoformat()
+                        add_holiday(holiday_map, d_str, h_name, is_public=False)
             except Exception:
                 pass
                 
-            # 2. Автоматически опрашиваем ВСЕ регионы, провинции и штаты страны
+            # 3. Извлекаем праздники ВСЕХ регионов/субъектов/провинций (subdivisions)
             try:
                 country_obj = holidays.country_holidays(country)
                 subdivs = getattr(country_obj, 'subdivisions', []) or []
@@ -55,19 +76,22 @@ def generate():
                         
                         for h_date, h_name in sub_hols.items():
                             d_str = h_date.isoformat()
-                            if d_str not in holiday_dict:
-                                holiday_dict[d_str] = {
-                                    "date": d_str,
-                                    "name": str(h_name),
-                                    "isPublic": False
-                                }
+                            add_holiday(holiday_map, d_str, h_name, is_public=False)
                     except Exception:
                         continue
             except Exception:
                 pass
             
-            # Сортируем полученный список дат
-            holiday_list = list(holiday_dict.values())
+            # Формируем финальный список с объединенными названиями через " / "
+            holiday_list = []
+            for item in holiday_map.values():
+                holiday_list.append({
+                    "date": item["date"],
+                    "name": " / ".join(item["names"]),
+                    "isPublic": item["isPublic"]
+                })
+            
+            # Сортируем по возрастанию даты
             holiday_list.sort(key=lambda x: x["date"])
             
             # Записываем чистый UTF-8 JSON без BOM
@@ -76,7 +100,7 @@ def generate():
                 json.dump(holiday_list, f, ensure_ascii=False, indent=2)
             total_files += 1
 
-    print(f"Готово! Все {total_files} файлов созданы строго через единый алгоритм (со всеми провинциями, штатами и категориями)!")
+    print(f"Успешно сгенерировано {total_files} файлов со слиянием дат и регионами!")
 
 if __name__ == "__main__":
     generate()

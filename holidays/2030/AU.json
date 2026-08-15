@@ -21,7 +21,7 @@
   },
   {
     "date": "2030-03-11",
-    "name": "Canberra Day",
+    "name": "Canberra Day / Adelaide Cup Day / Eight Hours Day / Labour Day",
     "isPublic": false
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "date": "2030-05-06",
-    "name": "May Day",
+    "name": "May Day / Labour Day",
     "isPublic": false
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "date": "2030-10-07",
-    "name": "Labour Day",
+    "name": "Labour Day / King's Birthday",
     "isPublic": false
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "date": "2030-12-26",
-    "name": "Boxing Day",
+    "name": "Boxing Day / Proclamation Day",
     "isPublic": true
   }
 ]

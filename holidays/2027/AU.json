@@ -16,7 +16,7 @@
   },
   {
     "date": "2027-03-08",
-    "name": "Canberra Day",
+    "name": "Canberra Day / Adelaide Cup Day / Eight Hours Day / Labour Day",
     "isPublic": false
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "date": "2027-04-26",
-    "name": "ANZAC Day",
+    "name": "ANZAC Day / ANZAC Day (observed)",
     "isPublic": false
   },
   {
     "date": "2027-05-03",
-    "name": "May Day",
+    "name": "May Day / Labour Day",
     "isPublic": false
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "date": "2027-10-04",
-    "name": "Labour Day",
+    "name": "Labour Day / King's Birthday",
     "isPublic": false
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "date": "2027-12-26",
-    "name": "Boxing Day",
+    "name": "Boxing Day / Proclamation Day",
     "isPublic": true
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "date": "2027-12-28",
-    "name": "Boxing Day (observed)",
+    "name": "Boxing Day (observed) / Proclamation Day (observed) / Boxing Day",
     "isPublic": false
   }
 ]

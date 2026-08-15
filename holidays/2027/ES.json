@@ -11,7 +11,7 @@
   },
   {
     "date": "2027-03-01",
-    "name": "Lunes siguiente a Día de Andalucía",
+    "name": "Lunes siguiente a Día de Andalucía / Día de las Islas Baleares",
     "isPublic": false
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "date": "2027-04-23",
-    "name": "Día de San Jorge",
+    "name": "Día de San Jorge / Fiesta de Castilla y León",
     "isPublic": false
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "date": "2027-05-16",
-    "name": "Fiesta del Sacrificio-Eidul Adha (estimado)",
+    "name": "Fiesta del Sacrificio-Eidul Adha (estimado) / Fiesta del Sacrificio-Aid Al Adha (estimado)",
     "isPublic": false
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "date": "2027-05-31",
-    "name": "Día de Castilla-La Mancha",
+    "name": "Día de Castilla-La Mancha / Lunes siguiente a Día de Canarias",
     "isPublic": false
   },
   {
     "date": "2027-06-09",
-    "name": "Día de la Región de Murcia",
+    "name": "Día de la Región de Murcia / Día de La Rioja",
     "isPublic": false
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "date": "2027-09-08",
-    "name": "Día de Asturias",
+    "name": "Día de Asturias / Día de Extremadura / Día de Nuestra Señora la Virgen de la Victoria",
     "isPublic": false
   },
   {
