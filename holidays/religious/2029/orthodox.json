@@ -2,116 +2,139 @@
   {
     "date": "2029-01-07",
     "name": "Рождество Христово",
-    "isPublic": false
-  },
-  {
-    "date": "2029-01-14",
-    "name": "Обрезание Господне",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-01-19",
     "name": "Крещение Господне (Богоявление)",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
+  },
+  {
+    "date": "2029-02-12",
+    "name": "Масленица (начало Сырной седмицы)",
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-02-15",
     "name": "Сретение Господне",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
+  },
+  {
+    "date": "2029-02-18",
+    "name": "Прощёное воскресенье",
+    "isPublic": false,
+    "isReligious": true
+  },
+  {
+    "date": "2029-02-19",
+    "name": "Чистый понедельник (начало Великого поста)",
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-04-01",
-    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
-    "isPublic": false
-  },
-  {
-    "date": "2029-04-05",
-    "name": "Великий (Чистый) четверг",
-    "isPublic": false
-  },
-  {
-    "date": "2029-04-06",
-    "name": "Великая (Страстная) пятница",
-    "isPublic": false
+    "name": "Вербное воскресенье (Вход Господень в Иерусалим)",
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-04-07",
     "name": "Благовещение Пресвятой Богородицы",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-04-08",
     "name": "Пасха Христова (Светлое Христово Воскресение)",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-04-17",
     "name": "Радоница (День поминовения усопших)",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-05-17",
     "name": "Вознесение Господне",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
-    "date": "2029-05-22",
-    "name": "День памяти святителя Николая Чудотворца (весенний)",
-    "isPublic": false
+    "date": "2029-05-26",
+    "name": "Троицкая родительская суббота",
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-05-27",
     "name": "День Святой Троицы (Пятидесятница)",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
-    "date": "2029-05-28",
-    "name": "День Святого Духа",
-    "isPublic": false
+    "date": "2029-08-02",
+    "name": "Ильин день",
+    "isPublic": false,
+    "isReligious": true
   },
   {
-    "date": "2029-07-12",
-    "name": "День святых апостолов Петра и Павла",
-    "isPublic": false
+    "date": "2029-08-14",
+    "name": "Медовый Спас",
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-08-19",
-    "name": "Преображение Господне (Яблочный Спас)",
-    "isPublic": false
+    "name": "Яблочный Спас (Преображение Господне)",
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-08-28",
     "name": "Успение Пресвятой Богородицы",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
-    "date": "2029-09-11",
-    "name": "Усекновение главы Иоанна Предтечи",
-    "isPublic": false
+    "date": "2029-08-29",
+    "name": "Ореховый (Хлебный) Спас",
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-09-21",
     "name": "Рождество Пресвятой Богородицы",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-09-27",
     "name": "Воздвижение Креста Господня",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-10-14",
     "name": "Покров Пресвятой Богородицы",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-12-04",
     "name": "Введение во храм Пресвятой Богородицы",
-    "isPublic": false
+    "isPublic": false,
+    "isReligious": true
   },
   {
     "date": "2029-12-19",
-    "name": "День святителя Николая Чудотворца (зимний)",
-    "isPublic": false
+    "name": "День святителя Николая Чудотворца",
+    "isPublic": false,
+    "isReligious": true
   }
 ]

@@ -1,138 +1,138 @@
 [
   {
-    "date": "2026-01-07",
+    "date": "2036-01-07",
     "name": "Рождество Христово",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-01-19",
+    "date": "2036-01-19",
     "name": "Крещение Господне (Богоявление)",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-02-15",
+    "date": "2036-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-02-16",
+    "date": "2036-02-25",
     "name": "Масленица (начало Сырной седмицы)",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-02-22",
+    "date": "2036-03-02",
     "name": "Прощёное воскресенье",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-02-23",
+    "date": "2036-03-03",
     "name": "Чистый понедельник (начало Великого поста)",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-04-05",
-    "name": "Вербное воскресенье (Вход Господень в Иерусалим)",
-    "isPublic": false,
-    "isReligious": true
-  },
-  {
-    "date": "2026-04-07",
+    "date": "2036-04-07",
     "name": "Благовещение Пресвятой Богородицы",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-04-12",
+    "date": "2036-04-13",
+    "name": "Вербное воскресенье (Вход Господень в Иерусалим)",
+    "isPublic": false,
+    "isReligious": true
+  },
+  {
+    "date": "2036-04-20",
     "name": "Пасха Христова (Светлое Христово Воскресение)",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-04-21",
+    "date": "2036-04-29",
     "name": "Радоница (День поминовения усопших)",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-05-21",
+    "date": "2036-05-29",
     "name": "Вознесение Господне",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-05-30",
+    "date": "2036-06-07",
     "name": "Троицкая родительская суббота",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-05-31",
+    "date": "2036-06-08",
     "name": "День Святой Троицы (Пятидесятница)",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-08-02",
+    "date": "2036-08-02",
     "name": "Ильин день",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-08-14",
+    "date": "2036-08-14",
     "name": "Медовый Спас",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-08-19",
+    "date": "2036-08-19",
     "name": "Яблочный Спас (Преображение Господне)",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-08-28",
+    "date": "2036-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-08-29",
+    "date": "2036-08-29",
     "name": "Ореховый (Хлебный) Спас",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-09-21",
+    "date": "2036-09-21",
     "name": "Рождество Пресвятой Богородицы",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-09-27",
+    "date": "2036-09-27",
     "name": "Воздвижение Креста Господня",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-10-14",
+    "date": "2036-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-12-04",
+    "date": "2036-12-04",
     "name": "Введение во храм Пресвятой Богородицы",
     "isPublic": false,
     "isReligious": true
   },
   {
-    "date": "2026-12-19",
+    "date": "2036-12-19",
     "name": "День святителя Николая Чудотворца",
     "isPublic": false,
     "isReligious": true
