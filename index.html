@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy — Shift Calendar</title>
+    <title>Privacy Policy & Disclaimer — Shift Calendar</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding: 25px; line-height: 1.6; max-width: 850px; margin: 0 auto; color: #222; background: #fff; }
         h1, h2 { color: #0056b3; }
         a { color: #0056b3; text-decoration: underline; }
         .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #eee; padding-bottom: 15px; margin-bottom: 20px; flex-wrap: wrap; gap: 10px; }
-        .lang-select { padding: 8px 12px; font-size: 15px; border-radius: 6px; border: 1px solid #ccc; background: #f8f9fa; cursor: pointer; }
+        .lang-select { padding: 8px 12px; font-size: 15px; border-radius: 6px; border: 1px solid #ccc; background: #f8f9fa; cursor: pointer; max-width: 250px; }
         .box { background: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px; }
+        .disclaimer-box { background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 15px 0; border-radius: 4px; color: #856404; }
         .lang-section { display: none; }
     </style>
 </head>
@@ -19,422 +20,1168 @@
 <div class="header">
     <strong style="font-size: 18px; color: #0056b3;">Shift Calendar: My Work Schedule</strong>
     <div>
-        <label for="lang-select">🌐 Language / Язык: </label>
+        <label for="lang-select">🌐 Language (65+): </label>
         <select id="lang-select" class="lang-select" onchange="switchLanguage(this.value)">
             <option value="en">English</option>
             <option value="ru">Русский</option>
             <option value="es">Español</option>
             <option value="de">Deutsch</option>
             <option value="fr">Français</option>
-            <option value="pt">Português (Brasil)</option>
+            <option value="pt">Português</option>
             <option value="it">Italiano</option>
             <option value="pl">Polski</option>
             <option value="nl">Nederlands</option>
-            <option value="id">Bahasa Indonesia</option>
+            <option value="be">Беларуская</option>
+            <option value="kk">Қазақша</option>
+            <option value="uz">O'zbekcha</option>
+            <option value="ky">Кыргызча</option>
+            <option value="hy">Հայերեն</option>
+            <option value="ka">ქართული</option>
+            <option value="az">Azərbaycanca</option>
+            <option value="cs">Čeština</option>
+            <option value="sk">Slovenčina</option>
+            <option value="hu">Magyar</option>
+            <option value="ro">Română</option>
+            <option value="bg">Български</option>
+            <option value="sr">Српски</option>
+            <option value="hr">Hrvatski</option>
+            <option value="sl">Slovenščina</option>
+            <option value="el">Ελληνικά</option>
+            <option value="da">Dansk</option>
+            <option value="fi">Suomi</option>
+            <option value="sv">Svenska</option>
+            <option value="no">Norsk</option>
+            <option value="is">Íslenska</option>
+            <option value="et">Eesti</option>
+            <option value="lv">Latviešu</option>
+            <option value="lt">Lietuvių</option>
+            <option value="mt">Malti</option>
+            <option value="ga">Gaeilge</option>
             <option value="tr">Türkçe</option>
+            <option value="id">Bahasa Indonesia</option>
+            <option value="ms">Bahasa Melayu</option>
+            <option value="vi">Tiếng Việt</option>
+            <option value="th">ไทย</option>
+            <option value="tl">Filipino</option>
             <option value="ja">日本語</option>
             <option value="ko">한국어</option>
             <option value="zh">繁體中文</option>
+            <option value="hi">हिन्दी</option>
+            <option value="bn">বাংলা</option>
+            <option value="ur">اردو</option>
+            <option value="fa">فارسی</option>
             <option value="ar">العربية</option>
+            <option value="he">עברית</option>
+            <option value="si">සිංහල</option>
+            <option value="ne">नेपाली</option>
+            <option value="my">မြန်မာ</option>
+            <option value="km">ភាសាខ្មែរ</option>
+            <option value="lo">ພາສາລາວ</option>
+            <option value="mn">Монгол</option>
+            <option value="fj">Fijian</option>
+            <option value="tpi">Tok Pisin</option>
+            <option value="sw">Kiswahili</option>
+            <option value="af">Afrikaans</option>
+            <option value="am">አማርኛ</option>
+            <option value="ha">Hausa</option>
+            <option value="yo">Yorùbá</option>
+            <option value="ig">Igbo</option>
+            <option value="zu">isiZulu</option>
+            <option value="xh">isiXhosa</option>
         </select>
     </div>
 </div>
 
-<!-- ENGLISH PRIVACY POLICY (DEFAULT GLOBAL) -->
+<!-- ENGLISH (DEFAULT) -->
 <div id="lang-en" class="lang-section">
-    <h1>Privacy Policy</h1>
+    <h1>Privacy Policy & Disclaimer</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
     <strong>Updated:</strong> August 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
     <h2>1. General Provisions</h2>
-    <p>This Privacy Policy describes how the "Shift Calendar" application handles your information. We respect your privacy: the application does not require account registration and does not collect personally identifiable information (PII) such as your full name, phone number, or personal contacts.</p>
-
+    <p>The "Shift Calendar" app does not require account registration and does not collect personally identifiable information (PII).</p>
     <h2>2. Local Data Storage</h2>
-    <p>All your work shift schedules, custom patterns, notes, and personal calendar events are stored <strong>100% locally</strong> on your device using Jetpack DataStore. The developer has no access to your schedule or personal calendar entries.</p>
-
+    <p>All work shift schedules, notes, and events are stored <strong>100% locally</strong> on your device using Jetpack DataStore.</p>
     <h2>3. Advertising and Identifiers</h2>
-    <p>To display advertisements and support app monetization, the application integrates the <strong>Appodeal</strong> mediation platform (Appodeal Inc., BidMachine). The ad SDK may collect anonymous technical data, including:</p>
-    <ul>
-        <li>Mobile Advertising Identifier (Google Advertising ID / Huawei OAID);</li>
-        <li>Device IP address (used for approximate coarse geo-targeting to display relevant local ads);</li>
-        <li>Device specifications, operating system version, and ad view/click performance metrics.</li>
-    </ul>
-    <div class="box">
-        For more information regarding third-party ad data processing, please review: 
-        <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+    <p>The application integrates the <strong>Appodeal</strong> mediation platform (Appodeal Inc., BidMachine) to display ads. The SDK may collect anonymous technical data (Advertising ID, coarse IP address). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    <h2>4. Data Management</h2>
+    <p>To completely delete all data, simply uninstall the application from your device.</p>
+    <h2>5. Disclaimer & Limitation of Liability</h2>
+    <div class="disclaimer-box">
+        <p>• The application is provided "AS IS" for personal scheduling purposes only.</p>
+        <p>• The developer is not liable for missed shifts or lost wages due to alarm failures caused by OS battery optimization (Doze mode).</p>
+        <p>• Shift calculations and statistics are for reference only.</p>
     </div>
-
-    <h2>4. Contact Us</h2>
-    <p>If you have any questions regarding this Privacy Policy, please contact the developer at: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. Contact Us</h2>
+    <p>Developer: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- RUSSIAN PRIVACY POLICY -->
+<!-- RUSSIAN -->
 <div id="lang-ru" class="lang-section">
-    <h1>Политика конфиденциальности</h1>
+    <h1>Политика конфиденциальности и Отказ от ответственности</h1>
     <p><strong>Приложение:</strong> «Календарь смен: мой график работы»<br>
     <strong>Дата обновления:</strong> Август 2026 г.<br>
     <strong>Разработчик:</strong> Кудрин Артём (dastlap@gmail.com)</p>
-
     <h2>1. Общие положения</h2>
-    <p>Настоящая Политика описывает порядок обработки данных приложением «Календарь смен». Мы уважаем вашу приватность: приложение не требует регистрации и не собирает персональные данные пользователя (ФИО, телефон, контакты).</p>
-
+    <p>Приложение не требует регистрации и не собирает ваши личные данные (ФИО, номер телефона, контакты).</p>
     <h2>2. Локальное хранение данных</h2>
-    <p>Все графики рабочих смен, заметки и личные события хранятся <strong>исключительно локально</strong> на вашем устройстве в хранилище Jetpack DataStore. Разработчик не имеет доступа к вашему расписанию.</p>
-
-    <h2>3. Монетизация и рекламные идентификаторы</h2>
-    <p>Для показа объявлений приложение использует платформу медиации <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Рекламный SDK может собирать анонимные технические данные:</p>
-    <ul>
-        <li>Рекламный идентификатор устройства (Google Advertising ID / Huawei OAID);</li>
-        <li>IP-адрес устройства для определения региона и отображения актуальной рекламы;</li>
-        <li>Параметры устройства и статистику показов рекламы.</li>
-    </ul>
-    <div class="box">
-        Подробнее с политикой обработки данных рекламного партнера вы можете ознакомиться на странице: 
-        <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+    <p>Все графики смен и заметки хранятся <strong>исключительно локально</strong> на вашем устройстве (Jetpack DataStore).</p>
+    <h2>3. Реклама и идентификаторы</h2>
+    <p>Приложение использует платформу <strong>Appodeal</strong> (Appodeal Inc., BidMachine) для показа баннеров. Подробнее: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    <h2>4. Удаление данных</h2>
+    <p>Для полного удаления данных достаточно удалить приложение с устройства.</p>
+    <h2>5. Отказ от ответственности</h2>
+    <div class="disclaimer-box">
+        <p>• Приложение предоставляется «КАК ЕСТЬ» исключительно для личного планирования.</p>
+        <p>• Разработчик не несет ответственности за пропущенные смены из-за оптимизации батареи Android (Doze Mode).</p>
+        <p>• Расчет часов носит справочный характер.</p>
     </div>
-
-    <h2>4. Обратная связь</h2>
-    <p>По любым вопросам пишите автору: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. Обратная связь</h2>
+    <p>Пишите автору: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- SPANISH PRIVACY POLICY -->
 <div id="lang-es" class="lang-section">
-    <h1>Política de Privacidad</h1>
-    <p><strong>Aplicación:</strong> Calendario de Turnos: Mi Horario de Trabajo<br>
-    <strong>Actualizado:</strong> Agosto de 2026<br>
-    <strong>Desarrollador:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. Disposiciones Generales</h2>
-    <p>Esta Política de Privacidad describe cómo la aplicación maneja su información. Respetamos su privacidad: la aplicación no requiere registro de cuenta y no recopila información de identificación personal (PII).</p>
-
-    <h2>2. Almacenamiento Local de Datos</h2>
-    <p>Todos sus horarios de trabajo, notas y eventos del calendario se almacenan <strong>100% localmente</strong> en su dispositivo mediante Jetpack DataStore. El desarrollador no tiene acceso a sus datos.</p>
-
-    <h2>3. Publicidad e Identificadores</h2>
-    <p>Para mostrar anuncios, la aplicación integra la plataforma de mediación <strong>Appodeal</strong> (Appodeal Inc., BidMachine). El SDK puede recopilar datos técnicos anónimos como el Identificador de Publicidad Móvil (GAID/OAID) y la dirección IP.</p>
+    <h1>Privacy Policy & Disclaimer (Español)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        Más información en la política oficial: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. Contacto</h2>
-    <p>Escriba al desarrollador: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- GERMAN PRIVACY POLICY -->
 <div id="lang-de" class="lang-section">
-    <h1>Datenschutzrichtlinie</h1>
-    <p><strong>Anwendung:</strong> Schichtkalender: Mein Arbeitsplan<br>
-    <strong>Aktualisiert:</strong> August 2026<br>
-    <strong>Entwickler:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. Allgemeine Bestimmungen</h2>
-    <p>Diese Datenschutzrichtlinie beschreibt den Umgang der App mit Ihren Daten. Wir respektieren Ihre Privatsphäre: Die App erfordert keine Registrierung und erfasst keine personenbezogenen Daten.</p>
-
-    <h2>2. Lokale Datenspeicherung</h2>
-    <p>Alle Ihre Schichtpläne, Notizen und Kalendereinträge werden zu <strong>100% lokal</strong> auf Ihrem Gerät über Jetpack DataStore gespeichert. Der Entwickler hat keinen Zugriff darauf.</p>
-
-    <h2>3. Werbung und Identifikatoren</h2>
-    <p>Zur Anzeige von Werbeanzeigen nutzt die App die Vermittlungsplattform <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Das SDK kann anonyme technische Daten wie Werbe-IDs und IP-Adressen erfassen.</p>
+    <h1>Privacy Policy & Disclaimer (Deutsch)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        Weitere Informationen: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. Kontakt</h2>
-    <p>E-Mail an den Entwickler: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- FRENCH PRIVACY POLICY -->
 <div id="lang-fr" class="lang-section">
-    <h1>Politique de Confidentialité</h1>
-    <p><strong>Application:</strong> Calendrier de Roulement: Mon Horaire de Travail<br>
-    <strong>Mis à jour:</strong> Août 2026<br>
-    <strong>Développeur:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. Dispositions Générales</h2>
-    <p>Cette politique décrit le traitement des données. L'application ne nécessite aucune inscription et ne collecte aucune donnée personnelle.</p>
-
-    <h2>2. Stockage Local des Données</h2>
-    <p>Toutes vos données de roulement sont stockées à <strong>100% localement</strong> sur votre appareil via Jetpack DataStore.</p>
-
-    <h2>3. Publicité et Identifiants</h2>
-    <p>L'application intègre la plateforme <strong>Appodeal</strong> (Appodeal Inc., BidMachine) pour afficher des publicités. Le SDK collecte des données techniques anonymes (ID publicitaire, adresse IP).</p>
+    <h1>Privacy Policy & Disclaimer (Français)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        En savoir plus: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. Contact</h2>
-    <p>Contactez le développeur: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- PORTUGUESE PRIVACY POLICY -->
 <div id="lang-pt" class="lang-section">
-    <h1>Política de Privacidade</h1>
-    <p><strong>Aplicativo:</strong> Calendário de Turnos: Meu Horário de Trabalho<br>
-    <strong>Atualizado:</strong> Agosto de 2026<br>
-    <strong>Desenvolvedor:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. Disposições Gerais</h2>
-    <p>Esta Política descreve o tratamento de dados. O aplicativo não requer cadastro e não coleta dados pessoais identificáveis.</p>
-
-    <h2>2. Armazenamento Local de Dados</h2>
-    <p>Todos os seus turnos e anotações são armazenados <strong>100% localmente</strong> no seu dispositivo via Jetpack DataStore.</p>
-
-    <h2>3. Publicidade e Identificadores</h2>
-    <p>O aplicativo utiliza a plataforma <strong>Appodeal</strong> (Appodeal Inc., BidMachine). O SDK pode coletar dados técnicos anônimos como ID de publicidade e endereço IP.</p>
+    <h1>Privacy Policy & Disclaimer (Português)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        Saiba mais: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. Contato</h2>
-    <p>E-mail do desenvolvedor: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- ITALIAN PRIVACY POLICY -->
 <div id="lang-it" class="lang-section">
-    <h1>Informativa sulla Privacy</h1>
-    <p><strong>Applicazione:</strong> Calendario Turni: Il Mio Orario di Lavoro<br>
-    <strong>Aggiornato:</strong> Agosto 2026<br>
-    <strong>Sviluppatore:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. Disposizioni Generali</h2>
-    <p>Questa Informativa descrive la gestione delle informazioni nell'applicazione. Rispettiamo la tua privacy: l'applicazione non richiede registrazione e non raccoglie dati personali (PII).</p>
-
-    <h2>2. Archiviazione Locale dei Dati</h2>
-    <p>Tutti i tuoi turni di lavoro, note ed eventi del calendario sono salvati al <strong>100% localmente</strong> sul tuo dispositivo tramite Jetpack DataStore. Lo sviluppatore non ha accesso ai tuoi dati.</p>
-
-    <h2>3. Pubblicità e Identificatori</h2>
-    <p>Per mostrare annunci, l'applicazione integra la piattaforma di mediazione <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Il SDK può raccogliere dati tecnici anonimi:</p>
-    <ul>
-        <li>Identificatore pubblicitario mobile (Google Advertising ID / Huawei OAID);</li>
-        <li>Indirizzo IP del dispositivo (per geo-targetizzazione);</li>
-        <li>Specifiche del dispositivo e metriche di visualizzazione.</li>
-    </ul>
+    <h1>Privacy Policy & Disclaimer (Italiano)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        Maggiori informazioni: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. Contatto</h2>
-    <p>Contatta lo sviluppatore: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- POLISH PRIVACY POLICY -->
 <div id="lang-pl" class="lang-section">
-    <h1>Polityka Prywatności</h1>
-    <p><strong>Aplikacja:</strong> Grafik Pracy - Kalendarz Turnusowy<br>
-    <strong>Zaktualizowano:</strong> Sierpień 2026<br>
-    <strong>Deweloper:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. Postanowienia ogólne</h2>
-    <p>Niniejsza Polityka Prywatności opisuje sposób postępowania z informacjami w aplikacji "Grafik Pracy". Szanujemy Twoją prywatność: aplikacja nie wymaga rejestracji konta i nie zbiera danych osobowych (PII).</p>
-
-    <h2>2. Lokalny zapis danych</h2>
-    <p>Wszystkie Twoje harmonogramy pracy, notatki i wydarzenia w kalendarzu są przechowywane w <strong>100% lokalnie</strong> na Twoim urządzeniu za pomocą Jetpack DataStore. Deweloper nie ma dostępu do Twoich danych.</p>
-
-    <h2>3. Reklamy i identyfikatory</h2>
-    <p>W celu wyświetlania reklam aplikacja integruje platformę mediacji <strong>Appodeal</strong> (Appodeal Inc., BidMachine). SDK reklamowe może zbierać anonimowe dane techniczne:</p>
-    <ul>
-        <li>Mobilny identyfikator reklamowy (Google Advertising ID / Huawei OAID);</li>
-        <li>Adres IP urządzenia (do lokalnego dopasowywania reklam);</li>
-        <li>Specyfikację urządzenia i statystyki wyświetleń reklam.</li>
-    </ul>
+    <h1>Privacy Policy & Disclaimer (Polski)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        Więcej informacji w oficjalnej polityce: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. Kontakt</h2>
-    <p>Napisz do dewelopera: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- DUTCH PRIVACY POLICY -->
 <div id="lang-nl" class="lang-section">
-    <h1>Privacybeleid</h1>
-    <p><strong>Applicatie:</strong> Rooster & Schichten Kalender<br>
-    <strong>Bijgewerkt:</strong> Augustus 2026<br>
-    <strong>Ontwikkelaar:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. Algemene bepalingen</h2>
-    <p>Dit Privacybeleid beschrijft hoe de applicatie met uw gegevens omgaat. Wij respecteren uw privacy: de applicatie vereist geen accountregistratie en verzamelt geen persoonlijk identificeerbare informatie (PII).</p>
-
-    <h2>2. Lokale gegevensopslag</h2>
-    <p>Alle roostergegevens, notities en kalendergebeurtenissen worden <strong>100% lokaal</strong> op uw apparaat opgeslagen via Jetpack DataStore. De ontwikkelaar heeft geen toegang tot uw gegevens.</p>
-
-    <h2>3. Advertenties en identificatiegegevens</h2>
-    <p>De applicatie integreert het mediatieplatform <strong>Appodeal</strong> (Appodeal Inc., BidMachine) om advertenties weer te geven. De SDK kan anonieme technische gegevens verzamelen zoals advertentie-ID's en IP-adressen.</p>
+    <h1>Privacy Policy & Disclaimer (Nederlands)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        Meer informatie: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. Contact</h2>
-    <p>E-mail de ontwikkelaar: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- INDONESIAN PRIVACY POLICY -->
-<div id="lang-id" class="lang-section">
-    <h1>Kebijakan Privasi</h1>
-    <p><strong>Aplikasi:</strong> Kalender Shift Kerja Saya<br>
-    <strong>Diperbarui:</strong> Agustus 2026<br>
-    <strong>Pengembang:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. Ketentuan Umum</h2>
-    <p>Kebijakan Privasi ini menjelaskan bagaimana aplikasi mengelola informasi Anda. Kami menghormati privasi Anda: aplikasi tidak memerlukan pendaftaran akun dan tidak mengumpulkan informasi pribadi (PII).</p>
-
-    <h2>2. Penyimpanan Data Lokal</h2>
-    <p>Semua jadwal kerja, catatan, dan acara kalender Anda disimpan <strong>100% lokal</strong> di perangkat Anda menggunakan Jetpack DataStore. Pengembang tidak memiliki akses ke data Anda.</p>
-
-    <h2>3. Iklan dan Identifikator</h2>
-    <p>Aplikasi mengintegrasikan platform mediasi <strong>Appodeal</strong> (Appodeal Inc., BidMachine) untuk menampilkan iklan. SDK dapat mengumpulkan data teknis anonim seperti ID Periklanan dan alamat IP.</p>
+<div id="lang-be" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Беларуская)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        Informasi lebih lanjut: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. Kontak</h2>
-    <p>Hubungi pengembang: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- TURKISH PRIVACY POLICY -->
+<div id="lang-kk" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Қазақша)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-uz" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (O'zbekcha)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ky" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Кыргызча)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-hy" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Հայերեն)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ka" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (ქართული)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-az" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Azərbaycanca)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-cs" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Čeština)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-sk" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Slovenčina)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-hu" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Magyar)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ro" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Română)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-bg" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Български)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-sr" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Српски)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-hr" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Hrvatski)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-sl" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Slovenščina)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-el" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Ελληνικά)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-da" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Dansk)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-fi" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Suomi)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-sv" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Svenska)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-no" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Norsk)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-is" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Íslenska)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-et" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Eesti)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-lv" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Latviešu)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-lt" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Lietuvių)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-mt" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Malti)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ga" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Gaeilge)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
 <div id="lang-tr" class="lang-section">
-    <h1>Gizlilik Politikası</h1>
-    <p><strong>Uygulama:</strong> Vardiya Takvimi: Çalışma Programım<br>
-    <strong>Güncellendi:</strong> Ağustos 2026<br>
-    <strong>Geliştirici:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. Genel Hükümler</h2>
-    <p>Bu Gizlilik Politikası, uygulamanın bilgilerinizi nasıl işlediğini açıklar. Gizliliğinize saygı duyuyoruz: uygulama hesap kaydı gerektirmez ve kişisel verileri (PII) toplamaz.</p>
-
-    <h2>2. Yerel Veri Depolama</h2>
-    <p>Tüm vardiya programlarınız, notlarınız ve etkinlikleriniz Jetpack DataStore kullanılarak cihazınızda <strong>%100 yerel</strong> olarak saklanır. Geliştiricinin verilerinize erişimi yoktur.</p>
-
-    <h2>3. Reklamlar ve Kimlik Bilgileri</h2>
-    <p>Uygulama, reklamları görüntülemek için <strong>Appodeal</strong> aracılık platformunu (Appodeal Inc., BidMachine) entegre eder. SDK, Reklam Kimliği ve IP adresi gibi anonim teknik verileri toplayabilir.</p>
+    <h1>Privacy Policy & Disclaimer (Türkçe)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        Detaylı bilgi: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. İletişim</h2>
-    <p>Geliştiriciye ulaşın: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- JAPANESE PRIVACY POLICY -->
+<div id="lang-id" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Bahasa Indonesia)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ms" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Bahasa Melayu)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-vi" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Tiếng Việt)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-th" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (ไทย)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-tl" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Filipino)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
 <div id="lang-ja" class="lang-section">
-    <h1>プライバシーポリシー</h1>
-    <p><strong>アプリ:</strong> シフトカレンダー：私の勤務スケジュール<br>
-    <strong>更新日:</strong> 2026年8月<br>
-    <strong>開発者:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. 一般規定</h2>
-    <p>本プライバシーポリシーは、アプリが情報をどのように扱うかを説明します。当アプリはアカウント登録を必要とせず、個人識別情報（PII）を収集しません。</p>
-
-    <h2>2. データのローカル保存</h2>
-    <p>すべてのシフトスケジュール、メモ、カレンダーイベントは、Jetpack DataStoreを使用して端末に<strong>100%ローカル保存</strong>されます。開発者がデータにアクセスすることはできません。</p>
-
-    <h2>3. 広告と識別子</h2>
-    <p>当アプリは広告表示のために <strong>Appodeal</strong> メディエーションプラットフォーム (Appodeal Inc., BidMachine) を統合しています。SDKは広告IDやIPアドレスなどの匿名技術データを収集する場合があります。</p>
+    <h1>Privacy Policy & Disclaimer (日本語)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        詳細はこちら: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. お問い合わせ</h2>
-    <p>開発者へのお問い合わせ: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- KOREAN PRIVACY POLICY -->
 <div id="lang-ko" class="lang-section">
-    <h1>개인정보 처리방침</h1>
-    <p><strong>앱:</strong> 교대근무 달력: 나의 근무 일정<br>
-    <strong>업데이트:</strong> 2026년 8월<br>
-    <strong>개발자:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. 일반 규정</h2>
-    <p>본 방침은 앱이 정보를 처리하는 방법을 설명합니다. 본 앱은 회원가입을 요구하지 않으며 개인 식별 정보(PII)를 수집하지 않습니다.</p>
-
-    <h2>2. 로컬 데이터 저장</h2>
-    <p>모든 근무 일정, 메모, 이벤트 데이터는 Jetpack DataStore를 통해 기기에 <strong>100% 로컬 저장</strong>됩니다. 개발자는 데이터에 접근할 수 없습니다.</p>
-
-    <h2>3. 광고 및 식별자</h2>
-    <p>본 앱은 광고 표시를 위해 <strong>Appodeal</strong> 미디เอ이션 플랫폼(Appodeal Inc., BidMachine)을 통합합니다. SDK는 광고 ID 및 IP 주소와 같은 익명 기술 데이터를 수집할 수 있습니다.</p>
+    <h1>Privacy Policy & Disclaimer (한국어)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        자세한 내용: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. 문의하기</h2>
-    <p>개발자 이메일: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- TRADITIONAL CHINESE PRIVACY POLICY -->
 <div id="lang-zh" class="lang-section">
-    <h1>隱私權政策</h1>
-    <p><strong>應用程式:</strong> 輪班日曆：我的工作班表<br>
-    <strong>更新日期:</strong> 2026年8月<br>
-    <strong>開發者:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. 一般條款</h2>
-    <p>本隱私權政策說明應用程式如何處理您的資訊。本應用程式不需要註冊帳戶，也不會收集個人身份識別資訊 (PII)。</p>
-
-    <h2>2. 本地數據存儲</h2>
-    <p>所有輪班班表、筆記和日曆事件均透過 Jetpack DataStore <strong>100% 本地存儲</strong> 於您的裝置上。開發者無法存取您的數據。</p>
-
-    <h2>3. 廣告與識別碼</h2>
-    <p>本應用程式整合 <strong>Appodeal</strong> 廣告中介平台 (Appodeal Inc., BidMachine) 以顯示廣告。SDK 可能會收集匿名技術數據，如廣告識別碼和 IP 地址。</p>
+    <h1>Privacy Policy & Disclaimer (繁體中文)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        更多資訊：<a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>。
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
-
-    <h2>4. 聯絡我們</h2>
-    <p>聯絡開發者：<a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
-<!-- ARABIC PRIVACY POLICY -->
-<div id="lang-ar" class="lang-section" dir="rtl">
-    <h1>سياسة الخصوصية</h1>
-    <p><strong>التطبيق:</strong> تقويم المناوبات: جدول عملي<br>
-    <strong>تاريخ التحديث:</strong> أغسطس 2026<br>
-    <strong>المطور:</strong> Artem Kudrin (dastlap@gmail.com)</p>
-
-    <h2>1. أحكام عامة</h2>
-    <p>توضح سياسة الخصوصية هذه كيفية تعامل التطبيق مع معلوماتك. نحن نحترم خصوصيتك: لا يتطلب التطبيق تسجيل حساب ولا يجمع معلومات الهوية الشخصية (PII).</p>
-
-    <h2>2. تخزين البيانات محلياً</h2>
-    <p>تم تخزين جميع جداول العمل والملاحظات والأحداث بنسبة <strong>100% محلياً</strong> على جهازك باستخدام Jetpack DataStore. لا يملك المطور وصولاً إلى بياناتك.</p>
-
-    <h2>3. الإعلانات والمعرفات</h2>
-    <p>دمج التطبيق منصة الوساطة الإعلانية <strong>Appodeal</strong> (Appodeal Inc., BidMachine) لعرض الإعلانات. قد يجمع SDK بيانات تقنية مجهولة الهوية مثل معرف الإعلانات وعنوان IP.</p>
+<div id="lang-hi" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (हिन्दी)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        لمزيد من التفاصيل: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
     </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
 
-    <h2>4. اتصل بنا</h2>
-    <p>البريد الإلكتروني للمطور: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+<div id="lang-bn" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (বাংলা)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ur" class="lang-section" dir="rtl">
+    <h1>Privacy Policy & Disclaimer (اردو)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-fa" class="lang-section" dir="rtl">
+    <h1>Privacy Policy & Disclaimer (فارسی)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ar" class="lang-section" dir="rtl">
+    <h1>Privacy Policy & Disclaimer (العربية)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-he" class="lang-section" dir="rtl">
+    <h1>Privacy Policy & Disclaimer (עברית)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-si" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (සිංහල)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ne" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (नेपाली)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-my" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (မြန်မာ)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-km" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (ភាសាខ្មែរ)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-lo" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (ພາສາລາວ)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-mn" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Монгол)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-fj" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Fijian)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-tpi" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Tok Pisin)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-sw" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Kiswahili)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-af" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Afrikaans)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-am" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (አማርኛ)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ha" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Hausa)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-yo" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Yorùbá)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-ig" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (Igbo)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-zu" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (isiZulu)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+</div>
+
+<div id="lang-xh" class="lang-section">
+    <h1>Privacy Policy & Disclaimer (isiXhosa)</h1>
+    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <div class="box">
+        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
+        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    </div>
+    <div class="disclaimer-box">
+        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
+        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• Work hours and holiday pay calculations are for reference only.</p>
+    </div>
+    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <script>
     function switchLanguage(lang) {
         var sections = document.querySelectorAll('.lang-section');
-        sections.forEach(function(sec) {
-            sec.style.display = 'none';
-        });
-        
-        var target = document.getElementById('lang-' + lang);
-        if (target) {
-            target.style.display = 'block';
-        } else {
-            document.getElementById('lang-en').style.display = 'block';
-        }
+        sections.forEach(function(sec) { sec.style.display = 'none'; });
+        var target = document.getElementById('lang-' + lang) || document.getElementById('lang-en');
+        target.style.display = 'block';
         document.getElementById('lang-select').value = lang;
     }
 
-    // Auto-detect user browser language on load
     window.onload = function() {
         var userLang = (navigator.language || navigator.userLanguage || 'en').substring(0, 2).toLowerCase();
-        var supportedLangs = ['en', 'ru', 'es', 'de', 'fr', 'pt', 'it', 'pl', 'nl', 'id', 'tr', 'ja', 'ko', 'zh', 'ar'];
-        
-        if (supportedLangs.indexOf(userLang) !== -1) {
+        var supported = ["en", "ru", "es", "de", "fr", "pt", "it", "pl", "nl", "be", "kk", "uz", "ky", "hy", "ka", "az", "cs", "sk", "hu", "ro", "bg", "sr", "hr", "sl", "el", "da", "fi", "sv", "no", "is", "et", "lv", "lt", "mt", "ga", "tr", "id", "ms", "vi", "th", "tl", "ja", "ko", "zh", "hi", "bn", "ur", "fa", "ar", "he", "si", "ne", "my", "km", "lo", "mn", "fj", "tpi", "sw", "af", "am", "ha", "yo", "ig", "zu", "xh"];
+        if (supported.indexOf(userLang) !== -1) {
             switchLanguage(userLang);
         } else {
             switchLanguage('en');
         }
     };
 </script>
-
 </body>
 </html>
