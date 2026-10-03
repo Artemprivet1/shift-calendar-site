@@ -15,9 +15,33 @@
     "isPublic": true
   },
   {
+    "date": "2026-02-23",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День защитника Отечества"
+  },
+  {
     "date": "2026-03-08",
     "name": "Дзень жанчын",
     "isPublic": true
+  },
+  {
+    "date": "2026-03-15",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День Конституции"
+  },
+  {
+    "date": "2026-04-02",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День единения народов Беларуси и России"
   },
   {
     "date": "2026-04-05",
@@ -40,6 +64,22 @@
     "isPublic": true
   },
   {
+    "date": "2026-04-25",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "Pабочих дней"
+  },
+  {
+    "date": "2026-04-26",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День чернобыльской трагедии"
+  },
+  {
     "date": "2026-05-01",
     "name": "Свята працы",
     "isPublic": true
@@ -50,9 +90,65 @@
     "isPublic": true
   },
   {
+    "date": "2026-05-10",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь"
+  },
+  {
+    "date": "2026-06-22",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День всенародной памяти жертв Великой Отечественной войны"
+  },
+  {
     "date": "2026-07-03",
     "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
     "isPublic": true
+  },
+  {
+    "date": "2026-07-06",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "Купалье"
+  },
+  {
+    "date": "2026-07-07",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "Купалье"
+  },
+  {
+    "date": "2026-09-17",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День народного единства"
+  },
+  {
+    "date": "2026-10-21",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День отца"
+  },
+  {
+    "date": "2026-11-02",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "Деды"
   },
   {
     "date": "2026-11-07",
@@ -63,5 +159,13 @@
     "date": "2026-12-25",
     "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
     "isPublic": true
+  },
+  {
+    "date": "2026-12-31",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "канун Нового года"
   }
 ]
