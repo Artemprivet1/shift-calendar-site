@@ -67,7 +67,7 @@
   {
     "date": "2026-10-03",
     "name": "привет",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
