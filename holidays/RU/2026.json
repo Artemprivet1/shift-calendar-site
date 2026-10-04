@@ -67,7 +67,7 @@
   {
     "date": "2026-08-30",
     "name": "День шахтёра",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
