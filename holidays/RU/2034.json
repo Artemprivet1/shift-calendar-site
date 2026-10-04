@@ -201,8 +201,11 @@
   },
   {
     "date": "2034-08-27",
-    "name": "День российского кино",
-    "isPublic": false
+    "name": "День шахтёра",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2034-08-27",

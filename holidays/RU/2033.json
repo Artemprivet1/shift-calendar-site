@@ -206,8 +206,11 @@
   },
   {
     "date": "2033-08-28",
-    "name": "День шахтера",
-    "isPublic": false
+    "name": "День шахтёра",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2033-09-01",

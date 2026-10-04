@@ -80,6 +80,14 @@
     "isPublic": true
   },
   {
+    "date": "2025-08-31",
+    "name": "День шахтёра",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-11-03",
     "name": "Выходной (перенесено с 01.11.2025)",
     "isPublic": true
