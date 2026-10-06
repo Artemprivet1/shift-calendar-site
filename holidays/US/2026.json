@@ -2,321 +2,657 @@
   {
     "date": "2026-01-01",
     "name": "New Year's Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-01-06",
     "name": "Epiphany / Three Kings Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-01-19",
     "name": "Martin Luther King Jr. Day / Martin Luther King Jr.'s Birthday / Martin Luther King, Jr & Robert E. Lee's Birthday / Dr. Martin Luther King Jr. / Civil Rights Day / Martin Luther King Jr. / Idaho Human Rights Day / Dr. Martin Luther King Jr. and Robert E. Lee's Birthdays / Confederate Memorial Day; Martin Luther King Jr. Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-01-19",
+    "name": "Martin Luther King Jr. Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-02-12",
     "name": "Lincoln's Birthday",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-14",
+    "name": "Valentine's Day",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-02-15",
     "name": "Susan B. Anthony Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-02-16",
     "name": "Washington's Birthday / Presidents' Day / George Washington & Thomas Jefferson's Birthday / George Washington's Birthday and Daisy Gatson Bates Day / Lincoln/Washington Presidents' Day / Washington-Lincoln Day / Washington's and Lincoln's Birthday / Lincoln's and Washington's Birthdays / Presidents Day / George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico / President's Day / Washington and Lincoln Day / George Washington Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Presidents’ Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-02-17",
     "name": "Mardi Gras",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-03-02",
     "name": "Guam Discovery Day / Casimir Pulaski Day / Texas Independence Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-03-03",
     "name": "Town Meeting Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-03-08",
+    "name": "Daylight Saving Time starts",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-03-17",
+    "name": "St. Patrick's Day",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-03-22",
     "name": "Emancipation Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-03-23",
     "name": "Emancipation Day (observed)",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-03-24",
     "name": "Commonwealth Covenant Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-03-26",
     "name": "Prince Jonah Kuhio Kalanianaole Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-03-30",
     "name": "Seward's Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-03-31",
     "name": "Cesar Chavez Day / Transfer Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-02",
     "name": "Holy Thursday",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-03",
     "name": "Good Friday / State Holiday",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-06",
     "name": "Easter Monday",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-15",
+    "name": "Tax Day",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-16",
     "name": "Emancipation Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-17",
     "name": "American Samoa Flag Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-20",
     "name": "Patriots' Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-21",
     "name": "San Jacinto Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-24",
     "name": "Arbor Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-27",
     "name": "Confederate Memorial Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-05-05",
     "name": "Primary Election Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-05",
+    "name": "Cinco de Mayo",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-05-08",
     "name": "Truman Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Mother's Day",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-05-25",
     "name": "Memorial Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-06-01",
     "name": "Jefferson Davis Birthday",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-06-11",
     "name": "Kamehameha Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-14",
+    "name": "Flag Day",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-06-19",
     "name": "Juneteenth National Independence Day / Emancipation Day In Texas; Juneteenth National Independence Day / Juneteenth National Independence Day; West Virginia Day (observed)",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-19",
+    "name": "Juneteenth",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-06-20",
     "name": "West Virginia Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-21",
+    "name": "Father's Day",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-07-03",
     "name": "Independence Day (observed) / Emancipation Day; Independence Day (observed)",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-03",
+    "name": "Independence Day (substitute)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-07-04",
     "name": "Independence Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-07-16",
     "name": "Manu'a Islands Cession Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-07-21",
     "name": "Liberation Day (Guam)",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-07-24",
     "name": "Pioneer Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-07-25",
     "name": "Puerto Rico Constitution Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-08-10",
     "name": "Victory Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-08-16",
     "name": "Bennington Battle Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-08-17",
     "name": "Bennington Battle Day (observed)",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-08-21",
     "name": "Statehood Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-08-27",
     "name": "Lyndon Baines Johnson Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-09-07",
     "name": "Labor Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-10-05",
     "name": "Frances Xavier Cabrini Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-10-11",
     "name": "White Sunday",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-10-12",
     "name": "Columbus Day / Indigenous Peoples' Day / Columbus Day / American Indian Heritage Day / Fraternal Day / Commonwealth Cultural Day / Indigenous Peoples' Day / Columbus Day / Native Americans' Day / Columbus Day and Puerto Rico Friendship Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Columbus Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-10-18",
     "name": "Alaska Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-10-19",
     "name": "Alaska Day (observed)",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-10-30",
     "name": "Nevada Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-11-01",
     "name": "Liberty Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Daylight Saving Time ends",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-11-02",
     "name": "All Souls' Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-11-03",
     "name": "Election Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-11-04",
     "name": "Citizenship Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-11-08",
     "name": "Diwali",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-11-11",
     "name": "Veterans Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-11-19",
     "name": "Puerto Rican Identity Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-11-26",
     "name": "Thanksgiving Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-11-27",
     "name": "Day After Thanksgiving / Friday After Thanksgiving / State Holiday / Lincoln's Birthday / American Indian Heritage Day / Presidents' Day / Family Day / Native American Heritage Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Black Friday",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-12-08",
     "name": "Lady of Camarin Day / Constitution Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-12-24",
     "name": "Washington's Birthday / Christmas Eve",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-12-25",
     "name": "Christmas Day",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-12-26",
     "name": "Day After Christmas / Christmas Second Day",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-12-28",
     "name": "Day After Christmas (observed)",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-12-31",
     "name": "New Year's Eve",
-    "isPublic": false
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   }
 ]

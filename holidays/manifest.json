@@ -1,0 +1,3428 @@
+{
+  "schemaVersion": "1.0",
+  "updatedAt": "2026-10-06T23:21:57Z",
+  "totalCountries": 103,
+  "totalFiles": 726,
+  "totalHolidays": 14366,
+  "countries": {
+    "AE": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "93754d1e8eea758f57d036b1ee0589ab52819ce7e66aab4dff223c6fcfc12cee"
+        },
+        "2026": {
+          "count": 12,
+          "sha256": "fc84f89fee4aad68b131b6e348e58f27c1e92832b7145f36f08f39400ada37be"
+        },
+        "2027": {
+          "count": 12,
+          "sha256": "18665c930b665f433e2452f428eb050fce665ead27bf79b9b5a56aabc422c033"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "dff046d07bc34c1ff427c81f0d774b50f4b8f714828cb4bddd836d41a645c8e6"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "d1f72791d58ce1836a82eb6477d6495566508fd96c392577023bb2e0d5d0a533"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "7db20e19db4cd0f59175028afb6e1d821c5e6027164eca7a8d0e74273fbf9b8a"
+        },
+        "2031": {
+          "count": 12,
+          "sha256": "addbe05f6b1ef25f95c426879c0f45b15457b79c515b72442aa0ad07dc912c8d"
+        }
+      },
+      "totalHolidays": 84
+    },
+    "AM": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "ea97d58071f696ace2e8187be28165872c19eb1b8d48364559a26abda50e0b46"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "4806f07a2de356a5eefbf6cc48ae5aacf9ce13e4b760730e63736558e4b7c769"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "add0d4de1fa91ecfde5007a55b14274acde0423ca80d003838b12a33ca6b76f5"
+        },
+        "2028": {
+          "count": 13,
+          "sha256": "0f1b974290616dddf42384baf6be28c7a481e472b61cde43c5725cd1d46bc0c2"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "5f5409e0fa9dd02ed83a174216017c834ce3000c086cd54b0c62b1920f3d03f0"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "1c24827172d6891957b1cbcffb8b68bd8e88a662bb3c481e23e5ef4cb1403056"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "8a67de96b9113f21d98498d8f9846fd9f08b4f43119f28d60b330b8d8d70fa77"
+        }
+      },
+      "totalHolidays": 90
+    },
+    "AR": {
+      "years": {
+        "2025": {
+          "count": 55,
+          "sha256": "c683cd693646b510e54f0092059210ac2e0ccb77772b7639177707f540cd6b92"
+        },
+        "2026": {
+          "count": 52,
+          "sha256": "a26cb353e9253e93dc5b7f7ab066637c47443a1fe367f47465b6664c8e143880"
+        },
+        "2027": {
+          "count": 52,
+          "sha256": "ab798b08e5c843f854d811f94c3d51d1b3408a377c1795f93b62f76c439fe6ff"
+        },
+        "2028": {
+          "count": 52,
+          "sha256": "5d227696c169ecd20c1ae29c0b2d21e328b808b5a28955e1b38c79d90ea44084"
+        },
+        "2029": {
+          "count": 52,
+          "sha256": "bfb14132fc2aadd617ff907cddfd34d6111e46e8efe529fb72c38c77ee12a766"
+        },
+        "2030": {
+          "count": 50,
+          "sha256": "ade95fe0cafdd557bef3ea808cf74ee6c39827359ae8d8a9b058f530d87f1a6d"
+        },
+        "2031": {
+          "count": 52,
+          "sha256": "dd47db0124e5956f5828c2530ebebee2a91551e745f32fa9d79f26b50aca4404"
+        }
+      },
+      "totalHolidays": 365
+    },
+    "AT": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "9ede170e551d39e509720f44c4406fe98b2fe2899c95d352dac14ed9c7f8f761"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "585516d05a27b509c68467ccb7442e52f5447dea487f49300fdcda10f323f609"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "ac129d7aef68bdd3f36fd319e622c7b6a2a1467ce7fd8c0379d05b810356f389"
+        },
+        "2028": {
+          "count": 13,
+          "sha256": "13258efbf2597ffa2405a86cce7fd052d3c25cb54c5ccb720fa0194ad2abcfdc"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "ab678880d19ae51eb4b0023bf0a8186f8d8d32e73fd5ec396b3661ef53d895e9"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "66a8c7c142fbceeba28a1ce1dae090f19f0f53feaa1173f214d1e3333b6ed4e3"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "936b4c03cd40971f7b8b356a67f08807b7874385e35c5eabfa336853d8ebe481"
+        }
+      },
+      "totalHolidays": 91
+    },
+    "AU": {
+      "years": {
+        "2025": {
+          "count": 21,
+          "sha256": "86705087dcfa38a91eda6d52234dcd7709d22dbe3bcc31ef142465cbab1243e6"
+        },
+        "2026": {
+          "count": 22,
+          "sha256": "fd2920dd9428efe05e68c7ec7e9f6aa2f66caf52ecd4f946c99a6cc824c7975b"
+        },
+        "2027": {
+          "count": 24,
+          "sha256": "f614a67b59581a1c35047c207aa543348c744ba26674bd51ebccd29ec46e2983"
+        },
+        "2028": {
+          "count": 22,
+          "sha256": "71f0e1a0a3173a0c1e53d832b8a626af5981a2ebe46bdb637983ff557d510304"
+        },
+        "2029": {
+          "count": 21,
+          "sha256": "21815bedbe30085057893a1bac87e6dcde81f4b99faad1d94597b40fcf420d3d"
+        },
+        "2030": {
+          "count": 22,
+          "sha256": "76362069c5b2778d918cbb99f3e32e93f42e5a21927ae901d07ea94b4b7a4aa3"
+        },
+        "2031": {
+          "count": 21,
+          "sha256": "edda7edd85c7fed22607227e8707a12e20a9c792eef2871660a6af5fbe09f17c"
+        }
+      },
+      "totalHolidays": 153
+    },
+    "AZ": {
+      "years": {
+        "2025": {
+          "count": 31,
+          "sha256": "b6c1467b5cc7288491c261e7bc9dae79a9f2e2247f04258d39309ad8d4abc36e"
+        },
+        "2026": {
+          "count": 25,
+          "sha256": "ffa60f2f20f5a828344b1796f642c5c7c546aadb5dfb7722e402f2eb65d2c254"
+        },
+        "2027": {
+          "count": 26,
+          "sha256": "3825566923c401c2985875ba4273dda00ddf786fb8df01c7bdae401ca25b3b4c"
+        },
+        "2028": {
+          "count": 26,
+          "sha256": "78b25232bc9c94d5ccbe6221a67617a280c1f7ec150da6e829a5804328077a55"
+        },
+        "2029": {
+          "count": 22,
+          "sha256": "720961f80be3f2b92c8a43f0429d27f012e71f03798420ecbee13ca73ad607b0"
+        },
+        "2030": {
+          "count": 26,
+          "sha256": "a74778d50ff11ab64483f8f4e476058806b5df0e4f40cbe12ec74e546adbcaa0"
+        },
+        "2031": {
+          "count": 27,
+          "sha256": "e82167e11675b05d49df9ba03d2c3a0f664bd5d19c88c70eec5fbb897d223b59"
+        }
+      },
+      "totalHolidays": 183
+    },
+    "BD": {
+      "years": {
+        "2025": {
+          "count": 17,
+          "sha256": "3f3648b60d3ecf30b8095231b8ebad454b7fdb4de969ebc6f9f8b61aa0502556"
+        },
+        "2026": {
+          "count": 18,
+          "sha256": "b3a2b24a7d7f55ead69fce08fe9049e85f472c85fbcf3804eb991dca3ce7fc02"
+        },
+        "2027": {
+          "count": 18,
+          "sha256": "a2bf192337636cadaf8491833c354e4bc8f8988773be1468701b097aa9dd4afb"
+        },
+        "2028": {
+          "count": 18,
+          "sha256": "a48243ac5c29fe812a8346d7a7dd7846beb7d55f8c81819489d7b0d9d8fa4b5f"
+        },
+        "2029": {
+          "count": 19,
+          "sha256": "87ff4850d3d85c2d2aac324d73a54c992ed055f84aebee574939c4556d6d41c9"
+        },
+        "2030": {
+          "count": 16,
+          "sha256": "6023216ca5fa867b3993bfb37e48727f2a8c4c52d8e519c0ee7cfcb26107f5fe"
+        },
+        "2031": {
+          "count": 18,
+          "sha256": "d2dd2d4eeac44997f892d5eba6a8f186c08b1ce08ba16f7886823c04df4c1c1b"
+        }
+      },
+      "totalHolidays": 124
+    },
+    "BE": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "6fef0e975168b301f56fd6adeab0fc4db8d89583d10c0b7eceecda5b14b2d8f0"
+        },
+        "2026": {
+          "count": 12,
+          "sha256": "15223d755f17d55d4554d19216e64fbc3c01241ed0504daf1c46c71e77fc66b0"
+        },
+        "2027": {
+          "count": 12,
+          "sha256": "00fd212edf665b31fc9ebc97ed79c724f9ec1a72ae3d74016fb3cfd1f00d3bb2"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "d8f883284c293df2f00ff364ea0e62567d1e987cf7e4753f081a470d8168cdf3"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "ea5c18de860457f1ad9476ae30eee21b788a5910428e688680318bd9b1c79b76"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "29700af4bae0666123732dc65f6952067000d7610a2a08fb58be0bf20e3c377a"
+        },
+        "2031": {
+          "count": 12,
+          "sha256": "0bbd3753b8219bf1a09760b5d44c962bf41c6bf3227ee5aaedca9bb1b9286fc2"
+        }
+      },
+      "totalHolidays": 84
+    },
+    "BG": {
+      "years": {
+        "2025": {
+          "count": 17,
+          "sha256": "0ca881ce831f84d04da89073f87039f83296d9a0d468d3eab8bbdac51be57fa5"
+        },
+        "2026": {
+          "count": 18,
+          "sha256": "ba6df7126877bb324c58c647afe6210ea26b70cfc08707862efcaa8015492b81"
+        },
+        "2027": {
+          "count": 16,
+          "sha256": "b07edab5dcee44e267760f9b7bc73bcf94ceb0ef899ec996e8069bb7722c5d5e"
+        },
+        "2028": {
+          "count": 17,
+          "sha256": "1098accfd06f6fa644d75e0feb09fb6d5f9e5d2f86d6955102e03efb95b78b2e"
+        },
+        "2029": {
+          "count": 17,
+          "sha256": "cf1ee0e67e439cf41700abbeda54626f77863d75925099b6943c2edbab0b7e3d"
+        },
+        "2030": {
+          "count": 16,
+          "sha256": "4ad17dcacf82d3ccb5c7b4daabbc34ae13ee71b0f94ddf41358799f42250a609"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "e9b327f9bd8b481eff95c6cc87d857eefa079f5a6ee4564b1701cef29427aa5e"
+        }
+      },
+      "totalHolidays": 117
+    },
+    "BH": {
+      "years": {
+        "2025": {
+          "count": 14,
+          "sha256": "bcf61593d64981fe353e44b71200b946c3355914423deb78a274416af8a11834"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "2d53dca9f2b0f8cc7216c218c2790437ed68ff48f2f2ee763a4fefcc45b4be69"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "ac04a3237fc11390584821a112195adc677a90241b22509e096b879081db6e03"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "f952c986713daf6fd6f4094ce0210137fae769f6564a17dc863092f04bb63751"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "5aaf11e10a293516e9c2c1ee183e4e31d7300e88983d01b4b4d7602b897b93f7"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "a78f2a72f06df2169c53e559c2a2f389683a860a3f7214feedc9f8002260ba6f"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "397a9eec083800a84213b95ed365e56e70c98b4e60d7e24f076eb1083ffc8596"
+        }
+      },
+      "totalHolidays": 97
+    },
+    "BO": {
+      "years": {
+        "2025": {
+          "count": 21,
+          "sha256": "10e526b1e7000746761e293d4965ac70d1675667602a2bf815d11779534116db"
+        },
+        "2026": {
+          "count": 22,
+          "sha256": "f6f7880857cf6eea69694a33c7cebfae6797073dad70f8311950436fa34f3534"
+        },
+        "2027": {
+          "count": 21,
+          "sha256": "c7a6043c3d5c1b68affdf371cff9e3436a95e82e273b68b2eb5bc587368ba0f6"
+        },
+        "2028": {
+          "count": 22,
+          "sha256": "e263ca1f70035dc24e9ed970419d4fe9021fe2620acae475fff9305b4855efd1"
+        },
+        "2029": {
+          "count": 21,
+          "sha256": "e769f29c20aaa60402349f1edb86df39214922faa3cfe994432167068e5a8943"
+        },
+        "2030": {
+          "count": 21,
+          "sha256": "5373d0e84b7811733177f8a9d652baa910192bbcf4ee85cc48d709f5034f8556"
+        },
+        "2031": {
+          "count": 21,
+          "sha256": "de726755dc408116a30c78db468d0507f73a039fdf5d44e41b64ef2976604d22"
+        }
+      },
+      "totalHolidays": 149
+    },
+    "BR": {
+      "years": {
+        "2025": {
+          "count": 48,
+          "sha256": "ada769cc1785694cb84e9dc1b4cd3b8de3153bc786b58c542a15e9d2d3951734"
+        },
+        "2026": {
+          "count": 48,
+          "sha256": "07a8c315d698e24bd7fb01a2c4b4ff36e6351d6dc0c8182d6faaaffcf68932e9"
+        },
+        "2027": {
+          "count": 48,
+          "sha256": "1e469ed85a8444efe5ec5cffc8b5b3d614bde5054e77b882b3ca7b7c3f967c74"
+        },
+        "2028": {
+          "count": 48,
+          "sha256": "8fdb5b053533781babbe5a05750d9cd3cb49849f4cc84bfdc53d5fe088d5f1dd"
+        },
+        "2029": {
+          "count": 49,
+          "sha256": "61761652bb498a1ee427836ae4471b3a997e737e48eb35cab63bec8deb16626f"
+        },
+        "2030": {
+          "count": 49,
+          "sha256": "320b2a1d764da518d9cd5dc936fcf46c965ad340801f968d7d93907f07daccbc"
+        },
+        "2031": {
+          "count": 47,
+          "sha256": "bbd1695c6bef3272bc2db92193703205b660763abf2d5a07ab1eb8edee50fa97"
+        }
+      },
+      "totalHolidays": 337
+    },
+    "BY": {
+      "years": {
+        "2025": {
+          "count": 15,
+          "sha256": "d75d8860fe1792e6c12f1f59bf6745bfd2f6a17f8ed0bfcba5fb434def91bff9"
+        },
+        "2026": {
+          "count": 26,
+          "sha256": "5e46c15830580e68f7f63fcbb21912d84110ab5f9bbc172a2c2e87466ea5f05c"
+        },
+        "2027": {
+          "count": 12,
+          "sha256": "95d0f7e0fcb911b9730bdc5a8801d711781f3ba7ed2608af380069027e8e0b03"
+        },
+        "2028": {
+          "count": 11,
+          "sha256": "fc3b6b37f748e9c17386da39d4a854ed59b0cf18fcb606a63464a4441c589cfd"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "a450557fbe3187a6f6947abad11a2dc7faeaa70a36c4b1133b7d246367c539ee"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "7c6cf2da8cab560f4323dc680c3d1d3ca1a05d4a5f0c1d332be670774a07d5fc"
+        },
+        "2031": {
+          "count": 11,
+          "sha256": "c1c257c6066015c4343e38808c557d8042f16dca4d785647ea70ca9045da17d0"
+        }
+      },
+      "totalHolidays": 99
+    },
+    "CA": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "e2137dce45553b6b5663213385459fe4ea4f30cba2eb8672b977e0988a59667a"
+        },
+        "2026": {
+          "count": 17,
+          "sha256": "b1b3ccebb79378b4a550c2eaf2f41772882535200c4dcca90f57658ceb2a4dcf"
+        },
+        "2027": {
+          "count": 18,
+          "sha256": "ffea1cc730f28a13260baac43a3c71d62ff3871863ae2d67bd2b8f3137f0df68"
+        },
+        "2028": {
+          "count": 20,
+          "sha256": "d90efe5ad6ead083993d739ac5f2f33220473dc766c6a5609cd6c980955f3f4f"
+        },
+        "2029": {
+          "count": 20,
+          "sha256": "134bab3c6547353a115ba0a60a9b0f2f95dcd324ccdbaa2f6f25527a4a348c19"
+        },
+        "2030": {
+          "count": 16,
+          "sha256": "e2a525ff6f8a6b00d3bf0fa8b87fced7a1ffc17b188e78cd358d5e9958313846"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "167389d0e598dda349739bc1c65f26512f9caa33e8e4f0632810fd9612c4550c"
+        }
+      },
+      "totalHolidays": 123
+    },
+    "CH": {
+      "years": {
+        "2025": {
+          "count": 26,
+          "sha256": "e4fd8db6d3f047c3b1eefb53088601eb7ef3ec8823f4b61d281da7cc8da866d2"
+        },
+        "2026": {
+          "count": 26,
+          "sha256": "3ca8972df8fe9ffa28cea563feab58503820a5f7449231c41df673b5080c572c"
+        },
+        "2027": {
+          "count": 26,
+          "sha256": "753d6f8cdf5c03d44660bf6b37e7dcd7813796578f1ad0b4a993197d61053423"
+        },
+        "2028": {
+          "count": 26,
+          "sha256": "8cb45f7f04a5c692313a30c2800a84d65aa5b0648c6e999d57104bb695d942dc"
+        },
+        "2029": {
+          "count": 26,
+          "sha256": "ff1d4e81a6a4411cda3c301ac1422211f0c5574538503c7080c4662914bfbbfd"
+        },
+        "2030": {
+          "count": 26,
+          "sha256": "f2dbc58577e37445603abd634643a233187d350af77bf104c552ad3722724475"
+        },
+        "2031": {
+          "count": 26,
+          "sha256": "90148930738f7cf3483026a032c304741eb346cbd4815bb24b33cc624e0abda1"
+        }
+      },
+      "totalHolidays": 182
+    },
+    "CL": {
+      "years": {
+        "2025": {
+          "count": 18,
+          "sha256": "43bd5f8f6e0fb79431160997ff914956e9f1111c5598f505212cd6562ae00d1f"
+        },
+        "2026": {
+          "count": 18,
+          "sha256": "2059e5ac68cbf0f306211129ba5bc7bfc8014bd01797e9544741376ce2e5410a"
+        },
+        "2027": {
+          "count": 19,
+          "sha256": "0a8413efb51160938d59bb832812bc97f465c7270b68cdc1572812880748dbb2"
+        },
+        "2028": {
+          "count": 18,
+          "sha256": "d1e664f67b1dab4feae9531c491736e0a67ee1cf1a33e236610f0feb51550cb9"
+        },
+        "2029": {
+          "count": 19,
+          "sha256": "35274ed24911ceda5bc132da901535ecab712ee0b3cd03359c0481e56241f603"
+        },
+        "2030": {
+          "count": 19,
+          "sha256": "5c848732935008734c21c219f32c345f8bf2886308778ec2e56ec40427357ddc"
+        },
+        "2031": {
+          "count": 18,
+          "sha256": "5ababd74bc9f5152820bd253dab98f583ab7946697384c2ef32c2bd6b4802b43"
+        }
+      },
+      "totalHolidays": 129
+    },
+    "CO": {
+      "years": {
+        "2025": {
+          "count": 17,
+          "sha256": "12d37937edbe1027d44d855ecd895963765df3f308542914e0146256e1f28976"
+        },
+        "2026": {
+          "count": 19,
+          "sha256": "08560f8ac69050710ddf1c93ca78b27156d818f620ec57d079821bada6048e02"
+        },
+        "2027": {
+          "count": 19,
+          "sha256": "48085c774950db6298e956c36f127a214eb7215453ef807e594089b2c323c35d"
+        },
+        "2028": {
+          "count": 19,
+          "sha256": "a05810d0c3daa0f1fe3d75c532f67e0bc8abd95af2dcbeac3ddba4ef671e86a0"
+        },
+        "2029": {
+          "count": 19,
+          "sha256": "8e50f8ca20fec8c2aae3441d8a6868130814ae1c2d982b908835e9719fa114be"
+        },
+        "2030": {
+          "count": 18,
+          "sha256": "32645fe4906ecc1bd8da847724e6295df1b7b1ed21bb255ef304c6c8ce77953d"
+        },
+        "2031": {
+          "count": 19,
+          "sha256": "f2ce0b9ac2a4fb3a2601683fac2003d9000ecc3ccac5c87cf546bf089d4a9800"
+        }
+      },
+      "totalHolidays": 130
+    },
+    "CR": {
+      "years": {
+        "2025": {
+          "count": 9,
+          "sha256": "65992293e7c16e09e3b43bfa598cab270ff17cdf93655e6f91297091f9bd83ef"
+        },
+        "2026": {
+          "count": 9,
+          "sha256": "d4090788cc733d64d263272b4af59d9da938b758a071a6b2b5ff917cad6a99a7"
+        },
+        "2027": {
+          "count": 9,
+          "sha256": "888551297a86ba13c233906c00891b92e04a8049a70668aa59dea0ba3c07810c"
+        },
+        "2028": {
+          "count": 9,
+          "sha256": "9e40dbc01c671539fa9e330833fb88a01cf790c7cd267809eb4fd2737b27b876"
+        },
+        "2029": {
+          "count": 9,
+          "sha256": "ccd9322f78d3271359a489d3563fdc665671518cd3c027ce0d58a5fff6898158"
+        },
+        "2030": {
+          "count": 9,
+          "sha256": "82dcbf0556d051fecd1d1384362bd345d24fe0dd888b57cb2efd32e15ae07b84"
+        },
+        "2031": {
+          "count": 8,
+          "sha256": "cab6aed6611d44075d69b3fa2c04628c1c81b3076448e12c88bf6ab44d0a6eb1"
+        }
+      },
+      "totalHolidays": 62
+    },
+    "CY": {
+      "years": {
+        "2025": {
+          "count": 15,
+          "sha256": "732ca00af7ce12a5636763a38bc1699a0a853d82f8b39c20801b77ea5f1ea510"
+        },
+        "2026": {
+          "count": 15,
+          "sha256": "841d1db12ca68421af4b8e21a54444f94ef00346c16e21d4901f6c831bdbc088"
+        },
+        "2027": {
+          "count": 15,
+          "sha256": "1eca38e2f9a65fd795b613cf93a4c2fb2fb63644d94f8d2cbdeb0acc895a0d22"
+        },
+        "2028": {
+          "count": 15,
+          "sha256": "d58fd036da8d7e5e964bb62072fa4110b4ae388b0e53bb99e79a3dc732d3bb3d"
+        },
+        "2029": {
+          "count": 15,
+          "sha256": "4a9e60191daf917cb57e6e85bb075eab10cd01efeb3d3d7176b6f8b87987b1d6"
+        },
+        "2030": {
+          "count": 15,
+          "sha256": "44b4ef17ed755b53b49bd1cd4ef1c3c62ac3ccfdc8929c245b8e495b6b7df6e4"
+        },
+        "2031": {
+          "count": 15,
+          "sha256": "c0562267da11fdbb859681338f7ccdb91679c8d59e43921dd1ffd6b4fdaed4c0"
+        }
+      },
+      "totalHolidays": 105
+    },
+    "CZ": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "4fc4a675d8c1e18ba12a02decc78a018b32a9a13091cc2941dade2b320b30f9c"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "8dc859471782f48ded1444536b81372c9607041b126b14fbb1ad238ce996d8eb"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "0f7c5c0462c1497471dc3390d4795ad3f090d776a7dc1e70313295e2ea40072e"
+        },
+        "2028": {
+          "count": 13,
+          "sha256": "56a5492861e93d71aed98ffdbadf27efb9d21b2204eb60eca869d5a5f5b77b7b"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "4d8904cb5d250d2f7df84b81e3b049fb8e98c42c38e7b6c0cfa64894a5f93597"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "237a9f550d4d811a57534d7cb6c6b9d42a680497484e3702f89798883e1c3833"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "05101a109ba5a21dc4cf882fe9a0ec14a91ac9e54495be82f398168b12bffc71"
+        }
+      },
+      "totalHolidays": 91
+    },
+    "DE": {
+      "years": {
+        "2025": {
+          "count": 21,
+          "sha256": "c9fecec99c0f41dd3ed5e3c944c6e18dcb67c3b05253d1d1a24c57ac8a7e4b38"
+        },
+        "2026": {
+          "count": 20,
+          "sha256": "30b80fdff2d66933d5707a19b2a0a714222d71c042240159f0cabae63cc815f3"
+        },
+        "2027": {
+          "count": 20,
+          "sha256": "9c75540f241375d36eace3105441b9c73612b85f96a45254f553bed5c6124a9a"
+        },
+        "2028": {
+          "count": 21,
+          "sha256": "e23fcdb30f31d2eafe998ee754c513cc1317aef073f6009b5078ac2d71d9d3bb"
+        },
+        "2029": {
+          "count": 20,
+          "sha256": "6cf8fdfad09c8d5b8ee2614a61584a7a9918e9b01f1e48e79e43a4dc1ec4cdbd"
+        },
+        "2030": {
+          "count": 20,
+          "sha256": "8d02e6a9db2d73ff7bccb44b7f3e0378ba7843fc7056203f4529d8f0bdc5acb7"
+        },
+        "2031": {
+          "count": 20,
+          "sha256": "92ccfa53ad9944ef69b5bce54066743121a1e5a9bdd298a18f1c26f37353eb72"
+        }
+      },
+      "totalHolidays": 142
+    },
+    "DK": {
+      "years": {
+        "2025": {
+          "count": 10,
+          "sha256": "18007911d22a3eb01a418988c820a3771cde517d77f4ef2e595646c250c05fc7"
+        },
+        "2026": {
+          "count": 10,
+          "sha256": "33144e20eb4384708bb8f04ff9bc2dfee22f7a557e0badd785f7703dc32ee0c3"
+        },
+        "2027": {
+          "count": 10,
+          "sha256": "d0d38a4f25fea43b9ddfd8b11f60d672505e6c7804f46a4669943fe3c9d70d41"
+        },
+        "2028": {
+          "count": 10,
+          "sha256": "c0d71ad2bf67172f9a3776fa7b24b7cbbeae5cfad9538f512e45266f27bf245e"
+        },
+        "2029": {
+          "count": 10,
+          "sha256": "213d8ae7f96cbce39d0de2bb5557ae4a72716c5a64c9ce615d35223acd6a48c1"
+        },
+        "2030": {
+          "count": 10,
+          "sha256": "78367eda225b176cd8c49d53e0487fc7ed9bdf8026f56c72f6cad7766b0eceda"
+        },
+        "2031": {
+          "count": 10,
+          "sha256": "507f7cb4f70dd6646527702eac907f4a4ec41b2b4e1a938f55ecc5c542521a2f"
+        }
+      },
+      "totalHolidays": 70
+    },
+    "DO": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "f6a843955542545039baef21890e0f163e79e8c03342095c5db7464edabc99ad"
+        },
+        "2026": {
+          "count": 12,
+          "sha256": "76e01b265b0859f513f355d93b22a45a9e87204b622f27deb7ddbe14b1e699d0"
+        },
+        "2027": {
+          "count": 12,
+          "sha256": "3e519cf221a580b1f86482c676e2dedfeb75b44c766b71572749505d1fd0267a"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "99406693287235a3b087359427e6d0f0da88d6047b99ce177e13111f0622b6a5"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "93a6548dceabf4316bdebcbdb6f74880e34a0f8ae81585917cc1cfbc75395569"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "cb52b51880d6b42c60b4b042edbf7365f7f015b9ea38575bef92366368e94f26"
+        },
+        "2031": {
+          "count": 12,
+          "sha256": "eeb260704f5cafeb69eb6dc14045f341b23df8f9cf13132e342ed713082d954f"
+        }
+      },
+      "totalHolidays": 84
+    },
+    "DZ": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "ddd62fddeee4eaa3bd02847c24b9568433bb8cb05ccd8b8eb626288e6212c278"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "d9d309ef7c80e0efb8e0d8fc91bebb78b6081a726832804d9a4f6e37a5116a66"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "d188e95a12219133a3a2c643a9822655e0eb9271b06867de2395b2bf03d04d9b"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "8a48a40901dfcac970e30539c33fe4e3d2e4604faea6c5665ff50fd5a9ed459f"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "620d9694230af6c79776e1a3cbec69598e6d45ea7c93200af28c839dd9a1591a"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "77fcba416c17ab23d07554dee072aad5df960042c246bfffc32a74b166fc68da"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "0a9f00fdb1454bbea63498cc276a67d217200f15090906a04bce33692e8f5127"
+        }
+      },
+      "totalHolidays": 97
+    },
+    "EC": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "1b303b1840415feb59ad8a2f95b8ab98d276e11bdc442ddc4260b9912c7a09ac"
+        },
+        "2026": {
+          "count": 12,
+          "sha256": "36c3136f41ff6e27fc023b8549db4883e48e4b27cb65fb96e8938ecb0aaaf377"
+        },
+        "2027": {
+          "count": 17,
+          "sha256": "f0835ae9ae520ea9934f319befa3c166796c01685e63a2a88a54eda8e5fcb384"
+        },
+        "2028": {
+          "count": 13,
+          "sha256": "823041b253c66f392e8ee305223f0a7ae516dfa68573b8e009134ac5f1ceaa06"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "342bcbc77184d91160be32a03ee9c1ef1c7da98d2ddb7717b65608eec5ac9074"
+        },
+        "2030": {
+          "count": 16,
+          "sha256": "61a0f5546b3a3100f5e820d5497c7a477c3c780c28a2421050b6cb77d3cf9a3a"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "a05d9afa58239a15f62a052c94a00c4cfe5d04be3536e042d11c0f8cfa41437a"
+        }
+      },
+      "totalHolidays": 104
+    },
+    "EE": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "1b770ed164e46b7bb550031d2e1ae0e6ebf227cf8c1fe0c863bc15041de78d12"
+        },
+        "2026": {
+          "count": 12,
+          "sha256": "f83b2be075f0dc7d6c9201dd7cfec0ed2722000c0c2992f86339e88115e3fe14"
+        },
+        "2027": {
+          "count": 12,
+          "sha256": "84e0f5715263c6f9c995064379e31bb0463bc37743210a3394862f2291edab74"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "74dbd59e128069e1a4c75eada63288f256c438ac5bd548ea6455c6eafb943435"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "8d31764b705b92ab4162d0546af520a0d1c1fb898ac198b19204752c3ec5da57"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "06b00ef57fe7bb0080758571046ca5c767965b0680bdc3fddf234642132f832e"
+        },
+        "2031": {
+          "count": 12,
+          "sha256": "810af1d8bbff6d25600aec8e4ec67503883450d286f5f94a49a3ee4c779b73ea"
+        }
+      },
+      "totalHolidays": 84
+    },
+    "EG": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "13c16f4e70c105a6e11a48cab99c76cad34ddd2024277f37d5851df6e866ba94"
+        },
+        "2026": {
+          "count": 16,
+          "sha256": "2259999010e8139a29e1a9cda67dc09f2fce4727b39ca2fc8bb9282f841d5a76"
+        },
+        "2027": {
+          "count": 16,
+          "sha256": "1d65d08c0af8dee10c238812025f3f9f30c84ab47ffba42f03173064ae7aae20"
+        },
+        "2028": {
+          "count": 15,
+          "sha256": "7f7e97aeb4f71705e51fc2a8cc66225c6c9bc1944813ee8587d6dacbe585a8a5"
+        },
+        "2029": {
+          "count": 15,
+          "sha256": "6be1319880ec02f6ffea207ecf9e033249ee8eaf5b9ea70ba87e6941e6e6ca1c"
+        },
+        "2030": {
+          "count": 16,
+          "sha256": "80e424f3a3f7045428dbe590a56398cdf6a2dcd404a67184515da08d9ceabcc5"
+        },
+        "2031": {
+          "count": 15,
+          "sha256": "8c878c97f752435d7cc3f3b610976e7df871f2fff151b9ba2af414e9d6fd0fe8"
+        }
+      },
+      "totalHolidays": 109
+    },
+    "ES": {
+      "years": {
+        "2025": {
+          "count": 36,
+          "sha256": "6787def11677045335dd6f93febb2054f6e4a41ae264a87968efd6cdd66d5595"
+        },
+        "2026": {
+          "count": 35,
+          "sha256": "cade4e40a241d7336ec36adf62d5fff030601c8498de4ce1062c3cef6754204d"
+        },
+        "2027": {
+          "count": 33,
+          "sha256": "4a0e707cfc6528067fe0df9961d5ff983095deaf13c71b91e053a73cf9577269"
+        },
+        "2028": {
+          "count": 36,
+          "sha256": "8a27d431f6478985c2a6b9652bbf511a8bc79addd915df8dea4f1591aa841201"
+        },
+        "2029": {
+          "count": 35,
+          "sha256": "cc34eed34a5c15431ef3d275ba8d868af3eda63c6b0daafc5ba083a8fa378e90"
+        },
+        "2030": {
+          "count": 35,
+          "sha256": "4cd88d440990cacf8386069b4a1ce9f84a8ca1fce90265f229c599c897d8dc5a"
+        },
+        "2031": {
+          "count": 37,
+          "sha256": "2af6e2b10d43d3cdb7cfffb581eea52772bb838be52b1d7951351f2b8fd3d765"
+        }
+      },
+      "totalHolidays": 247
+    },
+    "ET": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "a968a9bc75eecab1859bdeaf62cd21bf7cf02a55c27ab761d37ecdffc39cc62d"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "8089838f0451cd9c9184314577d53113ff12a4a3f71af65862929801e903f0f9"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "3e9bb5f0e38d6d56fee707b326ce8814467f2611c35d150920335dc3a3ea9cbd"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "adf423a89beb09490d15c552adc432abe624fe27f43c0056d929a78a6ffca427"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "e35db40ee69dd3a93d0c88464cb88857e0cb13d1a523c2b97f6e64d1439777c9"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "eb4557b669bef784c64082def0a68fcf9aa24267c440cd88fdd155e22708aa0b"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "392e6a1f9d176f60c27e2d065ca6487569546ceb709ba1e79ca6e5ba7e9da654"
+        }
+      },
+      "totalHolidays": 90
+    },
+    "FI": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "3b82ee2dd57ba2987c8504eda5e1627d832f6e106ab724f6fc088414b65ee7bf"
+        },
+        "2026": {
+          "count": 16,
+          "sha256": "2b8483d54bace138dbd8b95ad2a33da8ba437ef09090dd84f42f6fe6ebba7ecf"
+        },
+        "2027": {
+          "count": 16,
+          "sha256": "c652f4bfa9f0afb57db9e468e88544c85236b0eeb968335dbf572b94cb1e0de9"
+        },
+        "2028": {
+          "count": 16,
+          "sha256": "a8763ab8a52292c8f7083ca4282cff1cd7ac267224da027531d63acaff66580a"
+        },
+        "2029": {
+          "count": 16,
+          "sha256": "de304563a2063f7f47c342ddbc53fce3c542a7d20bfd1b68420901ee006e79e3"
+        },
+        "2030": {
+          "count": 15,
+          "sha256": "f7beb4a197eb30f2328ca754df256b40d18b2d7626e55f2a5c2406157f34ec34"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "fb54a4d739fb66c57b241366952440d856edff9930a74ccca93724658330c737"
+        }
+      },
+      "totalHolidays": 111
+    },
+    "FJ": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "023720751b70225b25bd97a2fa649487d37375470744c1986d9780910007c969"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "b942f97aceeca1824e8bf4d80d9c5ef85e9965b07b20066eef58c6268fd94b67"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "88440deaed69052ae3330b6c7f01da51bf7c5f317097633d946cc4d9b7044ff2"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "a8b98ed2cc9d0483b6a61ac4664e80ab4a87ba769cee69c104020e538c03ddbd"
+        },
+        "2029": {
+          "count": 11,
+          "sha256": "0061a48bc953cff6d817b97e54948c4ca33136ec98a533f464d0df5a8bbb85ce"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "8018f12ce06b3052e39862f2d8a2676fc86ca55f13f7b79e8d9ebc86d7a10787"
+        },
+        "2031": {
+          "count": 11,
+          "sha256": "6756d78f4d0bab03a5b2b32a742aa8b591fcd07aabe5bf5484970fceb62af623"
+        }
+      },
+      "totalHolidays": 86
+    },
+    "FR": {
+      "years": {
+        "2025": {
+          "count": 28,
+          "sha256": "52f44ac6601eb11bdc35c6ec090bedb57d7bc1412d9651c111714f68f7febe48"
+        },
+        "2026": {
+          "count": 28,
+          "sha256": "fc04d312e74adc82a356558e50aae6d9fdd70dfd6906badf40ac1dbf1da85f47"
+        },
+        "2027": {
+          "count": 28,
+          "sha256": "d5261b74f6d6602f68aa9a8b14cdf2b7ddfb894ce2e2d2f34c197ad734cbd6ea"
+        },
+        "2028": {
+          "count": 28,
+          "sha256": "302c1b42d20bcccc4ccaaded408dc30973af4be1aa7a4f1a545d6084b71cddee"
+        },
+        "2029": {
+          "count": 28,
+          "sha256": "a5e8b91f826982021f64784a0b7a36d5d1734ca3df4ae76bd0e5ea9586b4f413"
+        },
+        "2030": {
+          "count": 27,
+          "sha256": "743656bdb2b7925f43d38096b30a28fe71998b877c0617ec5e17039fc207c0c9"
+        },
+        "2031": {
+          "count": 27,
+          "sha256": "a56feb3e1e735538fbcb8e3eb7561b27551fbd45de7eea4d1ca4411de66c3724"
+        }
+      },
+      "totalHolidays": 194
+    },
+    "GB": {
+      "years": {
+        "2025": {
+          "count": 15,
+          "sha256": "e0c3c6c8030abc4f5d5839be0d5f1f53824a40b599aabf362e380bc59b96aa93"
+        },
+        "2026": {
+          "count": 16,
+          "sha256": "c29147d6e9a6a799301d1f2e35ed357a132119c3dcb58135229caa8cedb2685d"
+        },
+        "2027": {
+          "count": 16,
+          "sha256": "d7eb13c5793a7ebbd0df95a30e4cab070e3629350c0b61e84ab14666faaa71e9"
+        },
+        "2028": {
+          "count": 15,
+          "sha256": "144aa5ca1ad3df6ea9283be014413d242ae7436aa6009d39bd7eb77fe1d1b381"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "0864891a6b784a6829b86933fb1765c2e0e0444a2e1f432e7215ce42f68a33ff"
+        },
+        "2030": {
+          "count": 15,
+          "sha256": "eb1190fde03d53753b160ad24aefa7335c8c391f0f8650dbefeae07bc63c6d50"
+        },
+        "2031": {
+          "count": 15,
+          "sha256": "5b1bdb67114c903ae115c913893f0d9e6dee50e0c53eafb09ce00ef610405d92"
+        }
+      },
+      "totalHolidays": 106
+    },
+    "GE": {
+      "years": {
+        "2025": {
+          "count": 19,
+          "sha256": "0963a6b0a7825edfe4e40bc9ac277ac4da7db053dd569ed2af83d46d267368ac"
+        },
+        "2026": {
+          "count": 18,
+          "sha256": "9b6f9be56ccf7b3de5f7a08911f023f71507375504e8bfb3320d8cccc8b2f343"
+        },
+        "2027": {
+          "count": 18,
+          "sha256": "378769bd4d638a8cdb6583f412c9b54a36a8608966760ff369b00e8332fa5016"
+        },
+        "2028": {
+          "count": 18,
+          "sha256": "30faf5550df459ece1f747bf8e5dc483d4fe97706dc1c557d49ad28b66e431ed"
+        },
+        "2029": {
+          "count": 17,
+          "sha256": "bf6e6a3fe2172fad709121a2195604af9da8b742a3351bde1ad6b5fa5e853461"
+        },
+        "2030": {
+          "count": 18,
+          "sha256": "61dc29f7a92e828384a03fd322c981e9c7e2fb548c4efcfb246c5a6164cf7d87"
+        },
+        "2031": {
+          "count": 18,
+          "sha256": "8556d2a4f5ed0c2705df013a33e2074232fca0a90ecb1fa6b41d380fd8958982"
+        }
+      },
+      "totalHolidays": 126
+    },
+    "GH": {
+      "years": {
+        "2025": {
+          "count": 17,
+          "sha256": "f3f34ebbfacabfda8bf58d7f3a29fd3a8d7f861b370ba64e46b2da454154b83b"
+        },
+        "2026": {
+          "count": 16,
+          "sha256": "7ff39df7ba2608ee701ad712a63eecd9d90d0ea77193839f9d71a90b1a4b2e86"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "c7b6641efd665652a255e96b800d2eee625c3f921215d981750b286bcb6a26cc"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "e53fdcb5cd0929df96ebebacf4c723f1b306e6519399e77250562ecffb0d2fb0"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "03e5ce28dab0d2cd3fec355c1cb919d0d5c2ae6edf42dfbe78e6b5355ff10c47"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "1baddf04dcd588614b23bbe0416c73b9328b9f4d5dc3dd133539d1f0783ff5ae"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "271ee95b53dc07abd35c327e9c981ed89c7000ea26c497efac6a9d8bdf259a5b"
+        }
+      },
+      "totalHolidays": 103
+    },
+    "GR": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "c35299eba5f5afcd6d95bdf711002376f69bfa8cc65bec8cf01ffb2db170594e"
+        },
+        "2026": {
+          "count": 12,
+          "sha256": "f2c2420109fac46950700d4a44f86ef0ae20719e34ff2decd78bdcad94e640ef"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "734852ee13e78b53be29f81c7dde9dd926a7ad6b374ae7f10a84b43c646a73b6"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "6351625a85c8f45fe60acd3fbdfc9871cf1ae8929a5627783c720a8602eaf816"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "62b2afcc1cce1bb3e429e677faecd91bfc4a061395db963a0ae0312637ff96ce"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "8a1c984045738448601b4fd22b3ae53c3de67d4d9e7520d8a14bda1d79fb1511"
+        },
+        "2031": {
+          "count": 12,
+          "sha256": "80483fac53f4848d7dfa387b49d3f6f5dede7c98ad7f4445e3d7e0346952faac"
+        }
+      },
+      "totalHolidays": 85
+    },
+    "GT": {
+      "years": {
+        "2025": {
+          "count": 11,
+          "sha256": "18cdb6ec3f439d9a57826a2ed49def9c7936835404c6d0ae5c45cb64c3d06522"
+        },
+        "2026": {
+          "count": 11,
+          "sha256": "0567f167bc88e211598164c2b21b333eebf009e9bbf29bd156641602fcd53add"
+        },
+        "2027": {
+          "count": 11,
+          "sha256": "fd2a30ef5451a5f32e0d330f8bc212816b4caddf3bf59894c7303c315a8c5ad4"
+        },
+        "2028": {
+          "count": 11,
+          "sha256": "c824f821c62988c8b293e8bd36e3c700794c2ce31a07d5b2b16834abc2b78165"
+        },
+        "2029": {
+          "count": 11,
+          "sha256": "5206e2b91748633714081fe9073cf63efdeae7475ba2d4b0c02b38ecfaf12d7c"
+        },
+        "2030": {
+          "count": 11,
+          "sha256": "e20fdf704d2dca6106711e086f0b4dbd7aa40d8e3c0426718b19c09d500a51ff"
+        },
+        "2031": {
+          "count": 11,
+          "sha256": "4bc463d003144bcc1734b5ba27dbc6b82685466950936e0eeceba8251ba9e2b0"
+        }
+      },
+      "totalHolidays": 77
+    },
+    "HK": {
+      "years": {
+        "2025": {
+          "count": 14,
+          "sha256": "722368cb1db8fb3c580de100e16770ddaf7de4dca2492e06026056d647534683"
+        },
+        "2026": {
+          "count": 18,
+          "sha256": "b106ceb5702559b7a1fb3a74ffdc47c9ab4a91a6ef3dbfe05e5013b7924871ee"
+        },
+        "2027": {
+          "count": 16,
+          "sha256": "75fdd82a4f54c2694785f739f147822de04870e69b1d809af94ba711a1dc8f9f"
+        },
+        "2028": {
+          "count": 18,
+          "sha256": "ccddbd0c10fd5e96c9b8ed07279ba22a3b449417e0fd97cf914df0d50e78099c"
+        },
+        "2029": {
+          "count": 18,
+          "sha256": "d95d9fc4a9eb526c19bd3a0284ceb611b35de1ccabf408c74860b986f7f0617d"
+        },
+        "2030": {
+          "count": 17,
+          "sha256": "b29ece4a7d4240f4ab15fd5dd622bab431d4db7de93db25743c012138065d74a"
+        },
+        "2031": {
+          "count": 17,
+          "sha256": "bd7b85bd60bc58c6268ae1d369433de23d74eff7fa5e4537a6e7abb092f4beba"
+        }
+      },
+      "totalHolidays": 118
+    },
+    "HR": {
+      "years": {
+        "2025": {
+          "count": 14,
+          "sha256": "77e0ae85846dd52edd49f28df5933b3dcc017e75eda5c68811c3e2f6124e071a"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "dcc17c55be76340b6aa79b34d01d6a282b3f90f77aca56be09534d72c8900248"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "4c6bf56455ea32bd47ab7220486d2416c48b9d08ec65fd9156b58b68baebe10b"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "403eddccd6655d9e4da32d39bcba5cf0b5e823e7effe1036d5ed40d37a4ed888"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "a18ba94269b0fcfd76eff70a10a9ccecce700d223dae450d7942b0b5dac9fc43"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "e652dc2187678aaee0580f5a09601e6b7662cbe6c46bfe23d4b0dc98a34d6438"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "6fcedfe6b6803b82bf5f3026366e1bf54f5f74b03069cc99caa53fe3764e92da"
+        }
+      },
+      "totalHolidays": 98
+    },
+    "HU": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "c18b805cfda0f3297cca76706f1125d2bdfe3ffbbb922fa485fbd24e7999ce99"
+        },
+        "2026": {
+          "count": 16,
+          "sha256": "07664b5cfc8eb4d8594776d162ef79d2385e17a9be01b1a904f432cc7456d741"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "aa51496970bb236af8170c53e1936662b5ecb037504f9805156fdbe4b4481ec9"
+        },
+        "2028": {
+          "count": 13,
+          "sha256": "8136728da6095dda4318990948c8afef34e0aca2c5b617c9dc68b0bf6161431d"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "d52fae7e8a3d26a0e6001d2501c98accb2e4dd9efe67b307f6c3848967358098"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "fd952ff5e19c0cff8b28230bc8b9745fdb6db345d5c415ff73c16b42ddc82f7b"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "81bc2719345aa01cd244d91c46e48d4aa0676a18940622ccf0834456ff36ce2a"
+        }
+      },
+      "totalHolidays": 97
+    },
+    "ID": {
+      "years": {
+        "2025": {
+          "count": 17,
+          "sha256": "a047ec3efa05df30ba8aa9e10d62ec169a9fa3eaa9b0ea6c4a611bb8f41bac3b"
+        },
+        "2026": {
+          "count": 17,
+          "sha256": "d40fefb13bf5aaf2cba610d2c5d1d24437f58ef0025cf8c06990ab1787ed7159"
+        },
+        "2027": {
+          "count": 17,
+          "sha256": "d22ee5591b1d09592621761f87c23eec5a84176142e5368d5947163e9d8da5f6"
+        },
+        "2028": {
+          "count": 16,
+          "sha256": "74b620309c3b867977ad5e314f3b76dd583780fb3fdafa11603211c199d3e529"
+        },
+        "2029": {
+          "count": 17,
+          "sha256": "dc14e51218a342524ce5931692dd72ea37a0a38b85d54f5fde0e835293709ee9"
+        },
+        "2030": {
+          "count": 17,
+          "sha256": "683ea40174faeabaf177a7f42fec39a8466a24dd22e721df9ace02bff471d8e7"
+        },
+        "2031": {
+          "count": 17,
+          "sha256": "a81eb1e466156f2c571f5418aee90edd4f11b0b0ebcc4c4237eb1dba85bda1fa"
+        }
+      },
+      "totalHolidays": 118
+    },
+    "IE": {
+      "years": {
+        "2025": {
+          "count": 10,
+          "sha256": "52a111e02f235fb077490f819b0c1387f38c7e78e3380cfa8c92c2fc99b3d5b8"
+        },
+        "2026": {
+          "count": 10,
+          "sha256": "b4de37b521546881cc99fcdd279245435e8e6db185b6007e1f7a5bfe625efef7"
+        },
+        "2027": {
+          "count": 10,
+          "sha256": "c6b1cd1c4a21c923af45254e7cd945eb02d529cc6043b03b6b41d298583571fe"
+        },
+        "2028": {
+          "count": 10,
+          "sha256": "d1a0068a84f15b73dba619f21c741c16c7de3a089e5cdac32911c6c9fb9ec90e"
+        },
+        "2029": {
+          "count": 10,
+          "sha256": "d3e3e21e5e80aad1a4d883742ca315646242a550526c90f6064c97612f38d67a"
+        },
+        "2030": {
+          "count": 10,
+          "sha256": "f81ba2367ce66356890395af1b00b95e11312ab3f12740c66cae332dcd89f040"
+        },
+        "2031": {
+          "count": 10,
+          "sha256": "2c3cd5aa5d186c41c12e208c845d8c75137af0253db6a09224b728cd3a7175fc"
+        }
+      },
+      "totalHolidays": 70
+    },
+    "IL": {
+      "years": {
+        "2025": {
+          "count": 9,
+          "sha256": "b2c0e9d8e32b9450594fe11e686902941e397a930434c5f1e61e18df2e54d8df"
+        },
+        "2026": {
+          "count": 9,
+          "sha256": "4c8ec8b84223ccd5270f08108d6827b02b78affeedae52fcf780e5bf75b3498a"
+        },
+        "2027": {
+          "count": 9,
+          "sha256": "1ea143d717d7e74b0bad1bb50a58aec674070ea6fa45bab0ae28eb0ecd59dabe"
+        },
+        "2028": {
+          "count": 9,
+          "sha256": "4c54978d7b1338485b7b01c6e3f1dc191fc1227f0c25982f8ef70e8f0a49e9cd"
+        },
+        "2029": {
+          "count": 9,
+          "sha256": "ed970d270b583abc784eee0a868f24886af26d48fab51bf3a948926b462627e1"
+        },
+        "2030": {
+          "count": 9,
+          "sha256": "d56c2f6fa077c569f013cee597b042bc9f2e3aed74b3c25eb3863b4038df18f1"
+        },
+        "2031": {
+          "count": 9,
+          "sha256": "cf47fc711a5c994fc5df88309de4abb8db3719096ba0ea3b21469cacde5e6055"
+        }
+      },
+      "totalHolidays": 63
+    },
+    "IN": {
+      "years": {
+        "2025": {
+          "count": 69,
+          "sha256": "138d69a5197ea1fecd71bbab4130f9698a6dffee8c054b1897526c33fbe7c380"
+        },
+        "2026": {
+          "count": 65,
+          "sha256": "c14d4a6cadbe7c59746f8fffb9226e070df6ea25b8cf703b628bb3b88cdfdf6a"
+        },
+        "2027": {
+          "count": 67,
+          "sha256": "c8e2703a51d64459b12d79d8b88b3979b208ad285d857aeb8056a1387fe23421"
+        },
+        "2028": {
+          "count": 72,
+          "sha256": "b9f6a9012788d63ceb1ab5dacf61fbeb6f0d9ea64200a61edeca4b2fdaf6f08e"
+        },
+        "2029": {
+          "count": 67,
+          "sha256": "af2dd296aa7b1d9013a4d8f7aec6e73716f9dbee9e8b9badaecb332ddece0077"
+        },
+        "2030": {
+          "count": 70,
+          "sha256": "f3afbe1d719838ca9ea71f8ee3f37ec38a0d319f7d650d11520f127d8aef7548"
+        },
+        "2031": {
+          "count": 67,
+          "sha256": "77980d2fadef21fc7dc22226f21f1485f955b227f709b66de12880b70951b99a"
+        }
+      },
+      "totalHolidays": 477
+    },
+    "IQ": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "092c7d63e2ca4aaf3a9f1a5aee3893bee99a8daa6c29115460163a8897a9e4cf"
+        },
+        "2026": {
+          "count": 15,
+          "sha256": "804fd8e4f82b32faf9955dad1624409ba8c9af5a6154a28c14f2cd93defd4a1a"
+        },
+        "2027": {
+          "count": 16,
+          "sha256": "b6ef49a2806f42bd8cb7ff368a4cbee70ab4ee668e11f5ac54c335311b017d20"
+        },
+        "2028": {
+          "count": 16,
+          "sha256": "5852f885d3bef06ec11fbf400219ad0f132cc1319ee992df6051c8789064e0cb"
+        },
+        "2029": {
+          "count": 16,
+          "sha256": "699a93740b87c42b8ff512ebfc82bcb159f5d8c715552082fbec150fc34e2102"
+        },
+        "2030": {
+          "count": 16,
+          "sha256": "df90843718f5e7abcc4fd3f8135a412ffacf292f180bcd5e1fe4c4095df866d4"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "4fd61bc3340604a5198dd5dbe8e9eedce498d37c60e00535eefcc7803e7f97d5"
+        }
+      },
+      "totalHolidays": 111
+    },
+    "IR": {
+      "years": {
+        "2025": {
+          "count": 26,
+          "sha256": "d96ccc5a1cf62f43d55926c7e33b7704e239c52cc67f2a71921fdeabbb45af3c"
+        },
+        "2026": {
+          "count": 32,
+          "sha256": "a3d9b8c2b7a66d4b98bfe87b1fcb69257bbdd6ce634d3cfb934a22e08f991fb3"
+        },
+        "2027": {
+          "count": 28,
+          "sha256": "6aeaba7df569fa6587510a1a46c3dee38dbfdd303dd71b0fd929faa63bed784f"
+        },
+        "2028": {
+          "count": 24,
+          "sha256": "591419713649b31e882834b42fcc2e0683a725760b92acaf3800fedab36b6557"
+        },
+        "2029": {
+          "count": 28,
+          "sha256": "51b6838004769f06ac9bd441f395054c7e737cfdb262eeb0011025973fac58ec"
+        },
+        "2030": {
+          "count": 28,
+          "sha256": "3114818a540fdc75ecf0ae3bc008f1a57e0654378ec3e4720c43eee8014b5896"
+        },
+        "2031": {
+          "count": 27,
+          "sha256": "535414596ef09bdebe7c0cb204277bf0c9bcaba17f53d9211bc34e5358c10675"
+        }
+      },
+      "totalHolidays": 193
+    },
+    "IS": {
+      "years": {
+        "2025": {
+          "count": 14,
+          "sha256": "a45e620f11ef0d25da353df63f470eeaf0963a8c3032d6f47be515d9f1c50850"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "91acccc7d948d61146911577d19bd399ece5fd58317062a86bdc29e75643c882"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "ea4a2f4886bd0e1ed96ff77857ae7c6a6d5dfe6387957773ea25f2bcaad6ba8d"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "04fd8e05d7baf0981d883dba7fcfe3af8ae4c3856d4ec6836ab6be007e26d968"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "17f20ed296156671c608b26829a64fdf574fe4d1ccaf4f54b5d0d1d13585bd74"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "2909ce8d0ff7a20cfcfb805cba3910435d1cbf1bfb7dc33f6b7a51434d1ea417"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "2406ad14a30008d2901074e9f59a43b586bd4fd82fccbe098be0893a191b3b96"
+        }
+      },
+      "totalHolidays": 98
+    },
+    "IT": {
+      "years": {
+        "2025": {
+          "count": 99,
+          "sha256": "5b320e8d3b2ebbb680ad288e13597adbe141838aabafd736da28cff1b8d2d6f5"
+        },
+        "2026": {
+          "count": 100,
+          "sha256": "35d673da8c7fcec36e9363ac541bd116be867436209c51d9e8adb4253399db71"
+        },
+        "2027": {
+          "count": 99,
+          "sha256": "62b59cfb77dd7568b4f3f19c1ed7808c2832a70a15bd2ff6b4a2a809d8e73f2f"
+        },
+        "2028": {
+          "count": 101,
+          "sha256": "a9f4742d6fba3e8b4cc35a868619571108ff2c94e4e231009ade6cb685b9a4f0"
+        },
+        "2029": {
+          "count": 99,
+          "sha256": "40110dfba1f0354ca64d2e0c8b7aa6b1701e79495bfd8c4f507de120e9d7ab3f"
+        },
+        "2030": {
+          "count": 99,
+          "sha256": "a13ada3477d0473b113fed0a9e3488be2ec7062addbf25244f4192c34106b8b0"
+        },
+        "2031": {
+          "count": 98,
+          "sha256": "1f9ed88c83a82ebfa481cbbae19958c4bfd35ffd645c2ace64e91c4a3fe635f8"
+        }
+      },
+      "totalHolidays": 695
+    },
+    "JM": {
+      "years": {
+        "2025": {
+          "count": 10,
+          "sha256": "e1638460bcceac1600c1189d5b7c6c144f70c7c130fea8b8067be551c75a27dd"
+        },
+        "2026": {
+          "count": 11,
+          "sha256": "d47d0fa42b1dd3c504e973e2f1ca9332224d3fe3204bc3a8bfcfa1b4a9c85207"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "2c78d82694e60c2e956f167c8d9fc3308e0fe80315de1089afb6fbabbf56d0d3"
+        },
+        "2028": {
+          "count": 11,
+          "sha256": "8a39a7a5fffb654e2262ef83273e3a9ec1aeffe8bba617449366cf6d1cc0aeaa"
+        },
+        "2029": {
+          "count": 10,
+          "sha256": "6e09dc5a53179c88816953be48b2d07c5aabff94171e4802d316d5294ab6b9fc"
+        },
+        "2030": {
+          "count": 10,
+          "sha256": "a8880d312ba3d3c94b4d70656b8e3497801a94d8123a46831ac14eb5fb5b6262"
+        },
+        "2031": {
+          "count": 10,
+          "sha256": "309cb3883239349c3d9e5e9a7567e414962b5d0f8b3e231af2384f234c7414d7"
+        }
+      },
+      "totalHolidays": 75
+    },
+    "JO": {
+      "years": {
+        "2025": {
+          "count": 14,
+          "sha256": "d1bd7cf9a3516365e3dd97b4eaccd896865249abb7738dab1e1fa731bd379526"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "135016d6fe58ae382f20ae604368bfe5e36b5bc9df5516f1b1a825628526a089"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "45f6e04ab70c5a34db8cf044fa9aadfc2064952cb25470feaefc9d4165740f52"
+        },
+        "2028": {
+          "count": 13,
+          "sha256": "7202b5c6554950c61421797bbdce1840678d58df1963a34afe05ec3cd79d6091"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "6af3d2af8d93e5b4e6b51fa069015146188b20ab4a66c33019608c1dcdb2e490"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "619f9f409db9b43f2f8b4c40fdefc7916ebdef825262b8dc4a56968dfdeac1cd"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "ca7bb07fa515a1a6f2d41fa69d571fa7d33b7bd83cd1a76d68be1d4ec240acd7"
+        }
+      },
+      "totalHolidays": 97
+    },
+    "JP": {
+      "years": {
+        "2025": {
+          "count": 19,
+          "sha256": "0cd30264a8fcdc1f31c4ce5577fe63e3f80826a3defb7808cc56fef3c9710693"
+        },
+        "2026": {
+          "count": 18,
+          "sha256": "f272a293283301ef59b7b78d0c54bb7686cccd0685bf78d45beeafc11fe19079"
+        },
+        "2027": {
+          "count": 17,
+          "sha256": "f4fc7183c1442e78f9bd622ff7b45738c053c102100f2deb9254f4bcf64ffce1"
+        },
+        "2028": {
+          "count": 16,
+          "sha256": "1d9e90dc4c7138c7c9d4eb3bebd9431c5806f28083a5c58a2b3460945b2eda31"
+        },
+        "2029": {
+          "count": 19,
+          "sha256": "853968cbb1613a22b39016646a1880e2838670f4e7bb64db16944b9848142eed"
+        },
+        "2030": {
+          "count": 19,
+          "sha256": "371e7d8a2a325fb6c8b507f6d15201c0379d284a57b4034f393727baf2255e1b"
+        },
+        "2031": {
+          "count": 19,
+          "sha256": "750e9e92a05b411c2da8af9aa396a25a036b356737f46b01ceb8c87764f1b18c"
+        }
+      },
+      "totalHolidays": 127
+    },
+    "KE": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "6006ebc934950c8c08ab21c8db6a50cb6a76b66f9a308c95c6066b8b5ca0cbc6"
+        },
+        "2026": {
+          "count": 11,
+          "sha256": "9f88a337c56d6926d32e0c73a2f52d65ff829b9cda52751e6821a03cbed012f9"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "d148a7ad8f1d2845127a2c2c78b81f4e86de9959070d1ecb2b0114b8ff581c3a"
+        },
+        "2028": {
+          "count": 11,
+          "sha256": "630bbc37ada05add599663210f33d4d06d4417124939caed8a232fae130b7664"
+        },
+        "2029": {
+          "count": 11,
+          "sha256": "21634177c297e5ed4c416b8b4241278838974ffa44cc2fc43217fb07b6731700"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "7c96332846a9b29f36c82085496e3f4a3f10e21d60999cb459a5707e443644d6"
+        },
+        "2031": {
+          "count": 12,
+          "sha256": "6ed4e2d02d427f96bcaf09e290337ddf725d67525340ca12850c11451605b865"
+        }
+      },
+      "totalHolidays": 84
+    },
+    "KG": {
+      "years": {
+        "2025": {
+          "count": 19,
+          "sha256": "beefdd229b7a0251dc14da75097e0c5134bf316d92b7166a3d3864bfde06665e"
+        },
+        "2026": {
+          "count": 21,
+          "sha256": "a14143e59b043a586c79f02bbf40a82f1dd0a988dfc52c94b0e49d0d36be72f2"
+        },
+        "2027": {
+          "count": 21,
+          "sha256": "070f183cd821d3f14502da8de0688fed14cd3b71a763679917b78aa46157c0d6"
+        },
+        "2028": {
+          "count": 20,
+          "sha256": "a37e6b9ee5050a4d3a72c7a87af888dd26c8421dd21fecb7a1fa1ba273ee0ace"
+        },
+        "2029": {
+          "count": 21,
+          "sha256": "2719eba772dc3764c822bace5983f0a8b5580c635892222377aa74f1b5164c46"
+        },
+        "2030": {
+          "count": 21,
+          "sha256": "55efedfc10eb0449d8c6d691860eba6c8ac67b34edae384ee9f49d5fd4cfd6d5"
+        },
+        "2031": {
+          "count": 21,
+          "sha256": "18c202545c5b6688db44ac5c32fc0fc38e9bfff74dc969c41a911ae6c6043f53"
+        }
+      },
+      "totalHolidays": 144
+    },
+    "KH": {
+      "years": {
+        "2025": {
+          "count": 22,
+          "sha256": "b34127167fb16f4c2f1726c3aba7a6a53620de3690b1faab93ee9b05d69973f0"
+        },
+        "2026": {
+          "count": 21,
+          "sha256": "986af27dc1638dcc55c8c94a5f3b0f2457840bc38ab4942cb3e3af69b03ba3e1"
+        },
+        "2027": {
+          "count": 22,
+          "sha256": "670bebc6e2be5e618702223b13abef75047d53bfa49254cf33789ac742cc7995"
+        },
+        "2028": {
+          "count": 22,
+          "sha256": "19cb5855b7eb7bc78081064a5003dfeb01d111b8ede861a2230a867ec828d930"
+        },
+        "2029": {
+          "count": 21,
+          "sha256": "0bba07992952193357c225ba6cfe750ce1de9c4961d5016ab8c25941baae16ea"
+        },
+        "2030": {
+          "count": 21,
+          "sha256": "d850c23d7f8df278583c0fa0f7969e32e24ef897eb96078df8dc97a425bc8371"
+        },
+        "2031": {
+          "count": 21,
+          "sha256": "e43a4502e82d76b4c2acaf5a5bdb01f868841aaa47e4d9c5f4651c47131b6eb9"
+        }
+      },
+      "totalHolidays": 150
+    },
+    "KR": {
+      "years": {
+        "2025": {
+          "count": 19,
+          "sha256": "7d81181695b417deadf5863b6b7d1ed858cf0729e23d5e11157194ff8be652a8"
+        },
+        "2026": {
+          "count": 22,
+          "sha256": "e60ef598a9b4591ce932e1f05226dc135c46f030fe06c0172bb1320f5f42ac30"
+        },
+        "2027": {
+          "count": 24,
+          "sha256": "ca2603ef37d7ca88a9d393e7fcec4c4b880f3406b44217727a03d05fe0fa2d89"
+        },
+        "2028": {
+          "count": 18,
+          "sha256": "2fc5503dbc7b0904405a1a52ffa31850d581a4808dfcde9963597539f724bf5c"
+        },
+        "2029": {
+          "count": 20,
+          "sha256": "dd6dad62ca2333dd39a476f0994a484441306009ceeb5436028c349d3d693a51"
+        },
+        "2030": {
+          "count": 21,
+          "sha256": "bbd21a6e7345f708f6b1f61a9b215506af8df8ee3568ba4069b0fb642ca02175"
+        },
+        "2031": {
+          "count": 18,
+          "sha256": "30b1fd13c18544ee74d7d6e3e96c218dd61d3d05e0e185a06cfa4ab058328cc9"
+        }
+      },
+      "totalHolidays": 142
+    },
+    "KW": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "717629b630f99c686b0b2a3eb07b13664060407b5a9acefd43439e5134ade3dc"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "b0ec734cf596d9d9c0021ff3feb5b893d61eb7d73e42c64deaf2e3e19dad0e80"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "31317be98f609fb8b067a2f65958df2d10edcf1d8bd2d26b04cf7ffeb135c253"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "904afffcb86e7eed8d2ece07400d7be47e8cc074ef5ce75923b2899a7921a7bc"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "270cf7237aecd01555f7404987315dd0e5e0898a83a0641a1af5bcd4a70f6ece"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "6c7fe68d1ed8dc944fa4e15f23a3401fe20463bbe7a9beaab77bea038556d88f"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "8fee6602733ebbb8abe9be9ce6c046ede11e78dc2b0d85e4628df7f309a73121"
+        }
+      },
+      "totalHolidays": 91
+    },
+    "KZ": {
+      "years": {
+        "2025": {
+          "count": 22,
+          "sha256": "cc353f0e0363f27209a255265616a4c85d7eeedc716ae4e21247eee2eede3dfe"
+        },
+        "2026": {
+          "count": 19,
+          "sha256": "a11ab000cc50cf7136e52208594b58f5224db4475d0abb3454139211ec10675a"
+        },
+        "2027": {
+          "count": 19,
+          "sha256": "8f41f5400813e9eb070055b4ce5e56133ba38cca9099deca96d8962681214b0a"
+        },
+        "2028": {
+          "count": 19,
+          "sha256": "dea5a5dd4d43cbf104c65ac453a13ff56d0ae2f2cb44fc516fb213d21796daf4"
+        },
+        "2029": {
+          "count": 16,
+          "sha256": "17cd613b6e95071404bb52f299656681f35aa210ba18b0dc9c7f5c30d850a6b6"
+        },
+        "2030": {
+          "count": 17,
+          "sha256": "0ee38c1c23eab10242265bd2f1576929173384defa71a48978f6fc8ad4f98a7f"
+        },
+        "2031": {
+          "count": 21,
+          "sha256": "87a4ada4afe77910c98f97ac749fd7aa81b27184b2e34f6ad315ef63181e713a"
+        }
+      },
+      "totalHolidays": 133
+    },
+    "LA": {
+      "years": {
+        "2025": {
+          "count": 8,
+          "sha256": "69fa7d5a16473699d2798dbf72a8b3ce3b7a4da007185778807668c05ff6f4be"
+        },
+        "2026": {
+          "count": 8,
+          "sha256": "8c03df3473b86da3bcecf489740d1681f2486d3f63ea20c0e2bc23612d62bd82"
+        },
+        "2027": {
+          "count": 8,
+          "sha256": "6363b772260edac2c637ae3553a3d17c5fb9d26ee40d17f246d3a4c5db7e258f"
+        },
+        "2028": {
+          "count": 11,
+          "sha256": "68bcd6fd77ffd31c80917ea4bf1c0d9ae84ae015ec967a674e0537fdc08bdeef"
+        },
+        "2029": {
+          "count": 10,
+          "sha256": "11731e480b013fb5a532970c33d098029b5d3a7ebe0e75955572116aafe30f95"
+        },
+        "2030": {
+          "count": 8,
+          "sha256": "8f5b3be00da054fe46a2b852b1e0f1b07bd0320d4657a0c12f1f21fe10f14f35"
+        },
+        "2031": {
+          "count": 8,
+          "sha256": "31095f95ba74532421c945f1cb99ff7c318819baddd402a2c516fadec290fb4c"
+        }
+      },
+      "totalHolidays": 61
+    },
+    "LK": {
+      "years": {
+        "2025": {
+          "count": 25,
+          "sha256": "71f44e34b7e797143d4c4cb08a2300517d73535765d078fd6a079601785d165a"
+        },
+        "2026": {
+          "count": 59,
+          "sha256": "0ec937d3036e85fd858ecf76714c05751ae2379514ff5f9524b5e34e1434b7d0"
+        },
+        "2027": {
+          "count": 0,
+          "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        },
+        "2028": {
+          "count": 0,
+          "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        },
+        "2029": {
+          "count": 0,
+          "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        },
+        "2030": {
+          "count": 0,
+          "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        },
+        "2031": {
+          "count": 0,
+          "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        }
+      },
+      "totalHolidays": 84
+    },
+    "LT": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "eac4696db2c81c20fdd01d82134046dd7aaae39c4e5a4e7a192febeb8c5fab51"
+        },
+        "2026": {
+          "count": 16,
+          "sha256": "b4fb3e43e9e6a3ec85cc371d9b2ad22c53e9ae5acf7028ee8aa64de91ee78916"
+        },
+        "2027": {
+          "count": 16,
+          "sha256": "3b7273002fe8d49771a47ac432f6a55faa0a112d4ae8e445a50f15bda876d631"
+        },
+        "2028": {
+          "count": 16,
+          "sha256": "299c468a6cf4125fa2df0b8ce9707be5c42a2a0d8be704f092efde1912f32f43"
+        },
+        "2029": {
+          "count": 16,
+          "sha256": "7e37168503841f427af4f6181ac84e258f507f295172973b03e4787e66bcc925"
+        },
+        "2030": {
+          "count": 16,
+          "sha256": "fc10aa87cee17a1e12da23a164d4dc25ab1241ec8b68806c55a1979a46e383e4"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "93e29692289a4a87d70660f2d86964305cdd976d8eaa87eeeb3289abbc88b843"
+        }
+      },
+      "totalHolidays": 112
+    },
+    "LU": {
+      "years": {
+        "2025": {
+          "count": 11,
+          "sha256": "c29d6ee32ebb6994b5c2a11db45b67dae97cbf752fd1388ab44f013cec3ffc2e"
+        },
+        "2026": {
+          "count": 11,
+          "sha256": "fcf703d72e82f43617df9260623fe8630b9e4dbe4cdb25b73f6017d949fa96a2"
+        },
+        "2027": {
+          "count": 11,
+          "sha256": "281eb837bff301ca3a4914bd4bcfceb389fea9c3e7cbf046da36af9252387bcc"
+        },
+        "2028": {
+          "count": 11,
+          "sha256": "07a53ffd339272a989d03214328037fc2514702a98b8ec8a1cd595927cdb4f23"
+        },
+        "2029": {
+          "count": 11,
+          "sha256": "0b2c5776866233b7d3187f777b23aa7fece47188b2375a8efbd8c9927b207f69"
+        },
+        "2030": {
+          "count": 11,
+          "sha256": "4af89584b996438f3c44eed4011a72cf0db2d0dca1ee0ad296b1a840bce3d944"
+        },
+        "2031": {
+          "count": 11,
+          "sha256": "cf69266fe2088dad719cc0800a06a1aa0191ab1db801c33e13510b49d313e7b7"
+        }
+      },
+      "totalHolidays": 77
+    },
+    "LV": {
+      "years": {
+        "2025": {
+          "count": 18,
+          "sha256": "fe6968f6d40d10caa5e7c9cd429723e7666a161609d56c983d6af4e2c6148272"
+        },
+        "2026": {
+          "count": 17,
+          "sha256": "a5d6c5813c5f5228593dc4f5a3db3df0b1b20c2037b974c9fdeeeebe1ac52d64"
+        },
+        "2027": {
+          "count": 15,
+          "sha256": "cec36cbfcacf7a4d0f448651b78dcc1cf3f730a93c912638d7e5e1a381463580"
+        },
+        "2028": {
+          "count": 16,
+          "sha256": "fd1f1d61a43b2b5f78e167e2d24ab5ec39bf78d9bd77f00e1960b42064394541"
+        },
+        "2029": {
+          "count": 16,
+          "sha256": "62f68591ca537e0e7d16489a2cb3d751791a5326518e7394182f892d75f8b1b2"
+        },
+        "2030": {
+          "count": 16,
+          "sha256": "e68a02012f3e4848217c353dba98978bd439ff03fce1b721778d8a0f7b8d4d84"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "fb54ba9cd6ece73c8136e0217f86458db9d56078a34c42f9185dedc31adcce67"
+        }
+      },
+      "totalHolidays": 114
+    },
+    "MA": {
+      "years": {
+        "2025": {
+          "count": 17,
+          "sha256": "2e6ede4a35095ca658be7cde3871facd151614fb937ea37a8013e8cc777e75a5"
+        },
+        "2026": {
+          "count": 17,
+          "sha256": "379bf91349dd3f5f8b858d382d4a603c47afa9d336c74515d3127d4221a291c4"
+        },
+        "2027": {
+          "count": 16,
+          "sha256": "c71a09dbaa67b1473df8f33d2b2f74aa50752c31d070578fce20c2ef5aa1bf7b"
+        },
+        "2028": {
+          "count": 17,
+          "sha256": "3fec34af284ee16a9df008e65639323de3f44a2e1872f56f5e0d073e066634b8"
+        },
+        "2029": {
+          "count": 17,
+          "sha256": "6fa244f820bf6f4303333af28381bf2fced67d9412f786cec1bc26dab48971c3"
+        },
+        "2030": {
+          "count": 17,
+          "sha256": "9156a8521568a61e2e924daabfd8060ad06d77b32f1f6cbde85c2745daf51be5"
+        },
+        "2031": {
+          "count": 17,
+          "sha256": "8736e17773dddc4178c59994f7af5e857267551eda1f66c45ff1bb2b2d91a8a4"
+        }
+      },
+      "totalHolidays": 118
+    },
+    "MD": {
+      "years": {
+        "2025": {
+          "count": 25,
+          "sha256": "df9e25bce9466d87e51dfea4864e768ce96b6b4576825f408e4576cdc6e110b3"
+        },
+        "2026": {
+          "count": 25,
+          "sha256": "4d36429fee4e1578f165cc1b94f48121bf1f7347e6d8da953e1f0be90bac2bce"
+        },
+        "2027": {
+          "count": 25,
+          "sha256": "2cb9392b171245cbfe4837857260a642b593d78774fa69096b89a1a74ae5a8c3"
+        },
+        "2028": {
+          "count": 25,
+          "sha256": "349830ff9c7e0a91299b543ad34e4cc8f0595e7e6caebfb9c9d053518c780292"
+        },
+        "2029": {
+          "count": 25,
+          "sha256": "662eb95950d0de278dacb03407ce661fd561b4597d28b811b4ae1f52df909950"
+        },
+        "2030": {
+          "count": 25,
+          "sha256": "212adbaf9c4877f1f2900b369d767f48fa456f1d1d7ad5709f6801278f371948"
+        },
+        "2031": {
+          "count": 25,
+          "sha256": "7d21ea365aca773c2c8fbfc79300868822bec9678d62923cb8474e9d9778a0de"
+        }
+      },
+      "totalHolidays": 175
+    },
+    "MM": {
+      "years": {
+        "2025": {
+          "count": 33,
+          "sha256": "02fa717e2b3bc7f7c92d82a7c1b6e32709b5a939ee6b015d9da0661c0fffcc2d"
+        },
+        "2026": {
+          "count": 27,
+          "sha256": "7d080551f9080d472fd1d8f5c98aeac04ebcf3c7969b09db5e9f261e987c3855"
+        },
+        "2027": {
+          "count": 30,
+          "sha256": "f8e756b85446c6fe90115f7a10701d634e8921fc5f234873f59d11e3c3fa980d"
+        },
+        "2028": {
+          "count": 29,
+          "sha256": "cba5a4eb23a69e0a5464bf97111dc53e742d13e31dbd361250e7cd01a7f71935"
+        },
+        "2029": {
+          "count": 28,
+          "sha256": "7ba0083e01685027869db566b36b1f647529b443c2359185b34a7e27c166ad5e"
+        },
+        "2030": {
+          "count": 28,
+          "sha256": "c35688593dc07c35304c8c63b946977291ad99cd5674e19dfcb9fc29d372708c"
+        },
+        "2031": {
+          "count": 28,
+          "sha256": "19c05bdc3f1f46940e51d3b12f01c56d0fc6763f5e65e3483c2275f0418f4861"
+        }
+      },
+      "totalHolidays": 203
+    },
+    "MN": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "3880910ac7a9c0ebb279b8a1091882bfebb61fa8459095c2b3440a419901ead1"
+        },
+        "2026": {
+          "count": 16,
+          "sha256": "7df2297c19afe13dcba8a5f84ae633d79fa4d90651d22ce48241c16d9851972f"
+        },
+        "2027": {
+          "count": 16,
+          "sha256": "2eed572ca0598a18a629263cd6f51d1a9e33e1b6cadd0f31eeedee60401743cd"
+        },
+        "2028": {
+          "count": 16,
+          "sha256": "987555d98cc72306fe4201e79574c1e06362d116939e85e786a8b0d7fa209ac0"
+        },
+        "2029": {
+          "count": 16,
+          "sha256": "ae6790e6c14fe96be99a690415ece5de939aa4e3a911ceb7badff16c2fe89320"
+        },
+        "2030": {
+          "count": 15,
+          "sha256": "265c4d62a02688bf828df706ebc1e4eed789cea6026ced88b3b1bbb424d2a0f3"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "fa4132deb8ce271f186e9022d2f50e4e9b76df34b04539d855a6e59dc93bd0fa"
+        }
+      },
+      "totalHolidays": 111
+    },
+    "MO": {
+      "years": {
+        "2025": {
+          "count": 10,
+          "sha256": "adfc83a51b6e13d23cf82b26dead729c46553731e5793320d263f61ea318014e"
+        },
+        "2026": {
+          "count": 10,
+          "sha256": "c4bdf3fb09604418251300ffc1a3aed2c9027d28ff0cbca07e18b0923cfb68e6"
+        },
+        "2027": {
+          "count": 10,
+          "sha256": "2f9b351df1b8f3a4b53d6e90481bef391a546082735cbb1a2dc8547aeeeec57f"
+        },
+        "2028": {
+          "count": 10,
+          "sha256": "e79cd9fc79b7f1185250336cf09be36517f935e05dbc63f2081224548f1e2c65"
+        },
+        "2029": {
+          "count": 10,
+          "sha256": "db57a88e5784f18733adcee9eafcd442dd2618b3049bd739015605ead26df126"
+        },
+        "2030": {
+          "count": 10,
+          "sha256": "749e59189f5f19b45b5cec8846d6c317ed578396c6f788d37eacb255eb61994f"
+        },
+        "2031": {
+          "count": 10,
+          "sha256": "d9404f4ac94d23b20bd89064ecf033bc8231daaccbff3d93f92107939d743632"
+        }
+      },
+      "totalHolidays": 70
+    },
+    "MT": {
+      "years": {
+        "2025": {
+          "count": 14,
+          "sha256": "32df35a6a4093d3d683e23319627df808fa012b4c156d7ba6847940b5f3b5378"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "0523a1686e99e19d4546870406733f8b8f960779eabdebc7a05279f81a49477d"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "e8e1477565d9a484a66816057f0d5fdab1315f8db819cbdc589cd270907e9518"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "2c45cb5137ff06f9244204e222c835f53a9f442cda8cdc91c3a809ccf801d1e6"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "11e9f5bee4f58bae202eb0a65431c13140e38ab44c9549e94703293d8c098b75"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "1efe93ed6fb2230b8444d71df73a0cce1c63dbaa13514c173ebeeedbcdbf022f"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "61ebdad063b4c2d31a02646d2216d73323ab2d2de701f97283815081e1284d8c"
+        }
+      },
+      "totalHolidays": 98
+    },
+    "MX": {
+      "years": {
+        "2025": {
+          "count": 7,
+          "sha256": "02fec77154579f710df8f951af96fe0d4b6e1d751e18c903a0c5a1ca707d5399"
+        },
+        "2026": {
+          "count": 7,
+          "sha256": "15d9a093d11f4c26505e6de368b977d4334f18345102d14f90f6b2b29f39382f"
+        },
+        "2027": {
+          "count": 7,
+          "sha256": "c1b92148eafc3f4a05e6f4ebcdf510a1eed2730a50dcd12686638e90b521dc61"
+        },
+        "2028": {
+          "count": 7,
+          "sha256": "ca275ffde8cc852776307f9be275e23e1f7a61203b89a817931d55a9540dac2e"
+        },
+        "2029": {
+          "count": 7,
+          "sha256": "17fd495a37b847f9ba8901d1200e8642c86e2ccbcaa1ebb3f1dd3cf8b96fd527"
+        },
+        "2030": {
+          "count": 8,
+          "sha256": "7d8f6c8c849894cf88447208b194eddbffdf43b01b53ad509d911cb335aff14f"
+        },
+        "2031": {
+          "count": 7,
+          "sha256": "7706485b4d26de529c5634fafa4fb53c1782eb952dbfd2d9fe3f6e9fb689c130"
+        }
+      },
+      "totalHolidays": 50
+    },
+    "MY": {
+      "years": {
+        "2025": {
+          "count": 56,
+          "sha256": "fdb29ba0598a0644fd86500f40339d57b4ad2c1cf600d0ff652c5f33cb1ce2ff"
+        },
+        "2026": {
+          "count": 55,
+          "sha256": "22639ac7ab14e32a93b59dd4d35e32370d8f2e254c9ad819f5bf1e352748f6d8"
+        },
+        "2027": {
+          "count": 53,
+          "sha256": "b0a3cafcee5f88503c05d030761f8cdf9fed803550f465b49a539fc6f0e6a0ae"
+        },
+        "2028": {
+          "count": 57,
+          "sha256": "d175262e9ee280ea0f3fdc962c158dcc7160dc80414699b694dc84c5727ac0cf"
+        },
+        "2029": {
+          "count": 51,
+          "sha256": "baebe10e285237faf621175702821a8459749ad532663f72f2cc99f9fd3593de"
+        },
+        "2030": {
+          "count": 57,
+          "sha256": "38ee97852a9e25e2d18feed20f313b0ed2ce7a60b85f3d48d875311f54935f87"
+        },
+        "2031": {
+          "count": 55,
+          "sha256": "76ef709a61b0a2b692fdc4a8470cb5f44a29ef03348aa87fe853a93532037a73"
+        }
+      },
+      "totalHolidays": 384
+    },
+    "NG": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "e603db99a948ba5528c95fd108b1feba9b8b018ed77acb460135fdfd8ac9c322"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "8e5cce46da541880d4a227de21417276083c8be70ec898eb7048fe5327b976c3"
+        },
+        "2027": {
+          "count": 19,
+          "sha256": "d3a83f4335924312265b86db870e0b41655e2c0f995a9065e87ba2bb243c1461"
+        },
+        "2028": {
+          "count": 18,
+          "sha256": "c053b59700a50f5ca1b79e57727f87ce85315174420028f0fb4128f362110ce3"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "b31f37c47d68efb6a64b5845ed9c7160c3abbfb7e2865a3e80edf58b2ee99d60"
+        },
+        "2030": {
+          "count": 15,
+          "sha256": "a5c5716d19a2767a6201c589c51815457d1358fd44e545cbc1983b9867ed10b1"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "76fa78c08b6dd2e5c3179e236c01070222d020790bd99a02fce1d7c887e64f20"
+        }
+      },
+      "totalHolidays": 111
+    },
+    "NL": {
+      "years": {
+        "2025": {
+          "count": 11,
+          "sha256": "309eee81cf0a518a00fe2608e824a1e423055460098c69b3eb7994a9f3e2cbbe"
+        },
+        "2026": {
+          "count": 10,
+          "sha256": "723add42b8cf727a6d3fbc858ecf63cc28c8fb61b24a0aa4002b7822e534cb3c"
+        },
+        "2027": {
+          "count": 10,
+          "sha256": "0ef21beab63fe41bac18b88f2784752552df3992e99120fbf375c1cdba702a7c"
+        },
+        "2028": {
+          "count": 10,
+          "sha256": "168dbfd3fe7f5748eacf50c4d288d72ea7c9d0105f022505cdd808364777bf47"
+        },
+        "2029": {
+          "count": 10,
+          "sha256": "357176aa8c665c0f117f01c5df62a5b9e12ea6d0f937acf45a29d0c4ddc59b97"
+        },
+        "2030": {
+          "count": 11,
+          "sha256": "ef0dd5a03f19fc46a29c7a31ac48ccf6792df4d3bae668b83d372a0ea85d4453"
+        },
+        "2031": {
+          "count": 10,
+          "sha256": "4599bc4d8ad349b30ecd686753c2b255b488468dc192f16cbe42c7ddd364478f"
+        }
+      },
+      "totalHolidays": 72
+    },
+    "NO": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "2df7e14f27653af569ad1ec21018b5f0dcda7cf4e0ce17bca14e52bba7b78438"
+        },
+        "2026": {
+          "count": 0,
+          "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        },
+        "2027": {
+          "count": 11,
+          "sha256": "b6348af5b72c55ac7a0a28d877ce6db8d83bfd8d8588eda5fbadf74db068a58e"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "831d319b93e4901a56a09853b1a9a02a7f3d983f425c2b0c1d266a917fb3a3d2"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "4a2f10eec6176699434bb6ec11efd0f5070c8f61f52b9bdec6a62a574c9b610b"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "1e8cec3a91159683107290fd0f36234a849218571e2d4f6a7bc23ecaad840f4c"
+        },
+        "2031": {
+          "count": 12,
+          "sha256": "74d491a1a35d28ddf784eaae4c48a380d7ce134c47b660865340a81d4b9f7233"
+        }
+      },
+      "totalHolidays": 71
+    },
+    "NP": {
+      "years": {
+        "2025": {
+          "count": 35,
+          "sha256": "f1834645096ea37febe5203273c825eff8fa8adb7a98d9eeb543bbc4c6740e04"
+        },
+        "2026": {
+          "count": 32,
+          "sha256": "b4fef73fa331cb9a924b2437ff65b096d15ed1a5d4152efb81585ba4375d8094"
+        },
+        "2027": {
+          "count": 32,
+          "sha256": "a2f14346f2d022a9be23e6a8e31f391486839b21f4b52a6f10641c7ff9b0153f"
+        },
+        "2028": {
+          "count": 31,
+          "sha256": "4a03914e3917c6ed301991a16a8dd731a29f97e673e36584e7314f7d142cc338"
+        },
+        "2029": {
+          "count": 33,
+          "sha256": "ab56db6b542420cfccaf0258d637e8aea304e55c1c765e30edf6bc41211bef35"
+        },
+        "2030": {
+          "count": 32,
+          "sha256": "68868055e4730daeefaee0f6591707e90e41cfefdc0e28388a485f31f97e79e9"
+        },
+        "2031": {
+          "count": 31,
+          "sha256": "ce1fc9bc744ab35447acd4f1bc7105c8b4cfb3106c17c6794c88729f266f9f69"
+        }
+      },
+      "totalHolidays": 226
+    },
+    "NZ": {
+      "years": {
+        "2025": {
+          "count": 22,
+          "sha256": "85dc9cf9b2a45a4ea058d14c98e7e83db81cf182204e99e37d38738dd7264567"
+        },
+        "2026": {
+          "count": 24,
+          "sha256": "919bda1eedea6710f2c3106c152f028c437450a059e44450c9218fb1fbb6b937"
+        },
+        "2027": {
+          "count": 26,
+          "sha256": "5768c1cea243da7d504401ed06cf9769aeafa9394f6476188b5c522c5a85978e"
+        },
+        "2028": {
+          "count": 25,
+          "sha256": "596265206f0135ab9d6667f6c46a894803fc718a8b967c0673ab64df12c8c2ba"
+        },
+        "2029": {
+          "count": 21,
+          "sha256": "d642255986c232edd213aa0d60f0c0465008e0a174a14f9ace61bb8b368ad541"
+        },
+        "2030": {
+          "count": 22,
+          "sha256": "8788fbaa2c1ed206c4b765fd9622afb88369ccfd57f0e33506937d1d77820d34"
+        },
+        "2031": {
+          "count": 22,
+          "sha256": "57946da5cfbb4d0fb5c01d2902d5d418512c3d7c3c27e8acbab8ccb0c0baa5b3"
+        }
+      },
+      "totalHolidays": 162
+    },
+    "OM": {
+      "years": {
+        "2025": {
+          "count": 15,
+          "sha256": "bac6728dc7d2aaf24ecd3f192fb1f9b6b8b01fe0cbff279cf0860857ec6bb1c2"
+        },
+        "2026": {
+          "count": 15,
+          "sha256": "847d40caf3731dd546290bef05e125cc9a0c482fc22c158d02e102ba9163c34d"
+        },
+        "2027": {
+          "count": 15,
+          "sha256": "fbf92614555688da16653413638ac7b56f9a1313726317781f61294377ba92a3"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "39486657c27a608fe6d82b1b977c7614043d75dc57b321a1fd04bda26f4fa05a"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "5e6c2cab63d0054cce3a7208e473e2b64663f590e8d76653c40cbfec7c781888"
+        },
+        "2030": {
+          "count": 15,
+          "sha256": "7812c504aa9970d70c4b4f092333353eea27c3132cbc8b649d04f7ae09404a81"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "aa96c4f842845c20c633fae157d8272f9a26c5b37fef94fa3b2e1d0bb88ffb37"
+        }
+      },
+      "totalHolidays": 102
+    },
+    "PA": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "f116f26a4b0f8525cfb23e55f3a64104c0f7b92314b1f799b14d9ba8463d61a9"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "d69bde2dc079c974591d376c15c16ef50166f85b6db2abd9fc5350891f39e1b3"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "f2f33dd95265195607c3aec274096160c24fbbc7b5951aae48f3ab681c4b7baa"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "b657ba2dd6f916f2ff76f100a0e9fbdc4c262ce39919cfe9427b098be3e681f1"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "70009941d6877ee9ba5e06fa8d906eea02881b2e92f5a724a1eac11174b603b6"
+        },
+        "2030": {
+          "count": 15,
+          "sha256": "a3af55db4977d6c18dade7be4d2178e38516e2dcada5790e53995993b6caadbb"
+        },
+        "2031": {
+          "count": 12,
+          "sha256": "e6b9d6240b7f87e9935af401feb4e72e41505dd6eb7cf398ccbb2e8d7b2f8b65"
+        }
+      },
+      "totalHolidays": 91
+    },
+    "PE": {
+      "years": {
+        "2025": {
+          "count": 17,
+          "sha256": "3c0c15b1522eab42641e468f874c400dfae1448ef5b6bc369cd09850d7d8f01c"
+        },
+        "2026": {
+          "count": 17,
+          "sha256": "87a744c28cf403bab651bbc1f0e3f01b753f8844a9e3ddff8b0e3801e1c2b382"
+        },
+        "2027": {
+          "count": 17,
+          "sha256": "d9b7defd7d605f6aaf4e2904711123ff00daec5f81c1b7e79e51f60b3a767442"
+        },
+        "2028": {
+          "count": 17,
+          "sha256": "e48714614163bb55d7342a687a4b035fc789163fc615affddba894e5b2d58dda"
+        },
+        "2029": {
+          "count": 17,
+          "sha256": "cc3c6df08d10bba3d360c5ad2b55ba1e8e4439223af191701dbe2c867a7471d2"
+        },
+        "2030": {
+          "count": 17,
+          "sha256": "8df62094a6b2a53269e6ec4820d3989e589635512d12fc00be97db7209b91812"
+        },
+        "2031": {
+          "count": 17,
+          "sha256": "b8e8f10c9db5be4046cb103fdca60305fb2af0dfd1bb7466626bc43e06ee5949"
+        }
+      },
+      "totalHolidays": 119
+    },
+    "PG": {
+      "years": {
+        "2025": {
+          "count": 11,
+          "sha256": "35530d712b6e5278e422da50f55ab044fad912aad461b259ea319ccf649ff889"
+        },
+        "2026": {
+          "count": 11,
+          "sha256": "4510092a3f6609fc3d27240cef2b5688398cbbe859c843711f2b73f8395c5732"
+        },
+        "2027": {
+          "count": 12,
+          "sha256": "a04a8de1cce776655f9e46111675a9600ecb03b11a4f90c4b54a5ee4130ff89a"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "12e33a25cba3e11a94b607b2c5b42cdcf2a4c59a0f3320c1433e18df67e8b514"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "474d8acffe05c59746df6e305d02e564da1ec073f73caf42a760ffcc2718672a"
+        },
+        "2030": {
+          "count": 11,
+          "sha256": "676a72eea2a04fb10b9fe6fcda77f86d664acd6030ea2e0064432943eda8f91b"
+        },
+        "2031": {
+          "count": 11,
+          "sha256": "dc878a507d491214ded798e161d7148da4f30ead5ee5407248b078a800723770"
+        }
+      },
+      "totalHolidays": 81
+    },
+    "PH": {
+      "years": {
+        "2025": {
+          "count": 22,
+          "sha256": "92953be3ac4aac353e41c2f05e822f3f35f1fdb131fca214e9d98717a58b7172"
+        },
+        "2026": {
+          "count": 20,
+          "sha256": "6e3c1ac8b1a4771316c020d82bdcc97c542b364819229a1948aeb05f41ca0931"
+        },
+        "2027": {
+          "count": 18,
+          "sha256": "8471e4ced67b232670ec79b64020baaaf4e13409041a941769d2daf4656be6cc"
+        },
+        "2028": {
+          "count": 18,
+          "sha256": "5e8b7d63545fd110e8caf31c3698ae4eac2236ed1e71a3f9ea8d7590875fbd3d"
+        },
+        "2029": {
+          "count": 18,
+          "sha256": "72ce87d6644a499e636c818dc0172cc00cb84773474389482cf6e9c21ddeb933"
+        },
+        "2030": {
+          "count": 18,
+          "sha256": "a4e032c5053e2fbaa38e8b4403a7ef0235fe6d22d2a1fab0e8bc28a9f3b9b5d8"
+        },
+        "2031": {
+          "count": 18,
+          "sha256": "7215aadd61467751a8bb64ba0c16ae14888faa31423a2021a0bf6c354d42a95b"
+        }
+      },
+      "totalHolidays": 132
+    },
+    "PK": {
+      "years": {
+        "2025": {
+          "count": 16,
+          "sha256": "8facbaa1e924ac26619100ac9d05e085c6cc74337377a1f019456d1001b6af16"
+        },
+        "2026": {
+          "count": 15,
+          "sha256": "e3c2b4e91244a183af7fc28be09bb8bcfa5be0cde19d9141a4346b1abe38e7aa"
+        },
+        "2027": {
+          "count": 15,
+          "sha256": "7db7e45ba0fe8e49f09e599eb271444bfba8cb449eb0aa52fc2c4868be32b116"
+        },
+        "2028": {
+          "count": 16,
+          "sha256": "84032498482b73b2493c6e72fd14d84ad8d11a4c08d1784aff22ae3c0c770077"
+        },
+        "2029": {
+          "count": 16,
+          "sha256": "9b7e3d646d992f8f9142a71b654e4f78363a51a52d1ff2a77b82d75ef4665600"
+        },
+        "2030": {
+          "count": 15,
+          "sha256": "83699873c914bc9b53f77ec64b7b85247681b46c6a6885b79b34a23ae04627cc"
+        },
+        "2031": {
+          "count": 15,
+          "sha256": "ec40f071cf744e8f434989e917195d02cedd93c5c66f2714b3834b3c687f8dc9"
+        }
+      },
+      "totalHolidays": 108
+    },
+    "PL": {
+      "years": {
+        "2025": {
+          "count": 14,
+          "sha256": "ce5f6b2cf9d37bf5a98f53cd70db67a39efe1b206a9ed7d4b929f231ca35956d"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "119baff86422d7f56a6570f6708718a796f19feaa966897d0dc24df21eb110c3"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "968bc487a6c2ffc6d9e9a02e01a702dcf0e7d34d97afc809878c64468e1675f9"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "040567aff0cfd4a4c6c144af641f5e9fc6905de9cc8d29fc55a492af25300306"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "1e0ceb548c7ce883340374645ddf15a055abf45ef3f2167d3add75b1888ce4f6"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "0a052cbce1cafc9eb194dcea4e176f1eff2f36a113a820714108187b63ec6657"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "1755b05f4811d89b5603a8d06dbb919df8fd9f71487c1ee0af7c124edf3ff307"
+        }
+      },
+      "totalHolidays": 98
+    },
+    "PT": {
+      "years": {
+        "2025": {
+          "count": 32,
+          "sha256": "09b8504d458fa4f4d668565eacc608328c9729ebe7a73a9b1f7368a023d2327b"
+        },
+        "2026": {
+          "count": 32,
+          "sha256": "733cd521edd5f7563cce1482399a53d53698ebbbb7ad9fc292a136fbcc7d8868"
+        },
+        "2027": {
+          "count": 32,
+          "sha256": "20d064b0b6a4340920af808f97f101588c07c122341a3cbd3afa917ea5ca9700"
+        },
+        "2028": {
+          "count": 32,
+          "sha256": "de5836fb766c0c93e6a01e5346c3c77d5c87a64093585bcc0aa70f44a516dd5e"
+        },
+        "2029": {
+          "count": 32,
+          "sha256": "2a858c6fb3f6bc52e02c96ecf188d8d670f6dc1a59ff904711b90d532066f88b"
+        },
+        "2030": {
+          "count": 31,
+          "sha256": "15e7a06c601b337860c4c0278a5c71b7f47824617f01f7dff97fa08e0b167f37"
+        },
+        "2031": {
+          "count": 31,
+          "sha256": "02efc2fe5af0846c5e4ac69e225498815a0535a51a449c8e622daa5e823cf2c1"
+        }
+      },
+      "totalHolidays": 222
+    },
+    "PY": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "8241b81af0abf5220764a370ab592c93c2cd0d9703784e7fe88ac4ff75c21aa2"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "f93a585cf887bff1963f6691b5dc8257bf8dfc118385bc0b03f39f8b67b4f8db"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "dafe55af2ab5f2ead0a3e92ff98d7f104932b926c1fb85d22c28b03a50da9d22"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "894bcbbe80da42dffd362f0294d8bf6a8df7e0b30190a5cda24a3b66469db74e"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "43c11223a83a51bb9c46d2f88a61d4e19cb612c525cb0dad83b237aaa249a3ab"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "3b18b6d269e4f8f107d3b09eec84066b7dc74c01225031933d2adb597bf18582"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "f8c140bff8b87850bd9dfe39c43baa1cb88edd7151eb2ff1192cd579e3334a02"
+        }
+      },
+      "totalHolidays": 97
+    },
+    "QA": {
+      "years": {
+        "2025": {
+          "count": 9,
+          "sha256": "90f71409b7d4680f88aa2e77d4ebb9f0523b1058e0758fb265581237cc9aa7e0"
+        },
+        "2026": {
+          "count": 8,
+          "sha256": "e4a78c2fe0dd6d06c845e127e00b2c412b85442243eddbb7c1cec8ed5411147f"
+        },
+        "2027": {
+          "count": 8,
+          "sha256": "e8e6d459c3a723142a7bfd5a3312fb01bf4f0af6ecd9ac816945af64e9f41a2a"
+        },
+        "2028": {
+          "count": 8,
+          "sha256": "4fc650fda21e07d8538083db5e011715a04a28d7fa645285967170a0c55ad88a"
+        },
+        "2029": {
+          "count": 8,
+          "sha256": "d0e174978a57c205f2fc745c994570be72f80048a04adc00706d8b6e031e3bc4"
+        },
+        "2030": {
+          "count": 8,
+          "sha256": "fa4fd64942840dc514c1e8cb6f84f69740539710fa2ff902471b1156b9aac426"
+        },
+        "2031": {
+          "count": 8,
+          "sha256": "b665591f1ebfb39965ea9081be5d13daf6af4fe6118d9d34c12a25763194891e"
+        }
+      },
+      "totalHolidays": 57
+    },
+    "RELIGIOUS": {
+      "years": {
+        "2025": {
+          "count": 23,
+          "sha256": "a28691d5e8694542935d12a1bc13856373cdbfeabbfeb8dd910b6d864f7147d0"
+        },
+        "2026": {
+          "count": 23,
+          "sha256": "702fdb1a8c2b6451ac95e135b6e9ce20b6f4ef66d87c487355e928629499aacb"
+        },
+        "2027": {
+          "count": 23,
+          "sha256": "f3d4abd3a26d06831f2c17d4bcab9c159130a82209c8ad3417de49637de6880f"
+        },
+        "2028": {
+          "count": 23,
+          "sha256": "5947c6d655b37f5ba2878e3ece8e0d021ff4ed4c8ab77a536ea1ff14e0ab834e"
+        },
+        "2029": {
+          "count": 23,
+          "sha256": "b9dc8621e33edac06969138f129d62d9449abd9f17baa2febe23a9005050e797"
+        },
+        "2030": {
+          "count": 23,
+          "sha256": "bbbf03e8a99ae9e4462c9f48627fff7f234ce7ebbf4ebd2d0f09561495c50566"
+        },
+        "2031": {
+          "count": 23,
+          "sha256": "795229af0102c0d6a59aecafa8c09da08749bcb94ca2d29a76951050bd7c9aed"
+        }
+      },
+      "totalHolidays": 161
+    },
+    "RO": {
+      "years": {
+        "2025": {
+          "count": 17,
+          "sha256": "9398ffb18272fe1de78af6f5d83decb32a783aed923948b5bb86112a03cc2ecc"
+        },
+        "2026": {
+          "count": 16,
+          "sha256": "b93795b7254828298f99de14d6aded9c9ac1c497e82117d9d9f33b4a55177fdf"
+        },
+        "2027": {
+          "count": 17,
+          "sha256": "90f415a4763304ddfb2a5226bdc9cf3b7915e75cd42eec4c211388e5a4512376"
+        },
+        "2028": {
+          "count": 17,
+          "sha256": "6706ea7964cfe03f6747269b121b478f4158792d6b051de0d0751eb663a8d08f"
+        },
+        "2029": {
+          "count": 17,
+          "sha256": "069ec18205b5616fe83e9f3d1c60e940c8691582fb0c8e5ef09bed851a1ae351"
+        },
+        "2030": {
+          "count": 17,
+          "sha256": "b746317a45ecdf0b3be096311461a693af875b0cb58510bb9144f2f1106c835e"
+        },
+        "2031": {
+          "count": 16,
+          "sha256": "0cfffe6f530476f89fe8a9fc5bcc86bb7c61436c6ebcd6afffdfd1dab3842e4b"
+        }
+      },
+      "totalHolidays": 117
+    },
+    "RS": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "e4bce21d49ca4c1d879ffd85786d72bc17875201398815864e3ccbd8117f45b7"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "dec747f1ff4c45a97b231a219b34ab5a5a695928a60a876f086c9a15ef033472"
+        },
+        "2027": {
+          "count": 11,
+          "sha256": "8cb8ea5ecdbfdb2df75a0d94911f46f997a17b6f8ba0091d833bee7ff51a994f"
+        },
+        "2028": {
+          "count": 13,
+          "sha256": "e662a9c81fbe737ee07b0286ab342faa0aa852f12d7d63c5287a962e43ef49e9"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "c47919bae4a69b2293dfe1511de37699d8030843a6d3d8eb26040f3083d24a87"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "0a7e447a5b011bf3d074e0b775f03f8ddc9df9a886c56e1191330ecaba428938"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "026ac9722fa174390e6782f906094bae82153e8eaa4bffbfa3aa4e2c1b978fd5"
+        }
+      },
+      "totalHolidays": 88
+    },
+    "RU": {
+      "years": {
+        "2025": {
+          "count": 20,
+          "sha256": "bc89d79fd08a0c9f8b7ff07fa4ac5256ee60cf50485a78a6f18722753b10cc06"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "da1346f3004973c0d3283bd730566d74044ce40986b2688f3fa0039e708f25ef"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "e559d47a90d3ca5cc43dd43f5b1d92a656a901f0994dd444a09b0bd59b0fdcef"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "34566b00aa599a90c3fe726e84add767f257bcd08ef7809c7cf14895e880ef4c"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "58f19c67e33f9acf348ac424061c622cee406919b84be9ae891e5a00643908cb"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "5780bdf1b2d6e4c76bd21a3db5f5177586084693a6b7e2294432dcc76216b5dd"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "ffa14415198a7c1469f39b749a699252066e73831a8d6bd4e32dc10eebf2cbe9"
+        },
+        "2032": {
+          "count": 71,
+          "sha256": "9c10db89458c7e8e56f80074dd4cf07aee91406520e017e435dfc8bad9674f11"
+        },
+        "2033": {
+          "count": 71,
+          "sha256": "a4af8933f79a5ad86930f1527cb9b23ebc19bdd4604e4bb1dd0d17141d335b16"
+        },
+        "2034": {
+          "count": 71,
+          "sha256": "e6cdb1b43436ef3003e5da4b63dec5bdadb6f1efc66722c0fc5f38163ce19add"
+        },
+        "2035": {
+          "count": 71,
+          "sha256": "bff83a2a107085204b82204694cddd7a74c35a4f5e3880bf9c63c453b2b88305"
+        },
+        "2036": {
+          "count": 71,
+          "sha256": "ccfe0eb2288bfe7de3dfc50fb6829587b97bbf19e6cb64c5e327901a3b9c7059"
+        }
+      },
+      "totalHolidays": 459
+    },
+    "SA": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "25c10bda5f79f7c45b50924e5f8480ef412d052e876b6b4637b39c98e35e9bb2"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "d4e93c75c40a10d9907e3c8149833783fd3dacc272a8a8dba66f1c0c9a6c5841"
+        },
+        "2027": {
+          "count": 12,
+          "sha256": "1aab6d56691c7596a04b914e32d3b526c8f2a7f69f05ba4fac9a7a78b2d91e18"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "04d6ae2dd7b8434f7b3b84707d54b9671d2e599f0930c888d5036dc484960160"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "1069a19f0355d9ed7ae8e640b299b6b8e30c570800456f715894ceb1017266eb"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "7909fe9f96d98850a095dec5b7c02f7cba58b9d3b7e1c54e14ae0497397e5edb"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "16969e51cbdb55fa0ef61fd3fcd4b42f2d1fa28578f0e2130d1ae5d2f7b8a3f8"
+        }
+      },
+      "totalHolidays": 91
+    },
+    "SE": {
+      "years": {
+        "2025": {
+          "count": 63,
+          "sha256": "fa998f4daf8172327dc82c6b2fa7f2c38639a723c6e6c1db95cd2c04d04a1b6b"
+        },
+        "2026": {
+          "count": 63,
+          "sha256": "4d52eee5f32eca8f75242c42fb206e0862ce1f7420d013a223c9b41ca1c88d44"
+        },
+        "2027": {
+          "count": 61,
+          "sha256": "cfadfdb971bc5b3e8e41467b426dde08c34ffbc9729043b126981efc26e5df4a"
+        },
+        "2028": {
+          "count": 64,
+          "sha256": "08d3dc5de043c750b420e6d388243844644d119f8c0825d545d5e80105ff4865"
+        },
+        "2029": {
+          "count": 63,
+          "sha256": "77b915ccfa2698d1f677fe2244371f2d44a07c07a6df1b048fae264e707882f7"
+        },
+        "2030": {
+          "count": 62,
+          "sha256": "8f40b31b5728ac8984942755f72e68ad0c3f0dcc5b4f319a9d0b8a1a232338e5"
+        },
+        "2031": {
+          "count": 63,
+          "sha256": "d88f332678a1a07982633d6a541ee32dc0864789a97dc17daac3feee783a5155"
+        }
+      },
+      "totalHolidays": 439
+    },
+    "SG": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "64e5c7a9c29567adc45175a0fcf8b3677f8a27945516d693a2b34a25219c3828"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "0d2af4cb4cb38a7fab61e65178593fede2105116e620e2f8bd8a5dc41604f461"
+        },
+        "2027": {
+          "count": 12,
+          "sha256": "27ab4f8a8c8e5225505a33ef3df42a170651c65c430437afa440f104b562d93a"
+        },
+        "2028": {
+          "count": 11,
+          "sha256": "65e4fa2c75dcab37f711b8b14eb4d31e2fab860c6910f5190b8cb4c5c685e8d2"
+        },
+        "2029": {
+          "count": 11,
+          "sha256": "a9b0b5e57cfcdd85385d7d8e5df8eef801a0f2d585c288b7a24c3a0957136c89"
+        },
+        "2030": {
+          "count": 11,
+          "sha256": "8f27ac8410d18bf9020d959bb41d41824323b72465c5d05d8bfc7d435da4c6a8"
+        },
+        "2031": {
+          "count": 10,
+          "sha256": "bc2438ea7809aa335b79c38d3fe09c68485f119c49c6fcc362a9e8299fae94a4"
+        }
+      },
+      "totalHolidays": 81
+    },
+    "SI": {
+      "years": {
+        "2025": {
+          "count": 15,
+          "sha256": "7bfef8b8590135209b35b4066efb80e1fcd37320a579d567194f6ae6c5d32cff"
+        },
+        "2026": {
+          "count": 15,
+          "sha256": "be0c878dd3150411d98e5e3b5c6b5542111dc68c8286958fafab6613519868ef"
+        },
+        "2027": {
+          "count": 15,
+          "sha256": "c4c04bf92cda37fc4d4e6ae8bef81e25be0ceb244972eb1d6af295fe914f29ba"
+        },
+        "2028": {
+          "count": 15,
+          "sha256": "f06827993b8386dea6dd2ea5d6a91a35f0f8fc4a32b2597eff8a0f28ee3dd088"
+        },
+        "2029": {
+          "count": 15,
+          "sha256": "9b94e99ef4d6d6fb72863498a72b3b212a59c4eb3c16d183c38d3d743f015463"
+        },
+        "2030": {
+          "count": 15,
+          "sha256": "2a77d55498d93fc69929bbfe7201177d34ed8f6cc868717ceb53bb107976045d"
+        },
+        "2031": {
+          "count": 15,
+          "sha256": "c8f620c5ce11d779edea435ee7e1890ec574015650d5ec7d9018646deb1f9134"
+        }
+      },
+      "totalHolidays": 105
+    },
+    "SK": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "0a27e95da4d8714098a501b0dc607c3b24bd2896cfc265dc90bbf81cfa1027b3"
+        },
+        "2026": {
+          "count": 11,
+          "sha256": "22b877a68716ff49a502f87be0c2289a48fc61c5054113f002a03be2ce3c7341"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "1cfea0f243a683fab0e1c175d989623b96786cd5a0493eb5d699ef51902cde5e"
+        },
+        "2028": {
+          "count": 13,
+          "sha256": "0e04d1ce6aa8921b50b1cf73352deb3588bedfd3146df1f9350c8a82b96f033d"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "1b8ce989cc4535d919f36c6eb6b280c1a23a0a26a8f4e6a694a9511befeffb14"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "7046dffbeab262787c3234777425522a3e5582b4d062dd257fe2c7f3ecf02bb8"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "0354891cc93351fdc19fff2afede1aef185f5bc6dfa58b94ba7c282d409052ad"
+        }
+      },
+      "totalHolidays": 89
+    },
+    "TH": {
+      "years": {
+        "2025": {
+          "count": 26,
+          "sha256": "d1560000321efacaeedf39f51ce8d9e1acf2b47d58242a8044331d8f2d792887"
+        },
+        "2026": {
+          "count": 23,
+          "sha256": "60094af9285ca64720140f2d36223b81cabf00123002bee556f4ba23732d6ce9"
+        },
+        "2027": {
+          "count": 25,
+          "sha256": "0cf2dbdf5df4b4e2424c05b04c1a60ff54a09a3159feb450a9b2fd5b7d91641f"
+        },
+        "2028": {
+          "count": 25,
+          "sha256": "d9dfb47f1e5c0218a3ec5273fe659a7f8f88c86c3a9e5a906ee0cb79bf234ea5"
+        },
+        "2029": {
+          "count": 27,
+          "sha256": "9f5c3f97b2465dc90e7464f55bebc82591d817e708503400d96f29e14b505736"
+        },
+        "2030": {
+          "count": 27,
+          "sha256": "1d6ca55e15d7d88759ea6ee47419e319b45f2d79e0924016e1b7ea1d0f4f8567"
+        },
+        "2031": {
+          "count": 24,
+          "sha256": "22633cffeb0220dc910fea88df8ec38c1ac0bfe3ac108ae16aead04aca8372e1"
+        }
+      },
+      "totalHolidays": 177
+    },
+    "TR": {
+      "years": {
+        "2025": {
+          "count": 14,
+          "sha256": "fd150a0e020bed3bd903001a1381b8a3e6c20e033cbd119a7ec033f5f8ccdefc"
+        },
+        "2026": {
+          "count": 14,
+          "sha256": "e5fb3ca9a55ec4f4fa61b847ae927e65b28168d5cad9cf7f77767fe7536d713b"
+        },
+        "2027": {
+          "count": 13,
+          "sha256": "5e6c42843aa0f8ce382f69aa539036c7b3ee1e68ae2488582659b3c6bb98c2aa"
+        },
+        "2028": {
+          "count": 14,
+          "sha256": "f393cf53490164df2fef28d62364a4207ccd9216bc840a6772fabf98bde38352"
+        },
+        "2029": {
+          "count": 14,
+          "sha256": "dca14989bb07f495f103fe2b241801e03f5251b78451579b659d212e5064ee67"
+        },
+        "2030": {
+          "count": 14,
+          "sha256": "d6c295978f76c4eda38d53240b86ca3143e9c3145ae1ace456bed2786efe9782"
+        },
+        "2031": {
+          "count": 14,
+          "sha256": "759e16ce4e116f66d9a00dd1a2b76d7406db5b2b1d15bef920559b337c097198"
+        }
+      },
+      "totalHolidays": 97
+    },
+    "TW": {
+      "years": {
+        "2025": {
+          "count": 18,
+          "sha256": "d8889da5c1119747c34a368a6655e8930108e233bc8cf7388799729f4d1e82b4"
+        },
+        "2026": {
+          "count": 22,
+          "sha256": "7d62d04598b50df7755181b4b60a7647b0b84c19ce57bc6857b96a4f47afaa47"
+        },
+        "2027": {
+          "count": 24,
+          "sha256": "5a21a2b9a1f66fc6ca3bb118715f46208ce76ce7b24e57a6e4fcbfbacb4b76c5"
+        },
+        "2028": {
+          "count": 17,
+          "sha256": "5ddbf032bca2665e397e7b028a2dc9a38f22d85d18dda68259630cb3a034973d"
+        },
+        "2029": {
+          "count": 19,
+          "sha256": "e6f539ad76c63f36c754b35bb8d31ac18593c52e03d34eb679e63b3cb805633b"
+        },
+        "2030": {
+          "count": 19,
+          "sha256": "bcdc2bc27a123a9cc784e7fdff31d2b3dedb3bd558a1bc963b8af498aac3e148"
+        },
+        "2031": {
+          "count": 20,
+          "sha256": "aeabb7bc1def989cef2eb853307da8e647d71bcd6bf4ffaf0043ed040f544818"
+        }
+      },
+      "totalHolidays": 139
+    },
+    "US": {
+      "years": {
+        "2025": {
+          "count": 56,
+          "sha256": "dbe9b67ffac506dc0ef68bb240f853cec58780247cd10ba8277be0d2b91f219f"
+        },
+        "2026": {
+          "count": 82,
+          "sha256": "80bc62732957b090a05320a2d5492b518fed7ef530dc01b5ac3acb6987f8bd34"
+        },
+        "2027": {
+          "count": 64,
+          "sha256": "72c804c5a88bc5deb8a684d7026c5904e8f8ac5d20b58b85c4ac3a53228e1605"
+        },
+        "2028": {
+          "count": 67,
+          "sha256": "1d19188178309ce12fc326bf0b2440833c92755705bba5593872cd20eb093c0e"
+        },
+        "2029": {
+          "count": 64,
+          "sha256": "c224ed8dfc79c07c80129fc0ff65d2f41c3d48949b381bc4d8480e509afef208"
+        },
+        "2030": {
+          "count": 62,
+          "sha256": "94f0b7dc4b824efc2bb94d89828436451dd36ae4975c28718ad00d815c2d3a79"
+        },
+        "2031": {
+          "count": 60,
+          "sha256": "68ec7c7368661666c4b286dff3eb9a37f94a28e86b47e382968474cd0e3f892e"
+        }
+      },
+      "totalHolidays": 455
+    },
+    "US_ES": {
+      "years": {
+        "2025": {
+          "count": 38,
+          "sha256": "a36d1869f1a7f9dbe1198cf520e8b354f9a762dc7002b9f6182fa948d71b5e1a"
+        },
+        "2026": {
+          "count": 38,
+          "sha256": "4ec3038594c9bbdaa531abc09f137213a1f49ecf3ed8635a93dcab4e60e9fb2f"
+        },
+        "2027": {
+          "count": 38,
+          "sha256": "2fbd98837e2a2995fb1090f6bdb9180a71dad53b216796adb37d0ed47aef151d"
+        },
+        "2028": {
+          "count": 38,
+          "sha256": "8191bd4738ea151f64814506e7c6a17232e7dcd324caeaaa6a5336d6cf27a3fd"
+        },
+        "2029": {
+          "count": 38,
+          "sha256": "9abbe57f182bb1a37306761069cad51b3434c30af9bf4ac70d99db5a916508e3"
+        },
+        "2030": {
+          "count": 38,
+          "sha256": "e3e76054c70e84c7adc3a7c3f993cda0175e406ce8b9900c6e63a5bac54fc006"
+        },
+        "2031": {
+          "count": 38,
+          "sha256": "152ee7f7cb0732ee75301ac99fe2aad343cf1b44b393f70f52bfa54c826780ea"
+        }
+      },
+      "totalHolidays": 266
+    },
+    "UY": {
+      "years": {
+        "2025": {
+          "count": 5,
+          "sha256": "cdd3e5799845740fedf0f55cfd088f3d2bcbb872b72e91535b3c68d71ae2a42d"
+        },
+        "2026": {
+          "count": 5,
+          "sha256": "e84582407e7754c14fd4eb8d7d00973a1c88a133e71bd50c6e5bb249b814847b"
+        },
+        "2027": {
+          "count": 5,
+          "sha256": "de0afe7445729de109ee3f7517f8193c0a1f7b8957618e24db2e84552c37c731"
+        },
+        "2028": {
+          "count": 5,
+          "sha256": "87eddea5e5aeeab4ae7e19fcc6a3e85fcadb5e0e47176cee307a806b397fded2"
+        },
+        "2029": {
+          "count": 5,
+          "sha256": "847b0a262b34ee2e5001cece3369a90943da7a0827351810c83ec31a08cc879b"
+        },
+        "2030": {
+          "count": 5,
+          "sha256": "58b82e8addba63899f3576d4744078b79f8e16d354c0e448ff1ecce6526f3344"
+        },
+        "2031": {
+          "count": 5,
+          "sha256": "2517344b4e3b45a4c3efeb42111d742db144f4132318a07c2fa58c6e24c7d2bb"
+        }
+      },
+      "totalHolidays": 35
+    },
+    "UZ": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "0289992c43674ec86cbf4e72e06688e482b87af24cd2b429ee62573c4d685653"
+        },
+        "2026": {
+          "count": 17,
+          "sha256": "1c9dd71971e550dd8df5df920524a3001312703258ed3ffd8ba33a0dd7e51a00"
+        },
+        "2027": {
+          "count": 12,
+          "sha256": "a8f187e6958dcb8879b15ed13b3e33557ecce84a81985e9fd9c53448ed557608"
+        },
+        "2028": {
+          "count": 12,
+          "sha256": "1b40412470d8a60b5c35b482da91b6aaa4a51f37b6e148ff013392a1a6c85025"
+        },
+        "2029": {
+          "count": 11,
+          "sha256": "55f9b939aeda63ae7a4827a73ff8478e9164208927788f7f2608118eb61dc050"
+        },
+        "2030": {
+          "count": 12,
+          "sha256": "43e825f1a096805df38d79b2ce8ffdc3c7131ab71a79d5e0ac7037b5d0b324bf"
+        },
+        "2031": {
+          "count": 10,
+          "sha256": "51d483172be838b2b8cdcd23a4dd8bbfd539a4afd82a49438e459d600eec26d0"
+        }
+      },
+      "totalHolidays": 87
+    },
+    "VN": {
+      "years": {
+        "2025": {
+          "count": 12,
+          "sha256": "6f7cec65f266f87fbd3ad2fd812b0514ccdf9ddbb3f816a4090ed15745c94a49"
+        },
+        "2026": {
+          "count": 12,
+          "sha256": "05c7d2eecba6539b249894cf3b8d37dd1be7752c33fdcf5bc2b5f4cf279d5a4a"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "91eeee15e09051536918f9e010a9a2ce4bdcc75c9f1f5adbe33091f1ef4a8a0b"
+        },
+        "2028": {
+          "count": 15,
+          "sha256": "62b125afd68825892337960ad590fa7ea95cc9e8c3aff59db7c39549e97e42ab"
+        },
+        "2029": {
+          "count": 12,
+          "sha256": "43dd9fb8ebd0f8dd2f4dee3fdf2b6cd31df83585cc4add529a0bbdad6b46f54a"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "f423f75936c68ecebea1c46bf3ed63489305be5e0354ea80bfc5198cef96b20a"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "9684a7e41c1d3744066e602088ee8d77dd6bc3848429be3d3f708cfeb6e780ce"
+        }
+      },
+      "totalHolidays": 91
+    },
+    "ZA": {
+      "years": {
+        "2025": {
+          "count": 13,
+          "sha256": "e0d7b48a9689b9af16fdb71d88bdb0f7288c8e89913e74f47074edb4d5ca611c"
+        },
+        "2026": {
+          "count": 13,
+          "sha256": "c66102f4d502970466a9eba45654cefb88b1352a92b8e1e273acc5941ca7ae99"
+        },
+        "2027": {
+          "count": 14,
+          "sha256": "e9ffc37c6be98ec3868d4a32355cc87b67bbbcf8e1d579e9e76883d45a6a1790"
+        },
+        "2028": {
+          "count": 13,
+          "sha256": "02f7d47b225330d1fde682b8d8a00b2728e5f58c7c2c6a122911f07fcfb9425d"
+        },
+        "2029": {
+          "count": 13,
+          "sha256": "6d3753679ea6a8f00b0eef0f54e273520dab0abc430f9853f1bc23c881d7332a"
+        },
+        "2030": {
+          "count": 13,
+          "sha256": "c487d6476e847d7e008b16c073392b7f3e0c9b05476a043c7c6be823fb4ccbcf"
+        },
+        "2031": {
+          "count": 13,
+          "sha256": "e8df40c1dd8bd745c61e07534f1d9c091532ef21ce2b6b7666079e4f80084cff"
+        }
+      },
+      "totalHolidays": 92
+    }
+  }
+}
