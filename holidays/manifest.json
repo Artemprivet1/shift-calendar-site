@@ -1,9 +1,9 @@
 {
   "schemaVersion": "1.0",
-  "updatedAt": "2026-10-07T01:39:16Z",
+  "updatedAt": "2026-10-07T23:52:55Z",
   "totalCountries": 103,
   "totalFiles": 726,
-  "totalHolidays": 14341,
+  "totalHolidays": 14280,
   "countries": {
     "AE": {
       "years": {
@@ -2912,55 +2912,55 @@
     "RU": {
       "years": {
         "2025": {
-          "count": 20,
-          "sha256": "bc89d79fd08a0c9f8b7ff07fa4ac5256ee60cf50485a78a6f18722753b10cc06"
+          "count": 33,
+          "sha256": "129fa78640ff21f2a5b929b536a400562c35e9201dd17af6446e963b585ca60f"
         },
         "2026": {
-          "count": 14,
-          "sha256": "da1346f3004973c0d3283bd730566d74044ce40986b2688f3fa0039e708f25ef"
+          "count": 35,
+          "sha256": "46c34ee2fa45b84d1fa10de4c71213fa2589a387944bd1ff2384b2175243cf00"
         },
         "2027": {
-          "count": 14,
-          "sha256": "e559d47a90d3ca5cc43dd43f5b1d92a656a901f0994dd444a09b0bd59b0fdcef"
+          "count": 33,
+          "sha256": "f8ad7e31293b4e74f2b29ade13ad81bac8b05e0035d4802ad86bcdde713f5e83"
         },
         "2028": {
-          "count": 14,
-          "sha256": "34566b00aa599a90c3fe726e84add767f257bcd08ef7809c7cf14895e880ef4c"
+          "count": 33,
+          "sha256": "cf19846573fbad8d2a2338607ba6b84df9eab293021c056d927b206252fa4fa4"
         },
         "2029": {
-          "count": 14,
-          "sha256": "58f19c67e33f9acf348ac424061c622cee406919b84be9ae891e5a00643908cb"
+          "count": 33,
+          "sha256": "82ed492bee81885e4805f0526edf1f60db29f58ea393704f461afaaba9c66417"
         },
         "2030": {
-          "count": 14,
-          "sha256": "5780bdf1b2d6e4c76bd21a3db5f5177586084693a6b7e2294432dcc76216b5dd"
+          "count": 33,
+          "sha256": "be026b54e63f3e526feede3a30f87b8b76afef49561dae22d8e645c46e221b60"
         },
         "2031": {
-          "count": 14,
-          "sha256": "ffa14415198a7c1469f39b749a699252066e73831a8d6bd4e32dc10eebf2cbe9"
+          "count": 33,
+          "sha256": "0688f0eb0d611e02df6da2dbbea90bd530eafba69d5e06ca83c2f1a79f2a41ec"
         },
         "2032": {
-          "count": 71,
-          "sha256": "9c10db89458c7e8e56f80074dd4cf07aee91406520e017e435dfc8bad9674f11"
+          "count": 33,
+          "sha256": "5d984fdd30c64a76a45db29f54e2760e358ce060873c76bb592478278a8511f5"
         },
         "2033": {
-          "count": 71,
-          "sha256": "a4af8933f79a5ad86930f1527cb9b23ebc19bdd4604e4bb1dd0d17141d335b16"
+          "count": 33,
+          "sha256": "819b2b242096263d7291882664f1bbd9efc55bac525e2388be1373cc19f92df7"
         },
         "2034": {
-          "count": 71,
-          "sha256": "e6cdb1b43436ef3003e5da4b63dec5bdadb6f1efc66722c0fc5f38163ce19add"
+          "count": 33,
+          "sha256": "ad1a4e1522fc99139d8d1fe5c74a8cdccdcc91739e22ef8063421020c61ad7e3"
         },
         "2035": {
-          "count": 71,
-          "sha256": "bff83a2a107085204b82204694cddd7a74c35a4f5e3880bf9c63c453b2b88305"
+          "count": 33,
+          "sha256": "b5afc20fe3ac4f21a6f566606d3cfa18a19fa1cbbd15281642cd552fb2c96a67"
         },
         "2036": {
-          "count": 71,
-          "sha256": "ccfe0eb2288bfe7de3dfc50fb6829587b97bbf19e6cb64c5e327901a3b9c7059"
+          "count": 33,
+          "sha256": "17f46509aa406b4bb454fbeb47704abebbdc17f5f6b6a0c24d22d52de9bd19f9"
         }
       },
-      "totalHolidays": 459
+      "totalHolidays": 398
     },
     "SA": {
       "years": {

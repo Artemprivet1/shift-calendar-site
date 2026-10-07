@@ -1,105 +1,266 @@
 [
   {
     "date": "2025-01-01",
-    "name": "Новогодние каникулы",
-    "isPublic": true
-  },
-  {
-    "date": "2025-01-02",
-    "name": "Новогодние каникулы",
-    "isPublic": true
-  },
-  {
-    "date": "2025-01-03",
-    "name": "Новогодние каникулы",
-    "isPublic": true
-  },
-  {
-    "date": "2025-01-04",
-    "name": "Новогодние каникулы",
-    "isPublic": true
-  },
-  {
-    "date": "2025-01-05",
-    "name": "Новогодние каникулы",
-    "isPublic": true
-  },
-  {
-    "date": "2025-01-06",
-    "name": "Новогодние каникулы",
-    "isPublic": true
-  },
-  {
-    "date": "2025-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true
-  },
-  {
-    "date": "2025-01-08",
-    "name": "Новогодние каникулы",
-    "isPublic": true
-  },
-  {
-    "date": "2025-02-23",
-    "name": "День защитника Отечества",
-    "isPublic": true
-  },
-  {
-    "date": "2025-03-08",
-    "name": "Международный женский день",
-    "isPublic": true
-  },
-  {
-    "date": "2025-05-01",
-    "name": "Праздник Весны и Труда",
-    "isPublic": true
-  },
-  {
-    "date": "2025-05-02",
-    "name": "Выходной (перенесено с 04.01.2025)",
-    "isPublic": true
-  },
-  {
-    "date": "2025-05-08",
-    "name": "Выходной (перенесено с 23.02.2025)",
-    "isPublic": true
-  },
-  {
-    "date": "2025-05-09",
-    "name": "День Победы",
-    "isPublic": true
-  },
-  {
-    "date": "2025-06-12",
-    "name": "День России",
-    "isPublic": true
-  },
-  {
-    "date": "2025-06-13",
-    "name": "Выходной (перенесено с 08.03.2025)",
-    "isPublic": true
-  },
-  {
-    "date": "2025-08-31",
-    "name": "День шахтёра",
+    "name": "Новый Год",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2025-11-03",
-    "name": "Выходной (перенесено с 01.11.2025)",
-    "isPublic": true
+    "date": "2025-01-07",
+    "name": "Рождество Христово",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-01-07",
+    "name": "Pождество",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-01-09",
+    "name": "Новогодние каникулы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-01-19",
+    "name": "Крещение Господне (Богоявление)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-02-15",
+    "name": "Сретение Господне",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-05",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-04-07",
+    "name": "Благовещение Пресвятой Богородицы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-04-10",
+    "name": "Страстная пятница (Воспоминание Святых Спасительных Страстей)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-04-12",
+    "name": "Светлое Христово Воскресение (Пасха)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Праздник Весны и Труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-05-21",
+    "name": "Вознесение Господне (40-й день после Пасхи)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-05-22",
+    "name": "День святителя Николая (Никола Вешний)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-05-31",
+    "name": "День Святой Троицы (Пятидесятница, 50-й день после Пасхи)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-06-01",
+    "name": "День Святого Духа (Духов день)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-06-12",
+    "name": "День России",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-12",
+    "name": "День святых первоверховных апостолов Петра и Павла",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-07-21",
+    "name": "Явление Казанской иконы Божией Матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-08-14",
+    "name": "Медовый Спас (Происхождение Честных Древ Креста Господня)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-08-19",
+    "name": "Преображение Господне (Яблочный Спас)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-08-28",
+    "name": "Успение Пресвятой Богородицы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-08-29",
+    "name": "Ореховый Спас (Перенесение Нерукотворного Образа Спасителя)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-09-21",
+    "name": "Рождество Пресвятой Богородицы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-09-27",
+    "name": "Воздвижение Креста Господня",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-10-14",
+    "name": "Покров Пресвятой Богородицы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-11-04",
+    "name": "Празднование Казанской иконы Божией Матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2025-11-04",
     "name": "День народного единства",
-    "isPublic": true
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-12-19",
+    "name": "День святителя Николая Чудотворца (Никола Зимний)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2025-12-31",
-    "name": "Выходной (перенесено с 05.01.2025)",
-    "isPublic": true
+    "name": "Новогодние каникулы (замена)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   }
 ]
