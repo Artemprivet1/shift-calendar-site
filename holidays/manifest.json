@@ -1,9 +1,9 @@
 {
   "schemaVersion": "1.0",
-  "updatedAt": "2026-10-07T00:45:02Z",
+  "updatedAt": "2026-10-07T01:39:16Z",
   "totalCountries": 103,
   "totalFiles": 726,
-  "totalHolidays": 14366,
+  "totalHolidays": 14341,
   "countries": {
     "AE": {
       "years": {
@@ -1926,8 +1926,8 @@
           "sha256": "71f44e34b7e797143d4c4cb08a2300517d73535765d078fd6a079601785d165a"
         },
         "2026": {
-          "count": 59,
-          "sha256": "0ec937d3036e85fd858ecf76714c05751ae2379514ff5f9524b5e34e1434b7d0"
+          "count": 34,
+          "sha256": "51fbef56e9a97d0161e54f2bf7403472ac4ba1c3aaa9813ac729041e0d69cd9d"
         },
         "2027": {
           "count": 0,
@@ -1950,7 +1950,7 @@
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
         }
       },
-      "totalHolidays": 84
+      "totalHolidays": 59
     },
     "LT": {
       "years": {

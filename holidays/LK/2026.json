@@ -1,15 +1,7 @@
 [
   {
     "date": "2026-01-03",
-    "name": "දුරුතු පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-01-03",
-    "name": "Duruthu Full Moon Poya Day",
+    "name": "දුරුතු පුර පසළොස්වක පොහොය දිනය / Duruthu Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -17,15 +9,7 @@
   },
   {
     "date": "2026-01-15",
-    "name": "දෙමළ තෛපොංැලල් දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-01-15",
-    "name": "Tamil Thai Pongal Day",
+    "name": "දෙමළ තෛපොංගල් දිනය / Tamil Thai Pongal Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -33,15 +17,7 @@
   },
   {
     "date": "2026-02-01",
-    "name": "නවම් පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-02-01",
-    "name": "Navam Full Moon Poya Day",
+    "name": "නවම් පුර පසළොස්වක පොහොය දිනය / Navam Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -49,15 +25,7 @@
   },
   {
     "date": "2026-02-04",
-    "name": "නිදහස් සමරු දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-02-04",
-    "name": "National Day",
+    "name": "ජාතික දිනය / National Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -65,7 +33,7 @@
   },
   {
     "date": "2026-02-14",
-    "name": "Valentine's Day",
+    "name": "ආදරවන්තයන්ගේ දිනය / Valentine's Day",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -73,15 +41,7 @@
   },
   {
     "date": "2026-02-15",
-    "name": "මහ සිවරාත්රි දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-02-15",
-    "name": "Mahasivarathri Day",
+    "name": "මහාශිවරාත්‍රී දිනය / Mahasivarathri Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -89,7 +49,7 @@
   },
   {
     "date": "2026-02-19",
-    "name": "Ramadan Start",
+    "name": "රාමසාන් ආරම්භය / Ramadan Start",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -97,15 +57,7 @@
   },
   {
     "date": "2026-03-02",
-    "name": "මැදින් පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-03-02",
-    "name": "Madin Full Moon Poya Day",
+    "name": "මැදින් පුර පසළොස්වක පොහොය දිනය / Madin Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -113,15 +65,7 @@
   },
   {
     "date": "2026-03-21",
-    "name": "ඊදුල් ෆීතර්",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-03-21",
-    "name": "Eid al-Fitr",
+    "name": "ඊද් අල්-ෆිතර් / Eid al-Fitr",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -129,7 +73,7 @@
   },
   {
     "date": "2026-04-01",
-    "name": "බක් පුර පසළොස්වක පෝය දිනය",
+    "name": "පුර පසළොස්වක පොහොය දිනයේදී / Bak Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -137,15 +81,7 @@
   },
   {
     "date": "2026-04-01",
-    "name": "Bak Full Moon Poya Day",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-04-01",
-    "name": "Fuel Conservation Holiday",
+    "name": "ඉන්ධන සංරක්ෂණ නිවාඩුව / Fuel Conservation Holiday",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -153,15 +89,7 @@
   },
   {
     "date": "2026-04-03",
-    "name": "මහ සිකුරාදා දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-04-03",
-    "name": "Good Friday",
+    "name": "සුබ සිකුරාදා / Good Friday",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -169,7 +97,7 @@
   },
   {
     "date": "2026-04-05",
-    "name": "Easter Sunday",
+    "name": "පාස්කු ඉරිදා / Easter Sunday",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -177,15 +105,7 @@
   },
   {
     "date": "2026-04-13",
-    "name": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනට පෙර දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-04-13",
-    "name": "Sinhala and Tamil New Year's Eve",
+    "name": "සිංහල හා දෙමළ අලුත් අවුරුදු උදාව / Sinhala and Tamil New Year's Eve",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -193,15 +113,7 @@
   },
   {
     "date": "2026-04-14",
-    "name": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-04-14",
-    "name": "Sinhala and Tamil New Year's Day",
+    "name": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනය / Sinhala and Tamil New Year's Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -209,7 +121,7 @@
   },
   {
     "date": "2026-05-01",
-    "name": "ලොක කම්කරු දිනය; වෙසක් පුර පසළොස්වක පෝය දිනය",
+    "name": "මැයි දිනය / May Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -217,23 +129,7 @@
   },
   {
     "date": "2026-05-01",
-    "name": "May Day",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-05-01",
-    "name": "Adhi Vesak Full Moon Poya Day",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-05-02",
-    "name": "වෙසක් පුර පසළොස්වක පෝය දිනට පසු දිනය",
+    "name": "අධි වෙසක් පුර පසළොස්වක පොහොය දිනය / Adhi Vesak Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -241,7 +137,7 @@
   },
   {
     "date": "2026-05-10",
-    "name": "Mother's Day",
+    "name": "මව්වරුන්ගේ දිනය / Mother's Day",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -249,15 +145,7 @@
   },
   {
     "date": "2026-05-28",
-    "name": "ඊදුල් අල්හා",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-05-28",
-    "name": "Eid al-Adha",
+    "name": "ඊද් අල්-අදා / Eid al-Adha",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -265,15 +153,7 @@
   },
   {
     "date": "2026-05-30",
-    "name": "අධි පොසොන් පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-05-30",
-    "name": "Vesak Full Moon Poya Day",
+    "name": "වෙසක් පුර පසළොස්වක පොහොය දිනය / Vesak Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -281,7 +161,7 @@
   },
   {
     "date": "2026-05-31",
-    "name": "Day after Vesak Full Moon Poya Day",
+    "name": "වෙසක් පුර පසළොස්වක පොහොය දිනය / Day after Vesak Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -289,7 +169,7 @@
   },
   {
     "date": "2026-06-17",
-    "name": "Muharram",
+    "name": "මුහර්රම් / Muharram",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -297,7 +177,7 @@
   },
   {
     "date": "2026-06-21",
-    "name": "Father's Day",
+    "name": "පියවරුන්ගේ දිනය / Father's Day",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -305,15 +185,7 @@
   },
   {
     "date": "2026-06-29",
-    "name": "පොසොන් පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-06-29",
-    "name": "Poson Full Moon Poya Day",
+    "name": "පොසොන් පුර පසළොස්වක පොහොය දිනය / Poson Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -321,15 +193,7 @@
   },
   {
     "date": "2026-07-29",
-    "name": "ඇසල පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-07-29",
-    "name": "Esala Full Moon Poya Day",
+    "name": "ඇසළ පුර පසළොස්වක පොහොය දිනය / Esala Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -337,15 +201,7 @@
   },
   {
     "date": "2026-08-26",
-    "name": "නබි නායකතුමාගේ උපන් දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-08-26",
-    "name": "Milad-Un-Nabi",
+    "name": "උපත-උන්-නබි / Milad-Un-Nabi",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -353,15 +209,7 @@
   },
   {
     "date": "2026-08-27",
-    "name": "නිකිණි පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-08-27",
-    "name": "Nikini Full Moon Poya Day",
+    "name": "නිකිණි පුර පසළොස්වක පොහොය දිනය / Nikini Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -369,15 +217,7 @@
   },
   {
     "date": "2026-09-26",
-    "name": "බිනර පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-09-26",
-    "name": "Binara Full Moon Poya Day",
+    "name": "බිනර පුර පසළොස්වක පොහොය දිනය / Binara Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -385,15 +225,7 @@
   },
   {
     "date": "2026-10-25",
-    "name": "වප් පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-10-25",
-    "name": "Vap Full Moon Poya Day",
+    "name": "වප් පුර පසළොස්වක පොහොය දිනය / Vap Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -401,15 +233,7 @@
   },
   {
     "date": "2026-11-08",
-    "name": "දීපවාලි උත්සව දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-11-08",
-    "name": "Deepavali",
+    "name": "දීවාලි / Deepavali",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -417,15 +241,7 @@
   },
   {
     "date": "2026-11-24",
-    "name": "ඉල් පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-11-24",
-    "name": "Il Full Moon Poya Day",
+    "name": "පුර පසළොස්වක පොහොය දිනය / Il Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -433,15 +249,7 @@
   },
   {
     "date": "2026-12-23",
-    "name": "උඳුවප් පුර පසළොස්වක පෝය දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-12-23",
-    "name": "Unduvap Full Moon Poya Day",
+    "name": "උඳුවප් පුර පසළොස්වක පොහොය දිනය / Unduvap Full Moon Poya Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -449,7 +257,7 @@
   },
   {
     "date": "2026-12-24",
-    "name": "Christmas Eve",
+    "name": "නත්තල් ඒව / Christmas Eve",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -457,15 +265,7 @@
   },
   {
     "date": "2026-12-25",
-    "name": "නත්තල් උත්සව දිනය",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2026-12-25",
-    "name": "Christmas Day",
+    "name": "නත්තල් දිනය / Christmas Day",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
