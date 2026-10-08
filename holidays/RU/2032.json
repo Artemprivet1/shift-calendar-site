@@ -9,19 +9,19 @@
   },
   {
     "date": "2032-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
-    "date": "2032-01-07",
     "name": "Pождество",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2032-01-07",
+    "name": "Рождество Христово",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2032-01-09",
@@ -64,14 +64,6 @@
     "isReligious": false
   },
   {
-    "date": "2032-04-05",
-    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2032-04-07",
     "name": "Благовещение Пресвятой Богородицы",
     "isPublic": false,
@@ -80,28 +72,36 @@
     "isReligious": true
   },
   {
-    "date": "2032-04-10",
+    "date": "2032-04-25",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
+    "date": "2032-04-30",
     "name": "Страстная пятница (Воспоминание Святых Спасительных Страстей)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": true
-  },
-  {
-    "date": "2032-04-12",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
-    "date": "2032-04-21",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -2
+    }
   },
   {
     "date": "2032-05-01",
@@ -112,6 +112,22 @@
     "isReligious": false
   },
   {
+    "date": "2032-05-02",
+    "name": "Светлое Христово Воскресение (Пасха)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 0
+    }
+  },
+  {
     "date": "2032-05-09",
     "name": "День Победы",
     "isPublic": true,
@@ -120,12 +136,20 @@
     "isReligious": false
   },
   {
-    "date": "2032-05-21",
-    "name": "Вознесение Господне (40-й день после Пасхи)",
+    "date": "2032-05-11",
+    "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": true
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 9
+    }
   },
   {
     "date": "2032-05-22",
@@ -136,20 +160,20 @@
     "isReligious": true
   },
   {
-    "date": "2032-05-31",
-    "name": "День Святой Троицы (Пятидесятница, 50-й день после Пасхи)",
+    "date": "2032-06-10",
+    "name": "Вознесение Господне (40-й день после Пасхи)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": true
-  },
-  {
-    "date": "2032-06-01",
-    "name": "День Святого Духа (Духов день)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 39
+    }
   },
   {
     "date": "2032-06-12",
@@ -158,6 +182,38 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2032-06-20",
+    "name": "День Святой Троицы (Пятидесятница, 50-й день после Пасхи)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 49
+    }
+  },
+  {
+    "date": "2032-06-21",
+    "name": "День Святого Духа (Духов день)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 50
+    }
   },
   {
     "date": "2032-07-12",
@@ -233,19 +289,19 @@
   },
   {
     "date": "2032-11-04",
-    "name": "Празднование Казанской иконы Божией Матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
-    "date": "2032-11-04",
     "name": "День народного единства",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2032-11-04",
+    "name": "Празднование Казанской иконы Божией Матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2032-12-19",
