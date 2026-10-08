@@ -1,0 +1,527 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-02",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-08",
+    "name": "Prešernov dan, slovenski kulturni praznik",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "velikonočna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "velikonočni ponedeljek",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-27",
+    "name": "dan upora proti okupatorju",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-02",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-08",
+    "name": "binkoštna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-25",
+    "name": "dan državnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-15",
+    "name": "Marijino vnebovzetje",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-31",
+    "name": "dan reformacije",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-01",
+    "name": "dan spomina na mrtve",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "božič",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "dan samostojnosti in enotnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-02",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-08",
+    "name": "Prešernov dan, slovenski kulturni praznik",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-05",
+    "name": "velikonočna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-06",
+    "name": "velikonočni ponedeljek",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-27",
+    "name": "dan upora proti okupatorju",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-02",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-24",
+    "name": "binkoštna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-25",
+    "name": "dan državnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Marijino vnebovzetje",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-31",
+    "name": "dan reformacije",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-01",
+    "name": "dan spomina na mrtve",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "božič",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-26",
+    "name": "dan samostojnosti in enotnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-02",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Prešernov dan, slovenski kulturni praznik",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "velikonočna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-29",
+    "name": "velikonočni ponedeljek",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-27",
+    "name": "dan upora proti okupatorju",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-02",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-16",
+    "name": "binkoštna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-25",
+    "name": "dan državnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Marijino vnebovzetje",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-31",
+    "name": "dan reformacije",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-01",
+    "name": "dan spomina na mrtve",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "božič",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-26",
+    "name": "dan samostojnosti in enotnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-02",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-08",
+    "name": "Prešernov dan, slovenski kulturni praznik",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "velikonočna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "velikonočni ponedeljek",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-27",
+    "name": "dan upora proti okupatorju",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-02",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-04",
+    "name": "binkoštna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-25",
+    "name": "dan državnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-15",
+    "name": "Marijino vnebovzetje",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-31",
+    "name": "dan reformacije",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-01",
+    "name": "dan spomina na mrtve",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "božič",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "dan samostojnosti in enotnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-02",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-08",
+    "name": "Prešernov dan, slovenski kulturni praznik",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "velikonočna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-02",
+    "name": "velikonočni ponedeljek",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-27",
+    "name": "dan upora proti okupatorju",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-02",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-20",
+    "name": "binkoštna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-25",
+    "name": "dan državnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-15",
+    "name": "Marijino vnebovzetje",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-31",
+    "name": "dan reformacije",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-01",
+    "name": "dan spomina na mrtve",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "božič",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-26",
+    "name": "dan samostojnosti in enotnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-02",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-08",
+    "name": "Prešernov dan, slovenski kulturni praznik",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-21",
+    "name": "velikonočna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-22",
+    "name": "velikonočni ponedeljek",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-27",
+    "name": "dan upora proti okupatorju",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-02",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-09",
+    "name": "binkoštna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-25",
+    "name": "dan državnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-15",
+    "name": "Marijino vnebovzetje",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-31",
+    "name": "dan reformacije",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-01",
+    "name": "dan spomina na mrtve",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "božič",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-26",
+    "name": "dan samostojnosti in enotnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-02",
+    "name": "novo leto",
+    "isPublic": true
+  },
+  {
+    "date": "2031-02-08",
+    "name": "Prešernov dan, slovenski kulturni praznik",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "velikonočna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-14",
+    "name": "velikonočni ponedeljek",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-27",
+    "name": "dan upora proti okupatorju",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-02",
+    "name": "praznik dela",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-01",
+    "name": "binkoštna nedelja",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-25",
+    "name": "dan državnosti",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-15",
+    "name": "Marijino vnebovzetje",
+    "isPublic": true
+  },
+  {
+    "date": "2031-10-31",
+    "name": "dan reformacije",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-01",
+    "name": "dan spomina na mrtve",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "božič",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-26",
+    "name": "dan samostojnosti in enotnosti",
+    "isPublic": true
+  }
+]

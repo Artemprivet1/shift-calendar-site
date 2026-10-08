@@ -1,0 +1,587 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-02",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-06",
+    "name": "Botezul Domnului - Boboteaza",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-07",
+    "name": "Soborul Sfântului Proroc Ioan Botezătorul",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-24",
+    "name": "Ziua Unirii Principatelor Române",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Vinerea Mare",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Ziua Muncii",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-01",
+    "name": "Ziua Copilului",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-08",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-15",
+    "name": "Adormirea Maicii Domnului",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-30",
+    "name": "Sfântul Apostol Andrei, cel Întâi chemat, Ocrotitorul României",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-01",
+    "name": "Ziua Națională a României",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-02",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Botezul Domnului - Boboteaza",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-07",
+    "name": "Soborul Sfântului Proroc Ioan Botezătorul",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-24",
+    "name": "Ziua Unirii Principatelor Române",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-10",
+    "name": "Vinerea Mare",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-13",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Ziua Muncii",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Rusaliile; Ziua Copilului",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Adormirea Maicii Domnului",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-30",
+    "name": "Sfântul Apostol Andrei, cel Întâi chemat, Ocrotitorul României",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-01",
+    "name": "Ziua Națională a României",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-02",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Botezul Domnului - Boboteaza",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-07",
+    "name": "Soborul Sfântului Proroc Ioan Botezătorul",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-24",
+    "name": "Ziua Unirii Principatelor Române",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-30",
+    "name": "Vinerea Mare",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Ziua Muncii",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-01",
+    "name": "Ziua Copilului",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-20",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-21",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Adormirea Maicii Domnului",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-30",
+    "name": "Sfântul Apostol Andrei, cel Întâi chemat, Ocrotitorul României",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-01",
+    "name": "Ziua Națională a României",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-02",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-06",
+    "name": "Botezul Domnului - Boboteaza",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-07",
+    "name": "Soborul Sfântului Proroc Ioan Botezătorul",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-24",
+    "name": "Ziua Unirii Principatelor Române",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Vinerea Mare",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Ziua Muncii",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-01",
+    "name": "Ziua Copilului",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-04",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-05",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-15",
+    "name": "Adormirea Maicii Domnului",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-30",
+    "name": "Sfântul Apostol Andrei, cel Întâi chemat, Ocrotitorul României",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-01",
+    "name": "Ziua Națională a României",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-02",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-06",
+    "name": "Botezul Domnului - Boboteaza",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-07",
+    "name": "Soborul Sfântului Proroc Ioan Botezătorul",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-24",
+    "name": "Ziua Unirii Principatelor Române",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-06",
+    "name": "Vinerea Mare",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-08",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-09",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Ziua Muncii",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-27",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-28",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-01",
+    "name": "Ziua Copilului",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-15",
+    "name": "Adormirea Maicii Domnului",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-30",
+    "name": "Sfântul Apostol Andrei, cel Întâi chemat, Ocrotitorul României",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-01",
+    "name": "Ziua Națională a României",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-26",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-02",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-06",
+    "name": "Botezul Domnului - Boboteaza",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-07",
+    "name": "Soborul Sfântului Proroc Ioan Botezătorul",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-24",
+    "name": "Ziua Unirii Principatelor Române",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-26",
+    "name": "Vinerea Mare",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-28",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-29",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Ziua Muncii",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-01",
+    "name": "Ziua Copilului",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-16",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-17",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-15",
+    "name": "Adormirea Maicii Domnului",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-30",
+    "name": "Sfântul Apostol Andrei, cel Întâi chemat, Ocrotitorul României",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-01",
+    "name": "Ziua Națională a României",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-26",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-02",
+    "name": "Anul Nou",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-06",
+    "name": "Botezul Domnului - Boboteaza",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-07",
+    "name": "Soborul Sfântului Proroc Ioan Botezătorul",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-24",
+    "name": "Ziua Unirii Principatelor Române",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Vinerea Mare",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-14",
+    "name": "Paștele",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Ziua Muncii",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-01",
+    "name": "Rusaliile; Ziua Copilului",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-02",
+    "name": "Rusaliile",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-15",
+    "name": "Adormirea Maicii Domnului",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-30",
+    "name": "Sfântul Apostol Andrei, cel Întâi chemat, Ocrotitorul României",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-01",
+    "name": "Ziua Națională a României",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Crăciunul",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-26",
+    "name": "Crăciunul",
+    "isPublic": true
+  }
+]

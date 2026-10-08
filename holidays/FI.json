@@ -1,0 +1,557 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Uudenvuodenpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-06",
+    "name": "Loppiainen",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Pitkäperjantai",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Toinen pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Vappu",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-29",
+    "name": "Helatorstai",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-08",
+    "name": "Helluntaipäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Ahvenanmaan itsehallintopäivä",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-20",
+    "name": "Juhannusaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-21",
+    "name": "Juhannuspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-01",
+    "name": "Pyhäinpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-06",
+    "name": "Itsenäisyyspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-24",
+    "name": "Jouluaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Joulupäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Tapaninpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Uudenvuodenpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Loppiainen",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Pitkäperjantai",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Toinen pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Vappu",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Helatorstai",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Helluntaipäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-09",
+    "name": "Ahvenanmaan itsehallintopäivä",
+    "isPublic": false
+  },
+  {
+    "date": "2026-06-19",
+    "name": "Juhannusaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-20",
+    "name": "Juhannuspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Pyhäinpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-06",
+    "name": "Itsenäisyyspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Jouluaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Joulupäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Tapaninpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Uudenvuodenpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Loppiainen",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Pitkäperjantai",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Toinen pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Vappu",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Helatorstai",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Helluntaipäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-09",
+    "name": "Ahvenanmaan itsehallintopäivä",
+    "isPublic": false
+  },
+  {
+    "date": "2027-06-25",
+    "name": "Juhannusaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-26",
+    "name": "Juhannuspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-06",
+    "name": "Pyhäinpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-06",
+    "name": "Itsenäisyyspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Jouluaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Joulupäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Tapaninpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Uudenvuodenpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-06",
+    "name": "Loppiainen",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Pitkäperjantai",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "Toinen pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Vappu",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-25",
+    "name": "Helatorstai",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-04",
+    "name": "Helluntaipäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-09",
+    "name": "Ahvenanmaan itsehallintopäivä",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-23",
+    "name": "Juhannusaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-24",
+    "name": "Juhannuspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-04",
+    "name": "Pyhäinpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-06",
+    "name": "Itsenäisyyspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-24",
+    "name": "Jouluaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Joulupäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "Tapaninpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Uudenvuodenpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-06",
+    "name": "Loppiainen",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Pitkäperjantai",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-02",
+    "name": "Toinen pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Vappu",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-10",
+    "name": "Helatorstai",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-20",
+    "name": "Helluntaipäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-09",
+    "name": "Ahvenanmaan itsehallintopäivä",
+    "isPublic": false
+  },
+  {
+    "date": "2029-06-22",
+    "name": "Juhannusaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-23",
+    "name": "Juhannuspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-03",
+    "name": "Pyhäinpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-06",
+    "name": "Itsenäisyyspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-24",
+    "name": "Jouluaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Joulupäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-26",
+    "name": "Tapaninpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Uudenvuodenpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-06",
+    "name": "Loppiainen",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Pitkäperjantai",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-22",
+    "name": "Toinen pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Vappu",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-30",
+    "name": "Helatorstai",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-09",
+    "name": "Helluntaipäivä / Ahvenanmaan itsehallintopäivä; Helluntaipäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-21",
+    "name": "Juhannusaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-22",
+    "name": "Juhannuspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-02",
+    "name": "Pyhäinpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-06",
+    "name": "Itsenäisyyspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-24",
+    "name": "Jouluaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Joulupäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-26",
+    "name": "Tapaninpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Uudenvuodenpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-06",
+    "name": "Loppiainen",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Pitkäperjantai",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-14",
+    "name": "Toinen pääsiäispäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Vappu",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-22",
+    "name": "Helatorstai",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-01",
+    "name": "Helluntaipäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-09",
+    "name": "Ahvenanmaan itsehallintopäivä",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-20",
+    "name": "Juhannusaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-21",
+    "name": "Juhannuspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-01",
+    "name": "Pyhäinpäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-06",
+    "name": "Itsenäisyyspäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-24",
+    "name": "Jouluaatto",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Joulupäivä",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-26",
+    "name": "Tapaninpäivä",
+    "isPublic": true
+  }
+]

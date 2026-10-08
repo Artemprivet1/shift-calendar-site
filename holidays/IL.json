@@ -1,0 +1,317 @@
+[
+  {
+    "date": "2025-04-13",
+    "name": "פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-19",
+    "name": "שביעי של פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "יום העצמאות (נצפה)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-02",
+    "name": "שבועות",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-23",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-24",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-02",
+    "name": "יום כיפור",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-07",
+    "name": "סוכות",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-14",
+    "name": "שמחת תורה/שמיני עצרת",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-02",
+    "name": "פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-08",
+    "name": "שביעי של פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-22",
+    "name": "יום העצמאות",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-22",
+    "name": "שבועות",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-12",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-13",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-21",
+    "name": "יום כיפור",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-26",
+    "name": "סוכות",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-03",
+    "name": "שמחת תורה/שמיני עצרת",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-22",
+    "name": "פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-28",
+    "name": "שביעי של פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-12",
+    "name": "יום העצמאות",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-11",
+    "name": "שבועות",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-02",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-03",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-11",
+    "name": "יום כיפור",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-16",
+    "name": "סוכות",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-23",
+    "name": "שמחת תורה/שמיני עצרת",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-11",
+    "name": "פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "שביעי של פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-02",
+    "name": "יום העצמאות (נצפה)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-31",
+    "name": "שבועות",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-21",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-22",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-30",
+    "name": "יום כיפור",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-05",
+    "name": "סוכות",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-12",
+    "name": "שמחת תורה/שמיני עצרת",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-31",
+    "name": "פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-06",
+    "name": "שביעי של פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-19",
+    "name": "יום העצמאות (נצפה)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-20",
+    "name": "שבועות",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-10",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-11",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-19",
+    "name": "יום כיפור",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-24",
+    "name": "סוכות",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-01",
+    "name": "שמחת תורה/שמיני עצרת",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-18",
+    "name": "פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-24",
+    "name": "שביעי של פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-08",
+    "name": "יום העצמאות",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-07",
+    "name": "שבועות",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-28",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-29",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-07",
+    "name": "יום כיפור",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-12",
+    "name": "סוכות",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-19",
+    "name": "שמחת תורה/שמיני עצרת",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-08",
+    "name": "פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-14",
+    "name": "שביעי של פסח",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-29",
+    "name": "יום העצמאות (נצפה)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-28",
+    "name": "שבועות",
+    "isPublic": true
+  },
+  {
+    "date": "2031-09-18",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2031-09-19",
+    "name": "ראש השנה",
+    "isPublic": true
+  },
+  {
+    "date": "2031-09-27",
+    "name": "יום כיפור",
+    "isPublic": true
+  },
+  {
+    "date": "2031-10-02",
+    "name": "סוכות",
+    "isPublic": true
+  },
+  {
+    "date": "2031-10-09",
+    "name": "שמחת תורה/שמיני עצרת",
+    "isPublic": true
+  }
+]

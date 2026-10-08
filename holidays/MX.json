@@ -1,0 +1,252 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-03",
+    "name": "Día de la Constitución",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-17",
+    "name": "Natalicio de Benito Juárez",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-16",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-17",
+    "name": "Día de la Revolución",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-02",
+    "name": "Día de la Constitución",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-16",
+    "name": "Natalicio de Benito Juárez",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-16",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-16",
+    "name": "Día de la Revolución",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-01",
+    "name": "Día de la Constitución",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-15",
+    "name": "Natalicio de Benito Juárez",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-09-16",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-15",
+    "name": "Día de la Revolución",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-07",
+    "name": "Día de la Constitución",
+    "isPublic": true
+  },
+  {
+    "date": "2028-03-20",
+    "name": "Natalicio de Benito Juárez",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-16",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-20",
+    "name": "Día de la Revolución",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-05",
+    "name": "Día de la Constitución",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-19",
+    "name": "Natalicio de Benito Juárez",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-16",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-19",
+    "name": "Día de la Revolución",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-04",
+    "name": "Día de la Constitución",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-18",
+    "name": "Natalicio de Benito Juárez",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-16",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-01",
+    "name": "Transmisión del Poder Ejecutivo Federal",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-18",
+    "name": "Día de la Revolución",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-02-03",
+    "name": "Día de la Constitución",
+    "isPublic": true
+  },
+  {
+    "date": "2031-03-17",
+    "name": "Natalicio de Benito Juárez",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-09-16",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-17",
+    "name": "Día de la Revolución",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  }
+]

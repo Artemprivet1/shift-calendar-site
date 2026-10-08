@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Nieuwjaarsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Goede vrijdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Eerste paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Tweede paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-26",
+    "name": "Koningsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-05",
+    "name": "Bevrijdingsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-29",
+    "name": "Hemelvaartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-08",
+    "name": "Eerste pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Tweede pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Eerste kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Tweede kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Nieuwjaarsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Goede vrijdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Eerste paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Tweede paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-27",
+    "name": "Koningsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Hemelvaartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Eerste pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Tweede pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Eerste kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Tweede kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Nieuwjaarsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Goede vrijdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Eerste paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Tweede paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-27",
+    "name": "Koningsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Hemelvaartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Eerste pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Tweede pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Eerste kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Tweede kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Nieuwjaarsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Goede vrijdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Eerste paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "Tweede paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-27",
+    "name": "Koningsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-25",
+    "name": "Hemelvaartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-04",
+    "name": "Eerste pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-05",
+    "name": "Tweede pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Eerste kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "Tweede kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Nieuwjaarsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Goede vrijdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Eerste paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-02",
+    "name": "Tweede paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-27",
+    "name": "Koningsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-10",
+    "name": "Hemelvaartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-20",
+    "name": "Eerste pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-21",
+    "name": "Tweede pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Eerste kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-26",
+    "name": "Tweede kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Nieuwjaarsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Goede vrijdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Eerste paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-22",
+    "name": "Tweede paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-27",
+    "name": "Koningsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-05",
+    "name": "Bevrijdingsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-30",
+    "name": "Hemelvaartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-09",
+    "name": "Eerste pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-10",
+    "name": "Tweede pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Eerste kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-26",
+    "name": "Tweede kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Nieuwjaarsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Goede vrijdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Eerste paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-14",
+    "name": "Tweede paasdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-26",
+    "name": "Koningsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-22",
+    "name": "Hemelvaartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-01",
+    "name": "Eerste pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-02",
+    "name": "Tweede pinksterdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Eerste kerstdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-26",
+    "name": "Tweede kerstdag",
+    "isPublic": true
+  }
+]

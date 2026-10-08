@@ -1,0 +1,747 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-22",
+    "name": "Día de la Creación del Estado Plurinacional de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-28",
+    "name": "Carnaval de Oruro",
+    "isPublic": false
+  },
+  {
+    "date": "2025-03-03",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-04",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-15",
+    "name": "La Tablada",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-25",
+    "name": "Día del departamento de Chuquisaca",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-19",
+    "name": "Corpus Christi",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-21",
+    "name": "Año Nuevo Aymara Amazónico",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-16",
+    "name": "Día del departamento de La Paz",
+    "isPublic": false
+  },
+  {
+    "date": "2025-08-06",
+    "name": "Día de la Independencia de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-14",
+    "name": "Día del departamento de Cochabamba",
+    "isPublic": false
+  },
+  {
+    "date": "2025-09-24",
+    "name": "Día del departamento de Santa Cruz",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-11",
+    "name": "Día del departamento de Pando",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-17",
+    "name": "Día de la Dignidad Nacional",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-02",
+    "name": "Día de Todos los Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-10",
+    "name": "Día del departamento de Potosí",
+    "isPublic": false
+  },
+  {
+    "date": "2025-11-18",
+    "name": "Día del departamento de Beni",
+    "isPublic": false
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-22",
+    "name": "Día de la Creación del Estado Plurinacional de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-13",
+    "name": "Carnaval de Oruro",
+    "isPublic": false
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-15",
+    "name": "La Tablada",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Día del departamento de Chuquisaca",
+    "isPublic": false
+  },
+  {
+    "date": "2026-06-04",
+    "name": "Corpus Christi",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-21",
+    "name": "Año Nuevo Aymara Amazónico",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-22",
+    "name": "Año Nuevo Aymara Amazónico (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-16",
+    "name": "Día del departamento de La Paz",
+    "isPublic": false
+  },
+  {
+    "date": "2026-08-06",
+    "name": "Día de la Independencia de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-14",
+    "name": "Día del departamento de Cochabamba",
+    "isPublic": false
+  },
+  {
+    "date": "2026-09-24",
+    "name": "Día del departamento de Santa Cruz",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-11",
+    "name": "Día del departamento de Pando",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-17",
+    "name": "Día de la Dignidad Nacional",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Día de Todos los Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-10",
+    "name": "Día del departamento de Potosí",
+    "isPublic": false
+  },
+  {
+    "date": "2026-11-18",
+    "name": "Día del departamento de Beni",
+    "isPublic": false
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-22",
+    "name": "Día de la Creación del Estado Plurinacional de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-05",
+    "name": "Carnaval de Oruro",
+    "isPublic": false
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-15",
+    "name": "La Tablada",
+    "isPublic": false
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-25",
+    "name": "Día del departamento de Chuquisaca",
+    "isPublic": false
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpus Christi",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-21",
+    "name": "Año Nuevo Aymara Amazónico",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-16",
+    "name": "Día del departamento de La Paz",
+    "isPublic": false
+  },
+  {
+    "date": "2027-08-06",
+    "name": "Día de la Independencia de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2027-09-14",
+    "name": "Día del departamento de Cochabamba",
+    "isPublic": false
+  },
+  {
+    "date": "2027-09-24",
+    "name": "Día del departamento de Santa Cruz",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Día del departamento de Pando",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-17",
+    "name": "Día de la Dignidad Nacional",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-02",
+    "name": "Día de Todos los Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-10",
+    "name": "Día del departamento de Potosí",
+    "isPublic": false
+  },
+  {
+    "date": "2027-11-18",
+    "name": "Día del departamento de Beni",
+    "isPublic": false
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-22",
+    "name": "Día de la Creación del Estado Plurinacional de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-25",
+    "name": "Carnaval de Oruro",
+    "isPublic": false
+  },
+  {
+    "date": "2028-02-28",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-29",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-15",
+    "name": "La Tablada",
+    "isPublic": false
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-25",
+    "name": "Día del departamento de Chuquisaca",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-15",
+    "name": "Corpus Christi",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-21",
+    "name": "Año Nuevo Aymara Amazónico",
+    "isPublic": true
+  },
+  {
+    "date": "2028-07-16",
+    "name": "Día del departamento de La Paz",
+    "isPublic": false
+  },
+  {
+    "date": "2028-08-06",
+    "name": "Día de la Independencia de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-07",
+    "name": "Día de la Independencia de Bolivia (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-14",
+    "name": "Día del departamento de Cochabamba",
+    "isPublic": false
+  },
+  {
+    "date": "2028-09-24",
+    "name": "Día del departamento de Santa Cruz",
+    "isPublic": false
+  },
+  {
+    "date": "2028-10-11",
+    "name": "Día del departamento de Pando",
+    "isPublic": false
+  },
+  {
+    "date": "2028-10-17",
+    "name": "Día de la Dignidad Nacional",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-02",
+    "name": "Día de Todos los Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-10",
+    "name": "Día del departamento de Potosí",
+    "isPublic": false
+  },
+  {
+    "date": "2028-11-18",
+    "name": "Día del departamento de Beni",
+    "isPublic": false
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-22",
+    "name": "Día de la Creación del Estado Plurinacional de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-09",
+    "name": "Carnaval de Oruro",
+    "isPublic": false
+  },
+  {
+    "date": "2029-02-12",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-13",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-15",
+    "name": "La Tablada",
+    "isPublic": false
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-25",
+    "name": "Día del departamento de Chuquisaca",
+    "isPublic": false
+  },
+  {
+    "date": "2029-05-31",
+    "name": "Corpus Christi",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-21",
+    "name": "Año Nuevo Aymara Amazónico",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-16",
+    "name": "Día del departamento de La Paz",
+    "isPublic": false
+  },
+  {
+    "date": "2029-08-06",
+    "name": "Día de la Independencia de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-14",
+    "name": "Día del departamento de Cochabamba",
+    "isPublic": false
+  },
+  {
+    "date": "2029-09-24",
+    "name": "Día del departamento de Santa Cruz",
+    "isPublic": false
+  },
+  {
+    "date": "2029-10-11",
+    "name": "Día del departamento de Pando",
+    "isPublic": false
+  },
+  {
+    "date": "2029-10-17",
+    "name": "Día de la Dignidad Nacional",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-02",
+    "name": "Día de Todos los Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-10",
+    "name": "Día del departamento de Potosí",
+    "isPublic": false
+  },
+  {
+    "date": "2029-11-18",
+    "name": "Día del departamento de Beni",
+    "isPublic": false
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-22",
+    "name": "Día de la Creación del Estado Plurinacional de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-01",
+    "name": "Carnaval de Oruro",
+    "isPublic": false
+  },
+  {
+    "date": "2030-03-04",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-05",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-15",
+    "name": "La Tablada",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-25",
+    "name": "Día del departamento de Chuquisaca",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-20",
+    "name": "Corpus Christi",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-21",
+    "name": "Año Nuevo Aymara Amazónico",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-16",
+    "name": "Día del departamento de La Paz",
+    "isPublic": false
+  },
+  {
+    "date": "2030-08-06",
+    "name": "Día de la Independencia de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-14",
+    "name": "Día del departamento de Cochabamba",
+    "isPublic": false
+  },
+  {
+    "date": "2030-09-24",
+    "name": "Día del departamento de Santa Cruz",
+    "isPublic": false
+  },
+  {
+    "date": "2030-10-11",
+    "name": "Día del departamento de Pando",
+    "isPublic": false
+  },
+  {
+    "date": "2030-10-17",
+    "name": "Día de la Dignidad Nacional",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-02",
+    "name": "Día de Todos los Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-10",
+    "name": "Día del departamento de Potosí",
+    "isPublic": false
+  },
+  {
+    "date": "2030-11-18",
+    "name": "Día del departamento de Beni",
+    "isPublic": false
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-22",
+    "name": "Día de la Creación del Estado Plurinacional de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2031-02-21",
+    "name": "Carnaval de Oruro",
+    "isPublic": false
+  },
+  {
+    "date": "2031-02-24",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2031-02-25",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-15",
+    "name": "La Tablada",
+    "isPublic": false
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-25",
+    "name": "Día del departamento de Chuquisaca",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-12",
+    "name": "Corpus Christi",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-21",
+    "name": "Año Nuevo Aymara Amazónico",
+    "isPublic": true
+  },
+  {
+    "date": "2031-07-16",
+    "name": "Día del departamento de La Paz",
+    "isPublic": false
+  },
+  {
+    "date": "2031-08-06",
+    "name": "Día de la Independencia de Bolivia",
+    "isPublic": true
+  },
+  {
+    "date": "2031-09-14",
+    "name": "Día del departamento de Cochabamba",
+    "isPublic": false
+  },
+  {
+    "date": "2031-09-24",
+    "name": "Día del departamento de Santa Cruz",
+    "isPublic": false
+  },
+  {
+    "date": "2031-10-11",
+    "name": "Día del departamento de Pando",
+    "isPublic": false
+  },
+  {
+    "date": "2031-10-17",
+    "name": "Día de la Dignidad Nacional",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-02",
+    "name": "Día de Todos los Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-10",
+    "name": "Día del departamento de Potosí",
+    "isPublic": false
+  },
+  {
+    "date": "2031-11-18",
+    "name": "Día del departamento de Beni",
+    "isPublic": false
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  }
+]

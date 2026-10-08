@@ -1,0 +1,457 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Tết Dương lịch",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-27",
+    "name": "29 Tết",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-28",
+    "name": "Giao thừa Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-29",
+    "name": "Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-30",
+    "name": "Mùng hai Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-31",
+    "name": "Mùng ba Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-01",
+    "name": "Mùng bốn Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-07",
+    "name": "Ngày Giỗ Tổ Hùng Vương",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-30",
+    "name": "Ngày Chiến thắng",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Ngày Quốc tế Lao động",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-01",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-02",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Tết Dương lịch",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Giao thừa Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-18",
+    "name": "Mùng hai Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-19",
+    "name": "Mùng ba Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-20",
+    "name": "Mùng bốn Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-26",
+    "name": "Ngày Giỗ Tổ Hùng Vương",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-27",
+    "name": "Ngày Giỗ Tổ Hùng Vương (nghỉ bù)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-30",
+    "name": "Ngày Chiến thắng",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Ngày Quốc tế Lao động",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-01",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-02",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Tết Dương lịch",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-04",
+    "name": "29 Tết",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-05",
+    "name": "Giao thừa Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-06",
+    "name": "Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-07",
+    "name": "Mùng hai Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Mùng ba Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Mùng bốn Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-10",
+    "name": "Mùng năm Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-16",
+    "name": "Ngày Giỗ Tổ Hùng Vương",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-30",
+    "name": "Ngày Chiến thắng",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Ngày Quốc tế Lao động",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Ngày Quốc tế Lao động (nghỉ bù)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-09-02",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2027-09-03",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Tết Dương lịch",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-03",
+    "name": "Tết Dương lịch (nghỉ bù)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-24",
+    "name": "29 Tết",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-25",
+    "name": "Giao thừa Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-26",
+    "name": "Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-27",
+    "name": "Mùng hai Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-28",
+    "name": "Mùng ba Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-29",
+    "name": "Mùng bốn Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-04",
+    "name": "Ngày Giỗ Tổ Hùng Vương",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-30",
+    "name": "Ngày Chiến thắng",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Ngày Quốc tế Lao động",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-02",
+    "name": "Ngày Chiến thắng (nghỉ bù)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-01",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-02",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-04",
+    "name": "Quốc khánh (nghỉ bù)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Tết Dương lịch",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-12",
+    "name": "Giao thừa Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-13",
+    "name": "Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-14",
+    "name": "Mùng hai Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-15",
+    "name": "Mùng ba Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-16",
+    "name": "Mùng bốn Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-23",
+    "name": "Ngày Giỗ Tổ Hùng Vương",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-30",
+    "name": "Ngày Chiến thắng",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Ngày Quốc tế Lao động",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-02",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-03",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-04",
+    "name": "Quốc khánh (nghỉ bù)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Tết Dương lịch",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-31",
+    "name": "29 Tết",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-01",
+    "name": "Giao thừa Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-02",
+    "name": "Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-03",
+    "name": "Mùng hai Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-04",
+    "name": "Mùng ba Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-05",
+    "name": "Mùng bốn Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-06",
+    "name": "Mùng năm Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-12",
+    "name": "Ngày Giỗ Tổ Hùng Vương",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-30",
+    "name": "Ngày Chiến thắng",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Ngày Quốc tế Lao động",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-02",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-03",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Tết Dương lịch",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-21",
+    "name": "29 Tết",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-22",
+    "name": "Giao thừa Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-23",
+    "name": "Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-24",
+    "name": "Mùng hai Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-25",
+    "name": "Mùng ba Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-26",
+    "name": "Mùng bốn Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-27",
+    "name": "Mùng năm Tết Nguyên Đán",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-01",
+    "name": "Ngày Giỗ Tổ Hùng Vương",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-30",
+    "name": "Ngày Chiến thắng",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Ngày Quốc tế Lao động",
+    "isPublic": true
+  },
+  {
+    "date": "2031-09-01",
+    "name": "Quốc khánh",
+    "isPublic": true
+  },
+  {
+    "date": "2031-09-02",
+    "name": "Quốc khánh",
+    "isPublic": true
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Tahun Baru Masehi",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-27",
+    "name": "Isra Mikraj Nabi Muhammad",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-29",
+    "name": "Tahun Baru Imlek",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-29",
+    "name": "Hari Suci Nyepi",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-31",
+    "name": "Hari Raya Idul Fitri",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-01",
+    "name": "Hari kedua dari Hari Raya Idul Fitri",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Wafat Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Kebangkitan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Hari Buruh Internasional",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-12",
+    "name": "Hari Raya Waisak",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-29",
+    "name": "Kenaikan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-01",
+    "name": "Hari Lahir Pancasila",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-06",
+    "name": "Hari Raya Idul Adha",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-27",
+    "name": "Tahun Baru Islam",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-05",
+    "name": "Maulid Nabi Muhammad",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Hari Raya Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Tahun Baru Masehi",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-16",
+    "name": "Isra Mikraj Nabi Muhammad",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Tahun Baru Imlek",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Hari Suci Nyepi",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-21",
+    "name": "Hari Raya Idul Fitri",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-22",
+    "name": "Hari kedua dari Hari Raya Idul Fitri",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Wafat Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Kebangkitan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Hari Buruh Internasional",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Kenaikan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Hari Raya Idul Adha",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Hari Raya Waisak",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Hari Lahir Pancasila",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-16",
+    "name": "Tahun Baru Islam",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-25",
+    "name": "Maulid Nabi Muhammad",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Hari Raya Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Tahun Baru Masehi",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-05",
+    "name": "Isra Mikraj Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-06",
+    "name": "Tahun Baru Imlek (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Hari Suci Nyepi",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-09",
+    "name": "Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-10",
+    "name": "Hari kedua dari Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Wafat Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Kebangkitan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Hari Buruh Internasional",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Kenaikan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Hari Raya Idul Adha (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-20",
+    "name": "Hari Raya Waisak (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-01",
+    "name": "Hari Lahir Pancasila",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-06",
+    "name": "Tahun Baru Islam (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-14",
+    "name": "Maulid Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Hari Raya Natal; Isra Mikraj Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Tahun Baru Masehi",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-26",
+    "name": "Tahun Baru Imlek (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-26",
+    "name": "Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-27",
+    "name": "Hari kedua dari Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-03-26",
+    "name": "Hari Suci Nyepi",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Wafat Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Kebangkitan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Hari Buruh Internasional",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-05",
+    "name": "Hari Raya Idul Adha (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-09",
+    "name": "Hari Raya Waisak (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-25",
+    "name": "Kenaikan Yesus Kristus; Tahun Baru Islam (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-01",
+    "name": "Hari Lahir Pancasila",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-03",
+    "name": "Maulid Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-14",
+    "name": "Isra Mikraj Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Hari Raya Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Tahun Baru Masehi",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-13",
+    "name": "Tahun Baru Imlek (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-14",
+    "name": "Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-15",
+    "name": "Hari kedua dari Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-15",
+    "name": "Hari Suci Nyepi",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Wafat Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Kebangkitan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-24",
+    "name": "Hari Raya Idul Adha (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Hari Buruh Internasional",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-10",
+    "name": "Kenaikan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-14",
+    "name": "Tahun Baru Islam (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-27",
+    "name": "Hari Raya Waisak (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-01",
+    "name": "Hari Lahir Pancasila",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-24",
+    "name": "Maulid Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-03",
+    "name": "Isra Mikraj Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Hari Raya Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Tahun Baru Masehi",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-03",
+    "name": "Tahun Baru Imlek (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-04",
+    "name": "Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-02-05",
+    "name": "Hari kedua dari Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-05",
+    "name": "Hari Suci Nyepi",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-13",
+    "name": "Hari Raya Idul Adha (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Wafat Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Kebangkitan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Hari Buruh Internasional",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-03",
+    "name": "Tahun Baru Islam (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-16",
+    "name": "Hari Raya Waisak (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-30",
+    "name": "Kenaikan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-01",
+    "name": "Hari Lahir Pancasila",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-13",
+    "name": "Maulid Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-23",
+    "name": "Isra Mikraj Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Hari Raya Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Tahun Baru Masehi",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-23",
+    "name": "Tahun Baru Imlek (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-24",
+    "name": "Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-25",
+    "name": "Hari kedua dari Hari Raya Idul Fitri (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-03-24",
+    "name": "Hari Suci Nyepi",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-02",
+    "name": "Hari Raya Idul Adha (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Wafat Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Kebangkitan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-23",
+    "name": "Tahun Baru Islam (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Hari Buruh Internasional",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-22",
+    "name": "Kenaikan Yesus Kristus",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-01",
+    "name": "Hari Lahir Pancasila",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-04",
+    "name": "Hari Raya Waisak (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-07-02",
+    "name": "Maulid Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-12",
+    "name": "Isra Mikraj Nabi Muhammad (perkiraan)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Hari Raya Natal",
+    "isPublic": true
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-11",
+    "name": "Día de Juan Santamaría",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-17",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Día Internacional del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-25",
+    "name": "Anexión del Partido de Nicoya a Costa Rica",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-15",
+    "name": "Día de la Madre",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-15",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-11",
+    "name": "Día de Juan Santamaría",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Día Internacional del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-25",
+    "name": "Anexión del Partido de Nicoya a Costa Rica",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Día de la Madre",
+    "isPublic": true
+  },
+  {
+    "date": "2026-09-15",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-11",
+    "name": "Día de Juan Santamaría",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Día Internacional del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-25",
+    "name": "Anexión del Partido de Nicoya a Costa Rica",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Día de la Madre",
+    "isPublic": true
+  },
+  {
+    "date": "2027-09-15",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-11",
+    "name": "Día de Juan Santamaría",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-13",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Día Internacional del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-07-25",
+    "name": "Anexión del Partido de Nicoya a Costa Rica",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-15",
+    "name": "Día de la Madre",
+    "isPublic": true
+  },
+  {
+    "date": "2028-09-15",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-29",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-11",
+    "name": "Día de Juan Santamaría",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Día Internacional del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-25",
+    "name": "Anexión del Partido de Nicoya a Costa Rica",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-15",
+    "name": "Día de la Madre",
+    "isPublic": true
+  },
+  {
+    "date": "2029-09-15",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-11",
+    "name": "Día de Juan Santamaría",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-18",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Día Internacional del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-25",
+    "name": "Anexión del Partido de Nicoya a Costa Rica",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-15",
+    "name": "Día de la Madre",
+    "isPublic": true
+  },
+  {
+    "date": "2030-09-15",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-10",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Día de Juan Santamaría; Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Día Internacional del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-07-25",
+    "name": "Anexión del Partido de Nicoya a Costa Rica",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-15",
+    "name": "Día de la Madre",
+    "isPublic": true
+  },
+  {
+    "date": "2031-09-15",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  }
+]

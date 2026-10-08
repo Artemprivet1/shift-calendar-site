@@ -1,0 +1,487 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Újév",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-15",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Nagypéntek",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Húsvét",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Húsvét Hétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "A Munka ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-02",
+    "name": "Pihenőnap (2025. 05. 17.-től helyettesítve)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-08",
+    "name": "Pünkösd",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Pünkösdhétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-20",
+    "name": "Az államalapítás ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-23",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-24",
+    "name": "Pihenőnap (2025. 10. 18.-től helyettesítve)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-01",
+    "name": "Mindenszentek",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-24",
+    "name": "Pihenőnap (2025. 12. 13.-től helyettesítve)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Karácsony",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Karácsony másnapja",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Újév",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-02",
+    "name": "Pihenőnap (2026. 01. 10.-től helyettesítve)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-15",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Nagypéntek",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Húsvét",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Húsvét Hétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "A Munka ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pünkösd",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Pünkösdhétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-20",
+    "name": "Az államalapítás ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-21",
+    "name": "Pihenőnap (2026. 08. 08.-től helyettesítve)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-23",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Mindenszentek",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Pihenőnap (2026. 12. 12.-től helyettesítve)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Karácsony",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Karácsony másnapja",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Újév",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-15",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Nagypéntek",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Húsvét",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Húsvét Hétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "A Munka ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pünkösd",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Pünkösdhétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-20",
+    "name": "Az államalapítás ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-23",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-01",
+    "name": "Mindenszentek",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Karácsony",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Karácsony másnapja",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Újév",
+    "isPublic": true
+  },
+  {
+    "date": "2028-03-15",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Nagypéntek",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Húsvét",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "Húsvét Hétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "A Munka ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-04",
+    "name": "Pünkösd",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-05",
+    "name": "Pünkösdhétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-20",
+    "name": "Az államalapítás ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-23",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-01",
+    "name": "Mindenszentek",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Karácsony",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "Karácsony másnapja",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Újév",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-15",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Nagypéntek",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Húsvét",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-02",
+    "name": "Húsvét Hétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "A Munka ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-20",
+    "name": "Pünkösd",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-21",
+    "name": "Pünkösdhétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-20",
+    "name": "Az államalapítás ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-23",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-01",
+    "name": "Mindenszentek",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Karácsony",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-26",
+    "name": "Karácsony másnapja",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Újév",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-15",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Nagypéntek",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Húsvét",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-22",
+    "name": "Húsvét Hétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "A Munka ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-09",
+    "name": "Pünkösd",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-10",
+    "name": "Pünkösdhétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-20",
+    "name": "Az államalapítás ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-23",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-01",
+    "name": "Mindenszentek",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Karácsony",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-26",
+    "name": "Karácsony másnapja",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Újév",
+    "isPublic": true
+  },
+  {
+    "date": "2031-03-15",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Nagypéntek",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Húsvét",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-14",
+    "name": "Húsvét Hétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "A Munka ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-01",
+    "name": "Pünkösd",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-02",
+    "name": "Pünkösdhétfő",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-20",
+    "name": "Az államalapítás ünnepe",
+    "isPublic": true
+  },
+  {
+    "date": "2031-10-23",
+    "name": "Nemzeti ünnep",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-01",
+    "name": "Mindenszentek",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Karácsony",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-26",
+    "name": "Karácsony másnapja",
+    "isPublic": true
+  }
+]

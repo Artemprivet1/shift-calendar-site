@@ -1,0 +1,422 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Nieuwjaar",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Pasen",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Paasmaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Dag van de Arbeid",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-29",
+    "name": "O. L. H. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-08",
+    "name": "Pinksteren",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Pinkstermaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-21",
+    "name": "Nationale feestdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-15",
+    "name": "O. L. V. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-01",
+    "name": "Allerheiligen",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-11",
+    "name": "Wapenstilstand",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Kerstmis",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Nieuwjaar",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Pasen",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Paasmaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Dag van de Arbeid",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-14",
+    "name": "O. L. H. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pinksteren",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Pinkstermaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-21",
+    "name": "Nationale feestdag",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-15",
+    "name": "O. L. V. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Allerheiligen",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Wapenstilstand",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Kerstmis",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Nieuwjaar",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Pasen",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Paasmaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Dag van de Arbeid",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-06",
+    "name": "O. L. H. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pinksteren",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Pinkstermaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-21",
+    "name": "Nationale feestdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-15",
+    "name": "O. L. V. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-01",
+    "name": "Allerheiligen",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Wapenstilstand",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Kerstmis",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Nieuwjaar",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Pasen",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "Paasmaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Dag van de Arbeid",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-25",
+    "name": "O. L. H. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-04",
+    "name": "Pinksteren",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-05",
+    "name": "Pinkstermaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-07-21",
+    "name": "Nationale feestdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-15",
+    "name": "O. L. V. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-01",
+    "name": "Allerheiligen",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-11",
+    "name": "Wapenstilstand",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Kerstmis",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Nieuwjaar",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Pasen",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-02",
+    "name": "Paasmaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Dag van de Arbeid",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-10",
+    "name": "O. L. H. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-20",
+    "name": "Pinksteren",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-21",
+    "name": "Pinkstermaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-21",
+    "name": "Nationale feestdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-15",
+    "name": "O. L. V. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-01",
+    "name": "Allerheiligen",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-11",
+    "name": "Wapenstilstand",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Kerstmis",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Nieuwjaar",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Pasen",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-22",
+    "name": "Paasmaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Dag van de Arbeid",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-30",
+    "name": "O. L. H. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-09",
+    "name": "Pinksteren",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-10",
+    "name": "Pinkstermaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-21",
+    "name": "Nationale feestdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-15",
+    "name": "O. L. V. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-01",
+    "name": "Allerheiligen",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-11",
+    "name": "Wapenstilstand",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Kerstmis",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Nieuwjaar",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Pasen",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-14",
+    "name": "Paasmaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Dag van de Arbeid",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-22",
+    "name": "O. L. H. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-01",
+    "name": "Pinksteren",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-02",
+    "name": "Pinkstermaandag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-07-21",
+    "name": "Nationale feestdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-15",
+    "name": "O. L. V. Hemelvaart",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-01",
+    "name": "Allerheiligen",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-11",
+    "name": "Wapenstilstand",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Kerstmis",
+    "isPublic": true
+  }
+]

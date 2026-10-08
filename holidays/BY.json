@@ -1,0 +1,536 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-02",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-06",
+    "name": "Выходны (перанесены з 11.01.2025)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Каталiцкi Вялiкдзень; Праваслаўны Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-28",
+    "name": "Выходны (перанесены з 26.04.2025)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-29",
+    "name": "Радаўніца",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Свята працы",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-04",
+    "name": "Выходны (перанесены з 12.07.2025)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Выходны (перанесены з 20.12.2025)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-02",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-23",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День защитника Отечества"
+  },
+  {
+    "date": "2026-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-15",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День Конституции"
+  },
+  {
+    "date": "2026-04-02",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День единения народов Беларуси и России"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Радаўніца",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-25",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "Pабочих дней"
+  },
+  {
+    "date": "2026-04-26",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День чернобыльской трагедии"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Свята працы",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-10",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь"
+  },
+  {
+    "date": "2026-06-22",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День всенародной памяти жертв Великой Отечественной войны"
+  },
+  {
+    "date": "2026-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-06",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "Купалье"
+  },
+  {
+    "date": "2026-07-07",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "Купалье"
+  },
+  {
+    "date": "2026-09-17",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День народного единства"
+  },
+  {
+    "date": "2026-10-21",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "День отца"
+  },
+  {
+    "date": "2026-11-02",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "Деды"
+  },
+  {
+    "date": "2026-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-31",
+    "isPublic": false,
+    "isReligious": false,
+    "isShortened": false,
+    "isWorkdayTransfer": false,
+    "name": "канун Нового года"
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-02",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Свята працы",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-11",
+    "name": "Радаўніца",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-02",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Каталiцкi Вялiкдзень; Праваслаўны Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-25",
+    "name": "Радаўніца",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Свята працы",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": true
+  },
+  {
+    "date": "2028-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-02",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-08",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-17",
+    "name": "Радаўніца",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Свята працы",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-02",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-28",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Свята працы",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-07",
+    "name": "Радаўніца",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-02",
+    "name": "Новы год",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Каталiцкi Вялiкдзень; Праваслаўны Вялiкдзень",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-22",
+    "name": "Радаўніца",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Свята працы",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": true
+  },
+  {
+    "date": "2031-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true
+  }
+]

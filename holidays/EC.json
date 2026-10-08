@@ -1,0 +1,522 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-03",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-04",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-02",
+    "name": "Día del Trabajo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-23",
+    "name": "Batalla de Pichincha (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-24",
+    "name": "Batalla de Pichincha",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-10",
+    "name": "Primer Grito de Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-11",
+    "name": "Primer Grito de Independencia (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-09",
+    "name": "Independencia de Guayaquil",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-10",
+    "name": "Independencia de Guayaquil (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-02",
+    "name": "Día de Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-03",
+    "name": "Independencia de Cuenca",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-04",
+    "name": "Día de Difuntos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Batalla de Pichincha",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Batalla de Pichincha (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-10",
+    "name": "Primer Grito de Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-09",
+    "name": "Independencia de Guayaquil",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Día de Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-03",
+    "name": "Independencia de Cuenca",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-30",
+    "name": "Día del Trabajo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-24",
+    "name": "Batalla de Pichincha",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-09",
+    "name": "Primer Grito de Independencia (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-10",
+    "name": "Primer Grito de Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-08",
+    "name": "Independencia de Guayaquil (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-09",
+    "name": "Independencia de Guayaquil",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-01",
+    "name": "Día de Difuntos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-02",
+    "name": "Día de Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-03",
+    "name": "Independencia de Cuenca",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Navidad (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-31",
+    "name": "Año Nuevo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-28",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2028-02-29",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-24",
+    "name": "Batalla de Pichincha",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-26",
+    "name": "Batalla de Pichincha (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-10",
+    "name": "Primer Grito de Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-11",
+    "name": "Primer Grito de Independencia (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-09",
+    "name": "Independencia de Guayaquil",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-02",
+    "name": "Día de Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-03",
+    "name": "Independencia de Cuenca",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-12",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2029-02-13",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-30",
+    "name": "Día del Trabajo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-24",
+    "name": "Batalla de Pichincha",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-25",
+    "name": "Batalla de Pichincha (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-10",
+    "name": "Primer Grito de Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-08",
+    "name": "Independencia de Guayaquil (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-09",
+    "name": "Independencia de Guayaquil",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-02",
+    "name": "Día de Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-03",
+    "name": "Independencia de Cuenca",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-04",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-05",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-03",
+    "name": "Día del Trabajo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-24",
+    "name": "Batalla de Pichincha",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-09",
+    "name": "Primer Grito de Independencia (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-10",
+    "name": "Primer Grito de Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-09",
+    "name": "Independencia de Guayaquil",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-11",
+    "name": "Independencia de Guayaquil (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-01",
+    "name": "Día de Difuntos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-02",
+    "name": "Día de Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-03",
+    "name": "Independencia de Cuenca",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-04",
+    "name": "Independencia de Cuenca (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-02-24",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2031-02-25",
+    "name": "Carnaval",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-02",
+    "name": "Día del Trabajo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-23",
+    "name": "Batalla de Pichincha (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-24",
+    "name": "Batalla de Pichincha",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-10",
+    "name": "Primer Grito de Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-11",
+    "name": "Primer Grito de Independencia (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-10-09",
+    "name": "Independencia de Guayaquil",
+    "isPublic": true
+  },
+  {
+    "date": "2031-10-10",
+    "name": "Independencia de Guayaquil (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-02",
+    "name": "Día de Difuntos",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-03",
+    "name": "Independencia de Cuenca",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-04",
+    "name": "Día de Difuntos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  }
+]

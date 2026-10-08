@@ -1,0 +1,1112 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Ano Novo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-19",
+    "name": "Dia de São José",
+    "isPublic": false
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Sexta-feira Santa",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Páscoa",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-25",
+    "name": "Dia da Liberdade",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Dia do Trabalhador",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-06",
+    "name": "Dia de Nossa Senhora de Mércoles",
+    "isPublic": false
+  },
+  {
+    "date": "2025-05-12",
+    "name": "Dia de Santa Joana",
+    "isPublic": false
+  },
+  {
+    "date": "2025-05-22",
+    "name": "Dia do Município de Leiria",
+    "isPublic": false
+  },
+  {
+    "date": "2025-05-23",
+    "name": "Dia do Município de Portalegre",
+    "isPublic": false
+  },
+  {
+    "date": "2025-05-29",
+    "name": "Quinta-feira da Ascensão",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Dia da Região Autónoma dos Açores",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-10",
+    "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-13",
+    "name": "Dia de Santo António",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-19",
+    "name": "Corpo de Deus",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-24",
+    "name": "Dia de São João",
+    "isPublic": false
+  },
+  {
+    "date": "2025-06-29",
+    "name": "Dia de São Pedro",
+    "isPublic": false
+  },
+  {
+    "date": "2025-07-01",
+    "name": "Dia da Região Autónoma da Madeira e das Comunidades Madeirenses",
+    "isPublic": false
+  },
+  {
+    "date": "2025-07-04",
+    "name": "Dia de Santa Isabel",
+    "isPublic": false
+  },
+  {
+    "date": "2025-08-15",
+    "name": "Assunção de Nossa Senhora",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-20",
+    "name": "Dia de Nossa Senhora da Agonia",
+    "isPublic": false
+  },
+  {
+    "date": "2025-08-22",
+    "name": "Dia de Nossa Senhora das Graças",
+    "isPublic": false
+  },
+  {
+    "date": "2025-09-07",
+    "name": "Dia do Município de Faro",
+    "isPublic": false
+  },
+  {
+    "date": "2025-09-15",
+    "name": "Dia de Bocage",
+    "isPublic": false
+  },
+  {
+    "date": "2025-09-21",
+    "name": "Dia de São Mateus",
+    "isPublic": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "Implantação da República",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-01",
+    "name": "Dia de Todos os Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-27",
+    "name": "Dia do Município da Guarda",
+    "isPublic": false
+  },
+  {
+    "date": "2025-12-01",
+    "name": "Restauração da Independência",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-08",
+    "name": "Imaculada Conceição",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Dia de Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Primeira Oitava",
+    "isPublic": false
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Ano Novo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Dia de São José",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Sexta-feira Santa",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Páscoa",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Dia de Nossa Senhora de Mércoles",
+    "isPublic": false
+  },
+  {
+    "date": "2026-04-25",
+    "name": "Dia da Liberdade",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Dia do Trabalhador",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-12",
+    "name": "Dia de Santa Joana",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Quinta-feira da Ascensão",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-22",
+    "name": "Dia do Município de Leiria",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-23",
+    "name": "Dia do Município de Portalegre",
+    "isPublic": false
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Dia da Região Autónoma dos Açores",
+    "isPublic": false
+  },
+  {
+    "date": "2026-06-04",
+    "name": "Corpo de Deus",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-10",
+    "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-13",
+    "name": "Dia de Santo António",
+    "isPublic": false
+  },
+  {
+    "date": "2026-06-24",
+    "name": "Dia de São João",
+    "isPublic": false
+  },
+  {
+    "date": "2026-06-29",
+    "name": "Dia de São Pedro",
+    "isPublic": false
+  },
+  {
+    "date": "2026-07-01",
+    "name": "Dia da Região Autónoma da Madeira e das Comunidades Madeirenses",
+    "isPublic": false
+  },
+  {
+    "date": "2026-07-04",
+    "name": "Dia de Santa Isabel",
+    "isPublic": false
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assunção de Nossa Senhora",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-20",
+    "name": "Dia de Nossa Senhora da Agonia",
+    "isPublic": false
+  },
+  {
+    "date": "2026-08-22",
+    "name": "Dia de Nossa Senhora das Graças",
+    "isPublic": false
+  },
+  {
+    "date": "2026-09-07",
+    "name": "Dia do Município de Faro",
+    "isPublic": false
+  },
+  {
+    "date": "2026-09-15",
+    "name": "Dia de Bocage",
+    "isPublic": false
+  },
+  {
+    "date": "2026-09-21",
+    "name": "Dia de São Mateus",
+    "isPublic": false
+  },
+  {
+    "date": "2026-10-05",
+    "name": "Implantação da República",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Dia de Todos os Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Dia do Município da Guarda",
+    "isPublic": false
+  },
+  {
+    "date": "2026-12-01",
+    "name": "Restauração da Independência",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Imaculada Conceição",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Dia de Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Primeira Oitava",
+    "isPublic": false
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Ano Novo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-19",
+    "name": "Dia de São José",
+    "isPublic": false
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Sexta-feira Santa",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Páscoa",
+    "isPublic": true
+  },
+  {
+    "date": "2027-04-13",
+    "name": "Dia de Nossa Senhora de Mércoles",
+    "isPublic": false
+  },
+  {
+    "date": "2027-04-25",
+    "name": "Dia da Liberdade",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Dia do Trabalhador",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Quinta-feira da Ascensão",
+    "isPublic": false
+  },
+  {
+    "date": "2027-05-12",
+    "name": "Dia de Santa Joana",
+    "isPublic": false
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Dia da Região Autónoma dos Açores",
+    "isPublic": false
+  },
+  {
+    "date": "2027-05-22",
+    "name": "Dia do Município de Leiria",
+    "isPublic": false
+  },
+  {
+    "date": "2027-05-23",
+    "name": "Dia do Município de Portalegre",
+    "isPublic": false
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpo de Deus",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-10",
+    "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-13",
+    "name": "Dia de Santo António",
+    "isPublic": false
+  },
+  {
+    "date": "2027-06-24",
+    "name": "Dia de São João",
+    "isPublic": false
+  },
+  {
+    "date": "2027-06-29",
+    "name": "Dia de São Pedro",
+    "isPublic": false
+  },
+  {
+    "date": "2027-07-01",
+    "name": "Dia da Região Autónoma da Madeira e das Comunidades Madeirenses",
+    "isPublic": false
+  },
+  {
+    "date": "2027-07-04",
+    "name": "Dia de Santa Isabel",
+    "isPublic": false
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assunção de Nossa Senhora",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-20",
+    "name": "Dia de Nossa Senhora da Agonia",
+    "isPublic": false
+  },
+  {
+    "date": "2027-08-22",
+    "name": "Dia de Nossa Senhora das Graças",
+    "isPublic": false
+  },
+  {
+    "date": "2027-09-07",
+    "name": "Dia do Município de Faro",
+    "isPublic": false
+  },
+  {
+    "date": "2027-09-15",
+    "name": "Dia de Bocage",
+    "isPublic": false
+  },
+  {
+    "date": "2027-09-21",
+    "name": "Dia de São Mateus",
+    "isPublic": false
+  },
+  {
+    "date": "2027-10-05",
+    "name": "Implantação da República",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-01",
+    "name": "Dia de Todos os Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-27",
+    "name": "Dia do Município da Guarda",
+    "isPublic": false
+  },
+  {
+    "date": "2027-12-01",
+    "name": "Restauração da Independência",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-08",
+    "name": "Imaculada Conceição",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Dia de Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Primeira Oitava",
+    "isPublic": false
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Ano Novo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-03-19",
+    "name": "Dia de São José",
+    "isPublic": false
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Sexta-feira Santa",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Páscoa",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-25",
+    "name": "Dia da Liberdade",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Dia do Trabalhador",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-02",
+    "name": "Dia de Nossa Senhora de Mércoles",
+    "isPublic": false
+  },
+  {
+    "date": "2028-05-12",
+    "name": "Dia de Santa Joana",
+    "isPublic": false
+  },
+  {
+    "date": "2028-05-22",
+    "name": "Dia do Município de Leiria",
+    "isPublic": false
+  },
+  {
+    "date": "2028-05-23",
+    "name": "Dia do Município de Portalegre",
+    "isPublic": false
+  },
+  {
+    "date": "2028-05-25",
+    "name": "Quinta-feira da Ascensão",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-05",
+    "name": "Dia da Região Autónoma dos Açores",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-10",
+    "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-13",
+    "name": "Dia de Santo António",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-15",
+    "name": "Corpo de Deus",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-24",
+    "name": "Dia de São João",
+    "isPublic": false
+  },
+  {
+    "date": "2028-06-29",
+    "name": "Dia de São Pedro",
+    "isPublic": false
+  },
+  {
+    "date": "2028-07-01",
+    "name": "Dia da Região Autónoma da Madeira e das Comunidades Madeirenses",
+    "isPublic": false
+  },
+  {
+    "date": "2028-07-04",
+    "name": "Dia de Santa Isabel",
+    "isPublic": false
+  },
+  {
+    "date": "2028-08-15",
+    "name": "Assunção de Nossa Senhora",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-20",
+    "name": "Dia de Nossa Senhora da Agonia",
+    "isPublic": false
+  },
+  {
+    "date": "2028-08-22",
+    "name": "Dia de Nossa Senhora das Graças",
+    "isPublic": false
+  },
+  {
+    "date": "2028-09-07",
+    "name": "Dia do Município de Faro",
+    "isPublic": false
+  },
+  {
+    "date": "2028-09-15",
+    "name": "Dia de Bocage",
+    "isPublic": false
+  },
+  {
+    "date": "2028-09-21",
+    "name": "Dia de São Mateus",
+    "isPublic": false
+  },
+  {
+    "date": "2028-10-05",
+    "name": "Implantação da República",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-01",
+    "name": "Dia de Todos os Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-27",
+    "name": "Dia do Município da Guarda",
+    "isPublic": false
+  },
+  {
+    "date": "2028-12-01",
+    "name": "Restauração da Independência",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-08",
+    "name": "Imaculada Conceição",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Dia de Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "Primeira Oitava",
+    "isPublic": false
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Ano Novo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-19",
+    "name": "Dia de São José",
+    "isPublic": false
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Sexta-feira Santa",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Páscoa",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-17",
+    "name": "Dia de Nossa Senhora de Mércoles",
+    "isPublic": false
+  },
+  {
+    "date": "2029-04-25",
+    "name": "Dia da Liberdade",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Dia do Trabalhador",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-10",
+    "name": "Quinta-feira da Ascensão",
+    "isPublic": false
+  },
+  {
+    "date": "2029-05-12",
+    "name": "Dia de Santa Joana",
+    "isPublic": false
+  },
+  {
+    "date": "2029-05-21",
+    "name": "Dia da Região Autónoma dos Açores",
+    "isPublic": false
+  },
+  {
+    "date": "2029-05-22",
+    "name": "Dia do Município de Leiria",
+    "isPublic": false
+  },
+  {
+    "date": "2029-05-23",
+    "name": "Dia do Município de Portalegre",
+    "isPublic": false
+  },
+  {
+    "date": "2029-05-31",
+    "name": "Corpo de Deus",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-10",
+    "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-13",
+    "name": "Dia de Santo António",
+    "isPublic": false
+  },
+  {
+    "date": "2029-06-24",
+    "name": "Dia de São João",
+    "isPublic": false
+  },
+  {
+    "date": "2029-06-29",
+    "name": "Dia de São Pedro",
+    "isPublic": false
+  },
+  {
+    "date": "2029-07-01",
+    "name": "Dia da Região Autónoma da Madeira e das Comunidades Madeirenses",
+    "isPublic": false
+  },
+  {
+    "date": "2029-07-04",
+    "name": "Dia de Santa Isabel",
+    "isPublic": false
+  },
+  {
+    "date": "2029-08-15",
+    "name": "Assunção de Nossa Senhora",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-20",
+    "name": "Dia de Nossa Senhora da Agonia",
+    "isPublic": false
+  },
+  {
+    "date": "2029-08-22",
+    "name": "Dia de Nossa Senhora das Graças",
+    "isPublic": false
+  },
+  {
+    "date": "2029-09-07",
+    "name": "Dia do Município de Faro",
+    "isPublic": false
+  },
+  {
+    "date": "2029-09-15",
+    "name": "Dia de Bocage",
+    "isPublic": false
+  },
+  {
+    "date": "2029-09-21",
+    "name": "Dia de São Mateus",
+    "isPublic": false
+  },
+  {
+    "date": "2029-10-05",
+    "name": "Implantação da República",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-01",
+    "name": "Dia de Todos os Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-27",
+    "name": "Dia do Município da Guarda",
+    "isPublic": false
+  },
+  {
+    "date": "2029-12-01",
+    "name": "Restauração da Independência",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-08",
+    "name": "Imaculada Conceição",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Dia de Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-26",
+    "name": "Primeira Oitava",
+    "isPublic": false
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Ano Novo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-19",
+    "name": "Dia de São José",
+    "isPublic": false
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Sexta-feira Santa",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Páscoa",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-25",
+    "name": "Dia da Liberdade",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Dia do Trabalhador",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-07",
+    "name": "Dia de Nossa Senhora de Mércoles",
+    "isPublic": false
+  },
+  {
+    "date": "2030-05-12",
+    "name": "Dia de Santa Joana",
+    "isPublic": false
+  },
+  {
+    "date": "2030-05-22",
+    "name": "Dia do Município de Leiria",
+    "isPublic": false
+  },
+  {
+    "date": "2030-05-23",
+    "name": "Dia do Município de Portalegre",
+    "isPublic": false
+  },
+  {
+    "date": "2030-05-30",
+    "name": "Quinta-feira da Ascensão",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-10",
+    "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas / Dia da Região Autónoma dos Açores; Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-13",
+    "name": "Dia de Santo António",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-20",
+    "name": "Corpo de Deus",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-24",
+    "name": "Dia de São João",
+    "isPublic": false
+  },
+  {
+    "date": "2030-06-29",
+    "name": "Dia de São Pedro",
+    "isPublic": false
+  },
+  {
+    "date": "2030-07-01",
+    "name": "Dia da Região Autónoma da Madeira e das Comunidades Madeirenses",
+    "isPublic": false
+  },
+  {
+    "date": "2030-07-04",
+    "name": "Dia de Santa Isabel",
+    "isPublic": false
+  },
+  {
+    "date": "2030-08-15",
+    "name": "Assunção de Nossa Senhora",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-20",
+    "name": "Dia de Nossa Senhora da Agonia",
+    "isPublic": false
+  },
+  {
+    "date": "2030-08-22",
+    "name": "Dia de Nossa Senhora das Graças",
+    "isPublic": false
+  },
+  {
+    "date": "2030-09-07",
+    "name": "Dia do Município de Faro",
+    "isPublic": false
+  },
+  {
+    "date": "2030-09-15",
+    "name": "Dia de Bocage",
+    "isPublic": false
+  },
+  {
+    "date": "2030-09-21",
+    "name": "Dia de São Mateus",
+    "isPublic": false
+  },
+  {
+    "date": "2030-10-05",
+    "name": "Implantação da República",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-01",
+    "name": "Dia de Todos os Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-27",
+    "name": "Dia do Município da Guarda",
+    "isPublic": false
+  },
+  {
+    "date": "2030-12-01",
+    "name": "Restauração da Independência",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-08",
+    "name": "Imaculada Conceição",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Dia de Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-26",
+    "name": "Primeira Oitava",
+    "isPublic": false
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Ano Novo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-03-19",
+    "name": "Dia de São José",
+    "isPublic": false
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Sexta-feira Santa",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Páscoa",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-25",
+    "name": "Dia da Liberdade",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-29",
+    "name": "Dia de Nossa Senhora de Mércoles",
+    "isPublic": false
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Dia do Trabalhador",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-12",
+    "name": "Dia de Santa Joana",
+    "isPublic": false
+  },
+  {
+    "date": "2031-05-22",
+    "name": "Quinta-feira da Ascensão / Dia do Município de Leiria",
+    "isPublic": false
+  },
+  {
+    "date": "2031-05-23",
+    "name": "Dia do Município de Portalegre",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-02",
+    "name": "Dia da Região Autónoma dos Açores",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-10",
+    "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-12",
+    "name": "Corpo de Deus",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-13",
+    "name": "Dia de Santo António",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-24",
+    "name": "Dia de São João",
+    "isPublic": false
+  },
+  {
+    "date": "2031-06-29",
+    "name": "Dia de São Pedro",
+    "isPublic": false
+  },
+  {
+    "date": "2031-07-01",
+    "name": "Dia da Região Autónoma da Madeira e das Comunidades Madeirenses",
+    "isPublic": false
+  },
+  {
+    "date": "2031-07-04",
+    "name": "Dia de Santa Isabel",
+    "isPublic": false
+  },
+  {
+    "date": "2031-08-15",
+    "name": "Assunção de Nossa Senhora",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-20",
+    "name": "Dia de Nossa Senhora da Agonia",
+    "isPublic": false
+  },
+  {
+    "date": "2031-08-22",
+    "name": "Dia de Nossa Senhora das Graças",
+    "isPublic": false
+  },
+  {
+    "date": "2031-09-07",
+    "name": "Dia do Município de Faro",
+    "isPublic": false
+  },
+  {
+    "date": "2031-09-15",
+    "name": "Dia de Bocage",
+    "isPublic": false
+  },
+  {
+    "date": "2031-09-21",
+    "name": "Dia de São Mateus",
+    "isPublic": false
+  },
+  {
+    "date": "2031-10-05",
+    "name": "Implantação da República",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-01",
+    "name": "Dia de Todos os Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-27",
+    "name": "Dia do Município da Guarda",
+    "isPublic": false
+  },
+  {
+    "date": "2031-12-01",
+    "name": "Restauração da Independência",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-08",
+    "name": "Imaculada Conceição",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Dia de Natal",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-26",
+    "name": "Primeira Oitava",
+    "isPublic": false
+  }
+]

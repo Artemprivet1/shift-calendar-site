@@ -1,0 +1,652 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-06",
+    "name": "Día de los Reyes Magos",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-24",
+    "name": "Día de San José (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-17",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-02",
+    "name": "Ascensión del señor (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-23",
+    "name": "Corpus Christi (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-30",
+    "name": "Sagrado Corazón (observado); San Pedro y San Pablo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-20",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-07",
+    "name": "Batalla de Boyacá",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-18",
+    "name": "La Asunción (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-13",
+    "name": "Día de la Raza (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-03",
+    "name": "Día de Todos los Santos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-17",
+    "name": "Independencia de Cartagena (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-08",
+    "name": "La Inmaculada Concepción",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-12",
+    "name": "Día de los Reyes Magos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-03-23",
+    "name": "Día de San José (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-05-18",
+    "name": "Ascensión del señor (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-08",
+    "name": "Corpus Christi (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-15",
+    "name": "Sagrado Corazón (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-06-29",
+    "name": "San Pedro y San Pablo",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-13",
+    "name": "Día de Nuestra Señora del Rosario de Chiquinquirá (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-07-20",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-07",
+    "name": "Batalla de Boyacá",
+    "isPublic": true
+  },
+  {
+    "date": "2026-08-17",
+    "name": "La Asunción (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Día de la Raza",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Día de Todos los Santos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-11-16",
+    "name": "Independencia de Cartagena (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-08",
+    "name": "La Inmaculada Concepción",
+    "isPublic": true
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-11",
+    "name": "Día de los Reyes Magos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-22",
+    "name": "Día de San José (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-10",
+    "name": "Ascensión del señor (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-31",
+    "name": "Corpus Christi (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-06-07",
+    "name": "Sagrado Corazón (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-05",
+    "name": "San Pedro y San Pablo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-12",
+    "name": "Día de Nuestra Señora del Rosario de Chiquinquirá (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-07-20",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-07",
+    "name": "Batalla de Boyacá",
+    "isPublic": true
+  },
+  {
+    "date": "2027-08-16",
+    "name": "La Asunción (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-10-18",
+    "name": "Día de la Raza (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-01",
+    "name": "Día de Todos los Santos",
+    "isPublic": true
+  },
+  {
+    "date": "2027-11-15",
+    "name": "Independencia de Cartagena (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-08",
+    "name": "La Inmaculada Concepción",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-10",
+    "name": "Día de los Reyes Magos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-03-20",
+    "name": "Día de San José (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-13",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-29",
+    "name": "Ascensión del señor (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-19",
+    "name": "Corpus Christi (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-26",
+    "name": "Sagrado Corazón (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-07-03",
+    "name": "San Pedro y San Pablo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-07-10",
+    "name": "Día de Nuestra Señora del Rosario de Chiquinquirá (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-07-20",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-07",
+    "name": "Batalla de Boyacá",
+    "isPublic": true
+  },
+  {
+    "date": "2028-08-21",
+    "name": "La Asunción (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-10-16",
+    "name": "Día de la Raza (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-06",
+    "name": "Día de Todos los Santos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-11-13",
+    "name": "Independencia de Cartagena (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-08",
+    "name": "La Inmaculada Concepción",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-08",
+    "name": "Día de los Reyes Magos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-19",
+    "name": "Día de San José",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-29",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-14",
+    "name": "Ascensión del señor (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-04",
+    "name": "Corpus Christi (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-06-11",
+    "name": "Sagrado Corazón (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-02",
+    "name": "San Pedro y San Pablo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-09",
+    "name": "Día de Nuestra Señora del Rosario de Chiquinquirá",
+    "isPublic": true
+  },
+  {
+    "date": "2029-07-20",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-07",
+    "name": "Batalla de Boyacá",
+    "isPublic": true
+  },
+  {
+    "date": "2029-08-20",
+    "name": "La Asunción (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-10-15",
+    "name": "Día de la Raza (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-05",
+    "name": "Día de Todos los Santos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-11-12",
+    "name": "Independencia de Cartagena (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-08",
+    "name": "La Inmaculada Concepción",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-07",
+    "name": "Día de los Reyes Magos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-03-25",
+    "name": "Día de San José (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-18",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-03",
+    "name": "Ascensión del señor (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-24",
+    "name": "Corpus Christi (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-01",
+    "name": "Sagrado Corazón (observado); San Pedro y San Pablo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-15",
+    "name": "Día de Nuestra Señora del Rosario de Chiquinquirá (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-07-20",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-07",
+    "name": "Batalla de Boyacá",
+    "isPublic": true
+  },
+  {
+    "date": "2030-08-19",
+    "name": "La Asunción (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-10-14",
+    "name": "Día de la Raza (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-04",
+    "name": "Día de Todos los Santos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2030-11-11",
+    "name": "Independencia de Cartagena",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-08",
+    "name": "La Inmaculada Concepción",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Año Nuevo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-06",
+    "name": "Día de los Reyes Magos",
+    "isPublic": true
+  },
+  {
+    "date": "2031-03-24",
+    "name": "Día de San José (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-10",
+    "name": "Jueves Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Viernes Santo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Día del Trabajo",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-26",
+    "name": "Ascensión del señor (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-16",
+    "name": "Corpus Christi (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-23",
+    "name": "Sagrado Corazón (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-30",
+    "name": "San Pedro y San Pablo (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-07-14",
+    "name": "Día de Nuestra Señora del Rosario de Chiquinquirá (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-07-20",
+    "name": "Día de la Independencia",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-07",
+    "name": "Batalla de Boyacá",
+    "isPublic": true
+  },
+  {
+    "date": "2031-08-18",
+    "name": "La Asunción (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-10-13",
+    "name": "Día de la Raza (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-03",
+    "name": "Día de Todos los Santos (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-11-17",
+    "name": "Independencia de Cartagena (observado)",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-08",
+    "name": "La Inmaculada Concepción",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Navidad",
+    "isPublic": true
+  }
+]

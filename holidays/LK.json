@@ -1,0 +1,399 @@
+[
+  {
+    "date": "2025-01-13",
+    "name": "දුරුතු පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-01-14",
+    "name": "දෙමළ තෛපොංැලල් දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-04",
+    "name": "නිදහස් සමරු දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-12",
+    "name": "නවම් පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-02-26",
+    "name": "මහ සිවරාත්රි දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-13",
+    "name": "මැදින් පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-03-31",
+    "name": "ඊදුල් ෆීතර්",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-12",
+    "name": "බක් පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-13",
+    "name": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනට පෙර දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-14",
+    "name": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "මහ සිකුරාදා දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "ලොක කම්කරු දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-12",
+    "name": "වෙසක් පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-13",
+    "name": "වෙසක් පුර පසළොස්වක පෝය දිනට පසු දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-07",
+    "name": "ඊදුල් අල්හා",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-10",
+    "name": "පොසොන් පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-07-10",
+    "name": "ඇසල පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-08-08",
+    "name": "නිකිණි පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-05",
+    "name": "නබි නායකතුමාගේ උපන් දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-09-07",
+    "name": "බිනර පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-06",
+    "name": "වප් පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-10-20",
+    "name": "දීපවාලි උත්සව දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-11-05",
+    "name": "ඉල් පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-04",
+    "name": "උඳුවප් පුර පසළොස්වක පෝය දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "නත්තල් උත්සව දිනය",
+    "isPublic": true
+  },
+  {
+    "date": "2026-01-03",
+    "name": "දුරුතු පුර පසළොස්වක පොහොය දිනය / Duruthu Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-01-15",
+    "name": "දෙමළ තෛපොංගල් දිනය / Tamil Thai Pongal Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-01",
+    "name": "නවම් පුර පසළොස්වක පොහොය දිනය / Navam Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-04",
+    "name": "ජාතික දිනය / National Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-14",
+    "name": "ආදරවන්තයන්ගේ දිනය / Valentine's Day",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-15",
+    "name": "මහාශිවරාත්‍රී දිනය / Mahasivarathri Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-19",
+    "name": "රාමසාන් ආරම්භය / Ramadan Start",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-03-02",
+    "name": "මැදින් පුර පසළොස්වක පොහොය දිනය / Madin Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-03-21",
+    "name": "ඊද් අල්-ෆිතර් / Eid al-Fitr",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-01",
+    "name": "පුර පසළොස්වක පොහොය දිනයේදී / Bak Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-01",
+    "name": "ඉන්ධන සංරක්ෂණ නිවාඩුව / Fuel Conservation Holiday",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-03",
+    "name": "සුබ සිකුරාදා / Good Friday",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-05",
+    "name": "පාස්කු ඉරිදා / Easter Sunday",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-13",
+    "name": "සිංහල හා දෙමළ අලුත් අවුරුදු උදාව / Sinhala and Tamil New Year's Eve",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-14",
+    "name": "සිංහල හා දෙමළ අලුත් අවුරුදු දිනය / Sinhala and Tamil New Year's Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-01",
+    "name": "මැයි දිනය / May Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-01",
+    "name": "අධි වෙසක් පුර පසළොස්වක පොහොය දිනය / Adhi Vesak Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-10",
+    "name": "මව්වරුන්ගේ දිනය / Mother's Day",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-28",
+    "name": "ඊද් අල්-අදා / Eid al-Adha",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-30",
+    "name": "වෙසක් පුර පසළොස්වක පොහොය දිනය / Vesak Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-31",
+    "name": "වෙසක් පුර පසළොස්වක පොහොය දිනය / Day after Vesak Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-17",
+    "name": "මුහර්රම් / Muharram",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-21",
+    "name": "පියවරුන්ගේ දිනය / Father's Day",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-29",
+    "name": "පොසොන් පුර පසළොස්වක පොහොය දිනය / Poson Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-29",
+    "name": "ඇසළ පුර පසළොස්වක පොහොය දිනය / Esala Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-08-26",
+    "name": "උපත-උන්-නබි / Milad-Un-Nabi",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-08-27",
+    "name": "නිකිණි පුර පසළොස්වක පොහොය දිනය / Nikini Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-09-26",
+    "name": "බිනර පුර පසළොස්වක පොහොය දිනය / Binara Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-10-25",
+    "name": "වප් පුර පසළොස්වක පොහොය දිනය / Vap Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-08",
+    "name": "දීවාලි / Deepavali",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-24",
+    "name": "පුර පසළොස්වක පොහොය දිනය / Il Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-23",
+    "name": "උඳුවප් පුර පසළොස්වක පොහොය දිනය / Unduvap Full Moon Poya Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-24",
+    "name": "නත්තල් ඒව / Christmas Eve",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-25",
+    "name": "නත්තල් දිනය / Christmas Day",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "Første nyttårsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-17",
+    "name": "Skjærtorsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-18",
+    "name": "Langfredag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Første påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Andre påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Arbeidernes dag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-17",
+    "name": "Grunnlovsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-05-29",
+    "name": "Kristi himmelfartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-08",
+    "name": "Første pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Andre pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Første juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Andre juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Første nyttårsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Skjærtorsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Langfredag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Første påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Andre påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Arbeidernes dag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Kristi himmelfartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Første pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Andre pinsedag; Grunnlovsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Første juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Andre juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Første nyttårsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-13",
+    "name": "Skjærtorsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-14",
+    "name": "Langfredag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-16",
+    "name": "Første påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-04-17",
+    "name": "Andre påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Arbeidernes dag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-17",
+    "name": "Grunnlovsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-05-25",
+    "name": "Kristi himmelfartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-04",
+    "name": "Første pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-06-05",
+    "name": "Andre pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Første juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2028-12-26",
+    "name": "Andre juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Første nyttårsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-29",
+    "name": "Skjærtorsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Langfredag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Første påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-04-02",
+    "name": "Andre påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Arbeidernes dag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-10",
+    "name": "Kristi himmelfartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-17",
+    "name": "Grunnlovsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-20",
+    "name": "Første pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-05-21",
+    "name": "Andre pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Første juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2029-12-26",
+    "name": "Andre juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Første nyttårsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-18",
+    "name": "Skjærtorsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-19",
+    "name": "Langfredag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Første påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-04-22",
+    "name": "Andre påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Arbeidernes dag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-17",
+    "name": "Grunnlovsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-05-30",
+    "name": "Kristi himmelfartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-09",
+    "name": "Første pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-06-10",
+    "name": "Andre pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Første juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2030-12-26",
+    "name": "Andre juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Første nyttårsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-10",
+    "name": "Skjærtorsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-11",
+    "name": "Langfredag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Første påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-04-14",
+    "name": "Andre påskedag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Arbeidernes dag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-17",
+    "name": "Grunnlovsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-05-22",
+    "name": "Kristi himmelfartsdag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-01",
+    "name": "Første pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-06-02",
+    "name": "Andre pinsedag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Første juledag",
+    "isPublic": true
+  },
+  {
+    "date": "2031-12-26",
+    "name": "Andre juledag",
+    "isPublic": true
+  }
+]
