@@ -248,14 +248,6 @@
     "isReligious": false
   },
   {
-    "date": "2026-01-01",
-    "name": "Новый год",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2026-01-02",
     "name": "Новый год",
     "isPublic": true,
@@ -265,11 +257,11 @@
   },
   {
     "date": "2026-01-07",
-    "name": "Рождество Христово (православное)",
+    "name": "Pождество",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": true
+    "isReligious": false
   },
   {
     "date": "2026-02-23",
@@ -309,7 +301,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": true
+    "isReligious": false
   },
   {
     "date": "2026-04-12",
@@ -317,12 +309,28 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": true
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-21",
     "name": "Радуница",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -421,7 +429,7 @@
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": true
+    "isReligious": false
   },
   {
     "date": "2026-12-31",
