@@ -1,23 +1,15 @@
 [
   {
-    "date": "2025-01-01",
+    "date": "2025-01-02",
     "name": "Новы год",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
     "date": "2025-01-02",
-    "name": "Новы год",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2025-01-06",
-    "name": "Выходны (перанесены з 11.01.2025)",
+    "name": "Новый год",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -32,8 +24,136 @@
     "isReligious": false
   },
   {
+    "date": "2025-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-01-07",
+    "name": "Pождество",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-03-08",
     "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-05",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-12",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -41,24 +161,56 @@
   },
   {
     "date": "2025-04-20",
-    "name": "Каталiцкi Вялiкдзень; Праваслаўны Вялiкдзень",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-20",
+    "name": "Предшествующего Радунице",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2025-04-28",
-    "name": "Выходны (перанесены з 26.04.2025)",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2025-04-29",
+    "date": "2025-04-21",
     "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Радуница",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -66,6 +218,14 @@
   {
     "date": "2025-05-01",
     "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Праздник труда",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -74,7 +234,47 @@
   {
     "date": "2025-05-09",
     "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-05-09",
+    "name": "День Победы",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -88,9 +288,81 @@
     "isReligious": false
   },
   {
-    "date": "2025-07-04",
-    "name": "Выходны (перанесены з 12.07.2025)",
+    "date": "2025-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-03",
+    "name": "День Независимости Республики Беларусь",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-11-02",
+    "name": "Деды",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -98,6 +370,14 @@
   {
     "date": "2025-11-07",
     "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-11-07",
+    "name": "День Октябрьской революции",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -112,17 +392,33 @@
     "isReligious": false
   },
   {
-    "date": "2025-12-26",
-    "name": "Выходны (перанесены з 20.12.2025)",
+    "date": "2025-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Рождество Христово (католическое)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2026-01-01",
-    "name": "Новы год",
-    "isPublic": true,
+    "date": "2025-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -130,7 +426,7 @@
   {
     "date": "2026-01-02",
     "name": "Новы год",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -153,8 +449,24 @@
   },
   {
     "date": "2026-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-01-07",
     "name": "Pождество",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -170,7 +482,7 @@
   {
     "date": "2026-03-08",
     "name": "Дзень жанчын",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -185,7 +497,23 @@
   },
   {
     "date": "2026-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-03-15",
     "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -209,6 +537,14 @@
   },
   {
     "date": "2026-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-05",
     "name": "Пасха (католическая)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -219,6 +555,14 @@
     "date": "2026-04-12",
     "name": "Праваслаўны Вялiкдзень",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -241,6 +585,14 @@
   },
   {
     "date": "2026-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-20",
     "name": "Предшествующего Радунице",
     "isPublic": true,
     "isWorkdayTransfer": false,
@@ -250,7 +602,7 @@
   {
     "date": "2026-04-21",
     "name": "Радаўніца",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -273,6 +625,14 @@
   },
   {
     "date": "2026-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-26",
     "name": "День чернобыльской трагедии",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -282,7 +642,7 @@
   {
     "date": "2026-05-01",
     "name": "Свята працы",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -298,7 +658,7 @@
   {
     "date": "2026-05-09",
     "name": "Дзень Перамогі",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -313,7 +673,23 @@
   },
   {
     "date": "2026-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-10",
     "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -337,6 +713,14 @@
   },
   {
     "date": "2026-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-03",
     "name": "День Независимости Республики Беларусь",
     "isPublic": true,
     "isWorkdayTransfer": false,
@@ -345,7 +729,23 @@
   },
   {
     "date": "2026-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-07",
     "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-09-17",
+    "name": "Дзень народнага адзінства",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -361,7 +761,23 @@
   },
   {
     "date": "2026-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-10-21",
     "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Дзяды",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -378,7 +794,7 @@
   {
     "date": "2026-11-07",
     "name": "Дзень Кастрычніцкай рэвалюцыі",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -401,8 +817,24 @@
   },
   {
     "date": "2026-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-25",
     "name": "Рождество Христово (католическое)",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -416,16 +848,16 @@
     "isReligious": false
   },
   {
-    "date": "2027-01-01",
+    "date": "2027-01-02",
     "name": "Новы год",
-    "isPublic": true,
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
     "date": "2027-01-02",
-    "name": "Новы год",
+    "name": "Новый год",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -440,15 +872,87 @@
     "isReligious": false
   },
   {
-    "date": "2027-03-08",
-    "name": "Дзень жанчын",
+    "date": "2027-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-01-07",
+    "name": "Pождество",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2027-03-28",
+    "date": "2027-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-05",
     "name": "Каталiцкi Вялiкдзень",
     "isPublic": true,
     "isWorkdayTransfer": false,
@@ -456,16 +960,120 @@
     "isReligious": false
   },
   {
-    "date": "2027-05-01",
-    "name": "Свята працы",
+    "date": "2027-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-12",
+    "name": "Праваслаўны Вялiкдзень",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2027-05-02",
-    "name": "Праваслаўны Вялiкдзень",
+    "date": "2027-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-21",
+    "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-21",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Праздник труда",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -474,15 +1082,47 @@
   {
     "date": "2027-05-09",
     "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-05-09",
+    "name": "День Победы",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2027-05-11",
-    "name": "Радаўніца",
-    "isPublic": true,
+    "date": "2027-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -496,8 +1136,96 @@
     "isReligious": false
   },
   {
+    "date": "2027-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-11-07",
     "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-11-07",
+    "name": "День Октябрьской революции",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -512,9 +1240,33 @@
     "isReligious": false
   },
   {
-    "date": "2028-01-01",
-    "name": "Новы год",
+    "date": "2027-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Рождество Христово (католическое)",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -522,6 +1274,14 @@
   {
     "date": "2028-01-02",
     "name": "Новы год",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-01-02",
+    "name": "Новый год",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -536,16 +1296,168 @@
     "isReligious": false
   },
   {
-    "date": "2028-03-08",
-    "name": "Дзень жанчын",
+    "date": "2028-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-01-07",
+    "name": "Pождество",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2028-04-16",
-    "name": "Каталiцкi Вялiкдзень; Праваслаўны Вялiкдзень",
+    "date": "2028-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-05",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-12",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-21",
+    "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-21",
+    "name": "Радуница",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -553,8 +1465,24 @@
   },
   {
     "date": "2028-04-25",
-    "name": "Радаўніца",
-    "isPublic": true,
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -562,6 +1490,14 @@
   {
     "date": "2028-05-01",
     "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Праздник труда",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -570,7 +1506,47 @@
   {
     "date": "2028-05-09",
     "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-05-09",
+    "name": "День Победы",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -584,8 +1560,96 @@
     "isReligious": false
   },
   {
+    "date": "2028-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-11-07",
     "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-11-07",
+    "name": "День Октябрьской революции",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -600,9 +1664,33 @@
     "isReligious": false
   },
   {
-    "date": "2029-01-01",
-    "name": "Новы год",
+    "date": "2028-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-12-25",
+    "name": "Рождество Христово (католическое)",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -610,6 +1698,14 @@
   {
     "date": "2029-01-02",
     "name": "Новы год",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-01-02",
+    "name": "Новый год",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -624,15 +1720,87 @@
     "isReligious": false
   },
   {
-    "date": "2029-03-08",
-    "name": "Дзень жанчын",
+    "date": "2029-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-01-07",
+    "name": "Pождество",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2029-04-01",
+    "date": "2029-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-05",
     "name": "Каталiцкi Вялiкдзень",
     "isPublic": true,
     "isWorkdayTransfer": false,
@@ -640,7 +1808,23 @@
     "isReligious": false
   },
   {
-    "date": "2029-04-08",
+    "date": "2029-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-12",
     "name": "Праваслаўны Вялiкдзень",
     "isPublic": true,
     "isWorkdayTransfer": false,
@@ -648,9 +1832,81 @@
     "isReligious": false
   },
   {
-    "date": "2029-04-17",
-    "name": "Радаўніца",
+    "date": "2029-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-21",
+    "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-21",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -658,6 +1914,14 @@
   {
     "date": "2029-05-01",
     "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Праздник труда",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -666,7 +1930,47 @@
   {
     "date": "2029-05-09",
     "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-05-09",
+    "name": "День Победы",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -680,8 +1984,96 @@
     "isReligious": false
   },
   {
+    "date": "2029-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-11-07",
     "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-11-07",
+    "name": "День Октябрьской революции",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -696,9 +2088,33 @@
     "isReligious": false
   },
   {
-    "date": "2030-01-01",
-    "name": "Новы год",
+    "date": "2029-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Рождество Христово (католическое)",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -706,6 +2122,14 @@
   {
     "date": "2030-01-02",
     "name": "Новы год",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-01-02",
+    "name": "Новый год",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -720,15 +2144,87 @@
     "isReligious": false
   },
   {
-    "date": "2030-03-08",
-    "name": "Дзень жанчын",
+    "date": "2030-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-01-07",
+    "name": "Pождество",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2030-04-21",
+    "date": "2030-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-05",
     "name": "Каталiцкi Вялiкдзень",
     "isPublic": true,
     "isWorkdayTransfer": false,
@@ -736,7 +2232,23 @@
     "isReligious": false
   },
   {
-    "date": "2030-04-28",
+    "date": "2030-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-12",
     "name": "Праваслаўны Вялiкдзень",
     "isPublic": true,
     "isWorkdayTransfer": false,
@@ -744,16 +2256,96 @@
     "isReligious": false
   },
   {
-    "date": "2030-05-01",
-    "name": "Свята працы",
+    "date": "2030-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2030-05-07",
+    "date": "2030-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-21",
     "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-05-01",
+    "name": "Праздник труда",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -762,7 +2354,47 @@
   {
     "date": "2030-05-09",
     "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-05-09",
+    "name": "День Победы",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -776,8 +2408,96 @@
     "isReligious": false
   },
   {
+    "date": "2030-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-11-07",
     "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-11-07",
+    "name": "День Октябрьской революции",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -792,9 +2512,33 @@
     "isReligious": false
   },
   {
-    "date": "2031-01-01",
-    "name": "Новы год",
+    "date": "2030-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-12-25",
+    "name": "Рождество Христово (католическое)",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -802,6 +2546,14 @@
   {
     "date": "2031-01-02",
     "name": "Новы год",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-01-02",
+    "name": "Новый год",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -816,25 +2568,193 @@
     "isReligious": false
   },
   {
+    "date": "2031-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-01-07",
+    "name": "Pождество",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-03-08",
     "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-03-08",
+    "name": "Международный женский день",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2031-04-13",
-    "name": "Каталiцкi Вялiкдзень; Праваслаўны Вялiкдзень",
+    "date": "2031-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-05",
+    "name": "Каталiцкi Вялiкдзень",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
   },
   {
-    "date": "2031-04-22",
+    "date": "2031-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-12",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-21",
     "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-21",
+    "name": "Радуница",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -842,6 +2762,14 @@
   {
     "date": "2031-05-01",
     "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Праздник труда",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -850,7 +2778,47 @@
   {
     "date": "2031-05-09",
     "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-05-09",
+    "name": "День Победы",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -864,8 +2832,96 @@
     "isReligious": false
   },
   {
+    "date": "2031-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-11-07",
     "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-11-07",
+    "name": "День Октябрьской революции",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -875,6 +2931,2158 @@
     "date": "2031-12-25",
     "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
     "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-12-25",
+    "name": "Рождество Христово (католическое)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-01-02",
+    "name": "Новы год",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-01-02",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-01-07",
+    "name": "Pождество",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-05",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-12",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-21",
+    "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-21",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-05-01",
+    "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-12-25",
+    "name": "Рождество Христово (католическое)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-01-02",
+    "name": "Новы год",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-01-02",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-01-07",
+    "name": "Pождество",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-05",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-12",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-21",
+    "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-21",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-01",
+    "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-12-25",
+    "name": "Рождество Христово (католическое)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-01-02",
+    "name": "Новы год",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-01-02",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-01-07",
+    "name": "Pождество",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-05",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-12",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-21",
+    "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-21",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-05-01",
+    "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-12-25",
+    "name": "Рождество Христово (католическое)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-01-02",
+    "name": "Новы год",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-01-02",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-01-07",
+    "name": "Pождество",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-05",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-12",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-21",
+    "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-21",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-05-01",
+    "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-12-25",
+    "name": "Рождество Христово (католическое)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-01-02",
+    "name": "Новы год",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-01-02",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-01-07",
+    "name": "Нараджэнне Хрыстова (праваслаўнае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-01-07",
+    "name": "Ражджаство Хрыстова (праваслаўнае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-01-07",
+    "name": "Pождество",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-02-23",
+    "name": "Дзень абаронцы Айчыны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-03-08",
+    "name": "Дзень жанчын",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-03-15",
+    "name": "Дзень Канстытуцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-02",
+    "name": "Дзень яднання народаў Беларусі і Расіі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-05",
+    "name": "Каталiцкi Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-05",
+    "name": "Вялікдзень (каталіцкая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-12",
+    "name": "Праваслаўны Вялiкдзень",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-12",
+    "name": "Вялікдзень (праваслаўная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-20",
+    "name": "Выходны (перанесены з 25.04.2026)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-20",
+    "name": "Предыдущая Радунице",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-20",
+    "name": "Предшествующего Радунице",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-21",
+    "name": "Радаўніца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-21",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-25",
+    "name": "Pабочих дней",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-26",
+    "name": "Дзень чарнобыльскай трагедыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-05-01",
+    "name": "Свята працы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-05-09",
+    "name": "Дзень Перамогі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-05-10",
+    "name": "Дзень Дзяржаўнага сцяга Рэспублікі Беларусь і Дзяржаўнага герба Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-06-22",
+    "name": "Дзень усенароднай памяці ахвяр Вялікай Айчыннай вайны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь (Дзень Рэспублікі)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-07-03",
+    "name": "Дзень Незалежнасці Рэспублікі Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-07-07",
+    "name": "Купалле",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-09-17",
+    "name": "Дзень народнага адзінства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-10-21",
+    "name": "Дзень бацькі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-11-02",
+    "name": "Дзяды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-11-07",
+    "name": "Дзень Кастрычніцкай рэвалюцыі",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-12-25",
+    "name": "Нараджэнне Хрыстова (каталіцкае Раство)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-12-25",
+    "name": "Ражджаство Хрыстова (каталіцкае)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-12-25",
+    "name": "Рождество Христово (католическое)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-12-31",
+    "name": "Напярэдадні Новага года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-12-31",
+    "name": "канун Нового года",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
