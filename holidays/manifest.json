@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
-  "updatedAt": "2026-10-13T01:03:09Z",
-  "totalCountries": 103,
-  "totalHolidays": 14489,
+  "updatedAt": "2026-10-13T01:29:47Z",
+  "totalCountries": 104,
+  "totalHolidays": 14658,
   "countries": {
     "AE": {
       "file": "AE.json",
@@ -64,10 +64,15 @@
       "sha256": "e5ffb15d825379f51fece4243b29de7cf027f73af5db9dd38a9402dfcbe41628",
       "holidayCount": 337
     },
+    "BY": {
+      "file": "BY.json",
+      "sha256": "7f41d4ac95c717836e988986c8511f8144f43849d76706a87c3e82f1847f99a8",
+      "holidayCount": 284
+    },
     "BY_BE": {
       "file": "BY_BE.json",
-      "sha256": "7862a8cd396232d10d6bc0b6ba1c47af7a719891d47a6399de6113e686d54c36",
-      "holidayCount": 1
+      "sha256": "f4c6c75eca5fbe33424676b981aa91e7dbb4fb6932c96415299440da2eac660e",
+      "holidayCount": 284
     },
     "CA": {
       "file": "CA.json",
@@ -446,8 +451,8 @@
     },
     "RU": {
       "file": "RU.json",
-      "sha256": "223aa80e7bed0019b3a9898dd3bfbab4fbc352515d4f6bd0dcddda34e02ccada",
-      "holidayCount": 398
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "SA": {
       "file": "SA.json",
