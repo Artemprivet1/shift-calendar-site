@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
-  "updatedAt": "2026-10-13T01:49:44Z",
+  "updatedAt": "2026-10-13T01:52:46Z",
   "totalCountries": 104,
-  "totalHolidays": 14682,
+  "totalHolidays": 14681,
   "countries": {
     "AE": {
       "file": "AE.json",
@@ -451,8 +451,8 @@
     },
     "RU": {
       "file": "RU.json",
-      "sha256": "522accec4d6dd9b867fec3c637f8a283433eafa2c24b889892c3eebc2fb32203",
-      "holidayCount": 24
+      "sha256": "b4d6426fcdac060f13213509983d254bed0a5dde5ae30cb6800f9d1484a7c337",
+      "holidayCount": 23
     },
     "SA": {
       "file": "SA.json",

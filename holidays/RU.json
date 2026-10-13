@@ -216,14 +216,6 @@
     "isReligious": true
   },
   {
-    "date": "2026-10-13",
-    "name": "привет",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2026-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
