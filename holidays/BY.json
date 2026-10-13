@@ -270,6 +270,14 @@
     "source": "google"
   },
   {
+    "date": "2026-01-01",
+    "name": "привет",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-01-01",
     "name": "Новый год",
     "isPublic": false,
