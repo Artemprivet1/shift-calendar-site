@@ -1,348 +1,348 @@
 {
   "schemaVersion": "2.0",
-  "updatedAt": "2026-10-13T02:06:36Z",
-  "totalCountries": 103,
-  "totalHolidays": 14533,
+  "updatedAt": "2026-10-13T02:09:26Z",
+  "totalCountries": 102,
+  "totalHolidays": 0,
   "countries": {
     "AE": {
       "file": "AE.json",
-      "sha256": "dd885a3e881119f69f7001d1dc7d5b92e701d6405a86729efb36db6e24f2ee41",
-      "holidayCount": 84
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "AM": {
       "file": "AM.json",
-      "sha256": "9ae7a3016595ac15abbc59287899c3fe4a571a722f719e2dbe05b018e2d0220e",
-      "holidayCount": 90
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "AR": {
       "file": "AR.json",
-      "sha256": "892e2648648ca0d225f851da08d921779b5f409d097db8d0f2e71db0bd66d3f3",
-      "holidayCount": 365
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "AT": {
       "file": "AT.json",
-      "sha256": "8089fded3beb8bdcbd31e70e8a72c2f8ebb256c974bbaa54782e530e60a02066",
-      "holidayCount": 91
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "AU": {
       "file": "AU.json",
-      "sha256": "3da26f3c5d96c273252d342e693b0a8c131af8a3f33e24d01876d50b141f6fde",
-      "holidayCount": 153
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "AZ": {
       "file": "AZ.json",
-      "sha256": "b4da4fc42aff7075656688c98deb5e08dfdc146539a8cef0c8fa0cbe12cd2916",
-      "holidayCount": 183
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "BD": {
       "file": "BD.json",
-      "sha256": "f30b32fce671c401a2501dc1a0484bc5344723cd91320ec9b31eaa73e1de7b9b",
-      "holidayCount": 124
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "BE": {
       "file": "BE.json",
-      "sha256": "b779f7c63fd40c440fbfb1e5d7eaed25c96738ba01629b536c0672b1a897ed77",
-      "holidayCount": 84
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "BG": {
       "file": "BG.json",
-      "sha256": "f7b9697ea8c0b9f1763a3a4a697a4c05a374269ce5447f37c9045be79d478987",
-      "holidayCount": 117
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "BH": {
       "file": "BH.json",
-      "sha256": "b0efbaeecbd95cae018fc0106bf5cead984c8afb303871187b3487c544bca35e",
-      "holidayCount": 97
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "BO": {
       "file": "BO.json",
-      "sha256": "c87eaea4c07363f5c7a1749c225cbbf3df8b38615ac86b93007aaccab064429e",
-      "holidayCount": 149
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "BR": {
       "file": "BR.json",
-      "sha256": "e5ffb15d825379f51fece4243b29de7cf027f73af5db9dd38a9402dfcbe41628",
-      "holidayCount": 337
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "BY": {
       "file": "BY.json",
-      "sha256": "7f41d4ac95c717836e988986c8511f8144f43849d76706a87c3e82f1847f99a8",
-      "holidayCount": 284
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "BY_BE": {
       "file": "BY_BE.json",
-      "sha256": "f4c6c75eca5fbe33424676b981aa91e7dbb4fb6932c96415299440da2eac660e",
-      "holidayCount": 284
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "CA": {
       "file": "CA.json",
-      "sha256": "60071bba2db11ac463d2bff1f6adf25e6292bab0c1655367c2f0508504c8c702",
-      "holidayCount": 123
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "CH": {
       "file": "CH.json",
-      "sha256": "4ed327bffd40be0788d9d353a96d6b36a536ba83e2fc01b8f22455c9aed75012",
-      "holidayCount": 182
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "CL": {
       "file": "CL.json",
-      "sha256": "9b2996edfc560e50cd02bdbb4949a7a3dd8f1e0e370567b8ca2e3e83b111e1e9",
-      "holidayCount": 129
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "CO": {
       "file": "CO.json",
-      "sha256": "d64e57a55fe0998e1909d77a681601ac904c5492a84c3aaebd76d947279ca81f",
-      "holidayCount": 130
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "CR": {
       "file": "CR.json",
-      "sha256": "af3325248ef239d949515b5b1e9ef9402b99d369aae29466b2b7db41d2ad2ca7",
-      "holidayCount": 62
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "CY": {
       "file": "CY.json",
-      "sha256": "2d553f3bfd03667fc478b669216095ed4077be93c99837ac2ac26f1c479f7230",
-      "holidayCount": 105
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "CZ": {
       "file": "CZ.json",
-      "sha256": "59aa3b1f6f1d36dc3b4f2c22a4ced86e0c2bcdadd3716c6c31ec8dcc3028fa11",
-      "holidayCount": 91
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "DE": {
       "file": "DE.json",
-      "sha256": "afba66769ae7fdfb9efc55b7ca813d4a6462aa05795d814f16c91aca2012824a",
-      "holidayCount": 142
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "DK": {
       "file": "DK.json",
-      "sha256": "eb598265469f9231630cea5018db487bab5b499a02c03dfc4274c17074dc7ca6",
-      "holidayCount": 70
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "DO": {
       "file": "DO.json",
-      "sha256": "b57cbd898a195d3afba92594be67718ddf7aadf20f895cd07944c5e97ec2c089",
-      "holidayCount": 84
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "DZ": {
       "file": "DZ.json",
-      "sha256": "b62f10afbce9315b6eea2c5575709fc9a4421e6755146c129033fda6b9826d8e",
-      "holidayCount": 97
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "EC": {
       "file": "EC.json",
-      "sha256": "4be4dd478f91fdecbacda4b0b2fa0b9c5232e0564694f9e8a3553a8f222adae7",
-      "holidayCount": 104
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "EE": {
       "file": "EE.json",
-      "sha256": "e7f3aad424c9b17e1963b0735f66784db0c87eb7c707e5db054be3634136b9f2",
-      "holidayCount": 84
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "EG": {
       "file": "EG.json",
-      "sha256": "33d9c04e1dfd4dca4572b833af49d3d295cd3660e2be376907b57547248ac5e1",
-      "holidayCount": 109
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "ES": {
       "file": "ES.json",
-      "sha256": "9daa3ebf1b0b81f51f9858e2843b381b21b0bad70481f1cb23b0222c773df892",
-      "holidayCount": 247
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "ET": {
       "file": "ET.json",
-      "sha256": "c0231f8f1344762dd45a1c22d65cf5867f06c062a214ab83941efa3233e2d64c",
-      "holidayCount": 90
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "FI": {
       "file": "FI.json",
-      "sha256": "2a70c288581af3608bbf814e97ccb60bac19c3adfead771f079175fa2797d6da",
-      "holidayCount": 111
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "FJ": {
       "file": "FJ.json",
-      "sha256": "a9137165c15c57cbcedc3cde409d19f60ae6e8d798be23636c16ad512490ad98",
-      "holidayCount": 86
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "FR": {
       "file": "FR.json",
-      "sha256": "1b6e0bddf341769d31455bd2f3e0787ac016a8b10ce82e8d679885588dbdeda0",
-      "holidayCount": 194
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "GB": {
       "file": "GB.json",
-      "sha256": "8eaa9af75a05c95847a157ed637e3bb28141e20b4781e1c04988681ae914988c",
-      "holidayCount": 106
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "GE": {
       "file": "GE.json",
-      "sha256": "c5457a99b06a2c094514e51124bf6a47a340b377ea832fa2ce7b1c4f4c483cb1",
-      "holidayCount": 126
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "GH": {
       "file": "GH.json",
-      "sha256": "03ae2afd12e26cce19b3360780d271dc42ed74eb2ffd707e85f13968436a531f",
-      "holidayCount": 103
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "GR": {
       "file": "GR.json",
-      "sha256": "95daf3ad1176dd15f3ff02d5f8908f7f99d07ef162077971c97249fb704790ea",
-      "holidayCount": 85
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "GT": {
       "file": "GT.json",
-      "sha256": "c5d40f2eb0d958fdbb44f5172c9d4f37ed79cc0551e44ab07427a757ce2ed638",
-      "holidayCount": 77
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "HK": {
       "file": "HK.json",
-      "sha256": "252ab8fff1902763da03cd102b6d4427b3e8914ea989def7ed854bcfc9269e94",
-      "holidayCount": 118
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "HR": {
       "file": "HR.json",
-      "sha256": "84da53d3f60568f2d2dcaf5d9ad2703763428bb59589160e6c1c4d08ad56688d",
-      "holidayCount": 98
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "HU": {
       "file": "HU.json",
-      "sha256": "85bdccce75110a5de30f216040c80b10e0a96fb65629dc268de8d7611edcc8c0",
-      "holidayCount": 97
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "ID": {
       "file": "ID.json",
-      "sha256": "d11b25c605dfccf54ab4bc8ec94fa5b2ac86de2bd6fd83e01060c1386a6632cf",
-      "holidayCount": 118
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "IE": {
       "file": "IE.json",
-      "sha256": "c86dd8377480f33b648b715f5dc901009d73c8be1949b3d290bef0684b880d90",
-      "holidayCount": 70
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "IL": {
       "file": "IL.json",
-      "sha256": "069a820dad58d4fc1b571b1d3a110697fd0780a536679436c6b8e888c78527c9",
-      "holidayCount": 63
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "IN": {
       "file": "IN.json",
-      "sha256": "5fe10dfb19be72c106f1032d4f0048869ec9053a904494e48ab3f80d3c100036",
-      "holidayCount": 477
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "IQ": {
       "file": "IQ.json",
-      "sha256": "2845a6125768df7960dee223ef5526e255a3dc0ea8774d71dc29922233021959",
-      "holidayCount": 111
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "IR": {
       "file": "IR.json",
-      "sha256": "1b505fa65d4b16c0e9c96fc106f74d894675588c5878f58e685b7808edbcd8f5",
-      "holidayCount": 193
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "IS": {
       "file": "IS.json",
-      "sha256": "2a977cf444d5c63d7b431ba3bab82343946037f6105784ebe51e1d22439783c4",
-      "holidayCount": 98
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "IT": {
       "file": "IT.json",
-      "sha256": "6c56cac63993ec19369762b7ba1c8e9833c423ddb1695190302992ed97ec1c08",
-      "holidayCount": 695
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "JM": {
       "file": "JM.json",
-      "sha256": "d414c25b46675b654f0b70bfada9accf532e936458d1f5cf0acf5762b3bd0778",
-      "holidayCount": 75
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "JO": {
       "file": "JO.json",
-      "sha256": "f974dc1f46f9298cd94e1331950412bde10473419865704980f3f673d4bc9bec",
-      "holidayCount": 97
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "JP": {
       "file": "JP.json",
-      "sha256": "66f0a4cd50e8632bd2a7e2b73d09a941aac5cecca97cb7dd02d81bf5d8349ebd",
-      "holidayCount": 127
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "KE": {
       "file": "KE.json",
-      "sha256": "bb0a4a1ae2a7e7abcd0de3ff11943587eb292e0d3092449d5d826400684de5ea",
-      "holidayCount": 84
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "KG": {
       "file": "KG.json",
-      "sha256": "87f067c0dbd6595ea358e86d6caab68a45c02a96b662a395f8e880ec1f47afc2",
-      "holidayCount": 144
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "KH": {
       "file": "KH.json",
-      "sha256": "4f5b45b3266902d0954f23570961437a27ff8e63da85611c64508ea9a3fa64ce",
-      "holidayCount": 150
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "KR": {
       "file": "KR.json",
-      "sha256": "aa45bd1fdd83580f11c5a2ccef45066af57975d2772315b4d8eea2f3e153ba29",
-      "holidayCount": 142
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "KW": {
       "file": "KW.json",
-      "sha256": "c911480e19194685865ce4ada9ea37e2319f7ed12a3f6883001dc1db2354ad7a",
-      "holidayCount": 91
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "KZ": {
       "file": "KZ.json",
-      "sha256": "f29f1dcb9bb560b749ead4a460524d93a569cabd95f7edd7bf9648afa286d30b",
-      "holidayCount": 133
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "LA": {
       "file": "LA.json",
-      "sha256": "524c7412f51f116404fd71c18825c53ef9834a7015c7e5681b86fa46d5de5903",
-      "holidayCount": 61
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "LK": {
       "file": "LK.json",
-      "sha256": "25525ec61b7c60e4abb9bf0b7232c3a594cdb77b0c7fc00a315f6639e6d6100b",
-      "holidayCount": 59
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "LT": {
       "file": "LT.json",
-      "sha256": "9ac138e21fc05655e6c114ca5e235ae67b90f13647f406320ed9fee2ff0e156a",
-      "holidayCount": 112
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "LU": {
       "file": "LU.json",
-      "sha256": "380b2ef92f79973a4c59580209b01a2d5d37287ead0f75254bbff24ccf78ad22",
-      "holidayCount": 77
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "LV": {
       "file": "LV.json",
-      "sha256": "dd699763c5301393312ea77b59484d983ae2652d7fbce04af25b81ffa2bcb59e",
-      "holidayCount": 114
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "MA": {
       "file": "MA.json",
-      "sha256": "f68618463b07b8ccf11aae2766d3b19daaac8b913f5177bcdd18d789a41c24b1",
-      "holidayCount": 118
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "MD": {
       "file": "MD.json",
-      "sha256": "429db08aefe7d4d9ceebe9ae127cb7c49b8664dee24587f6e30dfb16c3b76cab",
-      "holidayCount": 175
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "MM": {
       "file": "MM.json",
-      "sha256": "c5cae84ae14d61bad49c940493017bf431357ffaf1af4831892718b8e1aef9a5",
-      "holidayCount": 203
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "MN": {
       "file": "MN.json",
-      "sha256": "11095cb30ef9f3e717e18f005817367ed2fc34fa08997e5f8129093dde5daecf",
-      "holidayCount": 111
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "MO": {
       "file": "MO.json",
-      "sha256": "6928dbcc31efe6e295a235a6f9437aa3851bbebec1483c1fb5fa91cd99903cf0",
-      "holidayCount": 70
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "MT": {
       "file": "MT.json",
@@ -351,173 +351,168 @@
     },
     "MY": {
       "file": "MY.json",
-      "sha256": "c11174d56d3a19a582ae951ca48aaf1ebcc18673ae11dd3ed57ca49225189c23",
-      "holidayCount": 384
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "NG": {
       "file": "NG.json",
-      "sha256": "b3b10644c207b5a3b20e8988b7a0beaca6d822d1173af0723096ea641d803604",
-      "holidayCount": 111
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "NL": {
       "file": "NL.json",
-      "sha256": "29596568848286db9556afe96aba3783762e681cc57d40f79485998590992aec",
-      "holidayCount": 72
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "NO": {
       "file": "NO.json",
-      "sha256": "9f7c26f092203d1499d2fd80f9360d0a08e5a4f3369e8d538cd74c9438561094",
-      "holidayCount": 71
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "NP": {
       "file": "NP.json",
-      "sha256": "7b283dbe060fa462b2e2ed2346aeb9d58fb33c3c2823f8f49e27c69dde65ac34",
-      "holidayCount": 226
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "NZ": {
       "file": "NZ.json",
-      "sha256": "eaf2ce0238ee8d084868ed34dae5cea00c73589472e2e0bbbf81afac00dafec6",
-      "holidayCount": 162
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "OM": {
       "file": "OM.json",
-      "sha256": "85df30dc97fb3a3e27c719b021e7bd2a83cf091d657d7e102c4b79974c6eedec",
-      "holidayCount": 102
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "PA": {
       "file": "PA.json",
-      "sha256": "2fa24ca4cf4d03e94eb2d4b6ffffd3dad11de324efb598121d7ec079ee15b133",
-      "holidayCount": 91
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "PE": {
       "file": "PE.json",
-      "sha256": "fdaf9e2c9ad7ed514ae54cc66fc14a23a84a1dc1b0aad9e77bbd0ca84b2417b2",
-      "holidayCount": 119
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "PG": {
       "file": "PG.json",
-      "sha256": "6849f4ce4ecb5fb6d8cbd1a72bbcb116b569b19f8d09423425d04cb4fa689f9f",
-      "holidayCount": 81
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "PH": {
       "file": "PH.json",
-      "sha256": "762bc3ab40f759ff6625e9f788efda3b30131e337732b0fd86773818cb054e79",
-      "holidayCount": 132
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "PK": {
       "file": "PK.json",
-      "sha256": "0c22f2f184aabbe4ad336060c00086084d55caa056073e584ded9e54506f5410",
-      "holidayCount": 108
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "PL": {
       "file": "PL.json",
-      "sha256": "7114a163815ddf22f5942f7e1f249a1a5ab3f97cba6d1035858800b8762ac9ac",
-      "holidayCount": 98
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "PT": {
       "file": "PT.json",
-      "sha256": "1f0b4b0699c7599bb7653e8d1462ca18dcf0c92a3efeb5ea6df8938f6fcf2bea",
-      "holidayCount": 222
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "PY": {
       "file": "PY.json",
-      "sha256": "e1a8b8db8b64e9f652e8bf16184122faa0a04f5ace591dfd4879ee5d24faff89",
-      "holidayCount": 97
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "QA": {
       "file": "QA.json",
-      "sha256": "74ec912742ce7b32f217bfb2189e4540e3211856bedd8a1328a39984dedfc190",
-      "holidayCount": 57
-    },
-    "RELIGIOUS": {
-      "file": "religious.json",
-      "sha256": "e3622c1c038fcce94b2456c96ac4fbe88941f06afae91e91a2fb664c4bc81af7",
-      "holidayCount": 468
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "RO": {
       "file": "RO.json",
-      "sha256": "f80b762a9f5cde11c6255280ff49a3fbba48c603fdc6de15e2350ced0c692350",
-      "holidayCount": 117
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "RS": {
       "file": "RS.json",
-      "sha256": "2c4faff16890e012421781916e87b1115393cd7fe790a2dcd3302cd058fe3a88",
-      "holidayCount": 88
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "RU": {
       "file": "RU.json",
-      "sha256": "b4d6426fcdac060f13213509983d254bed0a5dde5ae30cb6800f9d1484a7c337",
-      "holidayCount": 23
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "SA": {
       "file": "SA.json",
-      "sha256": "fa28855f4f745337cb454024fbd6fe883b13f1ae95e0c8f20d0950755bd609b6",
-      "holidayCount": 91
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "SE": {
       "file": "SE.json",
-      "sha256": "24c22b1d789e07cd75f68ba8025b5cf8b4c07e373656619bced29f3ffe3f7276",
-      "holidayCount": 439
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "SG": {
       "file": "SG.json",
-      "sha256": "15e5393c1182aa7c00c6e30e165a7862d88825437fd335093b05bd48d2004cde",
-      "holidayCount": 81
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "SI": {
       "file": "SI.json",
-      "sha256": "e07ba58ea5dc20caedc1b0b1a469b9162e93a366e04a39e29de23cfa727b7141",
-      "holidayCount": 105
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "SK": {
       "file": "SK.json",
-      "sha256": "808a0f3d3a67540b9aa1d00d17c8091c8d6dbf089b8ee8d3b9046fc6211a723e",
-      "holidayCount": 89
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "TH": {
       "file": "TH.json",
-      "sha256": "44d1db55c069d2c938b3390b8fbde76ffbc129ca85d243bc7a808e3ce18ae74f",
-      "holidayCount": 177
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "TR": {
       "file": "TR.json",
-      "sha256": "9e8150b9efba97000098ae4f4439c83c0c1230ab4fa5147eb7adf922ebffd8ce",
-      "holidayCount": 97
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "TW": {
       "file": "TW.json",
-      "sha256": "5ef6d5001aaf74fdda930d120f4957292e938e8806db0c784ee5ad88d33668db",
-      "holidayCount": 139
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "US": {
       "file": "US.json",
-      "sha256": "6e50cc1dc7dc25dbcb6d619f5ead5195bd91595fa044b145c0eea612564d37ce",
-      "holidayCount": 455
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "US_ES": {
       "file": "US_es.json",
-      "sha256": "b3f4b9da8709176e4349cc75f5b273e78c6ffeeee50f562438d88dbdc7843610",
-      "holidayCount": 266
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "UY": {
       "file": "UY.json",
-      "sha256": "7744c2247ab62c00baa12576303a7cf68416991de6be29fcdcd22d58579924e7",
-      "holidayCount": 35
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "UZ": {
       "file": "UZ.json",
-      "sha256": "ddfbb7de4c67cd046a78551e0f143a41e9d0e29f528dca54dd4edf367689fa4e",
-      "holidayCount": 87
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "VN": {
       "file": "VN.json",
-      "sha256": "827c3abdc0a3854db510a981e9a59b4bf9f03f3708091ec619f215a2783e7059",
-      "holidayCount": 91
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     },
     "ZA": {
       "file": "ZA.json",
-      "sha256": "54bde92435b6c74af54b8b619f815ff39e06f0ecd891f9624ef72b7b6b0391e5",
-      "holidayCount": 92
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "holidayCount": 0
     }
   }
 }
