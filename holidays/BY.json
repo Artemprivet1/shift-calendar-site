@@ -2,38 +2,42 @@
   {
     "date": "2025-01-01",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-01-02",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-01-06",
-    "name": "Pабочих дней",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
+    "name": "Перенесенный выходной день (с 11.01.2025)",
+    "isPublic": true,
+    "isWorkdayTransfer": true,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-01-07",
-    "name": "Pождество",
-    "isPublic": false,
+    "name": "Рождество Христово (православное)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
+  },
+  {
+    "date": "2025-01-11",
+    "name": "Рабочая суббота (перенос за 06.01.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-02-23",
@@ -41,17 +45,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-03-08",
     "name": "Международный женский день",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-03-15",
@@ -59,8 +61,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-04-02",
@@ -68,8 +69,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-04-20",
@@ -77,8 +77,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2025-04-20",
@@ -86,8 +85,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2025-04-26",
@@ -95,53 +93,47 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-04-26",
-    "name": "Pабочих дней",
+    "name": "Рабочая суббота (перенос за 28.04.2025)",
     "isPublic": false,
-    "isWorkdayTransfer": false,
+    "isWorkdayTransfer": true,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-04-28",
-    "name": "Предшествующего Радунице",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
+    "name": "Перенесенный выходной день (с 26.04.2025)",
+    "isPublic": true,
+    "isWorkdayTransfer": true,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-04-29",
-    "name": "Рабочий / Радуница",
-    "isPublic": false,
+    "name": "Радуница",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-05-01",
     "name": "Праздник труда",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-05-09",
     "name": "День Победы",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-05-11",
@@ -149,8 +141,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-06-22",
@@ -158,35 +149,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-07-03",
     "name": "День Независимости Республики Беларусь",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-07-04",
-    "name": "День Независимости Республики Беларусь",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
+    "name": "Перенесенный выходной день (с 12.07.2025)",
+    "isPublic": true,
+    "isWorkdayTransfer": true,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
-  },
-  {
-    "date": "2025-07-06",
-    "name": "Купалье",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-07-07",
@@ -194,8 +173,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-12",
+    "name": "Рабочая суббота (перенос за 04.07.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-09-17",
@@ -203,8 +189,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-10-21",
@@ -212,8 +197,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-11-02",
@@ -221,44 +205,39 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-11-07",
     "name": "День Октябрьской революции",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-12-20",
-    "name": "Pабочих дней",
+    "name": "Рабочая суббота (перенос за 26.12.2025)",
     "isPublic": false,
-    "isWorkdayTransfer": false,
+    "isWorkdayTransfer": true,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-12-25",
     "name": "Рождество Христово (католическое)",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2025-12-26",
-    "name": "Рождество Христово (католическое)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
+    "name": "Перенесенный выходной день (с 20.12.2025)",
+    "isPublic": true,
+    "isWorkdayTransfer": true,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2025-12-31",
@@ -266,12 +245,187 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2026-01-01",
-    "name": "привет",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-01-02",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-01-07",
+    "name": "Рождество Христово (православное)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2026-02-23",
+    "name": "День защитника Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-03-08",
+    "name": "Международный женский день",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-03-15",
+    "name": "День Конституции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Пасха (католическая)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-10",
+    "name": "День Государственного флага Республики Беларусь и Государственного герба Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-03",
+    "name": "День Независимости Республики Беларусь",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Деды",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Рождество Христово (католическое)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2026-12-31",
+    "name": "канун Нового года",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -280,29 +434,26 @@
   {
     "date": "2027-01-01",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-01-02",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-01-07",
-    "name": "Pождество",
-    "isPublic": false,
+    "name": "Рождество Христово (православное)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2027-02-23",
@@ -310,17 +461,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-03-08",
     "name": "Международный женский день",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-03-15",
@@ -328,8 +477,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-03-28",
@@ -337,8 +485,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2027-04-02",
@@ -346,8 +493,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-04-26",
@@ -355,17 +501,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-05-01",
     "name": "Праздник труда",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-05-02",
@@ -373,8 +517,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
+  },
+  {
+    "date": "2027-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2027-05-09",
@@ -382,17 +533,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
-    "date": "2027-05-09",
-    "name": "День Победы",
-    "isPublic": false,
+    "date": "2027-05-11",
+    "name": "Радуница",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-06-22",
@@ -400,26 +549,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-07-03",
     "name": "День Независимости Республики Беларусь",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
-  },
-  {
-    "date": "2027-07-06",
-    "name": "Купалье",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-07-07",
@@ -427,8 +565,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-09-17",
@@ -436,8 +573,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-10-21",
@@ -445,8 +581,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-11-02",
@@ -454,26 +589,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-11-07",
     "name": "День Октябрьской революции",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2027-12-25",
     "name": "Рождество Христово (католическое)",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2027-12-31",
@@ -481,35 +613,31 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-01-01",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-01-02",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-01-07",
-    "name": "Pождество",
-    "isPublic": false,
+    "name": "Рождество Христово (православное)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2028-02-23",
@@ -517,17 +645,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-03-08",
     "name": "Международный женский день",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-03-15",
@@ -535,8 +661,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-04-02",
@@ -544,8 +669,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-04-16",
@@ -553,8 +677,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2028-04-16",
@@ -562,8 +685,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
+  },
+  {
+    "date": "2028-04-25",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2028-04-26",
@@ -571,26 +701,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-05-01",
     "name": "Праздник труда",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-05-09",
     "name": "День Победы",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-05-14",
@@ -598,8 +725,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-06-22",
@@ -607,26 +733,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-07-03",
     "name": "День Независимости Республики Беларусь",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
-  },
-  {
-    "date": "2028-07-06",
-    "name": "Купалье",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-07-07",
@@ -634,8 +749,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-09-17",
@@ -643,8 +757,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-10-21",
@@ -652,8 +765,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-11-02",
@@ -661,26 +773,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-11-07",
     "name": "День Октябрьской революции",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2028-12-25",
     "name": "Рождество Христово (католическое)",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2028-12-31",
@@ -688,35 +797,31 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-01-01",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-01-02",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-01-07",
-    "name": "Pождество",
-    "isPublic": false,
+    "name": "Рождество Христово (православное)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2029-02-23",
@@ -724,17 +829,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-03-08",
     "name": "Международный женский день",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-03-15",
@@ -742,8 +845,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-04-01",
@@ -751,8 +853,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2029-04-02",
@@ -760,8 +861,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-04-08",
@@ -769,8 +869,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
+  },
+  {
+    "date": "2029-04-17",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2029-04-26",
@@ -778,26 +885,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-05-01",
     "name": "Праздник труда",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-05-09",
     "name": "День Победы",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-05-13",
@@ -805,8 +909,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-06-22",
@@ -814,26 +917,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-07-03",
     "name": "День Независимости Республики Беларусь",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
-  },
-  {
-    "date": "2029-07-06",
-    "name": "Купалье",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-07-07",
@@ -841,8 +933,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-09-17",
@@ -850,8 +941,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-10-21",
@@ -859,8 +949,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-11-02",
@@ -868,26 +957,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-11-07",
     "name": "День Октябрьской революции",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2029-12-25",
     "name": "Рождество Христово (католическое)",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2029-12-31",
@@ -895,35 +981,31 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-01-01",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-01-02",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-01-07",
-    "name": "Pождество",
-    "isPublic": false,
+    "name": "Рождество Христово (православное)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2030-02-23",
@@ -931,17 +1013,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-03-08",
     "name": "Международный женский день",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-03-15",
@@ -949,8 +1029,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-04-02",
@@ -958,8 +1037,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-04-21",
@@ -967,8 +1045,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2030-04-26",
@@ -976,8 +1053,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-04-28",
@@ -985,26 +1061,31 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2030-05-01",
     "name": "Праздник труда",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
+  },
+  {
+    "date": "2030-05-07",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2030-05-09",
     "name": "День Победы",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-05-12",
@@ -1012,8 +1093,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-06-22",
@@ -1021,26 +1101,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-07-03",
     "name": "День Независимости Республики Беларусь",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
-  },
-  {
-    "date": "2030-07-06",
-    "name": "Купалье",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-07-07",
@@ -1048,8 +1117,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-09-17",
@@ -1057,8 +1125,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-10-21",
@@ -1066,8 +1133,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-11-02",
@@ -1075,26 +1141,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-11-07",
     "name": "День Октябрьской революции",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2030-12-25",
     "name": "Рождество Христово (католическое)",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2030-12-31",
@@ -1102,35 +1165,31 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-01-01",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-01-02",
     "name": "Новый год",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-01-07",
-    "name": "Pождество",
-    "isPublic": false,
+    "name": "Рождество Христово (православное)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2031-02-23",
@@ -1138,17 +1197,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-03-08",
     "name": "Международный женский день",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-03-15",
@@ -1156,8 +1213,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-04-02",
@@ -1165,17 +1221,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
-  },
-  {
-    "date": "2031-04-13",
-    "name": "Пасха (православная)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-04-13",
@@ -1183,8 +1229,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
+  },
+  {
+    "date": "2031-04-13",
+    "name": "Пасха (православная)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2031-04-22",
+    "name": "Радуница",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2031-04-26",
@@ -1192,26 +1253,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-05-01",
     "name": "Праздник труда",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-05-09",
     "name": "День Победы",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-05-11",
@@ -1219,8 +1277,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-06-22",
@@ -1228,26 +1285,15 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-07-03",
     "name": "День Независимости Республики Беларусь",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
-  },
-  {
-    "date": "2031-07-06",
-    "name": "Купалье",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-07-07",
@@ -1255,8 +1301,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-09-17",
@@ -1264,8 +1309,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-10-21",
@@ -1273,8 +1317,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-11-02",
@@ -1282,26 +1325,23 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-11-07",
     "name": "День Октябрьской революции",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2031-12-25",
     "name": "Рождество Христово (католическое)",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": true
   },
   {
     "date": "2031-12-31",
@@ -1309,8 +1349,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "source": "google"
+    "isReligious": false
   },
   {
     "date": "2032-01-01",
