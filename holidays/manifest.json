@@ -1,16 +1,41 @@
 {
   "schemaVersion": "2.0",
-  "updatedAt": "2026-10-17T21:48:05Z",
-  "totalCountries": 104,
+  "updatedAt": "2026-10-18T23:18:10Z",
+  "totalCountries": 199,
   "totalHolidays": 756,
   "countries": {
+    "AD": {
+      "file": "AD.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "AE": {
       "file": "AE.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "AF": {
+      "file": "AF.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "AG": {
+      "file": "AG.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "AL": {
+      "file": "AL.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "AM": {
       "file": "AM.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "AO": {
+      "file": "AO.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -34,6 +59,16 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "BA": {
+      "file": "BA.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "BB": {
+      "file": "BB.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "BD": {
       "file": "BD.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
@@ -41,6 +76,11 @@
     },
     "BE": {
       "file": "BE.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "BF": {
+      "file": "BF.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -54,6 +94,21 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "BI": {
+      "file": "BI.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "BJ": {
+      "file": "BJ.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "BN": {
+      "file": "BN.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "BO": {
       "file": "BO.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
@@ -61,6 +116,21 @@
     },
     "BR": {
       "file": "BR.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "BS": {
+      "file": "BS.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "BT": {
+      "file": "BT.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "BW": {
+      "file": "BW.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -74,8 +144,28 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "BZ": {
+      "file": "BZ.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "CA": {
       "file": "CA.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "CD": {
+      "file": "CD.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "CF": {
+      "file": "CF.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "CG": {
+      "file": "CG.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -89,6 +179,16 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "CM": {
+      "file": "CM.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "CN": {
+      "file": "CN.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "CO": {
       "file": "CO.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
@@ -96,6 +196,16 @@
     },
     "CR": {
       "file": "CR.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "CU": {
+      "file": "CU.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "CV": {
+      "file": "CV.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -114,8 +224,18 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "DJ": {
+      "file": "DJ.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "DK": {
       "file": "DK.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "DM": {
+      "file": "DM.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -144,6 +264,11 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "ER": {
+      "file": "ER.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "ES": {
       "file": "ES.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
@@ -164,13 +289,28 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "FM": {
+      "file": "FM.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "FR": {
       "file": "FR.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "GA": {
+      "file": "GA.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "GB": {
       "file": "GB.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "GD": {
+      "file": "GD.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -184,6 +324,21 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "GM": {
+      "file": "GM.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "GN": {
+      "file": "GN.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "GQ": {
+      "file": "GQ.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "GR": {
       "file": "GR.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
@@ -194,13 +349,33 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "GW": {
+      "file": "GW.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "GY": {
+      "file": "GY.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "HK": {
       "file": "HK.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "HN": {
+      "file": "HN.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "HR": {
       "file": "HR.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "HT": {
+      "file": "HT.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -284,6 +459,26 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "KI": {
+      "file": "KI.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "KM": {
+      "file": "KM.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "KN": {
+      "file": "KN.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "KP": {
+      "file": "KP.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "KR": {
       "file": "KR.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
@@ -304,8 +499,33 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "LB": {
+      "file": "LB.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "LC": {
+      "file": "LC.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "LI": {
+      "file": "LI.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "LK": {
       "file": "LK.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "LR": {
+      "file": "LR.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "LS": {
+      "file": "LS.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -324,13 +544,48 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "LY": {
+      "file": "LY.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "MA": {
       "file": "MA.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "MC": {
+      "file": "MC.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "MD": {
       "file": "MD.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "ME": {
+      "file": "ME.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "MG": {
+      "file": "MG.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "MH": {
+      "file": "MH.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "MK": {
+      "file": "MK.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "ML": {
+      "file": "ML.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -349,8 +604,33 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "MR": {
+      "file": "MR.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "MT": {
       "file": "MT.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "MU": {
+      "file": "MU.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "MV": {
+      "file": "MV.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "MW": {
+      "file": "MW.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "MX": {
+      "file": "MX.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -359,8 +639,28 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "MZ": {
+      "file": "MZ.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "NA": {
+      "file": "NA.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "NE": {
+      "file": "NE.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "NG": {
       "file": "NG.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "NI": {
+      "file": "NI.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -376,6 +676,11 @@
     },
     "NP": {
       "file": "NP.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "NR": {
+      "file": "NR.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -419,8 +724,18 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "PS": {
+      "file": "PS.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "PT": {
       "file": "PT.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "PW": {
+      "file": "PW.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -454,8 +769,28 @@
       "sha256": "c94c2a19c6be97259bbad2e1533aebb72b57cf09f777258097c87026a402e6eb",
       "holidayCount": 288
     },
+    "RW": {
+      "file": "RW.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "SA": {
       "file": "SA.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SB": {
+      "file": "SB.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SC": {
+      "file": "SC.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SD": {
+      "file": "SD.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -479,8 +814,93 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "SL": {
+      "file": "SL.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SM": {
+      "file": "SM.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SN": {
+      "file": "SN.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SO": {
+      "file": "SO.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SR": {
+      "file": "SR.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SS": {
+      "file": "SS.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "ST": {
+      "file": "ST.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SV": {
+      "file": "SV.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SY": {
+      "file": "SY.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "SZ": {
+      "file": "SZ.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "TD": {
+      "file": "TD.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "TG": {
+      "file": "TG.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "TH": {
       "file": "TH.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "TJ": {
+      "file": "TJ.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "TL": {
+      "file": "TL.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "TM": {
+      "file": "TM.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "TN": {
+      "file": "TN.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "TO": {
+      "file": "TO.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -489,8 +909,28 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "TT": {
+      "file": "TT.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "TV": {
+      "file": "TV.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "TW": {
       "file": "TW.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "TZ": {
+      "file": "TZ.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "UG": {
+      "file": "UG.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
@@ -514,13 +954,48 @@
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "VC": {
+      "file": "VC.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "VE": {
+      "file": "VE.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "VN": {
       "file": "VN.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     },
+    "VU": {
+      "file": "VU.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "WS": {
+      "file": "WS.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "YE": {
+      "file": "YE.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
     "ZA": {
       "file": "ZA.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "ZM": {
+      "file": "ZM.json",
+      "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
+      "holidayCount": 0
+    },
+    "ZW": {
+      "file": "ZW.json",
       "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
       "holidayCount": 0
     }
