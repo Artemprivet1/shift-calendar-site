@@ -40,14 +40,6 @@
     "isReligious": false
   },
   {
-    "date": "2025-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2025-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -70,14 +62,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2025-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2025-04-13",
@@ -272,22 +256,6 @@
     "isReligious": false
   },
   {
-    "date": "2025-06-28",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
     "date": "2025-06-29",
     "name": "День партизан и подпольщиков",
     "isPublic": false,
@@ -440,14 +408,6 @@
     }
   },
   {
-    "date": "2025-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2025-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -512,14 +472,6 @@
     "isReligious": false
   },
   {
-    "date": "2025-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2025-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -534,22 +486,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2025-10-19",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2025-11-04",
@@ -582,22 +518,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2025-11-30",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2025-12-01",
@@ -664,6 +584,45 @@
     "isReligious": true
   },
   {
+    "date": "2026-01-12",
+    "name": "День работника прокуратуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-01-13",
+    "name": "День российской печати",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-01-14",
+    "name": "День трубопроводных войск",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-01-19",
     "name": "Крещение Господне (Богоявление)",
     "isPublic": false,
@@ -672,12 +631,38 @@
     "isReligious": true
   },
   {
+    "date": "2026-01-21",
+    "name": "День инженерных войск",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-01-25",
     "name": "День российского студенчества",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-01-25",
+    "name": "День российского студенчества (Татьянин день)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2026-01-27",
@@ -701,7 +686,38 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-02-09",
+    "name": "День работника гражданской авиации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "name": "День дипломатического работника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2026-02-15",
@@ -720,6 +736,71 @@
     "isReligious": false
   },
   {
+    "date": "2026-02-27",
+    "name": "День Сил специальных операций",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-03-11",
+    "name": "День работников органов наркоконтроля",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "name": "День моряка-подводника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-03-25",
+    "name": "День работника культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-03-27",
+    "name": "День войск национальной гвардии (Росгвардии)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-04-05",
     "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
     "isPublic": false,
@@ -736,12 +817,41 @@
     }
   },
   {
+    "date": "2026-04-05",
+    "name": "День геолога",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 4,
+      "weekday": 6,
+      "occurrence": 1,
+      "description": "Первое воскресенье апреля"
+    }
+  },
+  {
     "date": "2026-04-07",
     "name": "Благовещение Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2026-04-08",
+    "name": "День сотрудников военных комиссариатов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2026-04-10",
@@ -781,7 +891,12 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2026-04-18",
@@ -816,6 +931,19 @@
     }
   },
   {
+    "date": "2026-04-21",
+    "name": "День местного самоуправления",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-04-26",
     "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
     "isPublic": false,
@@ -830,6 +958,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-04-28",
+    "name": "День работника скорой медицинской помощи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-04-30",
+    "name": "День пожарной охраны",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-05-07",
+    "name": "День радио и связи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2026-05-12",
@@ -872,6 +1039,58 @@
     "isReligious": false
   },
   {
+    "date": "2026-05-26",
+    "name": "День российского предпринимательства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Общероссийский день библиотек",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-05-28",
+    "name": "День пограничника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-05-29",
+    "name": "День военного автомобилиста",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-05-31",
     "name": "День Святой Троицы (Пятидесятница, 50-й день после Пасхи)",
     "isPublic": false,
@@ -885,6 +1104,22 @@
       "occurrence": null,
       "is_orthodox": true,
       "offset_days": 49
+    }
+  },
+  {
+    "date": "2026-05-31",
+    "name": "День химика",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последнее воскресенье мая"
     }
   },
   {
@@ -912,12 +1147,86 @@
     "isReligious": false
   },
   {
+    "date": "2026-06-05",
+    "name": "День эколога",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-06-06",
     "name": "День русского языка",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-06-07",
+    "name": "День мелиоратора",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 6,
+      "occurrence": 1,
+      "description": "Первое воскресенье июня"
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "name": "День социального работника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-06-14",
+    "name": "День работников текстильной и легкой промышленности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье июня"
+    }
+  },
+  {
+    "date": "2026-06-21",
+    "name": "День медицинского работника (День медика)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "Третье воскресенье июня"
+    }
   },
   {
     "date": "2026-06-22",
@@ -929,18 +1238,34 @@
   },
   {
     "date": "2026-06-27",
+    "name": "День изобретателя и рационализатора",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последняя суббота июня"
+    }
+  },
+  {
+    "date": "2026-06-27",
     "name": "День молодежи",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
-      "kind": "weekday",
+      "type": "weekday",
       "month": 6,
       "weekday": 5,
       "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
+      "description": "Последняя суббота июня"
     }
   },
   {
@@ -950,6 +1275,35 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-07-03",
+    "name": "День ГАИ (ГИБДД)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-07-05",
+    "name": "День работников морского и речного флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": 1,
+      "description": "Первое воскресенье июля"
+    }
   },
   {
     "date": "2026-07-07",
@@ -984,12 +1338,73 @@
     "isReligious": true
   },
   {
+    "date": "2026-07-12",
+    "name": "День рыбака",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье июля"
+    }
+  },
+  {
+    "date": "2026-07-19",
+    "name": "День металлурга",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "Третье воскресенье июля"
+    }
+  },
+  {
     "date": "2026-07-21",
     "name": "Явление Казанской иконы Божией Матери",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2026-07-25",
+    "name": "День сотрудника органов следствия",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-07-25",
+    "name": "День работников торговли",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 5,
+      "occurrence": 4,
+      "description": "Четвертая суббота июля"
+    }
   },
   {
     "date": "2026-07-26",
@@ -1005,6 +1420,22 @@
       "occurrence": -1,
       "is_orthodox": null,
       "offset_days": 0
+    }
+  },
+  {
+    "date": "2026-07-26",
+    "name": "День Военно-Морского Флота (ВМФ)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последнее воскресенье июля"
     }
   },
   {
@@ -1024,6 +1455,77 @@
     "isReligious": false
   },
   {
+    "date": "2026-08-01",
+    "name": "День Тыла Вооруженных Сил",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-08-02",
+    "name": "День Воздушно-десантных войск (ВДВ)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-08-02",
+    "name": "День железнодорожника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 8,
+      "weekday": 6,
+      "occurrence": 1,
+      "description": "Первое воскресенье августа"
+    }
+  },
+  {
+    "date": "2026-08-06",
+    "name": "День Железнодорожных войск",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "name": "День физкультурника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 8,
+      "weekday": 5,
+      "occurrence": 2,
+      "description": "Вторая суббота августа"
+    }
+  },
+  {
     "date": "2026-08-09",
     "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
     "isPublic": false,
@@ -1032,12 +1534,57 @@
     "isReligious": false
   },
   {
+    "date": "2026-08-09",
+    "name": "День строителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 8,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье августа"
+    }
+  },
+  {
+    "date": "2026-08-12",
+    "name": "День Военно-воздушных сил (ВВС)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-08-14",
     "name": "Медовый Спас (Происхождение Честных Древ Креста Господня)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2026-08-16",
+    "name": "День Воздушного Флота России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 8,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "Третье воскресенье августа"
+    }
   },
   {
     "date": "2026-08-19",
@@ -1062,6 +1609,19 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-08-27",
+    "name": "День российского кино",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2026-08-28",
@@ -1096,12 +1656,33 @@
     }
   },
   {
+    "date": "2026-08-30",
+    "name": "День шахтера",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 8,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последнее воскресенье августа"
+    }
+  },
+  {
     "date": "2026-09-01",
     "name": "День знаний",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2026-09-03",
@@ -1120,6 +1701,22 @@
     "isReligious": false
   },
   {
+    "date": "2026-09-06",
+    "name": "День работников нефтяной и газовой промышленности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 9,
+      "weekday": 6,
+      "occurrence": 1,
+      "description": "Первое воскресенье сентября"
+    }
+  },
+  {
     "date": "2026-09-08",
     "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
     "isPublic": false,
@@ -1128,12 +1725,84 @@
     "isReligious": false
   },
   {
+    "date": "2026-09-08",
+    "name": "День финансиста",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-09-11",
     "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-09-13",
+    "name": "День программиста",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "day_of_year",
+      "dayOfYear": 256,
+      "description": "256-й день года"
+    }
+  },
+  {
+    "date": "2026-09-13",
+    "name": "День танкиста",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 9,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье сентября"
+    }
+  },
+  {
+    "date": "2026-09-19",
+    "name": "День оружейника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-09-20",
+    "name": "День работников леса",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 9,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "Третье воскресенье сентября"
+    }
   },
   {
     "date": "2026-09-21",
@@ -1160,6 +1829,48 @@
     "isReligious": true
   },
   {
+    "date": "2026-09-27",
+    "name": "День воспитателя и дошкольных работников",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-09-27",
+    "name": "День машиностроителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 9,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последнее воскресенье сентября"
+    }
+  },
+  {
+    "date": "2026-09-28",
+    "name": "День работника атомной промышленности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-09-30",
     "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
     "isPublic": false,
@@ -1168,12 +1879,56 @@
     "isReligious": false
   },
   {
+    "date": "2026-10-01",
+    "name": "День Сухопутных войск",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-10-04",
+    "name": "День Космических войск",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-10-04",
+    "name": "День войск гражданской обороны МЧС",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-10-05",
     "name": "День учителя",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2026-10-09",
@@ -1182,6 +1937,22 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-10-11",
+    "name": "День работников сельского хозяйства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье октября"
+    }
   },
   {
     "date": "2026-10-14",
@@ -1198,13 +1969,84 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
-      "kind": "weekday",
+      "type": "weekday",
       "month": 10,
       "weekday": 6,
       "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
+      "description": "Третье воскресенье октября"
+    }
+  },
+  {
+    "date": "2026-10-18",
+    "name": "День работников дорожного хозяйства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "Третье воскресенье октября"
+    }
+  },
+  {
+    "date": "2026-10-20",
+    "name": "День военного связиста",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-10-24",
+    "name": "День подразделений специального назначения (Спецназа)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-10-25",
+    "name": "День таможенника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-10-25",
+    "name": "День работников автомобильного транспорта (День автомобилиста)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последнее воскресенье октября"
     }
   },
   {
@@ -1232,6 +2074,45 @@
     "isReligious": false
   },
   {
+    "date": "2026-11-10",
+    "name": "День сотрудника органов внутренних дел (День полиции)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "name": "День ракетных войск и артиллерии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "name": "День преподавателя высшей школы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-11-21",
     "name": "День Военной присяги",
     "isPublic": false,
@@ -1240,19 +2121,45 @@
     "isReligious": false
   },
   {
+    "date": "2026-11-21",
+    "name": "День работника налоговых органов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "name": "День морской пехоты",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-11-29",
     "name": "День матери",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
-      "kind": "weekday",
+      "type": "weekday",
       "month": 11,
       "weekday": 6,
       "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
+      "description": "Последнее воскресенье ноября"
     }
   },
   {
@@ -1270,6 +2177,19 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-12-03",
+    "name": "День юриста",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2026-12-05",
@@ -1296,6 +2216,19 @@
     "isReligious": false
   },
   {
+    "date": "2026-12-17",
+    "name": "День Ракетных войск стратегического назначения (РВСН)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
@@ -1304,12 +2237,51 @@
     "isReligious": true
   },
   {
+    "date": "2026-12-20",
+    "name": "День работника органов безопасности (День ФСБ)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
+    "date": "2026-12-22",
+    "name": "День энергетика",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
+  },
+  {
     "date": "2026-12-24",
     "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-12-27",
+    "name": "День спасателя (День МЧС)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": false,
+    "rule": {
+      "type": "fixed",
+      "description": "Фиксированная дата"
+    }
   },
   {
     "date": "2027-01-07",
@@ -1352,14 +2324,6 @@
     "isReligious": false
   },
   {
-    "date": "2027-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2027-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -1382,14 +2346,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2027-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2027-04-18",
@@ -1584,22 +2540,6 @@
     "isReligious": false
   },
   {
-    "date": "2027-06-26",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
     "date": "2027-06-29",
     "name": "День партизан и подпольщиков",
     "isPublic": false,
@@ -1752,14 +2692,6 @@
     }
   },
   {
-    "date": "2027-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2027-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -1824,14 +2756,6 @@
     "isReligious": false
   },
   {
-    "date": "2027-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2027-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -1846,22 +2770,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2027-10-17",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2027-11-04",
@@ -1894,22 +2802,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2027-11-28",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2027-12-01",
@@ -2008,14 +2900,6 @@
     "isReligious": false
   },
   {
-    "date": "2028-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2028-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -2054,14 +2938,6 @@
       "is_orthodox": true,
       "offset_days": -7
     }
-  },
-  {
-    "date": "2028-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2028-04-14",
@@ -2240,22 +3116,6 @@
     "isReligious": false
   },
   {
-    "date": "2028-06-24",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
     "date": "2028-06-29",
     "name": "День партизан и подпольщиков",
     "isPublic": false,
@@ -2408,14 +3268,6 @@
     "isReligious": true
   },
   {
-    "date": "2028-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2028-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -2480,14 +3332,6 @@
     "isReligious": false
   },
   {
-    "date": "2028-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2028-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -2502,22 +3346,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2028-10-15",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2028-11-04",
@@ -2550,22 +3378,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2028-11-26",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2028-12-01",
@@ -2664,14 +3476,6 @@
     "isReligious": false
   },
   {
-    "date": "2029-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2029-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -2742,14 +3546,6 @@
       "is_orthodox": true,
       "offset_days": 0
     }
-  },
-  {
-    "date": "2029-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2029-04-17",
@@ -2904,22 +3700,6 @@
     "isReligious": false
   },
   {
-    "date": "2029-06-30",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
     "date": "2029-07-07",
     "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
     "isPublic": false,
@@ -3064,14 +3844,6 @@
     "isReligious": true
   },
   {
-    "date": "2029-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2029-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -3136,14 +3908,6 @@
     "isReligious": false
   },
   {
-    "date": "2029-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2029-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -3158,22 +3922,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2029-10-21",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2029-11-04",
@@ -3206,22 +3954,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2029-11-25",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2029-12-01",
@@ -3320,14 +4052,6 @@
     "isReligious": false
   },
   {
-    "date": "2030-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2030-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -3350,14 +4074,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2030-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2030-04-18",
@@ -3553,22 +4269,6 @@
   },
   {
     "date": "2030-06-29",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
-    "date": "2030-06-29",
     "name": "День партизан и подпольщиков",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -3720,14 +4420,6 @@
     "isReligious": true
   },
   {
-    "date": "2030-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2030-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -3792,14 +4484,6 @@
     "isReligious": false
   },
   {
-    "date": "2030-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2030-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -3814,22 +4498,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2030-10-20",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2030-11-04",
@@ -3862,22 +4530,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2030-11-24",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2030-12-01",
@@ -3976,14 +4628,6 @@
     "isReligious": false
   },
   {
-    "date": "2031-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2031-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -4038,14 +4682,6 @@
       "is_orthodox": true,
       "offset_days": -2
     }
-  },
-  {
-    "date": "2031-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2031-04-13",
@@ -4208,22 +4844,6 @@
     "isReligious": false
   },
   {
-    "date": "2031-06-28",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
     "date": "2031-06-29",
     "name": "День партизан и подпольщиков",
     "isPublic": false,
@@ -4376,14 +4996,6 @@
     }
   },
   {
-    "date": "2031-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2031-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -4448,14 +5060,6 @@
     "isReligious": false
   },
   {
-    "date": "2031-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2031-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -4470,22 +5074,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2031-10-19",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2031-11-04",
@@ -4518,22 +5106,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2031-11-30",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2031-12-01",
@@ -4632,14 +5204,6 @@
     "isReligious": false
   },
   {
-    "date": "2032-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2032-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -4662,14 +5226,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2032-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2032-04-18",
@@ -4864,22 +5420,6 @@
     "isReligious": false
   },
   {
-    "date": "2032-06-26",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
     "date": "2032-06-29",
     "name": "День партизан и подпольщиков",
     "isPublic": false,
@@ -5032,14 +5572,6 @@
     }
   },
   {
-    "date": "2032-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2032-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -5104,14 +5636,6 @@
     "isReligious": false
   },
   {
-    "date": "2032-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2032-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -5126,22 +5650,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2032-10-17",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2032-11-04",
@@ -5174,22 +5682,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2032-11-28",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2032-12-01",
@@ -5288,14 +5780,6 @@
     "isReligious": false
   },
   {
-    "date": "2033-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2033-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -5318,14 +5802,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2033-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2033-04-17",
@@ -5520,22 +5996,6 @@
     "isReligious": false
   },
   {
-    "date": "2033-06-25",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
     "date": "2033-06-29",
     "name": "День партизан и подпольщиков",
     "isPublic": false,
@@ -5688,14 +6148,6 @@
     "isReligious": true
   },
   {
-    "date": "2033-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2033-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -5760,14 +6212,6 @@
     "isReligious": false
   },
   {
-    "date": "2033-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2033-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -5782,22 +6226,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2033-10-16",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2033-11-04",
@@ -5830,22 +6258,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2033-11-27",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2033-12-01",
@@ -5944,14 +6356,6 @@
     "isReligious": false
   },
   {
-    "date": "2034-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2034-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -6024,8 +6428,8 @@
     }
   },
   {
-    "date": "2034-04-12",
-    "name": "День космонавтики",
+    "date": "2034-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -6046,14 +6450,6 @@
       "is_orthodox": true,
       "offset_days": 9
     }
-  },
-  {
-    "date": "2034-04-18",
-    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2034-04-19",
@@ -6174,22 +6570,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2034-06-24",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2034-06-29",
@@ -6344,14 +6724,6 @@
     "isReligious": true
   },
   {
-    "date": "2034-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2034-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -6416,14 +6788,6 @@
     "isReligious": false
   },
   {
-    "date": "2034-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2034-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -6438,22 +6802,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2034-10-15",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2034-11-04",
@@ -6486,22 +6834,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2034-11-26",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2034-12-01",
@@ -6600,14 +6932,6 @@
     "isReligious": false
   },
   {
-    "date": "2035-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2035-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -6630,14 +6954,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2035-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2035-04-18",
@@ -6840,22 +7156,6 @@
     "isReligious": false
   },
   {
-    "date": "2035-06-30",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
     "date": "2035-07-07",
     "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
     "isPublic": false,
@@ -7000,14 +7300,6 @@
     "isReligious": true
   },
   {
-    "date": "2035-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2035-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -7072,14 +7364,6 @@
     "isReligious": false
   },
   {
-    "date": "2035-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2035-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -7094,22 +7378,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2035-10-21",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2035-11-04",
@@ -7142,22 +7410,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2035-11-25",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2035-12-01",
@@ -7256,14 +7508,6 @@
     "isReligious": false
   },
   {
-    "date": "2036-02-08",
-    "name": "День российской науки",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2036-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -7286,14 +7530,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2036-04-12",
-    "name": "День космонавтики",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
   },
   {
     "date": "2036-04-13",
@@ -7488,22 +7724,6 @@
     "isReligious": false
   },
   {
-    "date": "2036-06-28",
-    "name": "День молодежи",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 6,
-      "weekday": 5,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
-  },
-  {
     "date": "2036-06-29",
     "name": "День партизан и подпольщиков",
     "isPublic": false,
@@ -7656,14 +7876,6 @@
     }
   },
   {
-    "date": "2036-09-01",
-    "name": "День знаний",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2036-09-03",
     "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
     "isPublic": false,
@@ -7728,14 +7940,6 @@
     "isReligious": false
   },
   {
-    "date": "2036-10-05",
-    "name": "День учителя",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2036-10-09",
     "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
     "isPublic": false,
@@ -7750,22 +7954,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
-  },
-  {
-    "date": "2036-10-19",
-    "name": "День отца",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 10,
-      "weekday": 6,
-      "occurrence": 3,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2036-11-04",
@@ -7798,22 +7986,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2036-11-30",
-    "name": "День матери",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "kind": "weekday",
-      "month": 11,
-      "weekday": 6,
-      "occurrence": -1,
-      "is_orthodox": null,
-      "offset_days": 0
-    }
   },
   {
     "date": "2036-12-01",
