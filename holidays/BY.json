@@ -2417,6 +2417,14 @@
     }
   },
   {
+    "date": "2027-01-07",
+    "name": "Рождество Христово",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
     "date": "2027-01-19",
     "name": "День спасателя",
     "isPublic": false,
@@ -2428,6 +2436,14 @@
       "type": "fixed",
       "description": "Фиксированная дата"
     }
+  },
+  {
+    "date": "2027-01-19",
+    "name": "Крещение Господне (Богоявление)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2027-01-21",
@@ -2470,6 +2486,14 @@
       "occurrence": -1,
       "description": "Последнее воскресенье января"
     }
+  },
+  {
+    "date": "2027-02-15",
+    "name": "Сретение Господне",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2027-02-21",
@@ -2621,6 +2645,14 @@
     }
   },
   {
+    "date": "2027-04-07",
+    "name": "Благовещение Пресвятой Богородицы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
     "date": "2027-04-08",
     "name": "День сотрудников военных комиссариатов",
     "isPublic": false,
@@ -2663,6 +2695,22 @@
     }
   },
   {
+    "date": "2027-04-25",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
     "date": "2027-04-28",
     "name": "Всемирный день охраны труда",
     "isPublic": false,
@@ -2676,6 +2724,22 @@
     }
   },
   {
+    "date": "2027-04-30",
+    "name": "Страстная пятница (Воспоминание Святых Спасительных Страстей)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -2
+    }
+  },
+  {
     "date": "2027-05-02",
     "name": "Пасха (по календарю православной конфессии)",
     "isPublic": false,
@@ -2686,6 +2750,22 @@
     "rule": {
       "type": "easter",
       "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
+    }
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Светлое Христово Воскресение (Пасха)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 0
     }
   },
   {
@@ -2731,6 +2811,22 @@
     }
   },
   {
+    "date": "2027-05-11",
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 9
+    }
+  },
+  {
     "date": "2027-05-15",
     "name": "День семьи",
     "isPublic": false,
@@ -2758,6 +2854,14 @@
       "occurrence": 3,
       "description": "Третья суббота мая"
     }
+  },
+  {
+    "date": "2027-05-22",
+    "name": "День святителя Николая (Никола Вешний)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2027-05-28",
@@ -2818,6 +2922,22 @@
     }
   },
   {
+    "date": "2027-06-10",
+    "name": "Вознесение Господне (40-й день после Пасхи)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 39
+    }
+  },
+  {
     "date": "2027-06-13",
     "name": "День работников легкой промышленности",
     "isPublic": false,
@@ -2847,6 +2967,38 @@
       "weekday": 6,
       "occurrence": 3,
       "description": "Третье воскресенье июня"
+    }
+  },
+  {
+    "date": "2027-06-20",
+    "name": "День Святой Троицы (Пятидесятница, 50-й день после Пасхи)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 49
+    }
+  },
+  {
+    "date": "2027-06-21",
+    "name": "День Святого Духа (Духов день)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": 50
     }
   },
   {
@@ -2956,6 +3108,14 @@
     }
   },
   {
+    "date": "2027-07-12",
+    "name": "День святых первоверховных апостолов Петра и Павла",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
     "date": "2027-07-18",
     "name": "День металлурга",
     "isPublic": false,
@@ -2970,6 +3130,14 @@
       "occurrence": 3,
       "description": "Третье воскресенье июля"
     }
+  },
+  {
+    "date": "2027-07-21",
+    "name": "Явление Казанской иконы Божией Матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2027-07-25",
@@ -3072,6 +3240,14 @@
     }
   },
   {
+    "date": "2027-08-14",
+    "name": "Медовый Спас (Происхождение Честных Древ Креста Господня)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
     "date": "2027-08-15",
     "name": "День военно-воздушных сил",
     "isPublic": false,
@@ -3088,6 +3264,14 @@
     }
   },
   {
+    "date": "2027-08-19",
+    "name": "Преображение Господне (Яблочный Спас)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
     "date": "2027-08-23",
     "name": "День работников государственной статистики",
     "isPublic": false,
@@ -3099,6 +3283,14 @@
       "type": "fixed",
       "description": "Фиксированная дата"
     }
+  },
+  {
+    "date": "2027-08-28",
+    "name": "Успение Пресвятой Богородицы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2027-08-29",
@@ -3115,6 +3307,14 @@
       "occurrence": -1,
       "description": "Последнее воскресенье августа"
     }
+  },
+  {
+    "date": "2027-08-29",
+    "name": "Ореховый Спас (Перенесение Нерукотворного Образа Спасителя)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2027-09-01",
@@ -3275,6 +3475,14 @@
     }
   },
   {
+    "date": "2027-09-21",
+    "name": "Рождество Пресвятой Богородицы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
     "date": "2027-09-26",
     "name": "День машиностроителя",
     "isPublic": false,
@@ -3289,6 +3497,14 @@
       "occurrence": -1,
       "description": "Последнее воскресенье сентября"
     }
+  },
+  {
+    "date": "2027-09-27",
+    "name": "Воздвижение Креста Господня",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2027-10-01",
@@ -3375,6 +3591,14 @@
     }
   },
   {
+    "date": "2027-10-14",
+    "name": "Покров Пресвятой Богородицы",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
     "date": "2027-10-15",
     "name": "День работников фармацевтической и микробиологической промышленности",
     "isPublic": false,
@@ -3441,6 +3665,14 @@
       "type": "fixed",
       "description": "Фиксированная дата"
     }
+  },
+  {
+    "date": "2027-11-04",
+    "name": "Празднование Казанской иконы Божией Матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2027-11-05",
@@ -3554,6 +3786,14 @@
       "type": "fixed",
       "description": "Фиксированная дата"
     }
+  },
+  {
+    "date": "2027-12-19",
+    "name": "День святителя Николая Чудотворца (Никола Зимний)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2027-12-20",
