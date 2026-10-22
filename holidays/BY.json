@@ -3138,27 +3138,6 @@
     }
   },
   {
-    "date": "2027-01-07",
-    "name": "Рождество Христово (православное Рождество)",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": false,
-    "rule": {
-      "type": "fixed",
-      "description": "Фиксированная дата"
-    }
-  },
-  {
-    "date": "2027-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2027-01-19",
     "name": "День спасателя",
     "isPublic": false,
@@ -3272,19 +3251,6 @@
     "date": "2027-03-04",
     "name": "День милиции",
     "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "isFloating": false,
-    "rule": {
-      "type": "fixed",
-      "description": "Фиксированная дата"
-    }
-  },
-  {
-    "date": "2027-03-08",
-    "name": "День женщин",
-    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
