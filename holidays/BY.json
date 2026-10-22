@@ -327,19 +327,6 @@
   },
   {
     "date": "2025-04-20",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
-    }
-  },
-  {
-    "date": "2025-04-20",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -1741,19 +1728,6 @@
       "occurrence": null,
       "is_orthodox": true,
       "offset_days": -2
-    }
-  },
-  {
-    "date": "2026-04-12",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
     }
   },
   {
@@ -3221,19 +3195,6 @@
   },
   {
     "date": "2027-05-02",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
-    }
-  },
-  {
-    "date": "2027-05-02",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -4625,19 +4586,6 @@
       "occurrence": null,
       "is_orthodox": true,
       "offset_days": -7
-    }
-  },
-  {
-    "date": "2028-04-16",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
     }
   },
   {
@@ -6043,19 +5991,6 @@
     "rule": {
       "type": "fixed",
       "description": "Фиксированная дата"
-    }
-  },
-  {
-    "date": "2029-04-08",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
     }
   },
   {
@@ -7510,19 +7445,6 @@
   },
   {
     "date": "2030-04-28",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
-    }
-  },
-  {
-    "date": "2030-04-28",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -8911,19 +8833,6 @@
       "occurrence": null,
       "is_orthodox": true,
       "offset_days": -7
-    }
-  },
-  {
-    "date": "2031-04-13",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
     }
   },
   {
@@ -10391,19 +10300,6 @@
   },
   {
     "date": "2032-05-02",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
-    }
-  },
-  {
-    "date": "2032-05-02",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -11812,19 +11708,6 @@
   },
   {
     "date": "2033-04-24",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
-    }
-  },
-  {
-    "date": "2033-04-24",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -13213,19 +13096,6 @@
       "occurrence": null,
       "is_orthodox": true,
       "offset_days": -7
-    }
-  },
-  {
-    "date": "2034-04-09",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
     }
   },
   {
@@ -14693,19 +14563,6 @@
   },
   {
     "date": "2035-04-29",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
-    }
-  },
-  {
-    "date": "2035-04-29",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -16097,19 +15954,6 @@
       "occurrence": null,
       "is_orthodox": true,
       "offset_days": -7
-    }
-  },
-  {
-    "date": "2036-04-20",
-    "name": "Пасха (по календарю православной конфессии)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "description": "Первое воскресенье после весеннего полнолуния (по юлианскому календарю)"
     }
   },
   {
