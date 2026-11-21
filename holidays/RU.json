@@ -16,6 +16,46 @@
     "isReligious": true
   },
   {
+    "date": "2025-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -30,6 +70,38 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2025-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-13",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
+    "date": "2025-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-04-18",
@@ -48,6 +120,14 @@
     }
   },
   {
+    "date": "2025-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-04-20",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
@@ -64,7 +144,23 @@
     }
   },
   {
-    "date": "2025-04-20",
+    "date": "2025-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-29",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -80,12 +176,28 @@
     }
   },
   {
+    "date": "2025-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-05-22",
     "name": "День святителя Николая (Никола Вешний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2025-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-05-29",
@@ -102,6 +214,22 @@
       "is_orthodox": true,
       "offset_days": 39
     }
+  },
+  {
+    "date": "2025-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-06-08",
@@ -136,6 +264,61 @@
     }
   },
   {
+    "date": "2025-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-06-28",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2025-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -150,6 +333,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2025-07-27",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2025-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-08-14",
@@ -168,6 +390,22 @@
     "isReligious": true
   },
   {
+    "date": "2025-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -182,6 +420,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2025-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-09-21",
@@ -200,12 +486,51 @@
     "isReligious": true
   },
   {
+    "date": "2025-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2025-10-19",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2025-11-04",
@@ -216,12 +541,99 @@
     "isReligious": true
   },
   {
+    "date": "2025-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-11-30",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2025-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2025-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-01-07",
@@ -238,6 +650,46 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2026-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-02-15",
@@ -289,6 +741,14 @@
   },
   {
     "date": "2026-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-12",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -302,6 +762,22 @@
       "is_orthodox": true,
       "offset_days": 0
     }
+  },
+  {
+    "date": "2026-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-04-21",
@@ -318,6 +794,30 @@
       "is_orthodox": true,
       "offset_days": 9
     }
+  },
+  {
+    "date": "2026-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-05-21",
@@ -342,6 +842,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2026-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-05-31",
@@ -376,6 +884,77 @@
     }
   },
   {
+    "date": "2026-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-06-27",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2026-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -390,6 +969,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2026-07-26",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2026-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-08-14",
@@ -408,6 +1026,22 @@
     "isReligious": true
   },
   {
+    "date": "2026-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -422,6 +1056,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2026-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-09-21",
@@ -440,12 +1122,51 @@
     "isReligious": true
   },
   {
+    "date": "2026-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2026-10-18",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2026-11-04",
@@ -456,12 +1177,99 @@
     "isReligious": true
   },
   {
+    "date": "2026-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-29",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2026-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2026-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2027-01-07",
@@ -480,6 +1288,46 @@
     "isReligious": true
   },
   {
+    "date": "2027-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -494,6 +1342,62 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2027-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-25",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
+    "date": "2027-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2027-04-30",
@@ -528,7 +1432,7 @@
     }
   },
   {
-    "date": "2027-05-02",
+    "date": "2027-05-11",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -544,12 +1448,44 @@
     }
   },
   {
+    "date": "2027-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-05-22",
     "name": "День святителя Николая (Никола Вешний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2027-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2027-06-10",
@@ -600,6 +1536,61 @@
     }
   },
   {
+    "date": "2027-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-06-26",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2027-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -614,6 +1605,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2027-07-25",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2027-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2027-08-14",
@@ -632,6 +1662,22 @@
     "isReligious": true
   },
   {
+    "date": "2027-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -646,6 +1692,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2027-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2027-09-21",
@@ -664,12 +1758,51 @@
     "isReligious": true
   },
   {
+    "date": "2027-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2027-10-17",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2027-11-04",
@@ -680,12 +1813,99 @@
     "isReligious": true
   },
   {
+    "date": "2027-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-11-28",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2027-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2027-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2028-01-07",
@@ -704,6 +1924,46 @@
     "isReligious": true
   },
   {
+    "date": "2028-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -718,6 +1978,30 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2028-04-09",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
+    "date": "2028-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2028-04-14",
@@ -752,7 +2036,23 @@
     }
   },
   {
-    "date": "2028-04-16",
+    "date": "2028-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-25",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -768,12 +2068,44 @@
     }
   },
   {
+    "date": "2028-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-05-22",
     "name": "День святителя Николая (Никола Вешний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2028-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2028-05-25",
@@ -790,6 +2122,14 @@
       "is_orthodox": true,
       "offset_days": 39
     }
+  },
+  {
+    "date": "2028-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2028-06-04",
@@ -824,6 +2164,69 @@
     }
   },
   {
+    "date": "2028-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-06-24",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2028-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -838,6 +2241,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2028-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-07-30",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2028-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2028-08-14",
@@ -856,6 +2298,22 @@
     "isReligious": true
   },
   {
+    "date": "2028-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -870,6 +2328,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2028-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2028-09-21",
@@ -888,12 +2394,51 @@
     "isReligious": true
   },
   {
+    "date": "2028-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2028-10-15",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2028-11-04",
@@ -904,12 +2449,99 @@
     "isReligious": true
   },
   {
+    "date": "2028-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-11-26",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2028-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2028-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2029-01-07",
@@ -928,12 +2560,68 @@
     "isReligious": true
   },
   {
+    "date": "2029-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2029-04-01",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
   },
   {
     "date": "2029-04-06",
@@ -976,7 +2664,15 @@
     }
   },
   {
-    "date": "2029-04-08",
+    "date": "2029-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-17",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -990,6 +2686,46 @@
       "is_orthodox": true,
       "offset_days": 9
     }
+  },
+  {
+    "date": "2029-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2029-05-17",
@@ -1014,6 +2750,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2029-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2029-05-27",
@@ -1048,6 +2792,77 @@
     }
   },
   {
+    "date": "2029-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-06-30",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2029-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -1062,6 +2877,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2029-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-07-29",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2029-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2029-08-14",
@@ -1080,6 +2934,22 @@
     "isReligious": true
   },
   {
+    "date": "2029-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -1094,6 +2964,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2029-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2029-09-21",
@@ -1112,12 +3030,51 @@
     "isReligious": true
   },
   {
+    "date": "2029-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2029-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2029-11-04",
@@ -1128,12 +3085,99 @@
     "isReligious": true
   },
   {
+    "date": "2029-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-11-25",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2029-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2029-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2030-01-07",
@@ -1152,6 +3196,46 @@
     "isReligious": true
   },
   {
+    "date": "2030-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -1166,6 +3250,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2030-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-21",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
+    "date": "2030-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2030-04-26",
@@ -1184,6 +3316,14 @@
     }
   },
   {
+    "date": "2030-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-04-28",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
@@ -1200,7 +3340,7 @@
     }
   },
   {
-    "date": "2030-04-28",
+    "date": "2030-05-07",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -1216,12 +3356,36 @@
     }
   },
   {
+    "date": "2030-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-05-22",
     "name": "День святителя Николая (Никола Вешний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2030-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2030-06-06",
@@ -1238,6 +3402,14 @@
       "is_orthodox": true,
       "offset_days": 39
     }
+  },
+  {
+    "date": "2030-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2030-06-16",
@@ -1272,6 +3444,61 @@
     }
   },
   {
+    "date": "2030-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-06-29",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2030-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -1286,6 +3513,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2030-07-28",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2030-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2030-08-14",
@@ -1304,6 +3570,22 @@
     "isReligious": true
   },
   {
+    "date": "2030-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -1318,6 +3600,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2030-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2030-09-21",
@@ -1336,12 +3666,51 @@
     "isReligious": true
   },
   {
+    "date": "2030-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2030-10-20",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2030-11-04",
@@ -1352,12 +3721,99 @@
     "isReligious": true
   },
   {
+    "date": "2030-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-11-24",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2030-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2030-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2031-01-07",
@@ -1376,12 +3832,68 @@
     "isReligious": true
   },
   {
+    "date": "2031-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2031-04-06",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
   },
   {
     "date": "2031-04-07",
@@ -1408,6 +3920,14 @@
     }
   },
   {
+    "date": "2031-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-04-13",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
@@ -1424,7 +3944,23 @@
     }
   },
   {
-    "date": "2031-04-13",
+    "date": "2031-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-22",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -1438,6 +3974,30 @@
       "is_orthodox": true,
       "offset_days": 9
     }
+  },
+  {
+    "date": "2031-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2031-05-22",
@@ -1464,6 +4024,14 @@
     "isReligious": true
   },
   {
+    "date": "2031-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-06-01",
     "name": "День Святой Троицы (Пятидесятница, 50-й день после Пасхи)",
     "isPublic": false,
@@ -1478,6 +4046,14 @@
       "is_orthodox": true,
       "offset_days": 49
     }
+  },
+  {
+    "date": "2031-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2031-06-02",
@@ -1496,6 +4072,69 @@
     }
   },
   {
+    "date": "2031-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-06-28",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2031-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -1510,6 +4149,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2031-07-27",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2031-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2031-08-14",
@@ -1528,6 +4206,22 @@
     "isReligious": true
   },
   {
+    "date": "2031-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -1542,6 +4236,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2031-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2031-09-21",
@@ -1560,12 +4302,51 @@
     "isReligious": true
   },
   {
+    "date": "2031-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2031-10-19",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2031-11-04",
@@ -1576,12 +4357,99 @@
     "isReligious": true
   },
   {
+    "date": "2031-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-11-30",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2031-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2031-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2032-01-07",
@@ -1600,6 +4468,46 @@
     "isReligious": true
   },
   {
+    "date": "2032-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -1614,6 +4522,62 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2032-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-25",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
+    "date": "2032-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2032-04-30",
@@ -1648,7 +4612,7 @@
     }
   },
   {
-    "date": "2032-05-02",
+    "date": "2032-05-11",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -1664,12 +4628,44 @@
     }
   },
   {
+    "date": "2032-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-05-22",
     "name": "День святителя Николая (Никола Вешний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2032-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2032-06-10",
@@ -1720,6 +4716,61 @@
     }
   },
   {
+    "date": "2032-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-06-26",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2032-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -1734,6 +4785,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2032-07-25",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2032-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2032-08-14",
@@ -1752,6 +4842,22 @@
     "isReligious": true
   },
   {
+    "date": "2032-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -1766,6 +4872,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2032-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2032-09-21",
@@ -1784,12 +4938,51 @@
     "isReligious": true
   },
   {
+    "date": "2032-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2032-10-17",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2032-11-04",
@@ -1800,12 +4993,99 @@
     "isReligious": true
   },
   {
+    "date": "2032-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-11-28",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2032-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2032-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2033-01-07",
@@ -1824,6 +5104,46 @@
     "isReligious": true
   },
   {
+    "date": "2033-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -1838,6 +5158,46 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2033-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-17",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
+    "date": "2033-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2033-04-22",
@@ -1872,7 +5232,23 @@
     }
   },
   {
-    "date": "2033-04-24",
+    "date": "2033-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-03",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -1888,12 +5264,36 @@
     }
   },
   {
+    "date": "2033-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-05-22",
     "name": "День святителя Николая (Никола Вешний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2033-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2033-06-02",
@@ -1910,6 +5310,14 @@
       "is_orthodox": true,
       "offset_days": 39
     }
+  },
+  {
+    "date": "2033-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2033-06-12",
@@ -1944,6 +5352,61 @@
     }
   },
   {
+    "date": "2033-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-06-25",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2033-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -1958,6 +5421,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2033-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-31",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2033-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2033-08-14",
@@ -1976,6 +5478,22 @@
     "isReligious": true
   },
   {
+    "date": "2033-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -1990,6 +5508,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2033-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2033-09-21",
@@ -2008,12 +5574,51 @@
     "isReligious": true
   },
   {
+    "date": "2033-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2033-10-16",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2033-11-04",
@@ -2024,12 +5629,99 @@
     "isReligious": true
   },
   {
+    "date": "2033-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-11-27",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2033-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2033-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2034-01-07",
@@ -2048,12 +5740,68 @@
     "isReligious": true
   },
   {
+    "date": "2034-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2034-04-02",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
   },
   {
     "date": "2034-04-07",
@@ -2096,7 +5844,23 @@
     }
   },
   {
-    "date": "2034-04-09",
+    "date": "2034-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-18",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -2110,6 +5874,38 @@
       "is_orthodox": true,
       "offset_days": 9
     }
+  },
+  {
+    "date": "2034-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2034-05-18",
@@ -2134,6 +5930,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2034-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2034-05-28",
@@ -2168,6 +5972,77 @@
     }
   },
   {
+    "date": "2034-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-06-24",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2034-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -2182,6 +6057,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2034-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-30",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2034-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2034-08-14",
@@ -2200,6 +6114,22 @@
     "isReligious": true
   },
   {
+    "date": "2034-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -2214,6 +6144,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2034-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2034-09-21",
@@ -2232,12 +6210,51 @@
     "isReligious": true
   },
   {
+    "date": "2034-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2034-10-15",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2034-11-04",
@@ -2248,12 +6265,99 @@
     "isReligious": true
   },
   {
+    "date": "2034-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-11-26",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2034-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2034-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2035-01-07",
@@ -2272,6 +6376,46 @@
     "isReligious": true
   },
   {
+    "date": "2035-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -2286,6 +6430,62 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2035-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-22",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
+    "date": "2035-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2035-04-27",
@@ -2320,7 +6520,7 @@
     }
   },
   {
-    "date": "2035-04-29",
+    "date": "2035-05-08",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -2336,12 +6536,44 @@
     }
   },
   {
+    "date": "2035-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-05-22",
     "name": "День святителя Николая (Никола Вешний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2035-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2035-06-07",
@@ -2392,6 +6624,61 @@
     }
   },
   {
+    "date": "2035-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-06-30",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2035-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -2406,6 +6693,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2035-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-07-29",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2035-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2035-08-14",
@@ -2424,6 +6750,22 @@
     "isReligious": true
   },
   {
+    "date": "2035-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -2438,6 +6780,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2035-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2035-09-21",
@@ -2456,12 +6846,51 @@
     "isReligious": true
   },
   {
+    "date": "2035-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2035-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2035-11-04",
@@ -2472,12 +6901,99 @@
     "isReligious": true
   },
   {
+    "date": "2035-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-11-25",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2035-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2035-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2036-01-07",
@@ -2496,6 +7012,46 @@
     "isReligious": true
   },
   {
+    "date": "2036-01-25",
+    "name": "День российского студенчества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-01-27",
+    "name": "День полного освобождения Ленинграда от фашистской блокады (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-02-02",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-02-08",
+    "name": "День российской науки",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-02-15",
+    "name": "День памяти о россиянах, исполнявших служебный долг за пределами Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-02-15",
     "name": "Сретение Господне",
     "isPublic": false,
@@ -2510,6 +7066,38 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2036-04-12",
+    "name": "День космонавтики",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-13",
+    "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "rule": {
+      "kind": "easter",
+      "month": null,
+      "weekday": null,
+      "occurrence": null,
+      "is_orthodox": true,
+      "offset_days": -7
+    }
+  },
+  {
+    "date": "2036-04-18",
+    "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере (Ледовое побоище, 1242 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2036-04-18",
@@ -2528,6 +7116,14 @@
     }
   },
   {
+    "date": "2036-04-19",
+    "name": "День принятия Крыма, Тамани и Кубани в состав Российской империи (1783 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-04-20",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
@@ -2544,7 +7140,23 @@
     }
   },
   {
-    "date": "2036-04-20",
+    "date": "2036-04-26",
+    "name": "День участников ликвидации последствий радиационных аварий и катастроф и памяти жертв этих аварий и катастроф",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-27",
+    "name": "День российского парламентаризма",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-29",
     "name": "Радоница (День особого поминовения усопших)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -2560,12 +7172,28 @@
     }
   },
   {
+    "date": "2036-05-12",
+    "name": "День победного завершения советскими войсками Крымской наступательной операции (1944 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-05-22",
     "name": "День святителя Николая (Никола Вешний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2036-05-24",
+    "name": "День славянской письменности и культуры",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2036-05-29",
@@ -2582,6 +7210,22 @@
       "is_orthodox": true,
       "offset_days": 39
     }
+  },
+  {
+    "date": "2036-06-01",
+    "name": "Международный день защиты детей",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-06-06",
+    "name": "День русского языка",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2036-06-08",
@@ -2616,6 +7260,61 @@
     }
   },
   {
+    "date": "2036-06-22",
+    "name": "День памяти и скорби — день начала Великой Отечественной войны (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-06-28",
+    "name": "День молодежи",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 6,
+      "weekday": 5,
+      "occurrence": -1,
+      "description": "Последний суббота июня"
+    }
+  },
+  {
+    "date": "2036-06-29",
+    "name": "День партизан и подпольщиков",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-07-07",
+    "name": "День победы русского флота над турецким флотом в Чесменском морском сражении (1770 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-07-08",
+    "name": "День семьи, любви и верности",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-07-10",
+    "name": "День победы русской армии под командованием Петра Первого над шведами в Полтавском сражении (1709 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-07-12",
     "name": "День святых первоверховных апостолов Петра и Павла",
     "isPublic": false,
@@ -2630,6 +7329,45 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2036-07-27",
+    "name": "День Военно-Морского Флота",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 7,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье июля"
+    }
+  },
+  {
+    "date": "2036-07-28",
+    "name": "День Крещения Руси",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-08-01",
+    "name": "День памяти российских воинов, погибших в Первой мировой войне 1914 - 1918 годов",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-08-09",
+    "name": "День первой в российской истории морской победы русского флота под командованием Петра Первого над шведами у мыса Гангут (1714 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2036-08-14",
@@ -2648,6 +7386,22 @@
     "isReligious": true
   },
   {
+    "date": "2036-08-22",
+    "name": "День Государственного флага Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-08-23",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-08-28",
     "name": "Успение Пресвятой Богородицы",
     "isPublic": false,
@@ -2662,6 +7416,54 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2036-09-01",
+    "name": "День знаний",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-09-03",
+    "name": "День Победы над милитаристской Японией и окончания Второй мировой войны (1945 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-09-03",
+    "name": "День солидарности в борьбе с терроризмом",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-09-08",
+    "name": "День Бородинского сражения русской армии под командованием М.И. Кутузова с французской армией (1812 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-09-11",
+    "name": "День победы русской эскадры под командованием Ф.Ф. Ушакова над турецкой эскадрой у мыса Тендра (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-09-21",
+    "name": "День победы русских полков во главе с великим князем Дмитрием Донским над монголо-татарскими войсками в Куликовской битве (1380 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2036-09-21",
@@ -2680,12 +7482,51 @@
     "isReligious": true
   },
   {
+    "date": "2036-09-30",
+    "name": "День воссоединения Донецкой Народной Республики, Луганской Народной Республики, Запорожской области и Херсонской области с Российской Федерацией (2022 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-10-05",
+    "name": "День учителя",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-10-09",
+    "name": "День разгрома советскими войсками немецко-фашистских войск в битве за Кавказ (1943 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-10-14",
     "name": "Покров Пресвятой Богородицы",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2036-10-19",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 10,
+      "weekday": 6,
+      "occurrence": 3,
+      "description": "3-й воскресенье октября"
+    }
   },
   {
     "date": "2036-11-04",
@@ -2696,11 +7537,98 @@
     "isReligious": true
   },
   {
+    "date": "2036-11-07",
+    "name": "День Октябрьской революции 1917 года",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-11-07",
+    "name": "День проведения военного парада на Красной площади в городе Москве в ознаменование двадцать четвертой годовщины Великой Октябрьской социалистической революции (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-11-21",
+    "name": "День Военной присяги",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-11-30",
+    "name": "День матери",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "rule": {
+      "type": "weekday",
+      "month": 11,
+      "weekday": 6,
+      "occurrence": -1,
+      "description": "Последний воскресенье ноября"
+    }
+  },
+  {
+    "date": "2036-12-01",
+    "name": "День победы русской эскадры под командованием П.С. Нахимова над турецкой эскадрой у мыса Синоп (1853 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-12-03",
+    "name": "День Неизвестного Солдата",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-12-05",
+    "name": "День начала контрнаступления советских войск против немецко-фашистских войск в битве под Москвой (1941 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-12-09",
+    "name": "День Героев Отечества",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-12-12",
+    "name": "День Конституции Российской Федерации",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-12-19",
     "name": "День святителя Николая Чудотворца (Никола Зимний)",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2036-12-24",
+    "name": "День взятия турецкой крепости Измаил русскими войсками под командованием А.В. Суворова (1790 год)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   }
 ]
