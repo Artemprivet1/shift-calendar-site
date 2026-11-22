@@ -1,21 +1,5 @@
 [
   {
-    "date": "2025-01-05",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
-  },
-  {
     "date": "2025-01-07",
     "name": "Рождество Христово",
     "isPublic": true,
@@ -1288,22 +1272,6 @@
     "isReligious": false
   },
   {
-    "date": "2027-01-03",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
-  },
-  {
     "date": "2027-01-07",
     "name": "Рождество Христово",
     "isPublic": true,
@@ -1938,22 +1906,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2028-01-02",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
   },
   {
     "date": "2028-01-07",
@@ -2600,22 +2552,6 @@
     "isReligious": true
   },
   {
-    "date": "2029-01-07",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
-  },
-  {
     "date": "2029-01-19",
     "name": "Крещение Господне (Богоявление)",
     "isPublic": false,
@@ -3242,22 +3178,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2030-01-06",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
   },
   {
     "date": "2030-01-07",
@@ -3896,22 +3816,6 @@
     "isReligious": false
   },
   {
-    "date": "2031-01-05",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
-  },
-  {
     "date": "2031-01-07",
     "name": "Рождество Христово",
     "isPublic": true,
@@ -4546,22 +4450,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2032-01-04",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
   },
   {
     "date": "2032-01-07",
@@ -5200,22 +5088,6 @@
     "isReligious": false
   },
   {
-    "date": "2033-01-02",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
-  },
-  {
     "date": "2033-01-07",
     "name": "Рождество Христово",
     "isPublic": true,
@@ -5850,22 +5722,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2034-01-01",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
   },
   {
     "date": "2034-01-07",
@@ -6512,22 +6368,6 @@
     "isReligious": true
   },
   {
-    "date": "2035-01-07",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
-  },
-  {
     "date": "2035-01-19",
     "name": "Крещение Господне (Богоявление)",
     "isPublic": false,
@@ -7154,22 +6994,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2036-01-06",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
   },
   {
     "date": "2036-01-07",
