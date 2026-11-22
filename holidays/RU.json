@@ -638,7 +638,7 @@
   {
     "date": "2026-01-04",
     "name": "привет",
-    "isPublic": false,
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
