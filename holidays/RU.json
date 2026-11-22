@@ -652,22 +652,6 @@
     "isReligious": false
   },
   {
-    "date": "2026-01-04",
-    "name": "привет",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "rule": {
-      "type": "weekday",
-      "month": 1,
-      "weekday": 6,
-      "occurrence": 1,
-      "description": "1-й воскресенье января"
-    },
-    "isFloating": true
-  },
-  {
     "date": "2026-01-07",
     "name": "Рождество Христово",
     "isPublic": true,
