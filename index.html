@@ -96,21 +96,25 @@
 <div id="lang-en" class="lang-section">
     <h1>Privacy Policy & Disclaimer</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Updated:</strong> August 2026<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <h2>1. General Provisions</h2>
-    <p>The "Shift Calendar" app does not require account registration and does not collect personally identifiable information (PII).</p>
+    <p>The "Shift Calendar" app does not require account registration and does not collect personally identifiable information (PII) such as your full name, phone number, or personal contacts.</p>
     <h2>2. Local Data Storage</h2>
-    <p>All work shift schedules, notes, and events are stored <strong>100% locally</strong> on your device using Jetpack DataStore.</p>
-    <h2>3. Advertising and Identifiers</h2>
-    <p>The application integrates the <strong>Appodeal</strong> mediation platform (Appodeal Inc., BidMachine) to display ads. The SDK may collect anonymous technical data (Advertising ID, coarse IP address). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
-    <h2>4. Data Management</h2>
-    <p>To completely delete all data, simply uninstall the application from your device.</p>
+    <p>All work shift schedules, custom patterns, notes, personal events, and preferences are stored <strong>100% locally</strong> on your device using Jetpack DataStore. The developer has no access to your schedule or calendar entries.</p>
+    <h2>3. Advertising, Diagnostics & Network Requests</h2>
+    <div class="box">
+        <p>• <strong>Advertising:</strong> To display banner ads, the app integrates the <strong>Appodeal</strong> mediation platform (Appodeal Inc., BidMachine, and mediation partners). Ad SDKs may collect anonymous technical data, including Mobile Advertising ID (Google Advertising ID / Huawei OAID), coarse IP address (for approximate geo-targeting), device specifications, OS version, and ad impression/click metrics. Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Diagnostics & Analytics:</strong> The Google Play build integrates <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> (along with mediation diagnostic/attribution adapters), which may process anonymized crash logs and device telemetry to improve stability.</p>
+        <p>• <strong>Public Holidays:</strong> When loading public holidays, the app sends only the selected country code and app language code to <strong>Google Calendar API</strong> and <strong>GitHub Pages</strong> (no personal data is transmitted).</p>
+    </div>
+    <h2>4. Data Management & Deletion</h2>
+    <p>To permanently delete all locally stored data, uninstall the application from your device or clear app data in Android system settings.</p>
     <h2>5. Disclaimer & Limitation of Liability</h2>
     <div class="disclaimer-box">
-        <p>• The application is provided "AS IS" for personal scheduling purposes only.</p>
-        <p>• The developer is not liable for missed shifts or lost wages due to alarm failures caused by OS battery optimization (Doze mode).</p>
-        <p>• Shift calculations and statistics are for reference only.</p>
+        <p>• The application is provided on an <strong>"AS IS"</strong> and <strong>"AS AVAILABLE"</strong> basis without warranties of any kind, solely for personal scheduling purposes.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, missed events, lost wages, or any direct or indirect damages resulting from delayed or un-triggered notifications/alarms due to Android OS battery optimization (Doze Mode), OEM background restrictions, revoked notification or exact-alarm permissions, device power-off, or user misconfiguration. Do not rely on this app as your sole mission-critical alarm or wake-up mechanism.</p>
+        <p>• Work hours, night shifts, and holiday statistics are provided for reference only and must be verified against official employer records.</p>
     </div>
     <h2>6. Contact Us</h2>
     <p>Developer: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -120,117 +124,178 @@
 <div id="lang-ru" class="lang-section">
     <h1>Политика конфиденциальности и Отказ от ответственности</h1>
     <p><strong>Приложение:</strong> «Календарь смен: мой график работы»<br>
-    <strong>Дата обновления:</strong> Август 2026 г.<br>
+    <strong>Дата обновления:</strong> Ноябрь 2026 г.<br>
     <strong>Разработчик:</strong> Кудрин Артём (dastlap@gmail.com)</p>
     <h2>1. Общие положения</h2>
-    <p>Приложение не требует регистрации и не собирает ваши личные данные (ФИО, номер телефона, контакты).</p>
+    <p>Приложение не требует регистрации аккаунта и не собирает ваши персональные данные (ФИО, номер телефона, адрес электронной почты, список контактов).</p>
     <h2>2. Локальное хранение данных</h2>
-    <p>Все графики смен и заметки хранятся <strong>исключительно локально</strong> на вашем устройстве (Jetpack DataStore).</p>
-    <h2>3. Реклама и идентификаторы</h2>
-    <p>Приложение использует платформу <strong>Appodeal</strong> (Appodeal Inc., BidMachine) для показа баннеров. Подробнее: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+    <p>Все ваши рабочие графики, смены, заметки, личные события и настройки хранятся <strong>исключительно локально (100%)</strong> на вашем устройстве с использованием Jetpack DataStore. Разработчик не имеет доступа к вашему расписанию.</p>
+    <h2>3. Реклама, аналитика и сетевые запросы</h2>
+    <div class="box">
+        <p>• <strong>Реклама:</strong> для показа баннерной рекламы интегрирована медиационная платформа <strong>Appodeal</strong> (Appodeal Inc., BidMachine и партнёрские рекламные сети). Рекламные SDK могут собирать анонимные технические данные: рекламный идентификатор (Google Advertising ID / Huawei OAID), примерный IP-адрес (для геотаргетинга), характеристики устройства, версию ОС и метрики показов/кликов. Подробнее: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Диагностика и аналитика:</strong> в сборке для Google Play используются <strong>Firebase Analytics</strong> и <strong>Firebase Crashlytics</strong> (а также диагностические/атрибуционные модули рекламной медиации), которые могут обрабатывать обезличенные отчёты о сбоях и технические параметры устройства для повышения стабильности.</p>
+        <p>• <strong>Загрузка праздников:</strong> при запросе календаря праздников приложение передаёт только выбранный код страны и язык интерфейса на серверы <strong>Google Calendar API</strong> и <strong>GitHub Pages</strong> (без передачи личных данных).</p>
+    </div>
     <h2>4. Удаление данных</h2>
-    <p>Для полного удаления данных достаточно удалить приложение с устройства.</p>
-    <h2>5. Отказ от ответственности</h2>
+    <p>Для полного удаления всех локально сохранённых данных достаточно удалить приложение с устройства или очистить данные приложения в системных настройках Android.</p>
+    <h2>5. Отказ от ответственности и ограничение ответственности</h2>
     <div class="disclaimer-box">
-        <p>• Приложение предоставляется «КАК ЕСТЬ» исключительно для личного планирования.</p>
-        <p>• Разработчик не несет ответственности за пропущенные смены из-за оптимизации батареи Android (Doze Mode).</p>
-        <p>• Расчет часов носит справочный характер.</p>
+        <p>• Приложение предоставляется по принципу <strong>«КАК ЕСТЬ» (AS IS)</strong> без каких-либо прямых или подразумеваемых гарантий, исключительно для личного планирования.</p>
+        <p>• Разработчик <strong>НЕ несёт ответственности</strong> за опоздания, пропущенные смены, события или финансовые/иные убытки, возникшие из-за несрабатывания или задержки уведомлений и будильников вследствие энергосбережения Android (Doze Mode), ограничений фоновой работы производителем смартфона (OEM), отзыва разрешений на уведомления или точные будильники, выключения устройства либо ошибок настройки пользователем. Приложение является вспомогательным инструментом и не должно использоваться как единственное критически важное средство пробуждения или контроля.</p>
+        <p>• Расчёты рабочих, ночных и праздничных часов носят исключительно справочный характер — всегда сверяйте их с официальными документами работодателя.</p>
     </div>
     <h2>6. Обратная связь</h2>
     <p>Пишите автору: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-es" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (Español)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>Política de Privacidad y Exención de Responsabilidad (Español)</h1>
+    <p><strong>Aplicación:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Actualizado:</strong> Noviembre de 2026<br>
+    <strong>Desarrollador:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. Disposiciones Generales</h2>
+    <p>La aplicación no requiere registro de cuenta ni recopila datos de identificación personal (nombre, teléfono o contactos).</p>
+    <h2>2. Almacenamiento Local de Datos</h2>
+    <p>Todos sus horarios de turno, patrones, notas y eventos se almacenan <strong>100% localmente</strong> en su dispositivo mediante Jetpack DataStore. El desarrollador no tiene acceso a su calendario.</p>
+    <h2>3. Publicidad, Diagnóstico y Red</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Publicidad:</strong> Para mostrar anuncios, la aplicación integra la plataforma de mediación <strong>Appodeal</strong> (Appodeal Inc., BidMachine y socios), que puede recopilar datos técnicos anónimos (ID de publicidad, dirección IP aproximada, modelo y versión del SO). Política de Appodeal: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Diagnóstico:</strong> La versión de Google Play usa <strong>Firebase Analytics</strong> y <strong>Firebase Crashlytics</strong> para registrar fallos de forma anónima y mejorar la estabilidad.</p>
+        <p>• <strong>Festivos:</strong> Para descargar los días festivos, solo se envía el código de país e idioma seleccionado a Google Calendar API y GitHub Pages.</p>
     </div>
+    <h2>4. Eliminación de Datos</h2>
+    <p>Para eliminar todos los datos locales por completo, desinstale la aplicación o borre sus datos en los ajustes de Android.</p>
+    <h2>5. Exención de Responsabilidad</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• La aplicación se proporciona <strong>"TAL CUAL" (AS IS)</strong>, sin garantías, únicamente para planificación personal.</p>
+        <p>• El desarrollador <strong>NO es responsable</strong> de turnos perdidos, retrasos o pérdidas económicas por alarmas o notificaciones no activadas debido a la optimización de batería de Android (Doze Mode), restricciones del fabricante, permisos revocados o errores de configuración.</p>
+        <p>• Los cálculos de horas trabajadas y estadísticas son meramente orientativos.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. Contacto</h2>
+    <p>Contacto: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-de" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (Deutsch)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>Datenschutzerklärung und Haftungsausschluss (Deutsch)</h1>
+    <p><strong>Anwendung:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Aktualisiert:</strong> November 2026<br>
+    <strong>Entwickler:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. Allgemeine Bestimmungen</h2>
+    <p>Die App erfordert keine Registrierung und erfasst keine personenbezogenen Daten wie Namen, Telefonnummern oder Kontakte.</p>
+    <h2>2. Lokale Datenspeicherung</h2>
+    <p>Alle Schichtpläne, Muster, Notizen und Ereignisse werden zu <strong>100 % lokal</strong> auf Ihrem Gerät via Jetpack DataStore gespeichert. Der Entwickler hat keinen Zugriff darauf.</p>
+    <h2>3. Werbung, Diagnose & Netzwerkanfragen</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Werbung:</strong> Zur Anzeigenschaltung nutzt die App <strong>Appodeal</strong> (Appodeal Inc., BidMachine und Partner), die anonyme technische Daten (Werbe-ID, ungefähre IP-Adresse, Gerätedaten) verarbeiten können. Appodeal-Richtlinie: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Diagnose:</strong> Die Google-Play-Version verwendet <strong>Firebase Analytics</strong> und <strong>Firebase Crashlytics</strong> für anonyme Absturzberichte.</p>
+        <p>• <strong>Feiertage:</strong> Zum Abrufen von Feiertagen werden nur der gewählte Ländercode und die Sprache an Google Calendar API und GitHub Pages übermittelt.</p>
     </div>
+    <h2>4. Datenlöschung</h2>
+    <p>Um alle lokal gespeicherten Daten vollständig zu löschen, deinstallieren Sie die App oder löschen Sie die App-Daten in den Android-Einstellungen.</p>
+    <h2>5. Haftungsausschluss</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• Die App wird <strong>„WIE BESEHEN“ (AS IS)</strong> ohne Gewährleistung ausschließlich zur persönlichen Planung bereitgestellt.</p>
+        <p>• Der Entwickler haftet <strong>NICHT</strong> für verpasste Schichten, Verspätungen oder finanzielle Verluste durch verzögerte oder ausgebliebene Benachrichtigungen/Alarme infolge von Android-Akkuoptimierung (Doze Mode), Herstellerbeschränkungen oder fehlenden Berechtigungen.</p>
+        <p>• Arbeitszeit- und Statistikberechnungen dienen nur zur Orientierung.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. Kontakt</h2>
+    <p>Kontakt: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-fr" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (Français)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>Politique de Confidentialité et Clause de Non-Responsabilité (Français)</h1>
+    <p><strong>Application :</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Mise à jour :</strong> Novembre 2026<br>
+    <strong>Développeur :</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. Dispositions Générales</h2>
+    <p>L'application ne nécessite aucune inscription et ne collecte aucune donnée personnelle (nom, téléphone, contacts).</p>
+    <h2>2. Stockage Local des Données</h2>
+    <p>Tous vos plannings, cycles, notes et événements sont stockés à <strong>100 % localement</strong> sur votre appareil via Jetpack DataStore. Le développeur n'y a aucun accès.</p>
+    <h2>3. Publicité, Diagnostics et Réseau</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Publicité :</strong> L'application intègre la plateforme <strong>Appodeal</strong> (Appodeal Inc., BidMachine et partenaires), susceptible de collecter des données techniques anonymes (ID publicitaire, IP approximative, appareil). Politique d'Appodeal : <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Diagnostics :</strong> La version Google Play utilise <strong>Firebase Analytics</strong> et <strong>Firebase Crashlytics</strong> pour collecter des rapports de plantage anonymes.</p>
+        <p>• <strong>Jours fériés :</strong> Seuls le code pays et la langue choisis sont envoyés à Google Calendar API et GitHub Pages.</p>
     </div>
+    <h2>4. Suppression des Données</h2>
+    <p>Pour supprimer toutes les données locales, désinstallez l'application ou effacez ses données dans les paramètres Android.</p>
+    <h2>5. Clause de Non-Responsabilité</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• L'application est fournie <strong>« EN L'ÉTAT » (AS IS)</strong>, sans garantie, uniquement pour votre organisation personnelle.</p>
+        <p>• Le développeur <strong>décline toute responsabilité</strong> en cas de poste manqué, retard ou perte financière dus à des alarmes/notifications non déclenchées à cause de l'optimisation de batterie Android (Doze Mode), des restrictions du fabricant ou d'autorisations désactivées.</p>
+        <p>• Les calculs d'heures sont fournis à titre indicatif uniquement.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. Contact</h2>
+    <p>Contact : <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-pt" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (Português)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>Política de Privacidade e Isenção de Responsabilidade (Português)</h1>
+    <p><strong>Aplicativo:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Atualizado:</strong> Novembro de 2026<br>
+    <strong>Desenvolvedor:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. Disposições Gerais</h2>
+    <p>O app não exige registro de conta e não coleta dados pessoais identificáveis.</p>
+    <h2>2. Armazenamento Local de Dados</h2>
+    <p>Todas as suas escalas, padrões, notas e eventos são armazenados <strong>100% localmente</strong> no seu dispositivo usando Jetpack DataStore. O desenvolvedor não tem acesso à sua agenda.</p>
+    <h2>3. Publicidade, Diagnóstico e Rede</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Publicidade:</strong> Para exibir anúncios, o aplicativo integra a plataforma <strong>Appodeal</strong> (Appodeal Inc., BidMachine e parceiros), que pode coletar dados técnicos anônimos (ID de publicidade, endereço IP aproximado, especificações do dispositivo). Política da Appodeal: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Diagnóstico:</strong> A versão do Google Play utiliza <strong>Firebase Analytics</strong> e <strong>Firebase Crashlytics</strong> para relatórios anônimos de falhas.</p>
+        <p>• <strong>Feriados:</strong> Para buscar feriados públicos, apenas o código do país e do idioma selecionados são enviados à Google Calendar API e ao GitHub Pages.</p>
     </div>
+    <h2>4. Exclusão de Dados</h2>
+    <p>Para apagar todos os dados locais, desinstale o aplicativo ou limpe os dados nas configurações do Android.</p>
+    <h2>5. Isenção de Responsabilidade</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• O aplicativo é fornecido <strong>"NO ESTADO EM QUE SE ENCONTRA" (AS IS)</strong>, apenas para planejamento pessoal.</p>
+        <p>• O desenvolvedor <strong>NÃO se responsabiliza</strong> por turnos perdidos, atrasos ou prejuízos causados por falhas ou atrasos em alarmes e notificações devido à otimização de bateria do Android (Doze Mode), restrições do fabricante ou permissões negadas.</p>
+        <p>• Os cálculos de horas e estatísticas são apenas para referência.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. Contato</h2>
+    <p>Contato: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-it" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (Italiano)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>Informativa sulla Privacy e Esclusione di Responsabilità (Italiano)</h1>
+    <p><strong>Applicazione:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Aggiornamento:</strong> Novembre 2026<br>
+    <strong>Sviluppatore:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. Disposizioni Generali</h2>
+    <p>L'applicazione non richiede registrazione e non raccoglie dati personali identificativi.</p>
+    <h2>2. Archiviazione Locale dei Dati</h2>
+    <p>Tutti i turni, gli schemi, le note e gli eventi sono salvati al <strong>100% in locale</strong> sul dispositivo tramite Jetpack DataStore. Lo sviluppatore non ha accesso alla tua agenda.</p>
+    <h2>3. Pubblicità, Diagnostica e Rete</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Pubblicità:</strong> L'app integra la piattaforma <strong>Appodeal</strong> (Appodeal Inc., BidMachine e partner), che può raccogliere dati tecnici anonimi (ID pubblicitario, IP approssimativo, modello del dispositivo). Privacy di Appodeal: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Diagnostica:</strong> La versione Google Play utilizza <strong>Firebase Analytics</strong> e <strong>Firebase Crashlytics</strong> per segnalazioni anonime di arresti anomali.</p>
+        <p>• <strong>Festività:</strong> Per caricare le festività vengono inviati solo il codice paese e la lingua selezionati a Google Calendar API e GitHub Pages.</p>
     </div>
+    <h2>4. Eliminazione dei Dati</h2>
+    <p>Per eliminare tutti i dati locali, disinstalla l'applicazione o cancella i dati dell'app dalle impostazioni di Android.</p>
+    <h2>5. Esclusione di Responsabilità</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• L'app è fornita <strong>"COSÌ COM'È" (AS IS)</strong>, senza garanzie, esclusivamente per la pianificazione personale.</p>
+        <p>• Lo sviluppatore <strong>NON è responsabile</strong> per turni mancati, ritardi o danni derivanti da notifiche/sveglie ritardate o non attivate a causa dell'ottimizzazione della batteria Android (Doze Mode), restrizioni del produttore o permessi revocati.</p>
+        <p>• I calcoli delle ore sono puramente indicativi.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. Contatti</h2>
+    <p>Contatti: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-pl" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Polski)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -239,14 +304,16 @@
 <div id="lang-nl" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Nederlands)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -255,14 +322,16 @@
 <div id="lang-be" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Беларуская)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -271,14 +340,16 @@
 <div id="lang-kk" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Қазақша)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -287,14 +358,16 @@
 <div id="lang-uz" class="lang-section">
     <h1>Privacy Policy & Disclaimer (O'zbekcha)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -303,14 +376,16 @@
 <div id="lang-ky" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Кыргызча)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -319,14 +394,16 @@
 <div id="lang-hy" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Հայերեն)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -335,14 +412,16 @@
 <div id="lang-ka" class="lang-section">
     <h1>Privacy Policy & Disclaimer (ქართული)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -351,14 +430,16 @@
 <div id="lang-az" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Azərbaycanca)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -367,14 +448,16 @@
 <div id="lang-cs" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Čeština)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -383,14 +466,16 @@
 <div id="lang-sk" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Slovenčina)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -399,14 +484,16 @@
 <div id="lang-hu" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Magyar)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -415,14 +502,16 @@
 <div id="lang-ro" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Română)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -431,14 +520,16 @@
 <div id="lang-bg" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Български)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -447,14 +538,16 @@
 <div id="lang-sr" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Српски)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -463,14 +556,16 @@
 <div id="lang-hr" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Hrvatski)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -479,14 +574,16 @@
 <div id="lang-sl" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Slovenščina)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -495,14 +592,16 @@
 <div id="lang-el" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Ελληνικά)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -511,14 +610,16 @@
 <div id="lang-da" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Dansk)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -527,14 +628,16 @@
 <div id="lang-fi" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Suomi)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -543,14 +646,16 @@
 <div id="lang-sv" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Svenska)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -559,14 +664,16 @@
 <div id="lang-no" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Norsk)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -575,14 +682,16 @@
 <div id="lang-is" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Íslenska)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -591,14 +700,16 @@
 <div id="lang-et" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Eesti)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -607,14 +718,16 @@
 <div id="lang-lv" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Latviešu)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -623,14 +736,16 @@
 <div id="lang-lt" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Lietuvių)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -639,14 +754,16 @@
 <div id="lang-mt" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Malti)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -655,190 +772,286 @@
 <div id="lang-ga" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Gaeilge)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-tr" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (Türkçe)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>Gizlilik Politikası ve Sorumluluk Reddi (Türkçe)</h1>
+    <p><strong>Uygulama:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Güncelleme:</strong> Kasım 2026<br>
+    <strong>Geliştirici:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. Genel Hükümler</h2>
+    <p>Hesap kaydı gerekmez ve kişisel kimlik bilgileri toplanmaz.</p>
+    <h2>2. Yerel Veri Depolama</h2>
+    <p>Tüm vardiya planları, notlar ve etkinlikler cihazınızda <strong>%100 yerel</strong> olarak (Jetpack DataStore) saklanır.</p>
+    <h2>3. Reklamlar, Tanılama ve Ağ İstekleri</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Reklamlar:</strong> Reklam göstermek için <strong>Appodeal</strong> platformu (Appodeal Inc., BidMachine) entegre edilmiştir; anonim teknik veriler (Reklam Kimliği, yaklaşık IP adresi, cihaz bilgileri) toplanabilir. Appodeal Politikası: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Tanılama:</strong> Google Play sürümü kararlılık için <strong>Firebase Analytics</strong> ve <strong>Firebase Crashlytics</strong> kullanır.</p>
+        <p>• <strong>Resmi Tatiller:</strong> Tatilleri yüklemek için yalnızca seçilen ülke ve dil kodu Google Calendar API ve GitHub Pages'e gönderilir.</p>
     </div>
+    <h2>4. Veri Silme</h2>
+    <p>Tüm yerel verileri silmek için uygulamayı kaldırın veya Android ayarlarından uygulama verilerini temizleyin.</p>
+    <h2>5. Sorumluluk Reddi</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• Uygulama yalnızca kişisel planlama amacıyla <strong>"OLDUĞU GİBİ" (AS IS)</strong> sunulur.</p>
+        <p>• Android pil optimizasyonu (Doze Mode), üretici arka plan kısıtlamaları veya izinlerin verilmemesi nedeniyle alarm/bildirimlerin çalışmamasından doğabilecek vardiya kaçırma ve kayıplardan geliştirici <strong>SORUMLU DEĞİLDİR</strong>.</p>
+        <p>• Çalışma saati hesaplamaları yalnızca bilgi amaçlıdır.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. İletişim</h2>
+    <p>İletişim: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-id" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (Bahasa Indonesia)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>Kebijakan Privasi & Penafian (Bahasa Indonesia)</h1>
+    <p><strong>Aplikasi:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Diperbarui:</strong> November 2026<br>
+    <strong>Pengembang:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. Ketentuan Umum</h2>
+    <p>Aplikasi tidak memerlukan pendaftaran akun dan tidak mengumpulkan data pribadi (nama, nomor telepon, kontak).</p>
+    <h2>2. Penyimpanan Data Lokal</h2>
+    <p>Semua jadwal shift, catatan, dan acara pribadi disimpan <strong>100% secara lokal</strong> di perangkat Anda melalui Jetpack DataStore.</p>
+    <h2>3. Iklan, Diagnostik & Permintaan Jaringan</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Iklan:</strong> Aplikasi mengintegrasikan platform <strong>Appodeal</strong> (Appodeal Inc., BidMachine) yang dapat mengumpulkan data teknis anonim (ID Iklan, perkiraan alamat IP, info perangkat). Kebijakan Appodeal: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Diagnostik:</strong> Versi Google Play menggunakan <strong>Firebase Analytics</strong> dan <strong>Firebase Crashlytics</strong> untuk laporan kerusakan anonim.</p>
+        <p>• <strong>Hari Libur:</strong> Hanya kode negara dan bahasa yang dipilih yang dikirim ke Google Calendar API dan GitHub Pages.</p>
     </div>
+    <h2>4. Penghapusan Data</h2>
+    <p>Untuk menghapus semua data lokal, hapus instalasi aplikasi atau bersihkan data aplikasi di pengaturan Android.</p>
+    <h2>5. Penafian & Batasan Tanggung Jawab</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• Aplikasi disediakan <strong>"SEBAGAIMANA ADANYA" (AS IS)</strong> hanya untuk perencanaan pribadi.</p>
+        <p>• Pengembang <strong>TIDAK bertanggung jawab</strong> atas keterlambatan, shift terlewat, atau kerugian akibat alarm/notifikasi gagal berbunyi karena pengoptimalan baterai Android (Doze Mode), pembatasan latar belakang pabrikan, atau izin yang dinonaktifkan.</p>
+        <p>• Perhitungan jam kerja hanya bersifat referensi.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. Kontak</h2>
+    <p>Kontak: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-ms" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Bahasa Melayu)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-vi" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (Tiếng Việt)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>Chính sách Quyền riêng tư & Tuyên bố Miễn trừ Trách nhiệm (Tiếng Việt)</h1>
+    <p><strong>Ứng dụng:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Cập nhật:</strong> Tháng 11 năm 2026<br>
+    <strong>Nhà phát triển:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. Quy định Chung</h2>
+    <p>Ứng dụng không yêu cầu đăng ký tài khoản và không thu thập thông tin nhận dạng cá nhân.</p>
+    <h2>2. Lưu trữ Dữ liệu Cục bộ</h2>
+    <p>Tất cả lịch ca làm việc, ghi chú và sự kiện của bạn được lưu trữ <strong>100% cục bộ</strong> trên thiết bị bằng Jetpack DataStore.</p>
+    <h2>3. Quảng cáo, Chẩn đoán & Kết nối Mạng</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Quảng cáo:</strong> Ứng dụng tích hợp nền tảng trung gian <strong>Appodeal</strong> (Appodeal Inc., BidMachine) để hiển thị quảng cáo, có thể thu thập dữ liệu kỹ thuật ẩn danh (Mã quảng cáo, địa chỉ IP ước tính, thông tin thiết bị). Chính sách Appodeal: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>Chẩn đoán:</strong> Bản Google Play sử dụng <strong>Firebase Analytics</strong> và <strong>Firebase Crashlytics</strong> để ghi nhận lỗi ẩn danh nhằm cải thiện độ ổn định.</p>
+        <p>• <strong>Ngày lễ:</strong> Chỉ mã quốc gia và ngôn ngữ đã chọn được gửi tới Google Calendar API và GitHub Pages để tải lịch nghỉ lễ.</p>
     </div>
+    <h2>4. Xóa Dữ liệu</h2>
+    <p>Để xóa toàn bộ dữ liệu cục bộ, hãy gỡ cài đặt ứng dụng hoặc xóa dữ liệu ứng dụng trong phần cài đặt Android.</p>
+    <h2>5. Tuyên bố Miễn trừ Trách nhiệm</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• Ứng dụng được cung cấp <strong>"NGUYÊN TRẠNG" (AS IS)</strong> chỉ phục vụ mục đích lập kế hoạch cá nhân.</p>
+        <p>• Nhà phát triển <strong>KHÔNG chịu trách nhiệm</strong> về việc trễ giờ, bỏ lỡ ca làm việc hoặc thiệt hại do báo thức/thông báo bị trễ hoặc không hoạt động vì chế độ tiết kiệm pin Android (Doze Mode), giới hạn chạy nền của thiết bị hoặc chưa cấp quyền.</p>
+        <p>• Số liệu thống kê giờ làm việc chỉ mang tính chất tham khảo.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. Liên hệ</h2>
+    <p>Liên hệ: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-th" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (ไทย)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>นโยบายความเป็นส่วนตัวและข้อสงวนสิทธิ์ (ไทย)</h1>
+    <p><strong>แอปพลิเคชัน:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>อัปเดต:</strong> พฤศจิกายน 2026<br>
+    <strong>ผู้พัฒนา:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. ข้อกำหนดทั่วไป</h2>
+    <p>แอปพลิเคชันไม่ต้องลงทะเบียนบัญชี และไม่เก็บรวบรวมข้อมูลส่วนบุคคลที่ระบุตัวตนได้</p>
+    <h2>2. การจัดเก็บข้อมูลในเครื่อง</h2>
+    <p>ข้อมูลตารางกะทำงาน บันทึก และกิจกรรมทั้งหมดจะถูกจัดเก็บไว้ในเครื่องของคุณ <strong>100%</strong> ด้วย Jetpack DataStore</p>
+    <h2>3. โฆษณา การวินิจฉัย และการเชื่อมต่อเครือข่าย</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>โฆษณา:</strong> แอปผสานรวมแพลตฟอร์ม <strong>Appodeal</strong> (Appodeal Inc., BidMachine) เพื่อแสดงโฆษณา ซึ่งอาจเก็บข้อมูลทางเทคนิคแบบไม่ระบุตัวตน (Advertising ID, ที่อยู่ IP โดยประมาณ, ข้อมูลอุปกรณ์) นโยบาย Appodeal: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a></p>
+        <p>• <strong>การวินิจฉัย:</strong> เวอร์ชัน Google Play ใช้ <strong>Firebase Analytics</strong> และ <strong>Firebase Crashlytics</strong> เพื่อตรวจสอบข้อผิดพลาดแบบไม่ระบุตัวตน</p>
+        <p>• <strong>วันหยุด:</strong> ระบบจะส่งเฉพาะรหัสประเทศและภาษาที่เลือกไปยัง Google Calendar API และ GitHub Pages เพื่อโหลดข้อมูลวันหยุด</p>
     </div>
+    <h2>4. การลบข้อมูล</h2>
+    <p>หากต้องการลบข้อมูลทั้งหมดในเครื่อง ให้ถอนการติดตั้งแอปหรือล้างข้อมูลแอปในการตั้งค่า Android</p>
+    <h2>5. ข้อสงวนสิทธิ์และข้อจำกัดความรับผิดชอบ</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• แอปนี้ให้บริการ <strong>"ตามสภาพ" (AS IS)</strong> เพื่อการวางแผนส่วนตัวเท่านั้น</p>
+        <p>• ผู้พัฒนา <strong>ไม่รับผิดชอบ</strong> ต่อการเข้างานสาย การขาดงาน หรือความเสียหายใดๆ ที่เกิดจากนาฬิกาปลุกหรือการแจ้งเตือนไม่ทำงานเนื่องจากการประหยัดพลังงานของ Android (Doze Mode) ข้อจำกัดเบื้องหลังของผู้ผลิตเครื่อง หรือการไม่อนุญาตสิทธิ์การแจ้งเตือน</p>
+        <p>• การคำนวณชั่วโมงทำงานและสถิติใช้เพื่อการอ้างอิงเท่านั้น</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. ติดต่อเรา</h2>
+    <p>ติดต่อ: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-tl" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Filipino)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-ja" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (日本語)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>プライバシーポリシーおよび免責事項 (日本語)</h1>
+    <p><strong>アプリ：</strong> Shift Calendar: My Work Schedule<br>
+    <strong>更新日：</strong> 2026年11月<br>
+    <strong>開発者：</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. 一般条項</h2>
+    <p>アカウント登録は不要で、氏名・電話番号・連絡先などの個人識別情報は収集しません。</p>
+    <h2>2. データのローカル保存</h2>
+    <p>シフト予定、メモ、個人イベントはすべて端末内に<strong>100%ローカル保存</strong>されます（Jetpack DataStore使用）。開発者がアクセスすることはありません。</p>
+    <h2>3. 広告・診断・ネットワーク通信</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>広告：</strong>広告表示のため <strong>Appodeal</strong> メディエーションプラットフォーム（Appodeal Inc.、BidMachine等）を統合しており、匿名技術データ（広告ID、おおよそのIPアドレス、端末情報）を収集する場合があります。Appodealポリシー：<a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a></p>
+        <p>• <strong>診断：</strong>Google Play版では安定性向上のため <strong>Firebase Analytics</strong> および <strong>Firebase Crashlytics</strong> による匿名クラッシュレポートを使用します。</p>
+        <p>• <strong>祝日取得：</strong>祝日データ取得時に、選択された国コードと言語コードのみをGoogle Calendar APIおよびGitHub Pagesへ送信します。</p>
     </div>
+    <h2>4. データの削除</h2>
+    <p>すべてのローカルデータを削除するには、アプリをアンインストールするか、Android設定からアプリデータを消去してください。</p>
+    <h2>5. 免責事項</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• 本アプリは<strong>「現状有姿（AS IS）」</strong>で個人スケジュール管理のみを目的として提供されます。</p>
+        <p>• Androidの省電力機能（Dozeモード）、メーカー独自のバックグラウンド制限、通知・アラーム権限の未許可等に起因する通知の遅延・不発による遅刻、欠勤、損害について、開発者は<strong>一切の責任を負いません</strong>。</p>
+        <p>• 労働時間や統計の計算結果は参考値です。</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. お問い合わせ</h2>
+    <p>連絡先：<a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-ko" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (한국어)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>개인정보 처리방침 및 면책 조항 (한국어)</h1>
+    <p><strong>애플리케이션:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>업데이트:</strong> 2026년 11월<br>
+    <strong>개발자:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. 일반 규정</h2>
+    <p>계정 가입이 필요 없으며 이름, 전화번호 등 개인 식별 정보를 수집하지 않습니다.</p>
+    <h2>2. 로컬 데이터 저장</h2>
+    <p>모든 근무 일정, 메모, 개인 이벤트는 기기 내부에만 <strong>100% 로컬 저장</strong>됩니다(Jetpack DataStore 사용). 개발자는 일정에 접근할 수 없습니다.</p>
+    <h2>3. 광고, 진단 및 네트워크 요청</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>광고:</strong> 광고 게재를 위해 <strong>Appodeal</strong> 플랫폼(Appodeal Inc., BidMachine 등)을 통합하며 익명 기술 데이터(광고 ID, 대략적 IP 주소, 기기 정보)를 수집할 수 있습니다. Appodeal 정책: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a></p>
+        <p>• <strong>진단:</strong> Google Play 빌드에서는 안정성 개선을 위해 <strong>Firebase Analytics</strong> 및 <strong>Firebase Crashlytics</strong>를 통해 익명 오류 보고서를 처리합니다.</p>
+        <p>• <strong>공휴일 조회:</strong> 공휴일 로드 시 선택한 국가 코드와 언어 코드만 Google Calendar API 및 GitHub Pages로 전송됩니다.</p>
     </div>
+    <h2>4. 데이터 삭제</h2>
+    <p>모든 로컬 데이터를 삭제하려면 앱을 제거하거나 Android 설정에서 앱 데이터를 삭제하세요.</p>
+    <h2>5. 면책 조항</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• 본 앱은 개인 일정 관리 용도로 <strong>"있는 그대로(AS IS)"</strong> 제공됩니다.</p>
+        <p>• Android 배터리 최적화(Doze 모드), 제조사 백그라운드 제한, 알림/알람 권한 미허용 등으로 인한 알람 미작동 및 근무 누락/손실에 대해 개발자는 <strong>법적 책임을 지지 않습니다</strong>.</p>
+        <p>• 근무 시간 및 통계 계산은 참고용입니다.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. 문의처</h2>
+    <p>문의: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-zh" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (繁體中文)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>隱私權政策與免責聲明 (繁體中文)</h1>
+    <p><strong>應用程式：</strong> Shift Calendar: My Work Schedule<br>
+    <strong>更新日期：</strong> 2026年11月<br>
+    <strong>開發者：</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. 一般條款</h2>
+    <p>本應用程式無需註冊帳戶，亦不收集姓名、電話或聯絡人等個人識別資訊。</p>
+    <h2>2. 本地資料儲存</h2>
+    <p>您的所有班表、輪班規則、筆記與個人事件均 <strong>100% 儲存在本地裝置上</strong>（Jetpack DataStore），開發者無法存取您的行程。</p>
+    <h2>3. 廣告、診斷與網路請求</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>廣告：</strong>本應用程式整合 <strong>Appodeal</strong> 聚合廣告平台（Appodeal Inc.、BidMachine 及合作夥伴），可能收集匿名技術資料（廣告識別碼、約略 IP 位址、裝置與系統資訊）。Appodeal 隱私權政策：<a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a></p>
+        <p>• <strong>診斷與分析：</strong>Google Play 版本整合 <strong>Firebase Analytics</strong> 與 <strong>Firebase Crashlytics</strong>，用於收集匿名當機報告以提升穩定性。</p>
+        <p>• <strong>國定假日查詢：</strong>載入假日資訊時，僅向 Google Calendar API 與 GitHub Pages 傳送所選國家代碼與語言代碼。</p>
     </div>
+    <h2>4. 資料刪除</h2>
+    <p>若要徹底刪除所有本地資料，請解除安裝本應用程式或在 Android 系統設定中清除應用程式資料。</p>
+    <h2>5. 免責聲明與責任限制</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• 本應用程式依<strong>「現狀」（AS IS）</strong>提供，不附帶任何保證，僅供個人規劃使用。</p>
+        <p>• 因 Android 省電最佳化（Doze 模式）、裝置製造商背景限制、權限遭撤銷、裝置關機或設定錯誤導致提醒／鬧鐘延遲或未響，進而造成的漏班、遲到或損失，開發者<strong>概不負責</strong>。請勿將本應用程式作為唯一關鍵的喚醒工具。</p>
+        <p>• 工時與統計計算僅供參考，請以雇主官方紀錄為準。</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. 聯絡方式</h2>
+    <p>聯絡信箱：<a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-hi" class="lang-section">
-    <h1>Privacy Policy & Disclaimer (हिन्दी)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>गोपनीयता नीति और अस्वीकरण (हिन्दी)</h1>
+    <p><strong>ऐप:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>अद्यतन:</strong> नवंबर 2026<br>
+    <strong>डेवलपर:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. सामान्य प्रावधान</h2>
+    <p>ऐप को खाते के पंजीकरण की आवश्यकता नहीं है और यह नाम, फोन नंबर या संपर्क जैसी व्यक्तिगत जानकारी एकत्र नहीं करता है।</p>
+    <h2>2. स्थानीय डेटा भंडारण</h2>
+    <p>आपकी सभी शिफ्ट अनुसूची, नोट्स और व्यक्तिगत कार्यक्रम Jetpack DataStore का उपयोग करके आपके डिवाइस पर <strong>100% स्थानीय रूप से</strong> संग्रहीत किए जाते हैं।</p>
+    <h2>3. विज्ञापन, डायग्नोस्टिक्स और नेटवर्क अनुरोध</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>विज्ञापन:</strong> विज्ञापन दिखाने के लिए ऐप <strong>Appodeal</strong> मध्यस्थता प्लेटफ़ॉर्म (Appodeal Inc., BidMachine) का उपयोग करता है, जो गुमनाम तकनीकी डेटा (Advertising ID, अनुमानित IP पता, डिवाइस विवरण) एकत्र कर सकता है। Appodeal नीति: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a></p>
+        <p>• <strong>डायग्नोस्टिक्स:</strong> Google Play संस्करण स्थिरता सुधारने के लिए <strong>Firebase Analytics</strong> और <strong>Firebase Crashlytics</strong> का उपयोग करता है।</p>
+        <p>• <strong>अवकाश डेटा:</strong> सार्वजनिक अवकाश लोड करने के लिए केवल चुना गया देश कोड और भाषा कोड Google Calendar API और GitHub Pages को भेजा जाता है।</p>
     </div>
+    <h2>4. डेटा हटाना</h2>
+    <p>सभी स्थानीय डेटा को पूरी तरह हटाने के लिए ऐप को अनइंस्टॉल करें या Android सेटिंग्स से ऐप डेटा साफ़ करें।</p>
+    <h2>5. अस्वीकरण और दायित्व की सीमा</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• ऐप केवल व्यक्तिगत योजना के लिए <strong>"जैसा है" (AS IS)</strong> आधार पर प्रदान किया जाता है।</p>
+        <p>• Android बैटरी ऑप्टिमाइज़ेशन (Doze Mode), डिवाइस निर्माता के बैकग्राउंड प्रतिबंधों, या अनुमतियाँ बंद होने के कारण अलार्म/सूचनाएँ न बजने से होने वाली देरी, छूटी हुई शिफ्ट या किसी भी नुकसान के लिए डेवलपर <strong>उत्तरदायी नहीं है</strong>।</p>
+        <p>• कार्य घंटों और आँकड़ों की गणना केवल संदर्भ के लिए है।</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. संपर्क करें</h2>
+    <p>ईमेल: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-bn" class="lang-section">
     <h1>Privacy Policy & Disclaimer (বাংলা)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -847,14 +1060,16 @@
 <div id="lang-ur" class="lang-section" dir="rtl">
     <h1>Privacy Policy & Disclaimer (اردو)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -863,46 +1078,61 @@
 <div id="lang-fa" class="lang-section" dir="rtl">
     <h1>Privacy Policy & Disclaimer (فارسی)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-ar" class="lang-section" dir="rtl">
-    <h1>Privacy Policy & Disclaimer (العربية)</h1>
-    <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
-    <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h1>سياسة الخصوصية وإخلاء المسؤولية (العربية)</h1>
+    <p><strong>التطبيق:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>التحديث:</strong> نوفمبر 2026<br>
+    <strong>المطور:</strong> Artem Kudrin (dastlap@gmail.com)</p>
+    <h2>1. أحكام عامة</h2>
+    <p>لا يتطلب التطبيق إنشاء حساب ولا يجمع معلومات شخصية مثل الاسم أو رقم الهاتف.</p>
+    <h2>2. التخزين المحلي للبيانات</h2>
+    <p>يتم حفظ جميع جداول العمل والملاحظات <strong>محلياً بنسبة 100%</strong> على جهازك باستخدام Jetpack DataStore دون أي وصول للمطور.</p>
+    <h2>3. الإعلانات والتشخيص وطلبات الشبكة</h2>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• <strong>الإعلانات:</strong> يدمج التطبيق منصة <strong>Appodeal</strong> (Appodeal Inc., BidMachine) لعرض الإعلانات وقد يجمع بيانات تقنية مجهولة (معرف الإعلانات، عنوان IP التقريبي، نوع الجهاز). سياسة Appodeal: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a></p>
+        <p>• <strong>التشخيص:</strong> تستخدم نسخة Google Play خدمات <strong>Firebase Analytics</strong> و<strong>Firebase Crashlytics</strong> لتحسين الاستقرار عبر تقارير الأعطال المجهولة.</p>
+        <p>• <strong>العطلات:</strong> عند جلب العطلات الرسمية، يُرسل رمز الدولة واللغة المختارة فقط إلى Google Calendar API وGitHub Pages.</p>
     </div>
+    <h2>4. حذف البيانات</h2>
+    <p>لحذف جميع البيانات المحلية بالكامل، قم بإلغاء تثبيت التطبيق أو مسح بياناته من إعدادات Android.</p>
+    <h2>5. إخلاء المسؤولية</h2>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
-        <p>• Work hours and holiday pay calculations are for reference only.</p>
+        <p>• يُقدّم التطبيق <strong>"كما هو" (AS IS)</strong> للتخطيط الشخصي فقط دون أي ضمانات.</p>
+        <p>• <strong>لا يتحمل المطور أي مسؤولية</strong> عن تأخر أو عدم عمل المنبهات والإشعارات بسبب توفير البطارية في Android (Doze Mode) أو قيود الشركة المصنعة أو إيقاف الأذونات.</p>
+        <p>• حسابات ساعات العمل هي للأغراض الاسترشادية فقط.</p>
     </div>
-    <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
+    <h2>6. التواصل</h2>
+    <p>البريد الإلكتروني: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
 </div>
 
 <div id="lang-he" class="lang-section" dir="rtl">
     <h1>Privacy Policy & Disclaimer (עברית)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -911,14 +1141,16 @@
 <div id="lang-si" class="lang-section">
     <h1>Privacy Policy & Disclaimer (සිංහල)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -927,14 +1159,16 @@
 <div id="lang-ne" class="lang-section">
     <h1>Privacy Policy & Disclaimer (नेपाली)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -943,14 +1177,16 @@
 <div id="lang-my" class="lang-section">
     <h1>Privacy Policy & Disclaimer (မြန်မာ)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -959,14 +1195,16 @@
 <div id="lang-km" class="lang-section">
     <h1>Privacy Policy & Disclaimer (ភាសាខ្មែរ)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -975,14 +1213,16 @@
 <div id="lang-lo" class="lang-section">
     <h1>Privacy Policy & Disclaimer (ພາສາລາວ)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -991,14 +1231,16 @@
 <div id="lang-mn" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Монгол)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1007,14 +1249,16 @@
 <div id="lang-fj" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Fijian)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1023,14 +1267,16 @@
 <div id="lang-tpi" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Tok Pisin)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1039,14 +1285,16 @@
 <div id="lang-sw" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Kiswahili)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1055,14 +1303,16 @@
 <div id="lang-af" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Afrikaans)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1071,14 +1321,16 @@
 <div id="lang-am" class="lang-section">
     <h1>Privacy Policy & Disclaimer (አማርኛ)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1087,14 +1339,16 @@
 <div id="lang-ha" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Hausa)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1103,14 +1357,16 @@
 <div id="lang-yo" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Yorùbá)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1119,14 +1375,16 @@
 <div id="lang-ig" class="lang-section">
     <h1>Privacy Policy & Disclaimer (Igbo)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1135,14 +1393,16 @@
 <div id="lang-zu" class="lang-section">
     <h1>Privacy Policy & Disclaimer (isiZulu)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1151,14 +1411,16 @@
 <div id="lang-xh" class="lang-section">
     <h1>Privacy Policy & Disclaimer (isiXhosa)</h1>
     <p><strong>Application:</strong> Shift Calendar: My Work Schedule<br>
+    <strong>Updated:</strong> November 2026<br>
     <strong>Developer:</strong> Artem Kudrin (dastlap@gmail.com)</p>
     <div class="box">
-        <p>All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore technology. The app does not collect personal data (PII).</p>
-        <p>Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). View official: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• All work shift schedules, custom patterns, and notes are stored <strong>100% locally</strong> on your device via Jetpack DataStore. The app does not collect PII. To delete all data, uninstall the app or clear its storage in Android settings.</p>
+        <p>• Ad monetization is provided by <strong>Appodeal</strong> (Appodeal Inc., BidMachine). Privacy Policy: <a href="https://appodeal.com/privacy-policy/" target="_blank" rel="noopener">Appodeal Privacy Policy</a>.</p>
+        <p>• The Google Play build uses <strong>Firebase Analytics</strong> and <strong>Firebase Crashlytics</strong> for anonymous crash diagnostics, and sends only country/language codes to Google Calendar API and GitHub Pages to load public holidays.</p>
     </div>
     <div class="disclaimer-box">
-        <p>• The app is provided on an "AS IS" basis for personal planning only.</p>
-        <p>• The developer is not liable for missed alarms caused by device battery optimizations.</p>
+        <p>• The app is provided on an <strong>"AS IS"</strong> basis for personal planning only.</p>
+        <p>• The developer is <strong>NOT liable</strong> for missed shifts, late arrivals, or losses caused by delayed or missed alarms/notifications due to Android Doze Mode, OEM battery restrictions, revoked permissions, or device power-off.</p>
         <p>• Work hours and holiday pay calculations are for reference only.</p>
     </div>
     <p>Contact: <a href="mailto:dastlap@gmail.com">dastlap@gmail.com</a></p>
@@ -1175,6 +1437,7 @@
 
     window.onload = function() {
         var userLang = (navigator.language || navigator.userLanguage || 'en').substring(0, 2).toLowerCase();
+        if (userLang === 'in') userLang = 'id';
         var supported = ["en", "ru", "es", "de", "fr", "pt", "it", "pl", "nl", "be", "kk", "uz", "ky", "hy", "ka", "az", "cs", "sk", "hu", "ro", "bg", "sr", "hr", "sl", "el", "da", "fi", "sv", "no", "is", "et", "lv", "lt", "mt", "ga", "tr", "id", "ms", "vi", "th", "tl", "ja", "ko", "zh", "hi", "bn", "ur", "fa", "ar", "he", "si", "ne", "my", "km", "lo", "mn", "fj", "tpi", "sw", "af", "am", "ha", "yo", "ig", "zu", "xh"];
         if (supported.indexOf(userLang) !== -1) {
             switchLanguage(userLang);
