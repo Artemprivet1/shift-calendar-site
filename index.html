@@ -1436,11 +1436,12 @@
     }
 
     window.onload = function() {
-        var userLang = (navigator.language || navigator.userLanguage || 'en').substring(0, 2).toLowerCase();
-        if (userLang === 'in') userLang = 'id';
+        var params = new URLSearchParams(window.location.search);
+        var queryLang = (params.get('lang') || '').substring(0, 2).toLowerCase();
+        if (queryLang === 'in') queryLang = 'id';
         var supported = ["en", "ru", "es", "de", "fr", "pt", "it", "pl", "nl", "be", "kk", "uz", "ky", "hy", "ka", "az", "cs", "sk", "hu", "ro", "bg", "sr", "hr", "sl", "el", "da", "fi", "sv", "no", "is", "et", "lv", "lt", "mt", "ga", "tr", "id", "ms", "vi", "th", "tl", "ja", "ko", "zh", "hi", "bn", "ur", "fa", "ar", "he", "si", "ne", "my", "km", "lo", "mn", "fj", "tpi", "sw", "af", "am", "ha", "yo", "ig", "zu", "xh"];
-        if (supported.indexOf(userLang) !== -1) {
-            switchLanguage(userLang);
+        if (queryLang && supported.indexOf(queryLang) !== -1) {
+            switchLanguage(queryLang);
         } else {
             switchLanguage('en');
         }
