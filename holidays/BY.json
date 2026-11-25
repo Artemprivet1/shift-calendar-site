@@ -1933,21 +1933,6 @@
     "isReligious": false
   },
   {
-    "date": "2026-04-12",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2026-04-21",
     "name": "День образования кинологических подразделений органов внутренних дел и внутренних войск МВД Республики Беларусь",
     "isPublic": false,
