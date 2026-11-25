@@ -390,11 +390,11 @@
   },
   {
     "date": "2025-04-29",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -1965,11 +1965,11 @@
   },
   {
     "date": "2026-04-21",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -3579,28 +3579,12 @@
     "isReligious": false
   },
   {
-    "date": "2027-05-08",
-    "name": "Рабочий день (перенос с 10.05.2027)",
-    "isPublic": false,
-    "isWorkdayTransfer": true,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
-    "date": "2027-05-10",
-    "name": "Выходной (перенос рабочего дня на 08.05.2027)",
-    "isPublic": false,
-    "isWorkdayTransfer": true,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2027-05-11",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -5155,11 +5139,11 @@
   },
   {
     "date": "2028-04-25",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -6722,11 +6706,11 @@
   },
   {
     "date": "2029-04-17",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -8337,11 +8321,11 @@
   },
   {
     "date": "2030-05-07",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -9904,11 +9888,11 @@
   },
   {
     "date": "2031-04-22",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -11511,11 +11495,11 @@
   },
   {
     "date": "2032-05-11",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -13070,11 +13054,11 @@
   },
   {
     "date": "2033-05-03",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -14637,11 +14621,11 @@
   },
   {
     "date": "2034-04-18",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -16260,11 +16244,11 @@
   },
   {
     "date": "2035-05-08",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
@@ -17819,11 +17803,11 @@
   },
   {
     "date": "2036-04-29",
-    "name": "Радуница",
-    "isPublic": true,
+    "name": "Радоница (День особого поминовения усопших)",
+    "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
+    "isReligious": true,
     "isFloating": true,
     "rule": {
       "type": "easter",
