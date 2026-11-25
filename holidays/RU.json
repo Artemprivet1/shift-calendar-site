@@ -1,13 +1,5 @@
 [
   {
-    "date": "2025-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2025-01-19",
     "name": "Крещение Господне (Богоявление)",
     "isPublic": false,
@@ -278,6 +270,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -341,6 +334,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -524,6 +518,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -571,6 +566,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -634,14 +630,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2026-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2026-01-19",
@@ -914,6 +902,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -977,6 +966,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -1160,6 +1150,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -1207,6 +1198,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -1270,14 +1262,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2027-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2027-01-19",
@@ -1550,6 +1534,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -1613,6 +1598,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -1796,6 +1782,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -1843,6 +1830,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -1906,14 +1894,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2028-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2028-01-19",
@@ -2186,6 +2166,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -2257,6 +2238,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -2432,6 +2414,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -2479,6 +2462,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -2542,14 +2526,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2029-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2029-01-19",
@@ -2830,6 +2806,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -2893,6 +2870,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -3068,6 +3046,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -3115,6 +3094,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -3178,14 +3158,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2030-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2030-01-19",
@@ -3458,6 +3430,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -3521,6 +3494,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -3704,6 +3678,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -3751,6 +3726,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -3814,14 +3790,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2031-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2031-01-19",
@@ -4094,6 +4062,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -4157,6 +4126,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -4340,6 +4310,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -4387,6 +4358,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -4450,14 +4422,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2032-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2032-01-19",
@@ -4730,6 +4694,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -4793,6 +4758,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -4976,6 +4942,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -5023,6 +4990,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -5086,14 +5054,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2033-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2033-01-19",
@@ -5366,6 +5326,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -5437,6 +5398,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -5612,6 +5574,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -5659,6 +5622,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -5722,14 +5686,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2034-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2034-01-19",
@@ -6002,6 +5958,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -6073,6 +6030,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -6248,6 +6206,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -6295,6 +6254,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -6358,14 +6318,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2035-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2035-01-19",
@@ -6646,6 +6598,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -6709,6 +6662,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -6884,6 +6838,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -6931,6 +6886,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
@@ -6994,14 +6950,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2036-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
   },
   {
     "date": "2036-01-19",
@@ -7274,6 +7222,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 6,
@@ -7337,6 +7286,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 7,
@@ -7520,6 +7470,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 10,
@@ -7567,6 +7518,7 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false,
+    "isFloating": true,
     "rule": {
       "type": "weekday",
       "month": 11,
