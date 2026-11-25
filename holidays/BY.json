@@ -57,7 +57,7 @@
   },
   {
     "date": "2025-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -1262,22 +1262,6 @@
     "isReligious": false
   },
   {
-    "date": "2025-09-16",
-    "name": "День мира",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
-  },
-  {
     "date": "2025-09-17",
     "name": "День народного единства",
     "isPublic": false,
@@ -1288,6 +1272,14 @@
   {
     "date": "2025-09-20",
     "name": "День таможенника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -1871,7 +1863,7 @@
   },
   {
     "date": "2026-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -3045,22 +3037,6 @@
   },
   {
     "date": "2026-09-15",
-    "name": "День мира",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
-  },
-  {
-    "date": "2026-09-15",
     "name": "День образования службы специальной связи органов внутренних дел Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -3094,6 +3070,14 @@
   {
     "date": "2026-09-20",
     "name": "День таможенника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -3645,7 +3629,7 @@
   },
   {
     "date": "2027-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -4863,15 +4847,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
+    "isReligious": false
   },
   {
     "date": "2027-09-21",
@@ -5419,7 +5395,7 @@
   },
   {
     "date": "2028-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -6608,24 +6584,16 @@
     }
   },
   {
-    "date": "2028-09-19",
-    "name": "День мира",
+    "date": "2028-09-20",
+    "name": "День таможенника",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
+    "isReligious": false
   },
   {
-    "date": "2028-09-20",
-    "name": "День таможенника",
+    "date": "2028-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -7177,7 +7145,7 @@
   },
   {
     "date": "2029-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -8366,24 +8334,16 @@
     "isReligious": false
   },
   {
-    "date": "2029-09-18",
-    "name": "День мира",
+    "date": "2029-09-20",
+    "name": "День таможенника",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
+    "isReligious": false
   },
   {
-    "date": "2029-09-20",
-    "name": "День таможенника",
+    "date": "2029-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -8935,7 +8895,7 @@
   },
   {
     "date": "2030-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -10117,22 +10077,6 @@
   },
   {
     "date": "2030-09-17",
-    "name": "День мира",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
-  },
-  {
-    "date": "2030-09-17",
     "name": "День народного единства",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -10142,6 +10086,14 @@
   {
     "date": "2030-09-20",
     "name": "День таможенника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -10693,7 +10645,7 @@
   },
   {
     "date": "2031-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -11858,22 +11810,6 @@
     "isReligious": false
   },
   {
-    "date": "2031-09-16",
-    "name": "День мира",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
-  },
-  {
     "date": "2031-09-17",
     "name": "День народного единства",
     "isPublic": false,
@@ -11884,6 +11820,14 @@
   {
     "date": "2031-09-20",
     "name": "День таможенника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -12451,7 +12395,7 @@
   },
   {
     "date": "2032-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -13653,15 +13597,7 @@
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
+    "isReligious": false
   },
   {
     "date": "2032-09-21",
@@ -14209,7 +14145,7 @@
   },
   {
     "date": "2033-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -15399,23 +15335,15 @@
   },
   {
     "date": "2033-09-20",
-    "name": "День мира",
+    "name": "День таможенника",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
+    "isReligious": false
   },
   {
-    "date": "2033-09-20",
-    "name": "День таможенника",
+    "date": "2033-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -15967,7 +15895,7 @@
   },
   {
     "date": "2034-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -17156,24 +17084,16 @@
     }
   },
   {
-    "date": "2034-09-19",
-    "name": "День мира",
+    "date": "2034-09-20",
+    "name": "День таможенника",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
+    "isReligious": false
   },
   {
-    "date": "2034-09-20",
-    "name": "День таможенника",
+    "date": "2034-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -17725,7 +17645,7 @@
   },
   {
     "date": "2035-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -18914,24 +18834,16 @@
     "isReligious": false
   },
   {
-    "date": "2035-09-18",
-    "name": "День мира",
+    "date": "2035-09-20",
+    "name": "День таможенника",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
+    "isReligious": false
   },
   {
-    "date": "2035-09-20",
-    "name": "День таможенника",
+    "date": "2035-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -19483,7 +19395,7 @@
   },
   {
     "date": "2036-01-07",
-    "name": "Рождество Христово",
+    "name": "Рождество Христово (православное Рождество)",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -20648,22 +20560,6 @@
     "isReligious": false
   },
   {
-    "date": "2036-09-16",
-    "name": "День мира",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false,
-    "isFloating": true,
-    "rule": {
-      "type": "weekday",
-      "month": 9,
-      "weekday": 1,
-      "occurrence": 3,
-      "description": "Третий вторник сентября"
-    }
-  },
-  {
     "date": "2036-09-17",
     "name": "День народного единства",
     "isPublic": false,
@@ -20674,6 +20570,14 @@
   {
     "date": "2036-09-20",
     "name": "День таможенника",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-09-21",
+    "name": "День мира",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
