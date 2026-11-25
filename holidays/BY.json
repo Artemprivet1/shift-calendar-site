@@ -1,8 +1,24 @@
 [
   {
+    "date": "2025-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -32,12 +48,28 @@
     "isReligious": false
   },
   {
+    "date": "2025-01-06",
+    "name": "Выходной (перенос рабочего дня на 11.01.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-01-07",
     "name": "Рождество Христово",
     "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2025-01-11",
+    "name": "Рабочий день (перенос с 06.01.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-01-14",
@@ -168,6 +200,14 @@
     "isReligious": false
   },
   {
+    "date": "2025-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -178,6 +218,22 @@
   {
     "date": "2025-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -258,6 +314,14 @@
   {
     "date": "2025-03-28",
     "name": "День тыла Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-02",
+    "name": "День единения народов Беларуси и России",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -359,6 +423,21 @@
   },
   {
     "date": "2025-04-20",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
+    "date": "2025-04-20",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -389,9 +468,33 @@
     "isReligious": false
   },
   {
-    "date": "2025-04-29",
-    "name": "Радоница (День особого поминовения усопших)",
+    "date": "2025-04-26",
+    "name": "День чернобыльской трагедии",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-26",
+    "name": "Рабочий день (перенос с 28.04.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-28",
+    "name": "Выходной (перенос рабочего дня на 26.04.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-04-29",
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -402,6 +505,14 @@
       "offsetDays": 9,
       "description": "Православная Пасха (+9 дн.)"
     }
+  },
+  {
+    "date": "2025-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-05-05",
@@ -426,6 +537,30 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2025-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-05-11",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
   },
   {
     "date": "2025-05-15",
@@ -625,6 +760,14 @@
     "isReligious": false
   },
   {
+    "date": "2025-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-06-26",
     "name": "День адвокатуры Республики Беларусь",
     "isPublic": false,
@@ -682,9 +825,25 @@
   },
   {
     "date": "2025-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-07-04",
+    "name": "Выходной (перенос рабочего дня на 12.07.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
     "isShortened": false,
     "isReligious": false
   },
@@ -721,6 +880,14 @@
     }
   },
   {
+    "date": "2025-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-07-12",
     "name": "День образования оперативно-дежурной службы органов внутренних дел Республики Беларусь",
     "isPublic": false,
@@ -735,6 +902,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true
+  },
+  {
+    "date": "2025-07-12",
+    "name": "Рабочий день (перенос с 04.07.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2025-07-13",
@@ -1103,6 +1278,14 @@
     }
   },
   {
+    "date": "2025-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-09-20",
     "name": "День таможенника",
     "isPublic": false,
@@ -1280,6 +1463,14 @@
   },
   {
     "date": "2025-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -1309,6 +1500,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2025-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2025-11-02",
@@ -1346,6 +1545,14 @@
     "date": "2025-11-05",
     "name": "День военной разведки Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2025-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -1527,14 +1734,6 @@
     "isReligious": false
   },
   {
-    "date": "2025-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2025-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -1575,6 +1774,14 @@
     "isReligious": false
   },
   {
+    "date": "2025-12-20",
+    "name": "Рабочий день (перенос с 26.12.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2025-12-21",
     "name": "Годовой праздник командования Военно-воздушных сил и войск противовоздушной обороны Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -1599,9 +1806,41 @@
     "isReligious": false
   },
   {
+    "date": "2025-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2025-12-26",
+    "name": "Выходной (перенос рабочего дня на 20.12.2025)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -1767,6 +2006,14 @@
     "isReligious": false
   },
   {
+    "date": "2026-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -1777,6 +2024,22 @@
   {
     "date": "2026-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -1863,6 +2126,14 @@
     "isReligious": false
   },
   {
+    "date": "2026-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-04-05",
     "name": "Вход Господень в Иерусалим (Вербное воскресенье)",
     "isPublic": false,
@@ -1891,6 +2162,21 @@
       "weekday": 6,
       "occurrence": 1,
       "description": "Первое воскресенье апреля"
+    }
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
     }
   },
   {
@@ -1972,6 +2258,14 @@
     }
   },
   {
+    "date": "2026-04-20",
+    "name": "Выходной (перенос рабочего дня на 25.04.2026)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-04-21",
     "name": "День образования кинологических подразделений органов внутренних дел и внутренних войск МВД Республики Беларусь",
     "isPublic": false,
@@ -1981,8 +2275,8 @@
   },
   {
     "date": "2026-04-21",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -1998,6 +2292,30 @@
     "date": "2026-04-22",
     "name": "День судебного эксперта",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-25",
+    "name": "Рабочий день (перенос с 20.04.2026)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -2025,6 +2343,30 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2026-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-05-10",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
   },
   {
     "date": "2026-05-15",
@@ -2224,6 +2566,14 @@
     }
   },
   {
+    "date": "2026-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-06-26",
     "name": "День адвокатуры Республики Беларусь",
     "isPublic": false,
@@ -2281,6 +2631,14 @@
   },
   {
     "date": "2026-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -2318,6 +2676,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье июля"
     }
+  },
+  {
+    "date": "2026-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2026-07-12",
@@ -2702,6 +3068,14 @@
     "isReligious": false
   },
   {
+    "date": "2026-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2026-09-20",
     "name": "День работников леса",
     "isPublic": false,
@@ -2879,6 +3253,14 @@
   },
   {
     "date": "2026-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -2927,6 +3309,14 @@
   },
   {
     "date": "2026-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2026-11-02",
     "name": "День подразделений специального назначения внутренних войск МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -2945,6 +3335,14 @@
     "date": "2026-11-05",
     "name": "День военной разведки Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2026-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -3126,14 +3524,6 @@
     "isReligious": false
   },
   {
-    "date": "2026-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2026-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -3198,9 +3588,33 @@
     "isReligious": false
   },
   {
+    "date": "2026-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2027-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -3366,6 +3780,14 @@
     "isReligious": false
   },
   {
+    "date": "2027-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -3376,6 +3798,22 @@
   {
     "date": "2027-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -3456,6 +3894,29 @@
   {
     "date": "2027-03-28",
     "name": "День тыла Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
+    "date": "2027-04-02",
+    "name": "День единения народов Беларуси и России",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -3557,6 +4018,14 @@
     }
   },
   {
+    "date": "2027-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-04-30",
     "name": "Страстная пятница (Воспоминание Святых Спасительных Страстей)",
     "isPublic": false,
@@ -3570,6 +4039,14 @@
       "offsetDays": -2,
       "description": "Православная Пасха (-2 дн.)"
     }
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2027-05-02",
@@ -3611,9 +4088,49 @@
     "isReligious": false
   },
   {
-    "date": "2027-05-11",
-    "name": "Радоница (День особого поминовения усопших)",
+    "date": "2027-05-08",
+    "name": "Рабочий день (перенос с 10.05.2027)",
     "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-05-09",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
+  },
+  {
+    "date": "2027-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-05-10",
+    "name": "Выходной (перенос рабочего дня на 08.05.2027)",
+    "isPublic": false,
+    "isWorkdayTransfer": true,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-05-11",
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -3823,6 +4340,14 @@
     }
   },
   {
+    "date": "2027-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-06-26",
     "name": "День адвокатуры Республики Беларусь",
     "isPublic": false,
@@ -3880,6 +4405,14 @@
   },
   {
     "date": "2027-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-07-03",
     "name": "День кооперации",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -3917,6 +4450,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье июля"
     }
+  },
+  {
+    "date": "2027-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2027-07-11",
@@ -4285,6 +4826,14 @@
     "isReligious": false
   },
   {
+    "date": "2027-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2027-09-19",
     "name": "День работников леса",
     "isPublic": false,
@@ -4478,6 +5027,14 @@
   },
   {
     "date": "2027-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -4510,6 +5067,14 @@
   },
   {
     "date": "2027-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2027-11-02",
     "name": "День подразделений специального назначения внутренних войск МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -4528,6 +5093,14 @@
     "date": "2027-11-05",
     "name": "День военной разведки Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2027-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -4725,14 +5298,6 @@
     "isReligious": false
   },
   {
-    "date": "2027-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2027-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -4797,6 +5362,22 @@
     "isReligious": false
   },
   {
+    "date": "2027-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2028-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-01-02",
     "name": "День банковских и финансовых работников",
     "isPublic": false,
@@ -4816,6 +5397,14 @@
     "date": "2028-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -4965,6 +5554,14 @@
     "isReligious": false
   },
   {
+    "date": "2028-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -4975,6 +5572,22 @@
   {
     "date": "2028-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -5077,6 +5690,14 @@
     }
   },
   {
+    "date": "2028-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-04-07",
     "name": "Благовещение Пресвятой Богородицы",
     "isPublic": false,
@@ -5156,6 +5777,21 @@
   },
   {
     "date": "2028-04-16",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
+    "date": "2028-04-16",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -5187,8 +5823,8 @@
   },
   {
     "date": "2028-04-25",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -5199,6 +5835,22 @@
       "offsetDays": 9,
       "description": "Православная Пасха (+9 дн.)"
     }
+  },
+  {
+    "date": "2028-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2028-05-05",
@@ -5223,6 +5875,30 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2028-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-05-14",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
   },
   {
     "date": "2028-05-15",
@@ -5422,6 +6098,14 @@
     "isReligious": false
   },
   {
+    "date": "2028-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2028-06-24",
     "name": "День изобретателя и рационализатора",
     "isPublic": false,
@@ -5511,7 +6195,23 @@
   },
   {
     "date": "2028-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-07-07",
+    "name": "Купалье",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -5885,6 +6585,14 @@
   },
   {
     "date": "2028-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-09-17",
     "name": "День работников леса",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -6077,6 +6785,14 @@
   },
   {
     "date": "2028-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2028-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -6106,6 +6822,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2028-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2028-11-02",
@@ -6146,6 +6870,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье ноября"
     }
+  },
+  {
+    "date": "2028-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2028-11-10",
@@ -6324,14 +7056,6 @@
     "isReligious": false
   },
   {
-    "date": "2028-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2028-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -6396,9 +7120,33 @@
     "isReligious": false
   },
   {
+    "date": "2028-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2029-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -6564,6 +7312,14 @@
     "isReligious": false
   },
   {
+    "date": "2029-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -6574,6 +7330,22 @@
   {
     "date": "2029-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -6691,6 +7463,29 @@
     }
   },
   {
+    "date": "2029-04-01",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
+    "date": "2029-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-04-06",
     "name": "Страстная пятница (Воспоминание Святых Спасительных Страстей)",
     "isPublic": false,
@@ -6770,8 +7565,8 @@
   },
   {
     "date": "2029-04-17",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -6800,6 +7595,22 @@
     "isReligious": false
   },
   {
+    "date": "2029-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-05-05",
     "name": "День печати",
     "isPublic": false,
@@ -6822,6 +7633,30 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2029-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-05-13",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
   },
   {
     "date": "2029-05-15",
@@ -7021,6 +7856,14 @@
     "isReligious": false
   },
   {
+    "date": "2029-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-06-24",
     "name": "День молодёжи и студенчества",
     "isPublic": false,
@@ -7094,6 +7937,14 @@
   },
   {
     "date": "2029-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -7115,6 +7966,14 @@
       "occurrence": 1,
       "description": "Первая суббота июля"
     }
+  },
+  {
+    "date": "2029-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2029-07-08",
@@ -7499,6 +8358,14 @@
     }
   },
   {
+    "date": "2029-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2029-09-18",
     "name": "День мира",
     "isPublic": false,
@@ -7676,6 +8543,14 @@
   },
   {
     "date": "2029-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -7705,6 +8580,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2029-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2029-11-02",
@@ -7742,6 +8625,14 @@
     "date": "2029-11-05",
     "name": "День военной разведки Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2029-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -7923,14 +8814,6 @@
     "isReligious": false
   },
   {
-    "date": "2029-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2029-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -7995,9 +8878,33 @@
     "isReligious": false
   },
   {
+    "date": "2029-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2030-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -8163,6 +9070,14 @@
     "isReligious": false
   },
   {
+    "date": "2030-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -8173,6 +9088,22 @@
   {
     "date": "2030-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -8253,6 +9184,14 @@
   {
     "date": "2030-03-28",
     "name": "День тыла Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-02",
+    "name": "День единения народов Беларуси и России",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -8346,8 +9285,31 @@
     "isReligious": false
   },
   {
+    "date": "2030-04-21",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
     "date": "2030-04-22",
     "name": "День судебного эксперта",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-04-26",
+    "name": "День чернобыльской трагедии",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -8384,6 +9346,14 @@
     }
   },
   {
+    "date": "2030-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-05-05",
     "name": "День печати",
     "isPublic": false,
@@ -8401,8 +9371,8 @@
   },
   {
     "date": "2030-05-07",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -8421,6 +9391,30 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2030-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-05-12",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
   },
   {
     "date": "2030-05-15",
@@ -8620,6 +9614,14 @@
     "isReligious": false
   },
   {
+    "date": "2030-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-06-26",
     "name": "День адвокатуры Республики Беларусь",
     "isPublic": false,
@@ -8677,6 +9679,14 @@
   },
   {
     "date": "2030-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -8714,6 +9724,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье июля"
     }
+  },
+  {
+    "date": "2030-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2030-07-12",
@@ -9114,6 +10132,14 @@
     }
   },
   {
+    "date": "2030-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2030-09-20",
     "name": "День таможенника",
     "isPublic": false,
@@ -9275,6 +10301,14 @@
   },
   {
     "date": "2030-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -9304,6 +10338,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2030-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2030-11-02",
@@ -9341,6 +10383,14 @@
     "date": "2030-11-05",
     "name": "День военной разведки Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2030-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -9522,14 +10572,6 @@
     "isReligious": false
   },
   {
-    "date": "2030-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2030-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -9594,9 +10636,33 @@
     "isReligious": false
   },
   {
+    "date": "2030-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2031-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -9762,6 +10828,14 @@
     "isReligious": false
   },
   {
+    "date": "2031-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -9772,6 +10846,22 @@
   {
     "date": "2031-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -9852,6 +10942,14 @@
   {
     "date": "2031-03-28",
     "name": "День тыла Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-04-02",
+    "name": "День единения народов Беларуси и России",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -9953,6 +11051,21 @@
   },
   {
     "date": "2031-04-13",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
+    "date": "2031-04-13",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -9984,8 +11097,8 @@
   },
   {
     "date": "2031-04-22",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -9996,6 +11109,22 @@
       "offsetDays": 9,
       "description": "Православная Пасха (+9 дн.)"
     }
+  },
+  {
+    "date": "2031-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2031-05-05",
@@ -10020,6 +11149,30 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2031-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-05-11",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
   },
   {
     "date": "2031-05-15",
@@ -10219,6 +11372,14 @@
     "isReligious": false
   },
   {
+    "date": "2031-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-06-26",
     "name": "День адвокатуры Республики Беларусь",
     "isPublic": false,
@@ -10276,6 +11437,14 @@
   },
   {
     "date": "2031-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -10313,6 +11482,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье июля"
     }
+  },
+  {
+    "date": "2031-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2031-07-12",
@@ -10697,6 +11874,14 @@
     }
   },
   {
+    "date": "2031-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2031-09-20",
     "name": "День таможенника",
     "isPublic": false,
@@ -10874,6 +12059,14 @@
   },
   {
     "date": "2031-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -10903,6 +12096,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2031-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2031-11-02",
@@ -10940,6 +12141,14 @@
     "date": "2031-11-05",
     "name": "День военной разведки Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2031-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -11121,14 +12330,6 @@
     "isReligious": false
   },
   {
-    "date": "2031-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2031-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -11193,9 +12394,33 @@
     "isReligious": false
   },
   {
+    "date": "2031-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2032-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -11361,6 +12586,14 @@
     "isReligious": false
   },
   {
+    "date": "2032-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -11371,6 +12604,22 @@
   {
     "date": "2032-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -11451,6 +12700,29 @@
   {
     "date": "2032-03-28",
     "name": "День тыла Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-03-28",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
+    "date": "2032-04-02",
+    "name": "День единения народов Беларуси и России",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -11552,6 +12824,14 @@
     }
   },
   {
+    "date": "2032-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-04-30",
     "name": "Страстная пятница (Воспоминание Святых Спасительных Страстей)",
     "isPublic": false,
@@ -11565,6 +12845,14 @@
       "offsetDays": -2,
       "description": "Православная Пасха (-2 дн.)"
     }
+  },
+  {
+    "date": "2032-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2032-05-02",
@@ -11606,9 +12894,33 @@
     "isReligious": false
   },
   {
-    "date": "2032-05-11",
-    "name": "Радоница (День особого поминовения усопших)",
+    "date": "2032-05-09",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
+  },
+  {
+    "date": "2032-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-05-11",
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -11818,6 +13130,14 @@
     }
   },
   {
+    "date": "2032-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-06-26",
     "name": "День адвокатуры Республики Беларусь",
     "isPublic": false,
@@ -11875,6 +13195,14 @@
   },
   {
     "date": "2032-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-07-03",
     "name": "День кооперации",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -11912,6 +13240,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье июля"
     }
+  },
+  {
+    "date": "2032-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2032-07-11",
@@ -12280,6 +13616,14 @@
     "isReligious": false
   },
   {
+    "date": "2032-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2032-09-19",
     "name": "День работников леса",
     "isPublic": false,
@@ -12473,6 +13817,14 @@
   },
   {
     "date": "2032-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -12505,6 +13857,14 @@
   },
   {
     "date": "2032-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2032-11-02",
     "name": "День подразделений специального назначения внутренних войск МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -12523,6 +13883,14 @@
     "date": "2032-11-05",
     "name": "День военной разведки Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2032-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -12720,14 +14088,6 @@
     "isReligious": false
   },
   {
-    "date": "2032-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2032-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -12792,6 +14152,22 @@
     "isReligious": false
   },
   {
+    "date": "2032-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2033-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-01-02",
     "name": "День банковских и финансовых работников",
     "isPublic": false,
@@ -12811,6 +14187,14 @@
     "date": "2033-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -12960,6 +14344,14 @@
     "isReligious": false
   },
   {
+    "date": "2033-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -12970,6 +14362,22 @@
   {
     "date": "2033-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -13056,6 +14464,14 @@
     "isReligious": false
   },
   {
+    "date": "2033-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-04-03",
     "name": "День геолога",
     "isPublic": false,
@@ -13135,6 +14551,21 @@
     }
   },
   {
+    "date": "2033-04-17",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
     "date": "2033-04-21",
     "name": "День образования кинологических подразделений органов внутренних дел и внутренних войск МВД Республики Беларусь",
     "isPublic": false,
@@ -13181,9 +14612,25 @@
     }
   },
   {
-    "date": "2033-05-03",
-    "name": "Радоница (День особого поминовения усопших)",
+    "date": "2033-04-26",
+    "name": "День чернобыльской трагедии",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-03",
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -13213,8 +14660,32 @@
   },
   {
     "date": "2033-05-08",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
+  },
+  {
+    "date": "2033-05-08",
     "name": "День навигационно-топографической службы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-05-09",
+    "name": "День Победы",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -13417,6 +14888,14 @@
     "isReligious": false
   },
   {
+    "date": "2033-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-06-25",
     "name": "День изобретателя и рационализатора",
     "isPublic": false,
@@ -13490,6 +14969,14 @@
   },
   {
     "date": "2033-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -13511,6 +14998,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье июля"
     }
+  },
+  {
+    "date": "2033-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2033-07-10",
@@ -13879,6 +15374,14 @@
     "isReligious": false
   },
   {
+    "date": "2033-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2033-09-18",
     "name": "День работников леса",
     "isPublic": false,
@@ -14072,6 +15575,14 @@
   },
   {
     "date": "2033-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2033-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -14101,6 +15612,14 @@
       "occurrence": -1,
       "description": "Последнее воскресенье октября"
     }
+  },
+  {
+    "date": "2033-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2033-11-02",
@@ -14141,6 +15660,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье ноября"
     }
+  },
+  {
+    "date": "2033-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2033-11-10",
@@ -14319,14 +15846,6 @@
     "isReligious": false
   },
   {
-    "date": "2033-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2033-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -14391,6 +15910,14 @@
     "isReligious": false
   },
   {
+    "date": "2033-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
     "date": "2034-01-01",
     "name": "День банковских и финансовых работников",
     "isPublic": false,
@@ -14407,9 +15934,25 @@
     }
   },
   {
+    "date": "2034-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -14559,6 +16102,14 @@
     "isReligious": false
   },
   {
+    "date": "2034-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -14569,6 +16120,22 @@
   {
     "date": "2034-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -14686,6 +16253,14 @@
     }
   },
   {
+    "date": "2034-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-04-07",
     "name": "Благовещение Пресвятой Богородицы",
     "isPublic": false,
@@ -14734,6 +16309,21 @@
   },
   {
     "date": "2034-04-09",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
+    "date": "2034-04-09",
     "name": "Светлое Христово Воскресение (Пасха)",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -14765,8 +16355,8 @@
   },
   {
     "date": "2034-04-18",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -14795,6 +16385,22 @@
     "isReligious": false
   },
   {
+    "date": "2034-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-05-05",
     "name": "День печати",
     "isPublic": false,
@@ -14817,6 +16423,30 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2034-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-05-14",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
   },
   {
     "date": "2034-05-15",
@@ -15016,6 +16646,14 @@
     "isReligious": false
   },
   {
+    "date": "2034-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2034-06-24",
     "name": "День изобретателя и рационализатора",
     "isPublic": false,
@@ -15105,7 +16743,23 @@
   },
   {
     "date": "2034-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-07-07",
+    "name": "Купалье",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -15479,6 +17133,14 @@
   },
   {
     "date": "2034-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-09-17",
     "name": "День работников леса",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -15671,6 +17333,14 @@
   },
   {
     "date": "2034-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2034-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -15700,6 +17370,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2034-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2034-11-02",
@@ -15740,6 +17418,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье ноября"
     }
+  },
+  {
+    "date": "2034-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2034-11-10",
@@ -15918,14 +17604,6 @@
     "isReligious": false
   },
   {
-    "date": "2034-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2034-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -15990,9 +17668,33 @@
     "isReligious": false
   },
   {
+    "date": "2034-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2035-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -16158,6 +17860,14 @@
     "isReligious": false
   },
   {
+    "date": "2035-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -16168,6 +17878,22 @@
   {
     "date": "2035-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -16238,6 +17964,21 @@
     }
   },
   {
+    "date": "2035-03-25",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
     "date": "2035-03-28",
     "name": "День образования подразделений по борьбе с организованной преступностью и коррупцией МВД Республики Беларусь",
     "isPublic": false,
@@ -16268,6 +18009,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье апреля"
     }
+  },
+  {
+    "date": "2035-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2035-04-07",
@@ -16349,6 +18098,14 @@
     "isReligious": false
   },
   {
+    "date": "2035-04-26",
+    "name": "День чернобыльской трагедии",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-04-27",
     "name": "Страстная пятница (Воспоминание Святых Спасительных Страстей)",
     "isPublic": false,
@@ -16379,6 +18136,14 @@
     }
   },
   {
+    "date": "2035-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-05-05",
     "name": "День печати",
     "isPublic": false,
@@ -16404,8 +18169,8 @@
   },
   {
     "date": "2035-05-08",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -16415,6 +18180,30 @@
       "isOrthodox": true,
       "offsetDays": 9,
       "description": "Православная Пасха (+9 дн.)"
+    }
+  },
+  {
+    "date": "2035-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-05-13",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
     }
   },
   {
@@ -16615,6 +18404,14 @@
     "isReligious": false
   },
   {
+    "date": "2035-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-06-24",
     "name": "День молодёжи и студенчества",
     "isPublic": false,
@@ -16688,6 +18485,14 @@
   },
   {
     "date": "2035-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -16709,6 +18514,14 @@
       "occurrence": 1,
       "description": "Первая суббота июля"
     }
+  },
+  {
+    "date": "2035-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2035-07-08",
@@ -17093,6 +18906,14 @@
     }
   },
   {
+    "date": "2035-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2035-09-18",
     "name": "День мира",
     "isPublic": false,
@@ -17270,6 +19091,14 @@
   },
   {
     "date": "2035-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -17299,6 +19128,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2035-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2035-11-02",
@@ -17336,6 +19173,14 @@
     "date": "2035-11-05",
     "name": "День военной разведки Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2035-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -17517,14 +19362,6 @@
     "isReligious": false
   },
   {
-    "date": "2035-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2035-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -17589,9 +19426,33 @@
     "isReligious": false
   },
   {
+    "date": "2035-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
+  },
+  {
+    "date": "2036-01-01",
+    "name": "Новый год",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-01-02",
     "name": "День образования специального подразделения по борьбе с терроризмом «Алмаз» МВД Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-01-02",
+    "name": "Новый год",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -17757,6 +19618,14 @@
     "isReligious": false
   },
   {
+    "date": "2036-02-23",
+    "name": "День защитников Отечества и Вооружённых Сил Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-02-27",
     "name": "День образования специального подразделения ДПС «Стрела» МВД Республики Беларусь",
     "isPublic": false,
@@ -17767,6 +19636,22 @@
   {
     "date": "2036-03-04",
     "name": "День милиции",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-03-08",
+    "name": "День женщин",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-03-15",
+    "name": "День Конституции Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
     "isShortened": false,
@@ -17853,6 +19738,14 @@
     "isReligious": false
   },
   {
+    "date": "2036-04-02",
+    "name": "День единения народов Беларуси и России",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-04-06",
     "name": "День геолога",
     "isPublic": false,
@@ -17932,6 +19825,21 @@
     }
   },
   {
+    "date": "2036-04-13",
+    "name": "Католическая Пасха",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true,
+    "isFloating": true,
+    "rule": {
+      "type": "easter",
+      "isOrthodox": false,
+      "offsetDays": 0,
+      "description": "Католическая Пасха"
+    }
+  },
+  {
     "date": "2036-04-18",
     "name": "Страстная пятница (Воспоминание Святых Спасительных Страстей)",
     "isPublic": false,
@@ -17978,9 +19886,17 @@
     "isReligious": false
   },
   {
-    "date": "2036-04-29",
-    "name": "Радоница (День особого поминовения усопших)",
+    "date": "2036-04-26",
+    "name": "День чернобыльской трагедии",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-04-29",
+    "name": "Радуница (День особого поминовения усопших)",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": true,
@@ -17991,6 +19907,14 @@
       "offsetDays": 9,
       "description": "Православная Пасха (+9 дн.)"
     }
+  },
+  {
+    "date": "2036-05-01",
+    "name": "Праздник труда",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2036-05-05",
@@ -18015,6 +19939,30 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2036-05-09",
+    "name": "День Победы",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-05-11",
+    "name": "День Государственного флага, Государственного герба и Государственного гимна Республики Беларусь",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false,
+    "isFloating": true,
+    "rule": {
+      "type": "weekday",
+      "month": 5,
+      "weekday": 6,
+      "occurrence": 2,
+      "description": "Второе воскресенье мая"
+    }
   },
   {
     "date": "2036-05-15",
@@ -18214,6 +20162,14 @@
     "isReligious": false
   },
   {
+    "date": "2036-06-22",
+    "name": "День всенародной памяти жертв Великой Отечественной войны и геноцида белорусского народа",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-06-26",
     "name": "День адвокатуры Республики Беларусь",
     "isPublic": false,
@@ -18271,6 +20227,14 @@
   },
   {
     "date": "2036-07-03",
+    "name": "День Независимости Республики Беларусь (День Республики)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-07-03",
     "name": "День образования Государственной автомобильной инспекции МВД Республики Беларусь",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -18308,6 +20272,14 @@
       "occurrence": 1,
       "description": "Первое воскресенье июля"
     }
+  },
+  {
+    "date": "2036-07-07",
+    "name": "Купалье",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
   },
   {
     "date": "2036-07-12",
@@ -18692,6 +20664,14 @@
     }
   },
   {
+    "date": "2036-09-17",
+    "name": "День народного единства",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
     "date": "2036-09-20",
     "name": "День таможенника",
     "isPublic": false,
@@ -18869,6 +20849,14 @@
   },
   {
     "date": "2036-10-21",
+    "name": "День отца",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-10-21",
     "name": "День памяти жертв Минского гетто",
     "isPublic": false,
     "isWorkdayTransfer": false,
@@ -18898,6 +20886,14 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2036-11-02",
+    "name": "День памяти (Дзяды)",
+    "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   },
   {
     "date": "2036-11-02",
@@ -18935,6 +20931,14 @@
     "date": "2036-11-05",
     "name": "День военной разведки Вооружённых Сил Республики Беларусь",
     "isPublic": false,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": false
+  },
+  {
+    "date": "2036-11-07",
+    "name": "День Октябрьской революции",
+    "isPublic": true,
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
@@ -19116,14 +21120,6 @@
     "isReligious": false
   },
   {
-    "date": "2036-12-14",
-    "name": "День чествования участников ликвидации последствий аварии на Чернобыльской АЭС",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": false
-  },
-  {
     "date": "2036-12-16",
     "name": "День специалиста радиоэлектронной борьбы Вооружённых Сил Республики Беларусь",
     "isPublic": false,
@@ -19186,5 +21182,13 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
+  },
+  {
+    "date": "2036-12-25",
+    "name": "Рождество Христово (католическое Рождество)",
+    "isPublic": true,
+    "isWorkdayTransfer": false,
+    "isShortened": false,
+    "isReligious": true
   }
 ]
