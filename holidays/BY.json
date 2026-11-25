@@ -32,14 +32,6 @@
     "isReligious": false
   },
   {
-    "date": "2025-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2025-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -358,21 +350,6 @@
     }
   },
   {
-    "date": "2025-04-20",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2025-04-21",
     "name": "День образования кинологических подразделений органов внутренних дел и внутренних войск МВД Республики Беларусь",
     "isPublic": false,
@@ -387,21 +364,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2025-04-29",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2025-05-05",
@@ -1941,21 +1903,6 @@
     "isReligious": false
   },
   {
-    "date": "2026-04-21",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
-  },
-  {
     "date": "2026-04-22",
     "name": "День судебного эксперта",
     "isPublic": false,
@@ -3175,14 +3122,6 @@
     "isReligious": false
   },
   {
-    "date": "2027-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2027-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -3517,21 +3456,6 @@
     }
   },
   {
-    "date": "2027-05-02",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2027-05-05",
     "name": "День печати",
     "isPublic": false,
@@ -3554,21 +3478,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2027-05-11",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2027-05-15",
@@ -4758,14 +4667,6 @@
     "isReligious": false
   },
   {
-    "date": "2028-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2028-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -5084,21 +4985,6 @@
     }
   },
   {
-    "date": "2028-04-16",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2028-04-21",
     "name": "День образования кинологических подразделений органов внутренних дел и внутренних войск МВД Республики Беларусь",
     "isPublic": false,
@@ -5113,21 +4999,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2028-04-25",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2028-05-05",
@@ -6341,14 +6212,6 @@
     }
   },
   {
-    "date": "2029-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2029-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -6651,21 +6514,6 @@
     "isReligious": false
   },
   {
-    "date": "2029-04-08",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2029-04-11",
     "name": "Международный день освобождения узников фашистских концлагерей",
     "isPublic": false,
@@ -6680,21 +6528,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2029-04-17",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2029-04-21",
@@ -7924,14 +7757,6 @@
     }
   },
   {
-    "date": "2030-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2030-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -8266,21 +8091,6 @@
     }
   },
   {
-    "date": "2030-04-28",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2030-05-05",
     "name": "День печати",
     "isPublic": false,
@@ -8295,21 +8105,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2030-05-07",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2030-05-08",
@@ -9507,14 +9302,6 @@
     "isReligious": false
   },
   {
-    "date": "2031-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2031-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -9833,21 +9620,6 @@
     }
   },
   {
-    "date": "2031-04-13",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2031-04-21",
     "name": "День образования кинологических подразделений органов внутренних дел и внутренних войск МВД Республики Беларусь",
     "isPublic": false,
@@ -9862,21 +9634,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2031-04-22",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2031-05-05",
@@ -11090,14 +10847,6 @@
     "isReligious": false
   },
   {
-    "date": "2032-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2032-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -11432,21 +11181,6 @@
     }
   },
   {
-    "date": "2032-05-02",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2032-05-05",
     "name": "День печати",
     "isPublic": false,
@@ -11469,21 +11203,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2032-05-11",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2032-05-15",
@@ -12673,14 +12392,6 @@
     "isReligious": false
   },
   {
-    "date": "2033-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2033-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -13012,36 +12723,6 @@
       "isOrthodox": true,
       "offsetDays": -2,
       "description": "Православная Пасха (-2 дн.)"
-    }
-  },
-  {
-    "date": "2033-04-24",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
-    "date": "2033-05-03",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
     }
   },
   {
@@ -14256,14 +13937,6 @@
     "isReligious": false
   },
   {
-    "date": "2034-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2034-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -14566,21 +14239,6 @@
     }
   },
   {
-    "date": "2034-04-09",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2034-04-11",
     "name": "Международный день освобождения узников фашистских концлагерей",
     "isPublic": false,
@@ -14595,21 +14253,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2034-04-18",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2034-04-21",
@@ -15839,14 +15482,6 @@
     }
   },
   {
-    "date": "2035-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2035-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -16181,21 +15816,6 @@
     }
   },
   {
-    "date": "2035-04-29",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2035-05-05",
     "name": "День печати",
     "isPublic": false,
@@ -16218,21 +15838,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2035-05-08",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2035-05-15",
@@ -17422,14 +17027,6 @@
     }
   },
   {
-    "date": "2036-01-07",
-    "name": "Рождество Христово",
-    "isPublic": true,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true
-  },
-  {
     "date": "2036-01-14",
     "name": "Старый Новый год",
     "isPublic": false,
@@ -17748,21 +17345,6 @@
     }
   },
   {
-    "date": "2036-04-20",
-    "name": "Светлое Христово Воскресение (Пасха)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 0,
-      "description": "Православная Пасха"
-    }
-  },
-  {
     "date": "2036-04-21",
     "name": "День образования кинологических подразделений органов внутренних дел и внутренних войск МВД Республики Беларусь",
     "isPublic": false,
@@ -17777,21 +17359,6 @@
     "isWorkdayTransfer": false,
     "isShortened": false,
     "isReligious": false
-  },
-  {
-    "date": "2036-04-29",
-    "name": "Радоница (День особого поминовения усопших)",
-    "isPublic": false,
-    "isWorkdayTransfer": false,
-    "isShortened": false,
-    "isReligious": true,
-    "isFloating": true,
-    "rule": {
-      "type": "easter",
-      "isOrthodox": true,
-      "offsetDays": 9,
-      "description": "Православная Пасха (+9 дн.)"
-    }
   },
   {
     "date": "2036-05-05",
